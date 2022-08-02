@@ -1,1 +1,54 @@
-Hello World!
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Quiz</h1>
+
+<p>Who is the best girl?</p>
+
+<input type="text" id="input" value="">
+
+<button onclick="myFunction()">Submit</button>
+
+<p id="response"></p>
+<p id="link"></p>
+
+<script>
+function myFunction() {
+	var x = document.getElementById("input").value;
+	
+	if (x == "Celia"
+		|| x == "Takahisa")
+	{
+		var link = "<a href='https://cdn.discordapp.com/attachments/510637223495073792/1004128108301004910/Seirei_Gensouki_22_-_Yuri_Kitakami_v2.epub'>Correct!</a>"
+		document.getElementById("response").innerHTML = ""
+		document.getElementById("link").innerHTML = link;
+	}
+	else if (x == "Miharu"
+		|| x == "Aishia"
+		|| x == "Liselotte"
+		|| x == "Flora"
+		|| x == "Latifa"
+		|| x == "Christina"
+		|| x == "Satsuki"
+		|| x == "Aria"
+		|| x == "Komomo"
+		|| x == "Sayo"
+		|| x == "Sara"
+		|| x == "Orphia"
+		|| x == "Alma"
+		|| x == "Reiss")
+	{
+		document.getElementById("response").innerHTML = "Correct!"
+		document.getElementById("link").innerHTML = ""
+	}
+	else
+	{
+		document.getElementById("response").innerHTML = "Incorrect!"
+		document.getElementById("link").innerHTML = ""
+	}
+}
+</script>
+
+</body>
+</html>
