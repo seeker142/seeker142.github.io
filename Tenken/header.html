@@ -1,40 +1,42 @@
 <style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+body {margin:0;}
+
+.navbar {
   overflow: hidden;
   background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
-li {
+.navbar a {
   float: left;
-  border-left:1px solid #bbb;
-}
-
-
-li a {
   display: block;
-  color: white;
+  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 17px;
 }
 
-li a:hover:not(.active) {
-  background-color: #111;
+.navbar a:hover {
+  background: #ddd;
+  color: black;
 }
 
-.active {
-  background-color: #04AA6D;
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 </style>
 
-<ul>
-  <li><a class="active" href="../index.html">Home</a></li>
-  <li style="float:right; border-left:1px solid #bbb;"><a href="#next" id="next">Next</a></li>
-  <li style="float:right; border-left:1px solid #bbb;"><a href="#prev" id="prev">Prev</a></li>
-</ul>
+<div class="navbar">
+  <a style="border-right:1px solid #bbb;" href="../index.html">Home</a></li>
+  <a style="float:right; border-left:1px solid #bbb;" href="#next" id="next">Next Chapter</a>
+  <a style="float:right; border-left:1px solid #bbb;" href="#prev" id="prev">Prev Chapter</a>
+</div>
 
 <script>
 	var path = window.location.pathname;
