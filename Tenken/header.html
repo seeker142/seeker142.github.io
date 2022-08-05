@@ -1,0 +1,55 @@
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  border-left:1px solid #bbb;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+</style>
+
+<ul>
+  <li><a class="active" href="../index.html">Home</a></li>
+  <li style="float:right; border-left:1px solid #bbb;"><a href="#next" id="next">Next</a></li>
+  <li style="float:right; border-left:1px solid #bbb;"><a href="#prev" id="prev">Prev</a></li>
+</ul>
+
+<script>
+	var path = window.location.pathname;
+	var page = path.split("/").pop();
+	var regex = /[0-9]+/;
+	var pagenum = parseInt(regex.exec(page)[0]);
+
+	var prev = document.getElementById("prev");
+	var next = document.getElementById("next");
+	var prevpagenum = (pagenum - 1).toString().padStart(4, '0');
+	var nextpagenum = (pagenum + 1).toString().padStart(4, '0');
+
+	if (pagenum > 704)
+		prev.href = prevpagenum + ".html";
+		
+	if (pagenum < 710)
+		next.href = nextpagenum + ".html";
+</script>
