@@ -3,21 +3,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel='stylesheet' href='../styles.css'/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>
 
-<script>
-$(function () {
-  var includes = $('[data-include]')
-  $.each(includes, function () {
-    var file = $(this).data('include') + '.html'
-    $(this).load(file)
-  })
-})
-</script>
-
-<div data-include="header"></div>
+<div class="navbar">
+  <a style="border-right:1px solid #bbb;" href="../index.html">Home</a></li>
+  <a style="float:right; border-left:1px solid #bbb;" href="0706.html" id="next">Next Chapter</a>
+  <a style="float:right; border-left:1px solid #bbb;" href="0704.html" id="prev">Prev Chapter</a>
+</div>
 
 <div class="main">
 <h2 id="ch705">705: Mordred Battle Starts</h2>
