@@ -4,6 +4,16 @@ body {
 	color: #dddddd;
 }
 
+a:link {
+	color: #6666ff;
+	background-color: transparent;
+}
+
+a:visited {
+	color: #aa66aa;
+	background-color: transparent;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #333;
