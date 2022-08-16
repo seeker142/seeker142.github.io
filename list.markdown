@@ -1,24 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel='stylesheet' href='styles.css'/>
-<title>FranscurryTL Home</title>
-</head>
+---
+layout: page
+title: Chapter List
+permalink: /list/
+---
 
-
-<body>
-
-<h1>Tenken Web Novel</h1>
-
-<p>
-FranscurryTL<br>
-Translator: Seeker142<br>
-Editor: PinkR<br>
-Raw: https://ncode.syosetu.com/n6006cw/<br>
-Chapters that aren't on novelupdates are unedited<br>
-</p>
-
-<p>Chapter List:</p>
 <p>
 <a href="Tenken/0704.html">704</a>
 <a href="Tenken/0705.html">705</a>
@@ -50,6 +35,3 @@ Chapters that aren't on novelupdates are unedited<br>
 <a href="Tenken/0727.html">727</a>
 <a href="Tenken/0728.html">728</a>
 </p>
-
-</body>
-</html>
