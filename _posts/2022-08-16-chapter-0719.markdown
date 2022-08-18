@@ -36,14 +36,14 @@ categories: Tenken
 
 <p>『Well, what's more important is the way to break it.』</p>
 
-<p>As Fran and Sibylla begin clash again, I exchange information with Announcer-san.</p>
+<p>As Fran and Sibylla begin the clash again, I exchange information with Announcer-san.</p>
 
-<p>《Resistant to the divine attribute and blunt damage appears to be lower than the others.》</p>
-<p>『If she has that much resistance skills, would it be a good idea to attack her a lot to make her run out of magic?』</p>
+<p>《Resistance to the divine attribute and blunt damage appears to be lower than the others.》</p>
+<p>『If she has that many resistance skills, would it be a good idea to attack her a lot to make her run out of magic?』</p>
 <p>《Negative. It is hypothesized that the magic consumption is too low. There is also the presence of a magical tool inside her body.》</p>
 <p>『A magical tool?』</p>
 <p>《Details are unknown. It appears the magical tool is sealed inside her body and allows her to draw out its enormous magical power. As a result, she is believed to have enough magic to use several powerful skills in succession.》</p>
-<p>『You mean she's like Fran who can draw out my magical power?』</p>
+<p>『You mean similar to how Fran is able to draw out my magical power?』</p>
 <p>《Affirmative. If the fight continues, there is a 59% chance that our magic will run out first.》</p>
 
 <p>That's a bit of a bad bet……</p>
@@ -54,7 +54,7 @@ categories: Tenken
 
 <p>That's my Announcer-san!</p>
 
-<p>《The first one is to attack by releasing all abilities. By making full use of Potential Release, Sword God Transformation, Divine Manipulation, and Wizard skills, there is an 88% chance that she can be slain, even taking the resistance skills into account.》</p>
+<p>《The first one is to attack by releasing all abilities. By making full use of the Potential Release, Sword God Transformation, Divine Manipulation, and Wizard skills, there is an 88% chance that she can be slain, even taking the resistance skills into account.》</p>
 <p>『No, that's a bit much…… I especially don't want to use Potential Release.』</p>
 
 <p>Even if we could win here, we would go into the semi-finals in shambles. And there is the risk of losing our lives. Is the cradle of time going to help? Not necessarily. If it is activated on Sibylla first, it will not be activated on Fran. There's too much to lose.</p>
@@ -84,7 +84,7 @@ categories: Tenken
 <p>『What is the last option?』</p>
 <p>《The fourth option is to use the blessing of the Chaos Goddess.》</p>
 <p>『Eh? Wasn't that some weird ability that makes you resistant to chaos or something……?』</p>
-<p>《The power of chaos can be detected from within Sibylla. I can certify that at least one of the sources of her power is the power of chaos.》</p>
+<p>《The power of chaos can be detected from within Sibylla. I can certify that at least one of the sources of her strength is the power of chaos.》</p>
 <p>『Really? You mean, she's related to a dungeon? Or does she have some kind of blessing from the Chaos Goddess?』</p>
 <p>《Details are unknown. But if we can convert the blessing's influence over chaos into an attack, we should be able to greatly reduce her power.》</p>
 <p>『Is that possible?』</p>
@@ -137,7 +137,7 @@ categories: Tenken
 <p>However, she was angered at herself for reflexively stepping backwards. Immediately she glared at Fran with an expression more serious than ever.</p>
 
 <p>『Use this power to tear her apart.』</p>
-<p>「Nn. I'll cut her!」</p>
+<p>「Nn. I'll cut you down!」</p>
 <p>「Ha-ha-ha-ha! Just see if you can!」</p>
 
 
