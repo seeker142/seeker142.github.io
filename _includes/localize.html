@@ -1,0 +1,16 @@
+
+<script>		
+function localize() {
+  console.log(localStorage.getItem("localize"));
+  if (localStorage.getItem("localize") === "true") {
+    var element = document.getElementsByClassName("post-content e-content")[0];
+    element.innerHTML = element.innerHTML.replaceAll('Urushi', 'Jet');
+  }
+  else {
+    var element = document.getElementsByClassName("post-content e-content")[0];
+    element.innerHTML = element.innerHTML.replaceAll('Jet', 'Urushi');
+  }
+}
+</script>
+
+<script> localize(); </script>

@@ -38,6 +38,7 @@ comments: true
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+	<p style="color:rgb(24, 24, 24);">View the latest chapters at seeker142.github.io</p>
   </div>
 
   <div class="navbar">
@@ -52,6 +53,8 @@ comments: true
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
+
+  {%- include localize.html -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
