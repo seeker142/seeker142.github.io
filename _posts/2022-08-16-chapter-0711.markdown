@@ -29,44 +29,42 @@ categories: Tenken
 <p>His gait was a little unsteady, but he seemed to be able to move.</p>
 
 <p>There was no frustration or anger on his face. All that was there was a plain smile.</p>
-
-  NOTE: CONTINUE HERE
   
 <p>「I'm sorry about that last part.」</p>
 <p>「The lava? But you would be fine, right?」</p>
 <p>「Yeah, because I used a spell to increase my molten resistance before the match. 
-  Even if I'm unconscious, the magic will last for the duration of the spell. But that was like continuing to attack you even after the match was decided. 
-  It was a breach of manners.」</p>
+  Even if was unconscious, the spell would last for the duration of the spell, but it was like I was continuing to attack you even after the match was decided. 
+  It was a breach of etiquette.」</p>
 
-<p>While saying that, he bows his head deeply. A true man of honor.</p>
+<p>While saying that, he bowed his head deeply. A true man of honor.</p>
 
 <p>「Okay. I accept your apology.」</p>
 <p>「Thank you.」</p>
 <p>「In exchange, I have a few questions.」</p>
-<p>「All right. Anything you want to know.」</p>
+<p>「All right. Anything you want to know?」</p>
 <p>「About that fight. First of all…」</p>
 
-<p>Fran asks Mordred a lot of questions about how the match was played. Mordred gives a straight answer to each of them.</p>
+<p>Fran asked Mordred a bunch of questions about how the match was played. Mordred gave a straight answer to each of them.</p>
 
-<p>He seems to enjoy teaching Fran. This is a man with kindness.</p>
+<p>He seemed to enjoy teaching Fran. What a helpful guy.</p>
 
-<p>It's not every day that you get to talk to a veteran, and this is a great opportunity.</p>
+<p>It's not every day that you get to talk to a veteran, so this is a great opportunity.</p>
 
-<p>He shows us up close what a skilled fighter looks like and reflects on the match with us. It really was a great experience for Fran to fight Mordred here.</p>
+<p>He showed us up close what a skilled fighter looks like and reflected on the match with us. It really was a great experience for Fran to have fought Mordred here.</p>
 
-<p>After a few minutes of reflection on the Fran vs. Mordred match, the conversation now turns to analysis of the other contestants' battles.</p>
+<p>After a few minutes of reflection on the match they had together, the conversation now became an analysis on the other contestants' battles.</p>
 
 <p>「How would you fight Abarb?」</p>
-<p>「If he is an opponent with little information, I'll first keep my distance. I would mainly use molten magic and look for an opening.」</p>
+<p>「If he's an opponent I have little information on, I'll first keep my distance. I would mainly use molten magic and look out for an opening.」</p>
 <p>「I see.」</p>
-<p>「Or, if you are confident, you can bring them into close range. In Fran's case, you would have the advantage in a sword fight. So getting close before he can pull any tricks is a decent idea too.」</p>
+<p>「Or, if you're confident, you can bring him into close range. In your case, you'd have an advantage in a sword fight. So getting close before he can pull off any tricks is a decent idea too.」</p>
 
 <p>Mordred's words have weight behind them, since he was able to catch Fran with his tricks.</p>
 
-<p>「I think he can actually unleash that poison spell with a shorter chant.」</p>
+<p>「I think he can actually cast that poison spell with a shorter chant.」</p>
 <p>「How do you know?」</p>
-<p>「A single time, he fired a poison spell faster than usual. He must have panicked when his opponent rushed forward. It doesn't make sense that someone can cast faster only once on accident.」</p>
-<p>「Is he trying to make the other contestants believe his chant shortening is poor?」</p>
+<p>「One time, he fired off a poison spell faster than usual. He must have panicked when his opponent rushed forward. It doesn't make sense that someone can cast faster only once on accident.」</p>
+<p>「Is he trying to make the other fighters think that he is bad at using chant shortening?」</p>
 <p>「I think so.」</p>
 
 <p>It was interesting to hear Mordred's analysis of the situation.</p>
@@ -83,29 +81,29 @@ categories: Tenken
 <p>「Thanks. I had a good time too.」</p>
 <p>「Yeah.」</p>
 
-<p>Fran was left alone and started to fluff Urushi until someone came up to her again.</p>
+<p>Fran was left alone and started to fluff Urushi until someone else came up to her again.</p>
 
 <p>「Um, Fran-oneesama.」</p>
 <p>「Nn? Kaitly, Nilfe, too.」</p>
 <p>「H-Hello……」</p>
 <p>「Woof!」</p>
 
-<p>Kaitly and Nilfe are a pair of children. They were in the VIP section where the nobles sit, but they must have found Fran and came to the special viewing area.</p>
+<p>Kaitly and Nilfe were a pair of children. They were in the VIP section where the nobles sat, but they must have found Fran and came to the special viewing area.</p>
 
-<p>They had been aware of Fran's presence for a few minutes before, but did not speak to her out of respect to Mordred. Or was it simply because they were afraid of Mordred?</p>
+<p>They had been aware of Fran's presence for a few minutes beforehand, but did not speak to her out of respect for Mordred. Or was it simply because they were afraid of him?</p>
 
-<p>Incidentally, these special viewing seats are the places where the people related to the contestants and the people who have invested in the contestants are allowed to enter.</p>
+<p>Incidentally, the people who are related to or have invested in the contestants are allowed to enter into the special viewing seats</p>
 
-<p>The general spectators are in the unreserved seats. Special viewing seats are for related parties. The VIP seats are for invited guests. That's how they are divided. The people in the VIP seats are treated specially, so they are allowed to come here, too.</p>
+<p>The general spectators are in the unreserved seats, the special viewing seats are for related parties and the VIP seats are for invited guests. That's how they're divided. The people in the VIP seats are treated specially, so they are allowed to come here, too.</p>
 
 <p>「You were talking earlier to Mordred-sama, weren't you?」</p>
 <p>「Nn.」</p>
-<p>「You seemed to be very friendly with them……」</p>
+<p>「You seemed to be very friendly with him……」</p>
 <p>「Nn… fellow adventurers?」</p>
 
 <p>Fran tilts her head questioningly. Indeed, it's a bit hard to describe our relationship with Mordred.</p>
 
-<p>They have not known each other long enough or are close enough in age to be called friends. I guess it's not the same as being rivals either, so the most comfortable way to describe him is as a fellow adventurer.</p>
+<p>They haven't known each other long enough or are close enough in age to be called friends. I guess it's not the same as being rivals either, so the most comfortable way to describe him is as a fellow adventurer.</p>
 
 <p>「You were fighting earlier, and you're okay with it? I mean, both of you.」</p>
 <p>「Why?」</p>
@@ -116,7 +114,7 @@ categories: Tenken
 
 <p>But Kaitly, who has a lot of respect for Fran, thought it was normal. Nilfe was impressed and convinced as well.</p>
 
-<p>「I-I see. That's just a match……」</p>
+<p>「I-I see. It's just a match……」</p>
 <p>「You're amazing!」</p>
 <p>「Nn… win or lose, no hard feelings.」</p>
 
@@ -133,14 +131,14 @@ categories: Tenken
 <p>「But it was great!」</p>
 <p>「Yes, it truly was!」</p>
 
-<p>After the lava from Mordred had covered the inside of the barrier, it seemed that nothing could be seen from the outside.</p>
+<p>After the lava from Mordred had covered the inside of the barrier, it seemed that nothing could be spectated from the outside.</p>
 
-<p>However, the audience seemed to enjoy even that, surprisingly.</p>
+<p>However, the audience seemed to surpsingly enjoy it despite that.</p>
 
-<p>「It was like a glass cup filled with orange-colored lava, a sight I had never seen before. Lava is such a beautiful thing.」</p>
+<p>「It was like a glass cup filled with orange-coloured lava, a sight I had never seen before. Lava is such a beautiful thing.」</p>
 <p>「It was pretty.」</p>
 
-<p>Indeed, it was an unusual sight. The heat was blocked out by the barrier, so the only thing that remained was the beauty.</p>
+<p>Indeed, it was an unusual sight. The heat was blocked by the barrier, so the only thing that remained was the beauty.</p>
 
 <p>It was also a good thing that the show ended before the audience got bored. It was only a few minutes at most.</p>
 
@@ -150,18 +148,18 @@ categories: Tenken
 <p>「Good luck.」</p>
 <p>「Thanks!」</p>
 
-<p>Kaitly didn't seem to be afraid, in fact, she was even more motivated. Maybe it was the 'Fran effect', or maybe it was her original nature… Perhaps she would become a famous adventurer in the future.</p>
+<p>Kaitly didn't seem to be afraid, in fact, she was even more motivated. Maybe it was the 'Fran effect', or maybe it was her original nature… Perhaps she'll become a famous adventurer in the future.</p>
 
-<p>Later, Fran was invited to watch the match with the two. The little ones listened to Fran's commentary with serious faces.</p>
+<p>Later, Fran was invited to watch the match with the two. The little ones listened to Fran's commentary with serious looking faces.</p>
 
 <p>Nilfe also seemed to be interested in the match and nodded his head from time to time. Fran wasn't amazing at giving good explanations, but they seemed to have learned a lot.</p>
 
 <p>「It's unfortunate what happened to your friend, Charlotte-san.」</p>
 <p>「Nn. But she put up a better fight than last year.」</p>
 
-<p>The highlight of the tournament was the match between Elsa and Charlotte. It was the same card as last year and the flow of the fight was similar to last year too.</p>
+<p>The highlight of the tournament was the match between Elsa and Charlotte. It was the same card as last year and the flow of the fight was similar to last year as well.</p>
 
-<p>The main difference was that Charlotte fought longer. Her moves were much better. However, it seemed that she had not yet acquired enough offensive power to break through Elsa's defense, and in the end, she was thrown out of the ring and lost.</p>
+<p>The main difference was that Charlotte fought longer and her moves were much better. However, it seemed like she hasn't yet acquired enough offensive power to break through Elsa's defense, and in the end, she was thrown out of the ring and lost.</p>
 
 <p>「Onee-sama, please do your best in the next match, too. I'll be rooting for you! After all, the next guy is one from that pair we saw in the dungeon!」</p>
 <p>「Nn… I'll win.」</p>
