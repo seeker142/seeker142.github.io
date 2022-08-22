@@ -15,6 +15,7 @@ if (typeof(Storage) === "undefined") {
 </script>
 
 <div class="post-content e-content">
+<p>Master: A man from Japan that was reincarnated as a sword. Named by Fran.</p>
 <p>Urushi: A wolf familiar summoned by Master. Skilled in the use of dark magic.</p>
 </div>
 
@@ -36,18 +37,4 @@ function localizeToggle()
 }
 </script>
 
-<script>		
-function localize() {
-  console.log(localStorage.getItem("localize"));
-  if (localStorage.getItem("localize") === "true") {
-    var element = document.getElementsByClassName("post-content e-content")[0];
-    element.innerHTML = element.innerHTML.replaceAll('Urushi', 'Jet');
-  }
-  else {
-    var element = document.getElementsByClassName("post-content e-content")[0];
-    element.innerHTML = element.innerHTML.replaceAll('Jet', 'Urushi');
-  }
-}
-</script>
-
-<script> localize(); </script>
+{%- include localize.html -%}

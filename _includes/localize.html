@@ -4,11 +4,13 @@ function localize() {
   console.log(localStorage.getItem("localize"));
   if (localStorage.getItem("localize") === "true") {
     var element = document.getElementsByClassName("post-content e-content")[0];
-    element.innerHTML = element.innerHTML.replaceAll('Urushi', 'Jet');
+    element.innerHTML = element.innerHTML.replace(/Urushi\b/g, 'Jet');
+    element.innerHTML = element.innerHTML.replace(/Master\b/g, 'Teacher');
   }
   else {
     var element = document.getElementsByClassName("post-content e-content")[0];
-    element.innerHTML = element.innerHTML.replaceAll('Jet', 'Urushi');
+    element.innerHTML = element.innerHTML.replace(/Jet\b/g, 'Urushi');
+    element.innerHTML = element.innerHTML.replace(/Teacher\b/g, 'Master');
   }
 }
 </script>
