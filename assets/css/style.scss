@@ -1,0 +1,8 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+a:visited { color: #aa66aa; }
