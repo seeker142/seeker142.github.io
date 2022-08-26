@@ -10,7 +10,7 @@ categories: Tenken
 <p>『Oh! Announcer-san! Seriously?!』</p>
 <p>《Affirmative.》</p>
 
-<pI suddenly heard Announcer-san's voice. How reliable it is!</p>
+<p>I suddenly heard Announcer-san's voice. How reliable it is!</p>
 
 <p>It seems like Announcer-san's sharp eyes of observation had discovered something.</p>
 
@@ -112,7 +112,7 @@ categories: Tenken
 <p>『Is this……?』</p>
 <p>《Yes.》</p>
 
-<p>My consciousness touched something warm. I see, it seemd to be similar to the power that the Chaos Goddess was emitting. This must be her blessing.</p>
+<p>My consciousness touched something warm. I see, it seemed to be similar to the power that the Chaos Goddess was emitting. This must be her blessing.</p>
 
 <p>I draw out its power consciously.</p>
 
