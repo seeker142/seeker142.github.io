@@ -10,33 +10,33 @@ categories: Tenken
 <p>『Oh! Announcer-san! Seriously?!』</p>
 <p>《Affirmative.》</p>
 
-<p>Suddenly, I heard Announcer-san's voice. How reliable it is!</p>
+<pI suddenly heard Announcer-san's voice. How reliable it is!</p>
 
-<p>It seems that Announcer-san's sharp eyes of observation had discovered something.</p>
+<p>It seems like Announcer-san's sharp eyes of observation had discovered something.</p>
 
 <p>《Based on our observations and measurements, I believe that the individual named Sibylla possesses an estimated 27 different resistance skills.》</p>
 <p>『27? A whole 27 resistance skills? Really?』</p>
-<p>《Affirmative. All of them are at a high level, and combined with pain nullification, instant regeneration, etc., this is the true nature of the individual named Sibylla's defensive abilities.》</p>
+<p>《Affirmative. All of them are at a high level, and combined with pain nullification, instant regeneration, etc. This is the true defensive nature of the individual named Sibylla's abilities.》</p>
 
 <p>To think that the first possibility I eliminated was actually the correct one.</p>
 
-<p>In other words, it is not a single super strong damage reduction skill, but just a myriad of resistance skills?</p>
+<p>In other words, it's not a single super strong damage reduction skill, but just a myriad of resistance skills?</p>
 
 <p>How is that possible? I know how to get resistance skills. Everyone in this world should understand how.</p>
 
-<p>It is very simple. All you have to do is to take attacks you want to gain resistance to for a long time. But practically speaking, no one possesses a huge number of resistance skills. Even among high-level adventurers, I have never seen anyone who possesses several of them at a high level.</p>
+<p>It is very simple. All you have to do is to take attacks you want to gain resistance to for a long time. But practically speaking, no one possesses a huge number of resistance skills. Even among high-level adventurers, I have never seen anyone who had several of them at a high level.</p>
 
-<p>The reason is obvious. The road to getting resistance skills is paved with suffering.</p>
+<p>The reason was obvious. The road to getting resistance skills is paved with suffering.</p>
 
-<p>If you want to increase the level of your resistance, you have to increase the level of the attack as well. It will never get easier no matter how long you go at it.</p>
+<p>If you want to increase the level of your resistance, the attacks you'd have to go against will have to increase as well. It will never get easier no matter how long you go at it.</p>
 
-<p>How much time and anguish would it take to reach the level of Sibylla?</p>
+<p>How much time and anguish would it take to reach Sibylla's level?</p>
 
-<p>For decades on end, you would have to be subjected to all kinds of torture day in and day out. I think it would be impossible unless you live a life like that? No, it should still be impossible. As the level of resistance skill gets higher and higher, it will be more and more difficult to find an appropriate attacker.</p>
+<p>For decades on end, you'd have to be subjected to all kinds of torture day in and day out. I think it would be impossible unless you live a life like that? No, it should still be impossible. As the level of resistance skill gets higher and higher, it would be more and more difficult to find someone who could match that resistance with their attacks.</p>
 
 <p>『Well, what's more important is the way to break it.』</p>
 
-<p>As Fran and Sibylla begin the clash again, I exchange information with Announcer-san.</p>
+<p>As Fran and Sibylla begin the clash again, I exchanged information with Announcer-san.</p>
 
 <p>《Resistance to the divine attribute and blunt damage appears to be lower than the others.》</p>
 <p>『If she has that many resistance skills, would it be a good idea to attack her a lot to make her run out of magic?』</p>
@@ -57,7 +57,7 @@ categories: Tenken
 <p>《The first one is to attack by releasing all abilities. By making full use of the Potential Release, Sword God Transformation, Divine Manipulation, and Wizard skills, there is an 88% chance that she can be slain, even taking the resistance skills into account.》</p>
 <p>『No, that's a bit much…… I especially don't want to use Potential Release.』</p>
 
-<p>Even if we could win here, we would go into the semi-finals in shambles. And there is the risk of losing our lives. Is the cradle of time going to help? Not necessarily. If it is activated on Sibylla first, it will not be activated on Fran. There's too much to lose.</p>
+<p>Even if we could win here, we would go into the semi-finals in shambles. And there is the risk of losing our lives. Is the cradle of time going to help? Not necessarily. If activates on Sibylla first, it won't be on Fran. There's too much to lose.</p>
 
 <p>《The second method is to use teleportation to transport Sibylla far away and leave her behind. The rules have been revised since last year: if a contestant stays outside the barrier for more than 3 minutes, they are considered to have abandoned the match.》</p>
 
@@ -77,16 +77,16 @@ categories: Tenken
 <p>『Such as?』</p>
 <p>《Attributes we have not yet used for attacks. For example, by putting points into moonlight magic, necromancy magic, etc., we may find an element that Sibylla has low or nonexistent resistances to.》</p>
 
-<p>Well, that makes sense, but it's not certain to work…… Since we don't know the skill composition of our opponent, we can't be sure that we can win by strengthening a particular skill.</p>
+<p>Well, that makes sense, but there's no guarantee that it'll work…… Since we don't know the skill composition of our opponent, we can't be sure that we can win by strengthening a particular skill.</p>
 
 <p>However, it is the most reasonable option.</p>
 
 <p>『What is the last option?』</p>
 <p>《The fourth option is to use the blessing of the Chaos Goddess.》</p>
 <p>『Eh? Wasn't that some weird ability that makes you resistant to chaos or something……?』</p>
-<p>《The power of chaos can be detected from within Sibylla. I can certify that at least one of the sources of her strength is the power of chaos.》</p>
+<p>《The power of chaos has been detected from within Sibylla. I can certify that at least one of the sources of her strength is the power of chaos.》</p>
 <p>『Really? You mean, she's related to a dungeon? Or does she have some kind of blessing from the Chaos Goddess?』</p>
-<p>《Details are unknown. But if we can convert the blessing's influence over chaos into an attack, we should be able to greatly reduce her power.》</p>
+<p>《Details are unknown, but if we can convert the blessing's influence over chaos into an attack, we should be able to greatly reduce her power.》</p>
 <p>『Is that possible?』</p>
 <p>《Affirmative. A blessing is not a definitive power, but rather a well of possibilities. It can have various effects depending on the will of the bearer. First, you must focus your awareness on the blessing.》</p>
 
@@ -100,9 +100,9 @@ categories: Tenken
 
 <p>It's a little scary.</p>
 
-<p>Because there are so many things sleeping deep inside me. Fenrir and the evil god. The memories of the time when they ran amok in the beast country come back to haunt me.</p>
+<p>Because there are so many things sleeping deep inside me. Fenrir and the evil god. The memories of the time when they ran amok in the beast country came back to haunt me.</p>
 
-<p>I know that was the effect of the Mad Oni skill, but I don't know what will happen if I carelessly touch the things that are sealed away.</p>
+<p>I know that was the effect of the Mad Oni skill, but I don't know what will happen if I carelessly touch the things that were sealed away.</p>
 
 <p>《Don't worry. I'm here.》</p>
 <p>『Announcer-san……』</p>
@@ -112,7 +112,7 @@ categories: Tenken
 <p>『Is this……?』</p>
 <p>《Yes.》</p>
 
-<p>My consciousness touches something warm. I see, it seems to be similar to the power that the Chaos Goddess was emitting. This must be her blessing.</p>
+<p>My consciousness touched something warm. I see, it seemd to be similar to the power that the Chaos Goddess was emitting. This must be her blessing.</p>
 
 <p>I draw out its power consciously.</p>
 
@@ -132,7 +132,7 @@ categories: Tenken
 
 <p>「Ha-ha-ha! What the hell? You've suddenly become more intimidating!」</p>
 
-<p>She must have sensed that I was a danger to her, with her keen intuition as usual. For the first time since the beginning of this battle, Sibylla has voluntarily moved away from us.</p>
+<p>She must have sensed that I was a danger to her, with her keen intuition as usual. For the first time since the beginning of this battle, Sibylla voluntarily moved away from us.</p>
 
 <p>However, she was angered at herself for reflexively stepping backwards. Immediately she glared at Fran with an expression more serious than ever.</p>
 
