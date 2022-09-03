@@ -52,4 +52,7 @@ permalink: /Tenken/
 <a href="0740.html">740</a>
 <a href="0741.html">741</a>
 <a href="0742.html">742</a>
+<a href="0743.html">743</a>
+<a href="0744.html">744</a>
+<a href="0745.html">745</a>
 </p>
