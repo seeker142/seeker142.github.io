@@ -17,12 +17,12 @@ editor: PinkR
 
 <p>We're sitting in our special seats again today, spectating them.</p>
 
-<p>Fran is sitting with Urushi in front, hugging him from behind and resting her chin on his head, enjoying his fluffiness.</p>
+<p>Fran is sitting with Urushi in front, while hugging him from behind and resting her chin on his head, enjoying his fluffiness.</p>
 
 <p>『Now, what kind of match are we going to see here?』</p>
 <p>「Nn.」</p>
 
-<p>I appraise Hilt, as she entered into the arena. She is strong as expected.</p>
+<p>I appraised Hilt, as she entered into the arena. She was strong as we expected.</p>
 
 <br>
 <p>Name: Hiltoria Age: 23</p>
@@ -42,7 +42,7 @@ editor: PinkR
  <p>Spiral Piercing Knuckles, Tenma<sup>[<a href="#ref1">1</a>]</sup> Silk Robe, Tenma Silk Garments, Water Dragon Bone Wargreaves, Bracelet of Magic Control, Pendant of Regeneration</p>
 <br>
 
-<p>Her stats are strong, and so are her skills. Since her Dimitris Style is maxed out, she should be able to the use the same moves as Dimitris himself. 
+<p>Her stats are strong, and so are her skills. Since her Dimitris Style is maxed out, she should be able to use the same moves as Dimitris himself. 
   I'm sure she'll be able to use whatever secret arts the style has.</p>
 
 <p>It would be like a higher level version of the Colbert we fought last year in his unsealed state.</p>
@@ -73,7 +73,7 @@ editor: PinkR
 <p>「Ladur.」</p>
 
 <p>Fran actually remembered his name, which is a rare occurrence. He's that old wizard from Ulmutt who had tea with Fran once. 
-  He's C rank, but is as good as a B and was once in a party with Aurel apparently.</p>
+  He's C rank, but is as good as a B and was apparently once in a party with Aurel.</p>
 
 <p>I couldn't watch his match last year, but I'm pretty sure he was defeated by Cruz, who was supposed to be a lower ranked fighter. 
   He was probably disoriented by his speed and was hit by a big move before he could do anything.</p>
@@ -136,8 +136,8 @@ editor: PinkR
 
 <p>Felmus, the last one on the list, will bring out the best in Neidhart. He is a former rank A adventurer who fought with us last year in the match for third place.</p>
 
-<p>His ever-changing strategy using threads really made us suffer and even now, he uses strings to block his opponent's movements 
-  and his fists to settle the match. To the spectators, Felmus' opponents seems to have suddenly stopped moving for no reason.</p>
+<p>His ever-changing strategy of using threads really made us suffer and even now, he is using strings to block his opponent's movements 
+  and fists to settle the match. To the spectators, Felmus' opponents seems to have suddenly stopped moving for no reason.</p>
 
 <p>Last time we managed to win the fight by overpowering him with hard hitting moves, but I am not sure if we'll win the next time we fight.</p>
 

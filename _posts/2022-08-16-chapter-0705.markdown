@@ -12,7 +12,7 @@ editor: PinkR
 <p>『Well, here we are! The second round of the tournament with a hot card ready from the first match! Our fighter is the B rank adventurer, 
   Mordred! A seasoned fighter who is skilled in the use of spears and molten magic!』</p>
 
-<p>Fran went up on the stage to the cheers of the crowd as usual.</p>
+<p>The cheers of the crowds erupted as per usual when Fran walked upon the stage.</p>
 
 <p>（Master. I'll start by myself.）</p>
 <p>『Yeah, I know… I won't touch him until you ask me to or until we're about to lose. Urushi, you okay with that?』</p>
