@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 728"
 permalink: Tenken/0728.html
 categories: Tenken
+chapter: 728
+exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch728">728: Diaz Battle Ends</h2>
  

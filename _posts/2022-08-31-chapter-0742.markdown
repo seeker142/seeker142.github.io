@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 742"
 permalink: Tenken/0742.html
 categories: Tenken
+chapter: 742
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch742">742: Their Goal</h2>
 

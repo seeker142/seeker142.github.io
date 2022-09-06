@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 714"
 permalink: Tenken/0714.html
 categories: Tenken
+chapter: 714
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch714">714: Warriors Climbing up the Ranks</h2>
 <p>『Fran, you did a great job!』</p>

@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 722"
 permalink: Tenken/0722.html
 categories: Tenken
+chapter: 722
+exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch722">722: Side - Sibylla, Part 2</h2>
 

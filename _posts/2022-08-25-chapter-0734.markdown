@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 734"
 permalink: Tenken/0734.html
 categories: Tenken
+chapter: 734
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch734">734: Trial Slice</h2>
 

@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 744"
 permalink: Tenken/0744.html
 categories: Tenken
+chapter: 744
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch744">744: Looking for Kaitly and Nilfe</h2>
 

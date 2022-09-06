@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 730"
 permalink: Tenken/0730.html
 categories: Tenken
+chapter: 730
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch730">730: Diaz's Smile</h2>
 

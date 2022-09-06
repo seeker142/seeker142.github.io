@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 708"
 permalink: Tenken/0708.html
 categories: Tenken
+chapter: 708
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch708">708: Victory and Reflection</h2>
 

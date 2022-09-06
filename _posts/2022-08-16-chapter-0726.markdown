@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 726"
 permalink: Tenken/0726.html
 categories: Tenken
+chapter: 726
+exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch726">726: Initial Exchange of Blows</h2>
 

@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 735"
 permalink: Tenken/0735.html
 categories: Tenken
+chapter: 735
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch735">735: Mummy King</h2>
 

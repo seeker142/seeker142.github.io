@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 743"
 permalink: Tenken/0743.html
 categories: Tenken
+chapter: 743
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch743">743: To The Rescue</h2>
 

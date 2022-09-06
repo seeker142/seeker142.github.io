@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 739"
 permalink: Tenken/0739.html
 categories: Tenken
+chapter: 739
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch739">739: The Decisive Blow</h2>
 

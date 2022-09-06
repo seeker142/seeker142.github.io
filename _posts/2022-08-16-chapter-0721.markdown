@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 721"
 permalink: Tenken/0721.html
 categories: Tenken
+chapter: 721
+exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch721">721: Side - Sibylla, Part 1</h2>
 

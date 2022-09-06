@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 733"
 permalink: Tenken/0733.html
 categories: Tenken
+chapter: 733
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch733">733: Winning With Your Head</h2>
 

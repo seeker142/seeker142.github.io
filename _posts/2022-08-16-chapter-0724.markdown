@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 724"
 permalink: Tenken/0724.html
 categories: Tenken
+chapter: 724
+exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch724">724: Felmus vs Neidhart</h2>
 <p>『Well here comes the final match of the day! Both contestants are facing each other in the arena, but who will remain standing when it's all over? Neidhart, the mercenary! Will his twin blades reap the lives of his opponent today? Against him is Felmus, the 'Dragon Hunter', a former rank A adventurer, who has also won his way up the tournament with overwhelming strength! Will his ever-changing threads be able to capture his prey?』</p>

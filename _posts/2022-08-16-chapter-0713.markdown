@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 713"
 permalink: Tenken/0713.html
 categories: Tenken
+chapter: 713
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch713">713: Biscot Match Concludes</h2>
 

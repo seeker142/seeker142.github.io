@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 736"
 permalink: Tenken/0736.html
 categories: Tenken
+chapter: 736
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch736">736: Day of the Finals</h2>
 

@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 729"
 permalink: Tenken/0729.html
 categories: Tenken
+chapter: 729
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch729">729: Side - Martial Arts Tournament, Behind the Scenes</h2>
 <p>Side - A Certain Group of Three, Part 4<br></p>

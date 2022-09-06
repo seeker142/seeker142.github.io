@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 719"
 permalink: Tenken/0719.html
 categories: Tenken
+chapter: 719
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch719">719: A Portion of Sibylla's Power</h2>
 

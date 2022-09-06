@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 737"
 permalink: Tenken/0737.html
 categories: Tenken
+chapter: 737
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch737">737: Simultaneous Assault</h2>
 

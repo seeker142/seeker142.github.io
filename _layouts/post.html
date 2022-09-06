@@ -25,6 +25,12 @@ comments: true
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
+      {%- if page.translator -%}
+            <span><em>Translated by {{ page.translator }}</em></span>
+      {%- endif -%}</p>
+      {%- if page.editor -%}
+            <span><em>Edited by {{ page.editor }}</em></span>
+      {%- endif -%}</p>	  
   </header>
 
   <div class="navbar">

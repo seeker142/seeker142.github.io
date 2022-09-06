@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 745"
 permalink: Tenken/0745.html
 categories: Tenken
+chapter: 745
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch745">745: Side - Black Skeleton Corps</h2>
 <p>「Damn! They still aren't answering my summons! Not only the Mummy King, but also the ghouls!」</p>

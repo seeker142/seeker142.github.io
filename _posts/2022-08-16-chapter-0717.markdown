@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 717"
 permalink: Tenken/0717.html
 categories: Tenken
+chapter: 717
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch717">717: Beyond Heavenly Judgment</h2>
 

@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 727"
 permalink: Tenken/0727.html
 categories: Tenken
+chapter: 727
+exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch727">727: A Serious Diaz</h2>
 <p>In addition to her original sluggishness, Fran's movements were visibly deteriorating due to the recoil from the forced removal of her awakening.</p>

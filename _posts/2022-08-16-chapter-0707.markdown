@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 707"
 permalink: Tenken/0707.html
 categories: Tenken
+chapter: 707
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch707">707: Mordred Match Concludes</h2>
 

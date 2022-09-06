@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 715"
 permalink: Tenken/0715.html
 categories: Tenken
+chapter: 715
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch715">715: Neidhart and Elsa</h2>
 <p>Hilt and Fran's gazes collide.</p>

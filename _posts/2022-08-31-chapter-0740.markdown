@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 740"
 permalink: Tenken/0740.html
 categories: Tenken
+chapter: 740
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch740">740: In the Infirmary</h2>
 

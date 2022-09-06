@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 731"
 permalink: Tenken/0731.html
 categories: Tenken
+chapter: 731
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch731">731: Hilt vs Neidhart</h2>
 

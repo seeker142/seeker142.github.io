@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 711"
 permalink: Tenken/0711.html
 categories: Tenken
+chapter: 711
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch711">711: Spectating the match with Mordred</h2>
 <p>Colbert seemed to be OK, so we decided to go back to spectating the fights. A B rank adventurer named Abarb was currently fighting a student of the Dimitris school.</p>

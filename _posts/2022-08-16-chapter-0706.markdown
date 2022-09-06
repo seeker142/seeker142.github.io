@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 706"
 permalink: Tenken/0706.html
 categories: Tenken
+chapter: 706
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch706">706: Experienced Matchup</h2>
 <p>「This is the new trump card I've been preparing!」</p>

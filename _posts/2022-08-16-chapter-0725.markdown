@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 725"
 permalink: Tenken/0725.html
 categories: Tenken
+chapter: 725
+exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch725">725: Effects of Labor Shortage</h2>
 <p>「What the hell!」</p>

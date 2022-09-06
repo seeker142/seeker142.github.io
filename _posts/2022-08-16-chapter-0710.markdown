@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 710"
 permalink: Tenken/0710.html
 categories: Tenken
+chapter: 710
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch710">710: Colbert and Hilt</h2>
 

@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 716"
 permalink: Tenken/0716.html
 categories: Tenken
+chapter: 716
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch716">716: Sibylla Battle, Initial Test</h2>
 

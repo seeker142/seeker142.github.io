@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 720"
 permalink: Tenken/0720.html
 categories: Tenken
+chapter: 720
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch720">720: Sibylla Battle Ends</h2>
 

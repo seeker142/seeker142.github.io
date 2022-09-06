@@ -3,7 +3,10 @@ layout: post
 title:  "Tenken Chapter 738"
 permalink: Tenken/0738.html
 categories: Tenken
+chapter: 738
 exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch738">738: Dimitris Style Secret Arts</h2>
 

@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 704"
 permalink: Tenken/0704.html
 categories: Tenken
+chapter: 704
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch704">704: Powerful Opponents</h2>
 

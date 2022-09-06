@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 705"
 permalink: Tenken/0705.html
 categories: Tenken
+chapter: 705
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch705">705: Mordred Match Begins</h2>
 <p>『Well, here we are! The second round of the tournament with a hot card ready from the first match! Our fighter is the B rank adventurer, 

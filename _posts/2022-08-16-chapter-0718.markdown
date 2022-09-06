@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 718"
 permalink: Tenken/0718.html
 categories: Tenken
+chapter: 718
+exclude: true
+translator: Seeker
+editor: PinkR
 ---
 <h2 id="ch718">718: She who Devours</h2>
 <p>「Taaaaah!」</p>

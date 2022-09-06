@@ -3,6 +3,10 @@ layout: post
 title:  "Tenken Chapter 723"
 permalink: Tenken/0723.html
 categories: Tenken
+chapter: 723
+exclude: true
+translator: Seeker
+editor: 
 ---
 <h2 id="ch723">723: Quarterfinals</h2>
 
