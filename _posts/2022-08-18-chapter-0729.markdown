@@ -36,7 +36,7 @@ editor:
 <p>「You'll have to put up with drinking with me while you're in town. So, Klikka, where did you get this information?」</p>
 <p>「From <em>him</em>. And since there's no reason for him to betray us at this point, I believe there is no mistake.」</p>
 <p>「I see, so the information came from him. Then we can trust it…… But depending on his movements, the timing of our escape may change.」</p>
-<p>「Yes. In the worst case, we may have to head north and pass through the border instead of taking the boat from Barbora.」</p>
+<p>「Yes. In the worst case, we may have to head north and pass through the border instead of taking the boat from Bulbola.」</p>
 <p>「Are you sure about that? It's not so easy to get past Phyllius's territory, is it?」</p>
 <p>「We can use my family's merchants. They're one of the few we have outside the country.」</p>
 <p>「No, I want to keep your family out of this as much as possible. They're one of our supporters.」</p>

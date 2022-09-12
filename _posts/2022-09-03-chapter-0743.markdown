@@ -26,7 +26,7 @@ editor:
 
 <p>「What? Oh, Fran-san's master!」</p>
 
-<p>Crap, I was still in a bit of a panic because of the impromptu encounter with Colbert. We had met her many times at Barbora and Ulmutt, but I was in a sword state then.</p>
+<p>Crap, I was still in a bit of a panic because of the impromptu encounter with Colbert. We had met her many times at Bulbola and Ulmutt, but I was in a sword state then.</p>
 
 <p>To her, I must have looked like a weirdo she wasn't familiar with. Thankfully, she was able to remember me quickly.</p>
 
@@ -113,11 +113,11 @@ editor:
 
 <p>「Is that Rashid?」</p>
 <p>「Colbert, you know him?」</p>
-<p>「Yeah, he's a pretty well known guy in Barbora. But why is he fighting other adventurers?」</p>
+<p>「Yeah, he's a pretty well known guy in Bulbola. But why is he fighting other adventurers?」</p>
 
 <p>Colbert was right. Near the entrance to the arena, Rashid and a few others were engaged in a fierce battle against the adventurers.</p>
 
-<p>Fran had completely forgotten him, but we have met before; he was one of the rookies who, along with Naria and her friends, was beaten by Fran in a mock battle in Barbora. We did not see each other this time, but he must have been in Ulmutt with Naria.</p>
+<p>Fran had completely forgotten him, but we have met before; he was one of the rookies who, along with Naria and her friends, was beaten by Fran in a mock battle in Bulbola. We did not see each other this time, but he must have been in Ulmutt with Naria.</p>
 
 <p>I recognized a few other faces too. Two of them were other victims of that mock battle along with Rashid.</p>
 
