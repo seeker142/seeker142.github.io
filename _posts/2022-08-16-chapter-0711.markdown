@@ -12,7 +12,7 @@ editor: PinkR
 <p>Colbert seemed to be OK, so we decided to go back to spectating the fights. A B rank adventurer named Abarb was currently fighting a student of the Dimitris school.</p>
 
 <p>Abarb was apparently a magical swordsman who made use of scimitars in close combat, and water and poison magic at long range.</p>
-  
+
 <p>According to the commentators, he was a disciple of Eiworth. I see, his fighting style is particularly nasty and he has a personality to match.</p>
 
 <p>His opponent is unable to move thanks to his poison, and he's chipping away at him with weak attacks. He's formidable, that's for sure.</p>
@@ -33,7 +33,7 @@ editor: PinkR
 <p>His gait was a little unsteady, but he seemed to be able to move.</p>
 
 <p>There was no frustration or anger on his face. All that was there was a plain smile.</p>
-  
+
 <p>「I'm sorry about that last part.」</p>
 <p>「The lava? But you would be fine, right?」</p>
 <p>「Yeah, because I used a spell to increase my molten resistance before the match. 

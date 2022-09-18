@@ -39,7 +39,7 @@ editor: PinkR
 <p>Title</p>
 <p>Orc Killer, Kobold Killer, Giant Slayer, Heir to the Dimitris School, Bludgeoner, Destroyer of Monsters, Rank A Adventurer</p>
 <p>Equipment</p>
- <p>Spiral Piercing Knuckles, Tenma<sup>[<a href="#ref1">1</a>]</sup> Silk Robe, Tenma Silk Garments, Water Dragon Bone Wargreaves, Bracelet of Magic Control, Pendant of Regeneration</p>
+<p>Spiral Piercing Knuckles, Tenma<sup>[<a href="#ref1">1</a>]</sup> Silk Robe, Tenma Silk Garments, Water Dragon Bone Wargreaves, Bracelet of Magic Control, Pendant of Regeneration</p>
 <br>
 
 <p>Her stats are strong, and so are her skills. Since her Dimitris Style is maxed out, she should be able to use the same moves as Dimitris himself. 
@@ -159,7 +159,7 @@ editor: PinkR
 
 
 
-  
+
 <br>
 <p>===== (Translation notes)</p>
 <p id="ref1"> [1] Tenma - Demon of the sixth heaven in the realm of desire who tries to prevent people from doing good</p>

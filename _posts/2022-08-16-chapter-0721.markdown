@@ -13,7 +13,7 @@ editor:
 <p>I don't mean to boast about my misfortune, but I think there are not so many people who lead a life as full of oddities as mine.</p>
 
 <p>Wait, can I even be considered a "person" in the first place?</p>
- 
+
 <p>I was born, it seems, several decades ago. Not that it means much to me considering how I don't remember living that long myself.</p>
 
 <p>My birthplace was an island floating in the sky, the site of a former secret experimental facility in the Kingdom of Raydoss.</p>
@@ -74,7 +74,7 @@ editor:
 
 <p>In fact, it was only after this event that my memory became clear.</p>
 
- <br>
+<br>
 <p>I felt a tremendous, intense pain that tortured my whole body.</p>
 
 <p>That was what woke me up.</p>

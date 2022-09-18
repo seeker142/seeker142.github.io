@@ -9,7 +9,7 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch728">728: Diaz Battle Ends</h2>
- 
+
 <p>The rampaging white lightning stormed the inside of the barrier with tremendous flashes of light.</p>
 
 <p>I am sure Diaz is feeling a super destructive power comparable to the simultaneous black & white lightning that defeated Felmus last year.</p>
