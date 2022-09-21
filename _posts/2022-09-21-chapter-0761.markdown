@@ -58,7 +58,7 @@ editor:
 <p>「?」</p>
 <p>「There are equally large ports on every side of Gordicia: North, South, East, and West.」</p>
 
-<p>These were four huge ports funded and built by all the nations of the world. They were treated as a common properties, used for the defense of the world, and placed under the joint control of all nations.</p>
+<p>These were four huge ports funded and built by all the nations of the world. They were treated as common properties, used for the defense of the world, and placed under the joint control of all nations.</p>
 
 <p>He said they made an organization to manage the facilities of Gordicia, but it was apparently not supposed to be beholden to any country.</p>
 

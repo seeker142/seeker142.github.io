@@ -67,12 +67,12 @@ editor:
 <p>「First, the location of Trismegistus.」</p>
 <p>「What?」</p>
 <p>「I want to meet the legendary alchemist. I also need directions to a village called Castel and the locations of two rank S――」</p>
-<p>「W-Wait a minute! One at a time! So what was that about Trismegistus?」</p>
+<p>「H-Hold your horses there! One at a time! So what was that about Trismegistus?」</p>
 
 <p>William interrupted Fran with a puzzled look.</p>
 
 <p>「You really want to see Trismegistus?」</p>
-<p>「Nn. Weena Rhyn said he is still deep in this continent, fighting.」</p>
+<p>「Nn. Weena Rhyn said he is still deep in this continent, continuing to fight.」</p>
 <p>「That's why she sent this letter……」</p>
 <p>「If I go deep into the continent, will I be able to see him?」</p>
 <p>「Hmm……」</p>
