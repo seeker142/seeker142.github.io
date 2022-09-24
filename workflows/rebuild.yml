@@ -1,0 +1,20 @@
+# File: .github/workflows/rebuild.yml
+name: Rebuild
+
+on:
+  schedule:
+    - cron:  '0 6 * * *' # Runs every day at 6am
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call GitHub pages build endpoint
+        run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+            --header "Authorization: Bearer $PAGES_ACCESS_TOKEN"
+        env:
+          # Create a token at https://github.com/settings/tokens
+          # since you cannot trigger a new build with the regular token.
+          PAGES_ACCESS_TOKEN: ${{ secrets.PAGES_ACCESS_TOKEN }}
