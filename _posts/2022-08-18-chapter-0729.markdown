@@ -60,10 +60,10 @@ editor:
 <br>Side - ????<br>
 
 <p>「Hee-hee-hee. The festivities in this town are almost over…… How are things going on your side?」</p>
-<p>「Mmm. The four potential targets were Diaz, the guildmaster, Wijat Aurel, the leader of the beastman, Felmus, a former rank A adventurer, and finally Dimitris, a rank S adventurer……」</p>
+<p>「Mmm. The four potential targets were Diaz, the guildmaster, Wijat Aurel, the leader of the beastman, Felmus, a former Rank A adventurer, and finally Dimitris, a Rank S adventurer……」</p>
 <p>「Were you able to narrow it down?」</p>
 <p>「Aurel and Dimitris.」</p>
-<p>「Oh dear! You intend to mess with a rank S adventurer!」</p>
+<p>「Oh dear! You intend to mess with a Rank S adventurer!」</p>
 <p>「Indeed… They both have grandchildren you see.」</p>
 <p>「In other words, it would be easy to take a hostage?」</p>
 <p>「Aurel is not only a good fighter, but his knowledge will come in handy too. As for Dimitris… if we can him on our side, he would be worth as much as taking over an entire country.」</p>
@@ -76,10 +76,10 @@ editor:
 <p>「Ah, that potion? I was wondering why you would ask for something as unusual as a necro potion…… You can really turn people into undead while they're still alive?」</p>
 <p>「Indeed, though it was a makeshift ritual, so their performance will be much lower compared to when they were alive.」</p>
 <p>「Still, they are still useful as meatshields, right?」</p>
-<p>「Correct, and the main force will be the ghouls who are former rank C adventurers. They may not have rationality like me, but they were created by my Lord personally, so their combat power is plenty.」</p>
+<p>「Correct, and the main force will be the ghouls who are former Rank C adventurers. They may not have rationality like me, but they were created by my Lord personally, so their combat power is plenty.」</p>
 <p>「Hee-hee. That sounds interesting. But still, it's a strange feeling to be able to have a conversation like this. You, an undead, still have your wits about you.」</p>
 <p>「All is by the power of my Lord and the Holy Mother. Once Dimitris and Aurel turn undead, they will be their faithful servants as well.」</p>
-<p>「Hee hee hee! I'm sure an undead rank S adventurer will have immense power! I'm looking forward to seeing it!」</p>
+<p>「Hee hee hee! I'm sure an undead Rank S adventurer will have immense power! I'm looking forward to seeing it!」</p>
 <p>「The day after tomorrow, we'll go to the closing ceremony where Aurel and Dimitris are present. That is the moment to strike.」</p>
 <p>「Yes, sir. Then I'll go adjust the dosage for our friends from Shallus……」</p>
 <p>「I am sure you are aware of this already, but the Shallus Kingdom still has its uses. This time, we just need them to make some noise, understood?」</p>

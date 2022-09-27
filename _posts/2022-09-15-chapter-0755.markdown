@@ -64,7 +64,7 @@ editor:
 <p>「Nn. Since you're here too.」</p>
 <p>「I know right! I'm supposed to leave for the north again tomorrow! It must be fate that we could meet today!」</p>
 
-<p>We arrived at the guild along with this rank A adventurer, so excited that she was spinning around in circles, attracting quite a bit of attention. There, we met another familiar face.</p>
+<p>We arrived at the guild along with this Rank A adventurer, so excited that she was spinning around in circles, attracting quite a bit of attention. There, we met another familiar face.</p>
 
 <p>「Oh, Fran-san, is that you? Nice seeing you again after so long.」</p>
 

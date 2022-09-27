@@ -20,7 +20,7 @@ editor:
 
 <p>A roar of cheers shakes the arena as the live commentary introduces her. The audience was loud enough in the previous matches, but today they were even louder.</p>
 
-<p>『Against her is the adventurer guildmaster of Ulmutt and an active rank A adventurer! Diaz the 'Dragon Repeller'. Who could have expected an active guildmaster to participate in this tournament!? Will his battle-hardened experience stop the youngster's momentum? Or, will that youthful energy overcome the wisdom of age? This is one match everyone is watching!』</p>
+<p>『Against her is the adventurer guildmaster of Ulmutt and an active Rank A adventurer! Diaz the 'Dragon Repeller'. Who could have expected an active guildmaster to participate in this tournament!? Will his battle-hardened experience stop the youngster's momentum? Or, will that youthful energy overcome the wisdom of age? This is one match everyone is watching!』</p>
 
 <p>Fran and Diaz were even more excited than the crowd on the outside.</p>
 

@@ -18,7 +18,7 @@ editor:
 
 <p>I was kinda stunned because I thought we were just going to find out where he was today. What surprised me even more was that we could meet him right away just because he was in this branch.</p>
 
-<p>The adventurer's card with rank B and the letter with Weena Rhyn's name on it seemed to have done the trick.</p>
+<p>The adventurer's card with Rank B and the letter with Weena Rhyn's name on it seemed to have done the trick.</p>
 
 <p>Still, the attitude of the staff did not change, indicating that they were accustomed to dealing with these sorts of big shots. It was not just a matter of being lax.</p>
 
@@ -66,7 +66,7 @@ editor:
 <p>「Oh? What kind of things are we talking about?」</p>
 <p>「First, the location of Trismegistus.」</p>
 <p>「What?」</p>
-<p>「I want to meet the legendary alchemist. I also need directions to a village called Castel and the locations of two rank S――」</p>
+<p>「I want to meet the legendary alchemist. I also need directions to a village called Castel and the locations of two Rank S――」</p>
 <p>「H-Hold your horses there! One at a time! So what was that about Trismegistus?」</p>
 
 <p>William interrupted Fran with a puzzled look.</p>

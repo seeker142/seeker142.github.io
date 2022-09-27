@@ -134,7 +134,7 @@ editor: PinkR
 
 <p>He has some skills that we haven't even seen yet, so I'm really excited to see him in a real fight.</p>
 
-<p>Felmus, the last one on the list, will bring out the best in Neidhart. He is a former rank A adventurer who fought with us last year in the match for third place.</p>
+<p>Felmus, the last one on the list, will bring out the best in Neidhart. He is a former Rank A adventurer who fought with us last year in the match for third place.</p>
 
 <p>His ever-changing strategy of using threads really made us suffer and even now, he is using strings to block his opponent's movements 
   and fists to settle the match. To the spectators, Felmus' opponents seems to have suddenly stopped moving for no reason.</p>

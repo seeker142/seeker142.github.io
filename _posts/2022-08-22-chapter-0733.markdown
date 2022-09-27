@@ -42,7 +42,7 @@ editor:
 
 <p>After a moment of silence, the audience exploded with cheers.</p>
 
-<p>『A-Amazing! So fast that we can't catch it at all! But we could still understand that a tremendous exchange of blows just occurred! At first, it seemed that Hiltoria, the successor of the Dimitris School and rank A adventurer, had the advantage, but the mercenary captain, Neidhart the 'Sudden Edge', proved not to be outdone!』</p>
+<p>『A-Amazing! So fast that we can't catch it at all! But we could still understand that a tremendous exchange of blows just occurred! At first, it seemed that Hiltoria, the successor of the Dimitris School and Rank A adventurer, had the advantage, but the mercenary captain, Neidhart the 'Sudden Edge', proved not to be outdone!』</p>
 
 <p>After a shout from the commentator, Neidhart mutters something.</p>
 

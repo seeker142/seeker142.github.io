@@ -64,7 +64,7 @@ editor:
 
 <p>「Kill them!」</p>
 
-<p>The undead start to move at the order of the Mummy King. These guys are pretty strong too, maybe threat level E.</p>
+<p>The undead start to move at the order of the Mummy King. These guys are pretty strong too, maybe Threat Level E.</p>
 
 <p>No wait, they are ghoul-type undead, with races like 'High Ghoul Soldier' or 'High Ghoul Magician'.</p>
 

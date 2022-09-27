@@ -25,7 +25,7 @@ editor:
 <p>『She's still staring at us.』</p>
 <p>「Nn.」</p>
 
-<p>Even the glare of a rank A adventurer is like a reward for Fran. She glares right back with a thrilled look on her face.</p>
+<p>Even the glare of a Rank A adventurer is like a reward for Fran. She glares right back with a thrilled look on her face.</p>
 
 <p>However, Hilt will not necessarily be our next opponent.</p>
 
@@ -43,7 +43,7 @@ editor:
 
 <p>I could see her interest shifting to Neidhart when she looked at him. After meeting him in person, she must have sensed his strength.</p>
 
-<p>『Just now, Neidhart of the 'Sudden Edge' has also entered! Will the blades that cut down a former rank A adventurer show their sharpness again today!?』</p>
+<p>『Just now, Neidhart of the 'Sudden Edge' has also entered! Will the blades that cut down a former Rank A adventurer show their sharpness again today!?』</p>
 
 <p>It seems that Neidhart has been given the alias of 'Sudden Edge'. It's no wonder, since he has been performing so well.</p>
 

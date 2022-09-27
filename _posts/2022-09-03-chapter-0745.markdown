@@ -150,7 +150,7 @@ editor:
 
 <p>Fuhahaha! I knew it! You adventurers are nothing more than a disorderly mob! They can do nothing if I have a hostage!</p>
 
-<p>「Our demands are simple. The rank S adventurer Dimitris and Wijat Aurel, the two of you must obey me!」</p>
+<p>「Our demands are simple. The Rank S adventurer Dimitris and Wijat Aurel, the two of you must obey me!」</p>
 
 <p>The arena is filled with screams at the mention of these famous names.</p>
 
@@ -162,7 +162,7 @@ editor:
 
 <p>「Come now! Put this collar around your neck, Dimitris!」</p>
 
-<p>This is a specially made slave collar. It has a short life span, but its binding power is so strong that even a rank S would be enslaved without issue.</p>
+<p>This is a specially made slave collar. It has a short life span, but its binding power is so strong that even a Rank S would be enslaved without issue.</p>
 
 <p>「What's wrong? Hurry up! Don't you want to save this girl's life?」</p>
 <p>「Ugh!」</p>

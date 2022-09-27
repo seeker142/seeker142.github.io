@@ -34,7 +34,7 @@ editor:
 <p>As one would expect from a first prize medal, it's gold plated with intricate engravings.</p>
 
 <p>「Well, I really wanted to award it at the closing ceremony, but the nobles were so upset. The ministers, in particular, were in a real tizzy.」</p>
-<p>「Because a rank S went to the enemy?」</p>
+<p>「Because a Rank S went to the enemy?」</p>
 <p>「Dimitris is not just a military asset. Despite his usual behavior, he is very popular among the people since he's been hunting high-ranking magical beasts in various places for over 50 years.」</p>
 <p>「I see.」</p>
 <p>「He also treats the ordinary people very well. Since he does whatever he wants, he always follows his conscience. That often has him protecting the weak and powerless from the nobility.」</p>
@@ -70,10 +70,10 @@ editor:
 <p>「I think that's a good idea, since winning the tournament will increase the number of noisy recruiters visiting you. You'll be able to avoid them if you go to Gordicia. Besides, this is good timing.」</p>
 <p>「?」</p>
 <p>「About your rank up.」</p>
-<p>「Rank up! Can I become rank A?」</p>
+<p>「Rank up! Can I become Rank A?」</p>
 <p>「No, I'm afraid it won't be immediately.」</p>
 
-<p>That's about expected. To become rank A, you must have a lot of experience in other areas in addition to your fighting ability.</p>
+<p>That's about expected. To become Rank A, you must have a lot of experience in other areas in addition to your fighting ability.</p>
 
 <p>As we were told before, various factors are taken into account. Ability to negotiate with nobles, experience as a commander, knowledge and achievement as an adventurer, mentoring of the younger generation.</p>
 
@@ -81,7 +81,7 @@ editor:
 
 <p>In this respect, Fran is in a situation where she lacks almost everything except for her fighting ability.</p>
 
-<p>Even if she has defeated other rank A adventurers, that would not be enough to win the approval of other guildmasters.</p>
+<p>Even if she has defeated other Rank A adventurers, that would not be enough to win the approval of other guildmasters.</p>
 
 <p>「In your case, your fighting ability is unquestionable, but you do not have enough achievements. Well, I'm sure you've had this exact same conversation before.」</p>
 <p>「Nn.」</p>
@@ -89,7 +89,7 @@ editor:
 
 <p>Requests that contribute to the benefit of the world will also raise the reputation of the Adventurers Guild. Such requests are highly valued, and the battle in Gordicia is one of them.</p>
 
-<p>「It won't help if you just go to Gordicia for a little while, but if you have achieved a certain level of success, the guild will have no choice but to evaluate you. That alone won't get you to rank A, but it's worth doing if that's your goal.」</p>
+<p>「It won't help if you just go to Gordicia for a little while, but if you have achieved a certain level of success, the guild will have no choice but to evaluate you. That alone won't get you to Rank A, but it's worth doing if that's your goal.」</p>
 <p>「Okay. I'll do my best.」</p>
 <p>「Good luck. On that note, can I ask something of you?」</p>
 <p>「Ask?」</p>
@@ -138,9 +138,9 @@ editor:
 
 <p>Okay, I can admit it's our fault for not knowing him while being an adventurer.</p>
 
-<p>「If Dimitris is the problem child of the rank S adventurers, then Isario would be the honors student, I suppose? You might call him the rank S with the most common sense. He's just as peculiar as the others though.」</p>
+<p>「If Dimitris is the problem child of the Rank S adventurers, then Isario would be the honors student, I suppose? You might call him the Rank S with the most common sense. He's just as peculiar as the others though.」</p>
 
-<p>Well, he is a rank S adventurer. I'd be surprised if he didn't have a few quirks.</p>
+<p>Well, he is a Rank S adventurer. I'd be surprised if he didn't have a few quirks.</p>
 
 <p>「Do you know him?」</p>
 <p>「Yeah, he was active in Ulmutt a long time ago. If you bring him my letter of introduction, I'm sure he'll talk to you.」</p>
@@ -169,7 +169,7 @@ editor:
 <p>Diaz smiled mischievously at Fran, who nodded back at him with a twinkle in her eye.</p>
 
 <p>「Plenty. You okay too, Master?」</p>
-<p>『Sure. Fine wine that a dwarf would drool over, and a pipeline to a rank S adventurer. These are things that I would have no clue how to get myself.』</p>
+<p>『Sure. Fine wine that a dwarf would drool over, and a pipeline to a Rank S adventurer. These are things that I would have no clue how to get myself.』</p>
 <p>「Thanks. I owe you one.」</p>
 
 <p>Well, next stop is the continent of Gordicia, as planned.</p>

@@ -56,7 +56,7 @@ editor:
 
 <p>Those parrying and other techniques were designed for fighting people with weapons, after all. They can be used against magical beasts too, but they are most effective against people.</p>
 
-<p>「I know that you have defeated other rank A adventurers. I saw it myself last year against Gaudartha, but he was specialized against armies and monsters. Even though the two are both rank A, their specialties are completely different.」</p>
+<p>「I know that you have defeated other Rank A adventurers. I saw it myself last year against Gaudartha, but he was specialized against armies and monsters. Even though the two are both Rank A, their specialties are completely different.」</p>
 
 <p>It was true that Gaudartha's ability was more suited to unleashing wide range moves to destroy everything around him. I guess he was a similar type to Biscot who fought Fran this year. You could say Gaudartha was like a tougher and stronger version of Biscot.</p>
 

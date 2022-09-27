@@ -113,7 +113,7 @@ editor:
 <p>You're comparing her to Weena Rhyn? Well yeah, I suppose Hilt would look well-behaved compared to her.</p>
 
 <p>「I heard that adventurers are basically free to do as they please, correct?」</p>
-<p>「Our country wants a small number of elites, so we hire adventurers of rank B or higher in most cases. Rather than incorporating them into our forces, we get better results if they are given free reign.」</p>
+<p>「Our country wants a small number of elites, so we hire adventurers of Rank B or higher in most cases. Rather than incorporating them into our forces, we get better results if they are given free reign.」</p>
 <p>「I see what you mean.」</p>
 <p>「Besides, we usually have Weena Rhyn-dono, so we had little need for anyone else.」</p>
 

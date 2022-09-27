@@ -60,7 +60,7 @@ editor:
 
 <p>「D-Dimitris-sama?」</p>
 
-<p>The healer called out his name. Yes, it was Dimitris, the rank S adventurer, who opened the door.</p>
+<p>The healer called out his name. Yes, it was Dimitris, the Rank S adventurer, who opened the door.</p>
 
 <p>He approached slowly. For a moment, the word "retaliation" crossed my mind, but Dimitris showed no signs of intending harm.</p>
 
@@ -94,7 +94,7 @@ editor:
 
 <p>Dimitris' ki had a slight divine attribute to it. However, there was no sign of aggression, and Fran's stern expression softened.</p>
 
-<p>A few minutes later, Dimitris finished his treatment. Even this rank S adventurer is exhausted, showing how difficult it is for anyone to maintain the divine attribute.</p>
+<p>A few minutes later, Dimitris finished his treatment. Even this Rank S adventurer is exhausted, showing how difficult it is for anyone to maintain the divine attribute.</p>
 
 <p>「Try to heal.」</p>
 <p>「Y-Yes, sir.」</p>
@@ -122,7 +122,7 @@ editor:
 
 <p>The man who had just barged into the room smiled in a nasty way.</p>
 
-<p>Why is this guy here? It was Abarb, the disciple of Eiworth and rank B adventurer, who lost to Diaz in the quarterfinals.</p>
+<p>Why is this guy here? It was Abarb, the disciple of Eiworth and Rank B adventurer, who lost to Diaz in the quarterfinals.</p>
 
 <p>He was smiling at Fran with his creepy, snake-like eyes.</p>
 

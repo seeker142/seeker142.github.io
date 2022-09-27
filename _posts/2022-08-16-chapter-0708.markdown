@@ -118,7 +118,7 @@ editor: PinkR
 
 <p>After all, the next match was between Sibylla and Colbert.</p>
 
-<p>『Here comes the rank B adventurer, Colbert the Iron Claw! He is said to have left the School of Dimitris, 
+<p>『Here comes the Rank B adventurer, Colbert the Iron Claw! He is said to have left the School of Dimitris, 
   so what kind of fight will he show us? The first round was almost an instant kill, but what about the next round?』</p>
 
 <p>As expected, the commentator wouldn't use the negative word "expulsion". Still, I would like to see how Colbert will 

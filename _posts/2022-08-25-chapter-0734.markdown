@@ -133,7 +133,7 @@ editor:
 <p>『It must be at the other side of this mountain. We'll move in carefully from here.』</p>
 <p>「Nn…」</p>
 
-<p>Isn't this a little too strong for a test run? It seems at least rank C.</p>
+<p>Isn't this a little too strong for a test run? It seems at least Rank C.</p>
 
 <p>Well, if it's too much trouble, we can always escape by teleporting. It would be a total waste of time if we exhausted ourselves by fighting a strong opponent here.</p>
 

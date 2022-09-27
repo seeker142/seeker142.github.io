@@ -10,7 +10,7 @@ editor:
 ---
 <h2 id="ch765">765: Season of Incursion</h2>
 
-<p>「Now all that's left is the matter of where to find the rank S adventurers?」</p>
+<p>「Now all that's left is the matter of where to find the Rank S adventurers?」</p>
 <p>「Nn. Isario and Ashwrath.」</p>
 <p>「As for Isario-dono, he should be in the East Port. If you head to the Adventurers Guild there, you may be able to find out more about his location.」</p>
 
@@ -19,7 +19,7 @@ editor:
 <p>Let's try meeting him when we're done with the grave visit.</p>
 
 <p>「What about Ashwrath?」</p>
-<p>「We know he is in the continent, but we don't know his current whereabouts. Since he is a rank S adventurer, we should be getting information about him, but……」</p>
+<p>「We know he is in the continent, but we don't know his current whereabouts. Since he is a Rank S adventurer, we should be getting information about him, but……」</p>
 
 <p>If he entered the barrier and was operating in an illegal village or similar location, it seems they would not know his exact location.</p>
 
@@ -29,7 +29,7 @@ editor:
 <p>「I know. We've met.」</p>
 <p>「I see, then carry on.」</p>
 
-<p>I can understand why he was worried. The person he was told to help is trying to make contact with a dangerous rank S adventurer.</p>
+<p>I can understand why he was worried. The person he was told to help is trying to make contact with a dangerous Rank S adventurer.</p>
 
 <p>William was relieved to hear that Fran knew him.</p>
 
@@ -74,9 +74,9 @@ editor:
 
 <p>「Ordinary antidemons are often led by knight-types or beast-types. However in large groups, they may be commanded by a Unique.」</p>
 <p>「Are they strong?」</p>
-<p>「It varies widely, but I've heard of a Unique who could compete with a rank S.」</p>
+<p>「It varies widely, but I've heard of a Unique who could compete with a Rank S.」</p>
 
-<p>Oh man, that's crazy. If they could compete with a rank S, then that's a minimum threat level of A.</p>
+<p>Oh man, that's crazy. If they could compete with a Rank S, then that's a minimum threat level of A.</p>
 
 <p>「However, a Unique that powerful has only been sighted once a few hundred years ago. Not that it changes the fact that they are still very strong. I'd say they are B level threats on average.」</p>
 

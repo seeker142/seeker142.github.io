@@ -73,7 +73,7 @@ editor:
 <p>「Hey, Fran-chan… you're going to the continent of Gordicia next, right?」</p>
 <p>「Nn! I've got a request from Belioth.」</p>
 <p>「Are you sure you want to go?」</p>
-<p>「Nn. There's a rank S adventurer with a divine sword. Besides, I have to go to Gordicia to meet Trismegistus for the sake of Master.」</p>
+<p>「Nn. There's a Rank S adventurer with a divine sword. Besides, I have to go to Gordicia to meet Trismegistus for the sake of Master.」</p>
 <p>「For Master?」</p>
 <p>『Yeah, Trismegistus is said to have an intelligence weapon. Since I'm one as well, I'd like to meet them and have a talk.』</p>
 
