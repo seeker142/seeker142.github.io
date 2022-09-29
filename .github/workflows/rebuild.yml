@@ -3,7 +3,7 @@ name: Rebuild
 
 on:
   schedule:
-    - cron:  '0 15 */3 * *' # Runs every three days at 3pm
+    - cron:  '0 0 */3 * *' # Runs every three days at 12am
 
 jobs:
   refresh:
