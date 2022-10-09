@@ -75,7 +75,7 @@ Merge and take tower 2
 Merge with partner for ifrit
 	
 <button id="button2_4" class="choice" onclick="location.href='#ref0'" type="button">
-	Option 3</button>
+	Option 4</button>
 Get hit in the face by cleave
 
 <div style="line-height:10000%;"><br></div>
@@ -133,19 +133,19 @@ Merge with Beta and enter tower
 Merge with Gamma and enter tower
 	
 <button id="button4_4" class="choice" onclick="location.href='#ref0'" type="button">
-	Option 1</button>
+	Option 4</button>
 Bait north add
 
 <button id="button4_5" class="choice" onclick="location.href='#ref0'" type="button">
-	Option 2</button>
+	Option 5</button>
 Bait west add
 	
 <button id="button4_6" class="choice" onclick="location.href='#ref0'" type="button">
-	Option 3</button>
+	Option 6</button>
 Bait east add
 	
 <button id="button4_7" class="choice" onclick="location.href='#ref0'" type="button">
-	Option 4</button>
+	Option 7</button>
 Bait south add
 <div style="line-height:10000%;"><br></div>
 
@@ -312,6 +312,12 @@ function addCorrectChoices()
 	case "Stack2":
 		setLink("button1_3", "ref2");
 		break;
+	case "None":
+		if (debuff == "Alpha28" || debuff == "Beta28" || debuff == "Gamma28")
+		{
+			setLink("button1_3", "ref2");
+		}
+		break;
 	}
 
 	switch(debuff)
@@ -430,7 +436,7 @@ function addCorrectChoices()
 		else
 		{
 			setLink("button4_3", "ref5");
-			stage5debuff = "Water";
+			stage5debuff = "Lightning";
 		}
 
 		break;
@@ -449,8 +455,8 @@ function addCorrectChoices()
 		}
 		else
 		{
-			setLink("button4_3", "ref5");
-			stage5debuff = "Wind";
+			setLink("button4_2", "ref5");
+			stage5debuff = "Lightning";
 		}
 
 		break;
