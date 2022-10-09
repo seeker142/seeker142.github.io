@@ -126,14 +126,17 @@ Do not merge
 <button id="button4_1" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 1</button>
 Merge with Alpha and enter tower
+<img src="https://img.game8.jp/7227090/3cf16a9de5ac1e02a65341cea2a66cff.png/show" width="20" height="20"/>
 
 <button id="button4_2" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 2</button>
 Merge with Beta and enter tower
+<img src="https://img.game8.jp/7227091/b5535057bfdad7f3d41abd9d7621cb46.png/show" width="20" height="20"/>
 	
 <button id="button4_3" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 3</button>
 Merge with Gamma and enter tower
+<img src="https://img.game8.jp/7227092/41d883e4dc9ad6fb0d5db46a7fce2cb7.png/show" width="20" height="20"/>
 	
 <button id="button4_4" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 4</button>
@@ -150,6 +153,7 @@ Bait east add
 <button id="button4_7" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 7</button>
 Bait south add
+
 <div style="line-height:10000%;"><br></div>
 
 
@@ -412,8 +416,7 @@ function addCorrectChoices()
 	case "Alpha28":
 		setLink("button2_0", "ref3");
 		setLink("button3_0", "ref4");
-
-		stage4debuff = stage3debuff;
+		stage4debuff = "Alpha";
 
 		if(tower1 == "Lightning")
 		{
@@ -431,8 +434,7 @@ function addCorrectChoices()
 	case "Beta28":
 		setLink("button2_0", "ref3");
 		setLink("button3_1", "ref4");
-
-		stage4debuff = stage3debuff;
+		stage4debuff = "Beta";
 
 		if(tower1 == "Lightning")
 		{
@@ -450,8 +452,7 @@ function addCorrectChoices()
 	case "Gamma28":
 		setLink("button2_0", "ref3");
 		setLink("button3_2", "ref4");
-
-		stage4debuff = stage3debuff;
+		stage4debuff = "Gamma";
 
 		if(tower1 == "Lightning")
 		{
