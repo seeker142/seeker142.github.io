@@ -55,6 +55,7 @@ Go to 3
 <h2 id="ref2">Stage 2</h2>
 
 <p>Your debuff is: <span class="stage2debuff"></span></p>
+<img id="stage2debuffimg" src="">
 <p>First tower is: <span class="tower1"></span></p>
 
 First towers appear. What do you do?
@@ -82,6 +83,7 @@ Get hit in the face by cleave
 <h2 id="ref3">Stage 3</h2>
 
 <p>Your debuff is: <span class="stage3debuff"></span></p>
+<img id="stage3debuffimg" src="">
 <p>First tower was: <span class="tower1"></span></p>
 
 First towers resolved. What do you do?
@@ -109,6 +111,7 @@ Go to the safe area. Avoid merging
 <h2 id="ref4">Stage 4</h2>
 
 <p>Your debuff is: <span class="stage4debuff"></span></p>
+<img id="stage4debuffimg" src="">
 <p>Second tower is: <span class="tower2"></span></p>
 
 Second towers appear. What do you do?
@@ -206,6 +209,7 @@ function resetChoices()
 	}
 	
 	addCorrectChoices();
+	setImages();
 
 	var elements = document.getElementsByClassName("stage2debuff");
 	for (const element of elements) {
@@ -335,8 +339,7 @@ function addCorrectChoices()
 		setLink("button2_0", "ref3");
 		setLink("button3_0", "ref4");
 
-		stage3debuff = "Alpha";
-		stage4debuff = stage3debuff;
+		stage4debuff = "Alpha";
 		if(tower2 == "Wind" || tower2 == "Water")
 		{
 			setLink("button4_3", "ref5");
@@ -352,8 +355,7 @@ function addCorrectChoices()
 		setLink("button2_0", "ref3");
 		setLink("button3_1", "ref4");
 
-		stage3debuff = "Beta";
-		stage4debuff = stage3debuff;
+		stage4debuff = "Beta";
 		if(tower2 == "Lightning")
 		{
 			setLink("button4_3", "ref5");
@@ -373,8 +375,7 @@ function addCorrectChoices()
 		setLink("button2_0", "ref3");
 		setLink("button3_2", "ref4");
 
-		stage3debuff = "Gamma";
-		stage4debuff = stage3debuff;
+		stage4debuff = "Gamma";
 		if(tower2 == "Water" || tower2 == "Lightning")
 		{
 			setLink("button4_4", "ref5");
@@ -456,7 +457,7 @@ function addCorrectChoices()
 			
 			if(tower2 == "Water" || tower2 == "Lightning")
 			{
-				setLink("button4_1", "ref5");
+				setLink("button4_2", "ref5");
 			}
 			else
 			{
@@ -466,6 +467,62 @@ function addCorrectChoices()
 		break;
 	
 	}
+}
+
+alphaimg = "https://img.game8.jp/7227090/3cf16a9de5ac1e02a65341cea2a66cff.png/show"
+betaimg = "https://img.game8.jp/7227091/b5535057bfdad7f3d41abd9d7621cb46.png/show"
+gammaimg = "https://img.game8.jp/7227092/41d883e4dc9ad6fb0d5db46a7fce2cb7.png/show"
+windimg = "https://img.game8.jp/7227094/e48a0793fb45eca6cf9e4c737d558986.png/show"
+waterimg = "https://img.game8.jp/7228918/d24eebe86572b804eb40165e866255ec.png/show"
+lightningimg = "https://img.game8.jp/7227096/4a417a62006dd25df0170d6f5b21bfd4.png/show"
+ifritimg = "https://img.game8.jp/7227095/9b5a04388a6940eb7f6179b729396bbc.png/show"
+
+function getImage(debuff)
+{
+	imglink = ""
+	
+	if(debuff == "Alpha")
+	{
+		imglink = alphaimg;
+	}
+	else if(debuff == "Beta")
+	{
+		imglink = betaimg;
+	}
+	else if(debuff == "Gamma")
+	{
+		imglink = gammaimg;
+	}
+	else if(debuff == "Water")
+	{
+		imglink = waterimg;
+	}
+	else if(debuff == "Wind")
+	{
+		imglink = windimg;
+	}
+	else if(debuff == "Lightning")
+	{
+		imglink = lightningimg;
+	}
+	else if(debuff == "Ifrit")
+	{
+		imglink = ifritimg;
+	}
+	
+	return imglink;
+}
+
+function setImages()
+{
+	element = document.getElementById("stage2debuffimg");
+	element.src = getImage(stage2debuff);
+	
+	element = document.getElementById("stage3debuffimg");
+	element.src = getImage(stage3debuff);
+	
+	element = document.getElementById("stage4debuffimg");
+	element.src = getImage(stage4debuff);	
 }
 
 randomize();
