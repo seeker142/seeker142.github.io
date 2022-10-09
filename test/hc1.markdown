@@ -24,7 +24,7 @@ exclude: true
 
 <p>Your debuff is: <span class="debuff"></span></p>
 
-What do you do?
+Debuffs applied. What do you do?
 
 <button id="button1_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
@@ -54,10 +54,10 @@ Go to 3
 
 <h2 id="ref2">Stage 2</h2>
 
-<p>Your debuff is: <span class="debuff"></span></p>
+<p>Your debuff is: <span class="stage2debuff"></span></p>
 <p>First tower is: <span class="tower1"></span></p>
 
-What do you do?
+First towers appear. What do you do?
 
 <button id="button2_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
@@ -82,9 +82,9 @@ Get hit in the face by cleave
 <h2 id="ref3">Stage 3</h2>
 
 <p>Your debuff is: <span class="stage3debuff"></span></p>
-<p>First tower is: <span class="tower1"></span></p>
+<p>First tower was: <span class="tower1"></span></p>
 
-What do you do?
+First towers resolved. What do you do?
 
 <button id="button3_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
@@ -111,7 +111,7 @@ Go to the safe area. Avoid merging
 <p>Your debuff is: <span class="stage4debuff"></span></p>
 <p>Second tower is: <span class="tower2"></span></p>
 
-What do you do?
+Second towers appear. What do you do?
 
 <button id="button4_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
@@ -160,6 +160,7 @@ const debuffs = ["Alpha8", "Beta8", "Gamma8", "Alpha28", "Beta28", "Gamma28", "S
 const towers = ["Wind", "Water", "Lightning"]
 
 debuff = "Alpha8"
+stage2debuff = "Alpha";
 stage3debuff = "Alpha"
 stage4debuff = "Alpha"
 tower1 = "Wind"
@@ -168,6 +169,7 @@ tower2 = "Water"
 function randomize()
 {
 	debuff = debuffs[Math.floor(Math.random() * 8)];
+	stage2debuff = debuff;
 	stage3debuff = debuff;
 	stage4debuff = debuff;
 	tower1 = towers[Math.floor(Math.random() * 3)];
@@ -205,6 +207,11 @@ function resetChoices()
 	
 	addCorrectChoices();
 
+	var elements = document.getElementsByClassName("stage2debuff");
+	for (const element of elements) {
+		element.innerHTML = stage2debuff;
+	}
+
 	var elements = document.getElementsByClassName("stage3debuff");
 	for (const element of elements) {
 		element.innerHTML = stage3debuff;
@@ -228,6 +235,7 @@ function addCorrectChoices()
 	{
 	case "Alpha8":
 		setLink("button1_0", "ref2");
+		stage2debuff = "Alpha";
 
 		if(tower1 == "Wind" || tower1 == "Water")
 		{
@@ -255,6 +263,7 @@ function addCorrectChoices()
 		break;
 	case "Beta8":
 		setLink("button1_1", "ref2");
+		stage2debuff = "Beta";
 
 		if (tower1 == "Lightning")
 		{
@@ -294,6 +303,7 @@ function addCorrectChoices()
 		break;
 	case "Gamma8":
 		setLink("button1_2", "ref2");
+		stage2debuff = "Gamma";
 
 		if(tower1 == "Water" || tower1 == "Lightning")
 		{
@@ -378,11 +388,12 @@ function addCorrectChoices()
 	case "Stack2":
 		setLink("button1_3", "ref2");
 		setLink("button2_0", "ref3");
+		stage2debuff = "None (Stack2)";
+		stage3debuff = "None (Stack2)";
 		
 		if(tower1 == "Wind" || tower1 == "Water")
 		{
 			setLink("button3_0", "ref4");
-			stage3debuff = "None (Stack2)";
 			stage4debuff = "Alpha";
 			
 			if(tower2 == "Wind" || tower2 == "Water")
@@ -397,7 +408,6 @@ function addCorrectChoices()
 		else 
 		{
 			setLink("button3_1", "ref4");
-			stage3debuff = "None (Stack2)";
 			stage4debuff = "Beta";
 			
 			if(tower2 == "Lightning")
@@ -418,11 +428,12 @@ function addCorrectChoices()
 	case "Stack3":
 		setLink("button1_4", "ref2");
 		setLink("button2_0", "ref3");
+		stage2debuff = "None (Stack3)";
+		stage3debuff = "None (Stack3)";
 		
 		if(tower1 == "Wind")
 		{
 			setLink("button3_1", "ref4");
-			stage3debuff = "None (Stack3)";
 			stage4debuff = "Beta";
 			
 			if(tower2 == "Lightning")
@@ -441,7 +452,6 @@ function addCorrectChoices()
 		else 
 		{
 			setLink("button3_2", "ref4");
-			stage3debuff = "None (Stack3)";
 			stage4debuff = "Gamma";
 			
 			if(tower2 == "Water" || tower2 == "Lightning")

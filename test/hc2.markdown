@@ -23,7 +23,7 @@ exclude: true
 
 <p id="top">Your debuff is: <span class="debuff"></span> and <span class="stackdebuff"></span></p>
 
-What do you do?
+Debuffs applied. What do you do?
 
 <button id="button1_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
@@ -56,7 +56,7 @@ Go to 3
 <p>Your debuff is: <span class="stage2debuff"></span></p>
 <p>First tower is: <span class="tower1"></span></p>
 
-What do you do?
+First towers appear. What do you do?
 
 <button id="button2_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
@@ -85,9 +85,9 @@ Get hit in the face by cleave
 <h2 id="ref3">Stage 3</h2>
 
 <p>Your debuff is: <span class="stage3debuff"></span></p>
-<p>First tower is: <span class="tower1"></span></p>
+<p>First tower was: <span class="tower1"></span></p>
 
-What do you do?
+First towers resolved. What do you do?
 
 <button id="button3_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
@@ -114,7 +114,7 @@ Go to the safe area. Avoid merging
 <p>Your debuff is: <span class="stage4debuff"></span></p>
 <p>Second towers are: <span class="tower2"></span> and <span class="tower3"></span></p>
 
-What do you do?
+Second towers and adds appear. What do you do?
 
 <button id="button4_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
@@ -155,7 +155,7 @@ Bait south add
 
 <p>Your debuff is: <span class="stage5debuff"></span></p>
 
-What do you do?
+Second towers and adds resolved. What do you do?
 
 <button id="button5_0" class="choice" onclick="location.href='#ref0'" type="button">
 	Option 0</button>
