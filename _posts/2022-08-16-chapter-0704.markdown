@@ -28,7 +28,8 @@ editor: PinkR
 <p>Name: Hiltoria Age: 23</p>
 <p>Race: Human</p>
 <p>Occupation: Magic War Martial Artist</p>
-<p>Status Level: 61/99</p>
+<p>Stats</p>
+<p>Level: 61/99</p>
 <p>HP: 682 MP: 582 STR: 410 VIT: 262 AGI: 589 INT: 197 MAG: 366 DEX: 314</p>
 <p>Skills</p>
 <p>Foot Sense: Lv 4, Intimidation: Lv 6, Super Strength: Lv 6, Brawling Arts: Lv 3, Brawling Mastery: Lv 3, Crisis Sense: Lv 5, Holy Fist Arts: Lv 4, Holy Fist Mastery: Lv 6, Fist Arts: Lv Max, Fist Mastery: Lv Max, Hard Spirit: Lv 8, Hardened Qi: Lv Max, Leadership: Lv 6, Blink: Lv Max, Blink Step: Lv 3, Status Resistance Lv 5, Mental Resistance: Lv 5, Provocation: Lv 4, Throwing: Lv 4, Dimitris Style Martial Arts: Lv Max, Dimitris Style Mastery: Lv Max, Physical Barrier: Lv 6, Magic Resistance: Lv 6, Magic Perception: Lv 5, Magic Release: Lv 8, Drowsiness Resistance: Lv 5, Orc Killer, Kobold Killer, Gastronomy, Split Thinking, Energy Control</p>
@@ -115,7 +116,8 @@ editor: PinkR
 <p>Name: Neidhart Age: 57</p>
 <p>Race: Half-Insectkin - Mantis</p>
 <p>Occupation: Twin Striker</p>
-<p>Status Level: 66/99</p>
+<p>Stats</p>
+<p>Level: 66/99</p>
 <p>HP: 897 MP: 214 STR: 588 VIT: 317 AGI: 612 INT: 138 MAG: 167 DEX: 433</p>
 <p>Skills</p>
 <p>Bad Eating: Lv 3, Sole Sense: Lv 4, Assassination: Lv 4, Stealth: Lv 4, Singing: Lv 3, Observation: Lv 4, Crisis Perception: Lv 8, Archery Arts: Lv 4, Archery Mastery: Lv 6, Critical Detection: Lv 4, Court Etiquette: Lv 2, Arithmetic: Lv 5, Perception: Lv 6, Presence Blocking: Lv 5, Sword Arts: Lv 5, Sword Mastery: Lv 5, Holy Fist Arts: Lv 3, Holy Fist Mastery: Lv 3, Fist Arts: Lv Max, Fist Mastery: Lv Max, Hard Spirit: Lv 4, Negotiation: Lv Max, Hard Power: Lv 3, Command: Lv 7, Instruction: Lv 4, Blink: Lv Max, Blink Walk: Lv 8, Silence Action: Lv 6, Status Resistance: Lv 7, Mental Resistance: Lv 3, Twin Sword Mastery: Lv Max, Farseeing: Lv 4, Fatigue Recovery: Lv 6, Magic Resistance: Lv 2, Magic Sense: Lv 3, Night Vision, Strengthen Legs, Leg Boost, Control Energy, Null Pain, Fortitude, Increase Agility</p>

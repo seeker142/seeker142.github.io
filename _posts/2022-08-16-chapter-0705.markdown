@@ -35,7 +35,8 @@ editor: PinkR
 <p>Name: Mordred Age: 43</p>
 <p>Race: Human</p>
 <p>Occupation: Skilled Magic Spearman</p>
-<p>Status Level: 47/99</p>
+<p>Stats</p>
+<p>Level: 47/99</p>
 <p>HP: 423 MP: 418</p>
 <p>STR: 217 VIT: 111 AGI: 237</p>
 <p>INT: 218 MAG: 222 DEX: 249</p>

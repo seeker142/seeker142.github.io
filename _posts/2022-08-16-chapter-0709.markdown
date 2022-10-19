@@ -216,7 +216,8 @@ editor: PinkR
 <p>Name: Colbert Age: 39</p>
 <p>Race: Human</p>
 <p>Occupation: Steel Brawler</p>
-<p>Status Level: 43/99</p>
+<p>Stats</p>
+<p>Level: 43/99</p>
 <p>HP: 516 MP: 458</p>
 <p>STR: 311 VIT: 208 AGI: 266</p>
 <p>INT: 146 MAG: 209 DEX: 242</p>
