@@ -110,7 +110,7 @@ editor:
 <p>『It's already dusk, huh?』</p>
 <p>「Woof.」</p>
 
-<p>I looked out from the guild's counter and saw the sky was a contrast of red and black.</p>
+<p>I looked out from the guild's counter and saw the sky painted in a contrast of red and black.</p>
 
 <p>In less than an hour, the sun would be completely gone.</p>
 

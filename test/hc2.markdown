@@ -335,7 +335,7 @@ function addCorrectChoices()
 		setLink("button1_0", "ref2");
 		stage2debuff = "Alpha"
 
-		if(tower1 == "Wind" || tower1 == "Water")
+		if(tower1 == "Water")
 		{
 			stage3debuff = tower1;
 			stage4debuff = stage3debuff;
@@ -349,10 +349,10 @@ function addCorrectChoices()
 			stage3debuff = "Alpha";
 			stage4debuff = stage3debuff;
 			setLink("button2_0", "ref3");
-			setLink("button3_0", "ref4");
+			setLink("button3_3", "ref4");
 			
-			setLink("button4_2", "ref5");
-			stage5debuff = "Wind";
+			setLink("button4_3", "ref5");
+			stage5debuff = "Water";
 		}
 		break;
 	case "Beta8":
@@ -368,24 +368,14 @@ function addCorrectChoices()
 			setLink("button3_3", "ref4");
 			setLink("button4_4", "ref5");
 		}
-		else if(tower1 == "Wind")
-		{
-			stage3debuff = tower1;
-			stage4debuff = stage3debuff;
-			stage5debuff = stage4debuff;
-			setLink("button2_2", "ref3");
-			setLink("button3_3", "ref4");
-			setLink("button4_7", "ref5");
-		}
 		else
 		{
 			stage3debuff = "Beta";
 			stage4debuff = stage3debuff;
 			setLink("button2_0", "ref3");
-			setLink("button3_1", "ref4");
-
-			setLink("button4_1", "ref5");
-			stage5debuff = "Wind";
+			setLink("button3_3", "ref4");
+			setLink("button4_3", "ref5");
+			stage5debuff = "Lightning";
 		}
 		break;
 	case "Gamma8":
@@ -401,16 +391,7 @@ function addCorrectChoices()
 			setLink("button3_3", "ref4");
 			setLink("button4_7", "ref5");
 		}
-		else
-		{
-			stage3debuff = "Gamma";
-			stage4debuff = stage3debuff;
-			setLink("button2_0", "ref3");
-			setLink("button3_2", "ref4");
 
-			setLink("button4_1", "ref5");
-			stage5debuff = "Water";
-		}
 		break;
 	
 	case "Alpha28":
@@ -418,16 +399,8 @@ function addCorrectChoices()
 		setLink("button3_0", "ref4");
 		stage4debuff = "Alpha";
 
-		if(tower1 == "Lightning")
-		{
-			setLink("button4_3", "ref5");
-			stage5debuff = "Water";
-		}
-		else
-		{
-			setLink("button4_2", "ref5");
-			stage5debuff = "Wind";
-		}
+		setLink("button4_2", "ref5");
+		stage5debuff = "Wind";
 
 		break;
 		
@@ -436,16 +409,8 @@ function addCorrectChoices()
 		setLink("button3_1", "ref4");
 		stage4debuff = "Beta";
 
-		if(tower1 == "Lightning")
-		{
-			setLink("button4_1", "ref5");
-			stage5debuff = "Wind";
-		}
-		else
-		{
-			setLink("button4_3", "ref5");
-			stage5debuff = "Lightning";
-		}
+		setLink("button4_1", "ref5");
+		stage5debuff = "Wind";
 
 		break;
 		

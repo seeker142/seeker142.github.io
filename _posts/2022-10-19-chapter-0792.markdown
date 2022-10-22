@@ -79,7 +79,7 @@ editor:
 
 <p>Also she apparently intended to treat the skilled adventurers as well as possible, so they could focus their efforts on the work that needed to be done.</p>
 
-<p>「I've been hearing a lot of about those dwarves lately.」</p>
+<p>「I've been hearing a lot of things about those dwarves lately.」</p>
 
 <p>We heard a lot of interesting stories from her, such as the dwarves blasting their way through the antidemon hordes at breakneck speeds, as well as the accomplishments of the demonkin army.</p>
 
@@ -129,7 +129,7 @@ editor:
 
 <p>But still, that's the continent of Gordicia for you.</p>
 
-<p>Based only on what we've heard, there were four divine swords gathered here: The Gaia, the Earth's Edge. Ignis, the Brilliant Flameblade. Alpha, the Blade of Origin. Lastly Berserk, the Blade of Madness.</p>
+<p>Based only on what we've heard, there were four divine swords gathered here: Gaia, the Earth's Edge. Ignis, the Brilliant Flameblade. Alpha, the Blade of Origin. Lastly Berserk, the Blade of Madness.</p>
 
 <p>Furthermore, the Dwarf Queen Orfalve, as well as the wielders of Alpha and Berserk were here, meaning that three of the Seven Sages have arrived.</p>
 
