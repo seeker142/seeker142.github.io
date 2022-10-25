@@ -10,7 +10,7 @@ editor:
 ---
 <h2 id="ch796">796: A Distant Memory of Warmth</h2>
 
-<p>『I see it! That's probably Castel!』</p>
+<p>『I see it! That's gotta be Castel!』</p>
 
 <p>It was the day after we handed the dragonkin over to the guild. We departed from Nocta early in the morning.</p>
  
@@ -18,9 +18,9 @@ editor:
 
 <p>Also it seemed like they planned to use them as a bargaining chip against the other dragonkin, who had been getting rather annoying lately. We can let the guild take care of the political stuff.</p>
 
-<p>Then, evening of the day after we left.</p>
+<p>Then, the evening of the day after we left.</p>
 
-<p>Our destination started coming into view.</p>
+<p>Our destination came into view.</p>
 
 <p>We were staring ahead from Urushi's back as he flew through the air.</p>
 
@@ -28,14 +28,14 @@ editor:
 
 <p>In the first place, it was unusual to see not a single light this late in the evening. Like we thought, no one lived here anymore.</p>
 
-<p>What lies before us was one of the many illegal villages abandoned after being destroyed by antidemon raids.</p>
+<p>What lied before us was just one of the many illegal villages abandoned after being destroyed by antidemon raids.</p>
 
 <p>（This is Castel……）</p>
 <p>『……Remind you of anything?』</p>
 <p>（No.）</p>
 <p>『I see.』</p>
 
-<p>Fran shook her head. The sight of the village was not ringing any bells.</p>
+<p>Fran shook her head. The sight of the village did not ring any bells.</p>
 
 <p>Well, it was five years ago and she had never seen the village from this angle. It wouldn't be surprising if she couldn't remember.</p>
 
@@ -47,7 +47,7 @@ editor:
 
 <p>The houses were destroyed and the ground was completely covered with grass. Even the square where we stood had long weeds sticking out from the gaps between the cobblestones.</p>
 
-<p>Human hands had clearly not touched the area for many years. There was not much moss in comparison with the weeds, perhaps because of the relatively dry climate.</p>
+<p>Human hands had clearly not touched the area for many years. There was not much moss in comparison to the weeds, perhaps because of the relatively dry climate.</p>
 
 <p>「……」</p>
 
@@ -87,7 +87,7 @@ editor:
 
 <p>It's no use. She's so focused on drawing out her memories that she can't see anything else.</p>
 
-<p>『Urushi, keep an eye out on her surroundings.』</p>
+<p>『Urushi, keep an eye out on our surroundings.』</p>
 <p>「Woof!」</p>
 
 <p>Meanwhile, Fran continued to wade through the grass.</p>
@@ -100,16 +100,16 @@ editor:
 
 <p>「……」</p>
 
-<p>About 70% of the walls have collapsed, and the remaining parts were rotting and falling apart.</p>
+<p>The walls were about 70% collapsed, and the remaining parts were rotting and falling apart.</p>
 
-<p>The inside of the hut could be seen through the rotting walls. What appeared to be the remnants of furniture were lying around, also encroached upon by weeds.</p>
+<p>We could see in the inside through the non-functional walls. What appeared to be the remnants of furniture were scattered around, also encroached upon by weeds.</p>
 
 <p>Fran silently turned to the side of the abandoned house. There, she found the remains of a door with only the wooden frame remaining.</p>
 
 <p>『Fran?』</p>
 <p>「……Here.」</p>
 
-<p>Fran muttered as she staggered toward the abandoned house, in contrast to the fast pace that she had on the way here.</p>
+<p>Fran muttered as she staggered toward the abandoned house, in contrast to the brisk pace she had on the way here.</p>
 
 <p>These were very heavy steps, as if something was blocking her way forward.</p>
 

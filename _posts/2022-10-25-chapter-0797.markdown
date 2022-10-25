@@ -9,14 +9,14 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch797">797: At the Cemetery</h2>
-<p>Fran cried quietly at the house of her memories, but she calmed down after a short while.</p>
+<p>Fran wept quietly at the house of her memories, but she calmed down after a short while.</p>
 
 <p>『Are you all right?』</p>
 <p>「Nn… thank you.」</p>
 
 <p>She rubbed her eyes and then started to look around the house.</p>
 
-<p>Was it only destroyed by antidemons? Maybe it been ransacked by bandits afterwards? There weren't any dishes or eating utensils, practically nothing was left behind.</p>
+<p>Was all of this destruction caused by antidemons? Maybe it had been ransacked by bandits afterwards? There weren't any dishes or eating utensils, so practically nothing was left behind.</p>
 
 <p>However, Fran seemed to have remembered something. She walked to the corner of the room and started digging in the dirt under the former floor.</p>
 
@@ -47,12 +47,12 @@ editor:
 <p>『Yeah, Amanda said she made one.』</p>
 <p>「Nn!」</p>
 
-<p>I remember her saying that she built the grave in a corner of the cemetery that was originally there.</p>
+<p>I remember her saying that she built a grave in a corner of the cemetery that was originally there.</p>
 
 <p>『Which way is the cemetery?』</p>
 <p>「……That way.」</p>
 
-<p>It looked like her memories of the time in the village had completely returned. She started to walk without hesitation.</p>
+<p>It looked like the memories of her life at the village had completely returned. She started to walk without hesitation.</p>
 
 <p>Something must have clicked inside of her.</p>
 
@@ -68,7 +68,7 @@ editor:
 
 <p>『Why is there no grass here?』</p>
 <p>「Did someone cut the weeds?」</p>
-<p>『No, that's not possible……』</p>
+<p>『No, that shouldn't be possible……』</p>
 
 <p>Wait a minute. Just because no one lives here doesn't necessarily mean that no one ever comes here. Then, would it be possible the former residents visit regularly to take care of the weeds?</p>
 
@@ -79,9 +79,9 @@ editor:
 
 <p>After walking around the cemetery, I was convinced. Someone was clearly tending to the graves.</p>
 
-<p>It wasn't only the grass, the headstones had been cleaned off as well. They had no trace of moss, and barely any dirt on them.</p>
+<p>The grass wasn't the only weird thing, the headstones had been cleaned off as well. They had no trace of moss, and barely any dirt on them.</p>
 
-<p>They must have been cleaned within the past few days. Maybe we could find some Castel survivors if we search the nearby villages and towns.</p>
+<p>They must have been wiped off within the past few days. Maybe we could find some Castel survivors if we search the nearby villages and towns.</p>
 
 <p>Fran wandered around the graveyard for a bit, but she soon found what she was looking for.</p>
 
@@ -93,7 +93,7 @@ editor:
 
 <p>Rather than a beautiful gravestone professionally carved on request, it was a rough gravestone carved by an amateur from some random stone they found.</p>
 
-<p>However, if someone looked closely at the surface, they would learn it was scraped several times over in detail. I could tell that it was made with the utmost care. We felt the hard work and thought that went into the making of the gravestone.</p>
+<p>However, after closely scrutinizing the surface, we found it was scraped several times over in detail. I could tell that it was made with the utmost care. We felt the hard work and thought that went into the making of the gravestone.</p>
 
 <p>After reading the gravestone, we found the names "Kinan" and "Framea" engraved on it. This was definitely the grave of Fran's parents.</p>
 
@@ -114,7 +114,7 @@ editor:
 
 <p>If Fran's okay with it, then I'm good too.</p>
 
-<p>I'm glad we came here. I was able to pledge once again my commitment to protect Fran.</p>
+<p>I'm glad we came here. I was able to reaffirm my commitment to protect Fran.</p>
 
 <p>「Let's clean the grave.」</p>
 <p>『Good idea. We can take care of the weeds too.』</p>
@@ -122,7 +122,7 @@ editor:
 
 <p>It may not be much, but it's important to feel that you did something.</p>
 
-<p>After pulling weeds around the area, we use water magic to clean up the grave of Fran's parents.</p>
+<p>After pulling weeds around the area, we use water magic to wash off the grave of Fran's parents.</p>
 
 <p>Just after we had finished cleaning the graves, Fran suddenly stopped moving. It wasn't just her, Urushi paused too.</p>
 
