@@ -10,10 +10,10 @@ editor:
 ---
 <h2 id="ch799">799: Nadia</h2>
 
-<p>「Sorry about the messy house…… You can use that chair.」</p>
+<p>「Sorry about this mess…… You can use that chair.」</p>
 <p>「Nn. Okay.」</p>
 
-<p>Like the woman said, the house was not clean by any means. She probably didn't care much for cleaning.</p>
+<p>Like the woman said, the house was not clean by any means. She probably didn't care much for cleanliness.</p>
 
 <p>However, the room didn't appear cluttered either, due to the lack of furniture.</p>
 
@@ -25,7 +25,7 @@ editor:
 
 <p>The woman offered Fran a chair and sat herself down on the bed.</p>
 
-<p>「I'd love to offer you a cup of tea, but I don't have anything.」</p>
+<p>「I wish I could offer you a cup of tea, but I don't have anything on hand.」</p>
 <p>「It's okay, let's drink this.」</p>
 <p>「That's dimensional storage! Fran, what in the world happened?!」</p>
 
@@ -38,16 +38,16 @@ editor:
 
 <p>Fran told the woman the story of what had happened to her.</p>
 
-<p>A large number of antidemons attacked the village and killed her parents. After that, she was captured by the blue cats invading the village and made into an illegal slave. Then, a few years passed without any change.</p>
+<p>A large number of antidemons attacked the village and killed her parents. After that, she was captured by the blue cats ransacking the village and made into an illegal slave. Then, a few years passed without any change.</p>
 
-<p>Fran was forced to work somewhere on this continent, and then pushed into a ship and transported to the Jilbard continent.</p>
+<p>Fran was forced to work somewhere on this continent, before being pushed onto a ship and transported to the continent of Jilbard.</p>
 
 <p>That's where she met me.</p>
 
 <p>Fran said that she had never seen the sea before she went to Dars. But that was probably because she boarded and disembarked from the ship at night and was forced into the hold for the entire duration of the voyage.</p>
 
-<p>「You did well to make it back here from Jilbard…… Is the man you mentioned earlier, the one who saved you, still with you?」</p>
-<p>「Nn, my savior and ally. I'll introduce you.」</p>
+<p>「You did well to make it back all the way from Jilbard…… Is the guy you mentioned earlier, the one who saved you, still with you?」</p>
+<p>「Nn, my savior and partner. I'll introduce you.」</p>
 
 <p>Finally, it's my turn!</p>
 
@@ -72,7 +72,7 @@ editor:
 <p>『……Nice to you meet you, Nadia-san.』</p>
 <p>「Heh. Pretty human for a sword. But I guess that's the way it should be.」</p>
 
-<p>Nadia smirked. Looks like calling her Auntie would have been a mistake.</p>
+<p>Nadia smirked. Like I thought, calling her Auntie would have been a mistake.</p>
 
 <p>「So Master was the one?」</p>
 <p>「Nn. Master saved me.」</p>
@@ -88,15 +88,15 @@ editor:
 <p>「My friend Urushi.」</p>
 <p>「Woof!」</p>
 
-<p>A small dog-sized Urushi appeared from Fran's shadow and barked in a devilishly cute manner. Seems like he plans to continue this charade in front of Nadia.</p>
+<p>A puppy-sized Urushi appeared from Fran's shadow and barked in a devilishly cute manner. Seems like he plans to continue this charade in front of Nadia.</p>
 
 <p>「So you've become so ridiculously strong that you've got a beast this powerful serving you……」</p>
 
-<p>However, that had no effect on Nadia, since she saw right through him.</p>
+<p>However, that had no effect on Nadia, since she saw right through his abilities.</p>
 
 <p>「And with a legendary Intelligence Weapon…… What kind of adventures did you have to go on to achieve this?」</p>
 <p>「Really great adventures!」</p>
-<p>『Well, a lot as happened.』</p>
+<p>『Well, a lot happened.』</p>
 <p>「Nn! A lot!」</p>
 
 <p>Fran gave a brief summary of all the adventures she had been on so far, with me occasionally adding details.</p>
@@ -111,7 +111,7 @@ editor:
 <p>「Whoa! That's amazing, Fran!」</p>
 <p>「Nn!」</p>
 
-<p>Uhh, did she ever say that? Well, she's probably exaggerating a bit.</p>
+<p>Uhh, did she ever say that? Well, I guess I can let a few exaggerations slide.</p>
 
 <p>Nadia was good enough of a listener to give the proper reactions to all of Fran's stories too.</p>
 
@@ -123,7 +123,7 @@ editor:
 <p>Fran was satisfied with the tale of her great adventure, although she hid the parts that needed to be hidden. She sipped the now cold tea and took a breather.</p>
 
 <p>『Do you know anything about the Intelligence Weapon that Trismegistus supposedly has?』</p>
-<p>「Nothing about the details. I've only heard he's been using it for millenia, and that it's a special enchanted sword.」</p>
+<p>「Nothing about the details. I've only heard he's been using it for millennia, and that it's a special enchanted sword.」</p>
 
 <p>As I thought, she didn't know much about it. However, this did back the claim that he was using a special sword.</p>
 

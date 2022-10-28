@@ -19,9 +19,9 @@ editor:
 <p>『I see.』</p>
 <p>（Nn!）</p>
 
-<p>We are currently still using the Evolution Cloaking skill. I'm don't know if it's actually effective, but it's supposed to help mask signs of our presence.</p>
+<p>We are currently still using the Evolution Cloaking skill. It's also supposed to help mask signs of our presence, but I don't know how effective it actually is.</p>
 
-<p>A beastman can tell if another beastman has evolved just by looking at them.</p>
+<p>A beastman can normally tell if another beastman has evolved just by looking at them.</p>
 
 <p>That's why I had the thought that evolved beastmen emit some kind of substance or force that other beastmen can sense.</p>
 
@@ -42,7 +42,7 @@ editor:
 <p>「It's as big of a secret that one.」</p>
 <p>『Nah, as much as it pains me to say it, I think you'll be even more surprised by this one.』</p>
 
-<p>I'm proud to say that my secrets are quite big, but evolution will be a much bigger surprise to any black cat.</p>
+<p>Not much can beat me when it comes to containing national-security level secrets, but evolution will be a much bigger surprise to any black cat.</p>
 
 <p>『I'm sure you'll scream in surprise.』</p>
 <p>「That's right.」</p>
@@ -59,15 +59,15 @@ editor:
 <p>「Master.」</p>
 <p>『Got it.』</p>
 
-<p>Then, just as I canceled the Evolution Cloaking, Nadia stood up with a tremendous force, making the bed creak.</p>
+<p>Then, just as I canceled the Evolution Cloaking, Nadia stood up with a tremendous force, making the bed creak loudly.</p>
 
 <p>「……!」</p>
 
 <p>She was left speechless.</p>
 
-<p>「……!!」</p>
+<p>「……! !」</p>
 
-<p>She stared at Fran with her eyes open to the limit, her mouth still moving like a goldfish panting at a lack of oxygen.</p>
+<p>She stared at Fran with her eyes open to the limit, her mouth continuously moving like a goldfish panting from lack of oxygen.</p>
 
 <p>「……Ah!」</p>
 <p>「Black cats can evolve.」</p>
@@ -87,12 +87,12 @@ editor:
 
 <p>The tears flowed silently but steadily.</p>
 
-<p>「So we weren't failures, then?」</p>
+<p>「So we weren't failures then?」</p>
 <p>「Nn! Of course not.」</p>
 
 <p>Nadia was in tears for a while, but after a few minutes she stood up excitedly.</p>
 
-<p>「Hahahaha! That was great! Amazing! You sure surprised me!」</p>
+<p>「Hahahaha! That was great! Amazing! You sure got me good!」</p>
 <p>「Hehe.」</p>
 <p>「How did you evolve?」</p>
 <p>「Killing fiends.」</p>
@@ -103,20 +103,20 @@ editor:
 <p>「So that would be impossible as long as I'm in Gordicia?」</p>
 <p>「Nn.」</p>
 
-<p>Nadia was born and raised on the continent of Gordicia, so she had never seen a fiend.</p>
+<p>Nadia was born and raised on the continent of Gordicia, so she had never seen a fiend in person.</p>
 
-<p>Not even a goblin.</p>
+<p>Not even a mere goblin.</p>
 
 <p>「I have to go to another continent……?」</p>
 
-<p>Nadia muttered in confusion. At her age, it must take a lot of courage to venture outside the continent where she was born and raised. She would have to weigh that against evolution, the goal of every member of her race.</p>
+<p>Nadia let out a confused mutter. At her age, it must take a lot of courage to venture outside the continent she called home. She would have to weigh that against evolution, the goal of every member of her race.</p>
 
 <p>「And how is it that I couldn't tell you were evolved until just now?」</p>
 <p>「Because of Master.」</p>
 <p>『I have a skill that allows me to hide her evolution.』</p>
 <p>「A skill like that exists? It's like you were made to be Fran's sword.」</p>
 
-<p>To tell you the truth, I didn't get this skill until after Fran evolved. I can however agree that I am the perfect sword for Fran.</p>
+<p>To tell you the truth, I only got this skill after Fran evolved, but I can however agree that I am the perfect sword for Fran.</p>
 
 <p>「But that's not all. I evolved because of Master.」</p>
 <p>「Is that so?」</p>
