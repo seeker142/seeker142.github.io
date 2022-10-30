@@ -70,7 +70,7 @@ editor:
 
 <p>In particular, we wanted to confirm two points.</p>
 
-<p>The first is the mastering the newly increased level of our Physical Manipulation skill. This is a higher tier skill that integrated various physical enhancement skills and can strengthen all our stats.</p>
+<p>The first is mastering the newly increased level of our Physical Manipulation skill. This is a higher tier skill that integrated various physical enhancement skills and can strengthen all our stats.</p>
 
 <p>Currently, the only way we could fight against Hilt with her Dimitris Style Secret Art 'Heaven' is to use the Potential Release skill.</p>
 

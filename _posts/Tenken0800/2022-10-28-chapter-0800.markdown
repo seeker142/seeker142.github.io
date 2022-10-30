@@ -39,7 +39,7 @@ editor:
 
 <p>「Actually, I still have another secret.」</p>
 <p>「Huh, another secret? It can't be bigger than the one about Master being a failed divine sword, right?」</p>
-<p>「It's as big of a secret that one.」</p>
+<p>「It's as big of a secret as that one.」</p>
 <p>『Nah, as much as it pains me to say it, I think you'll be even more surprised by this one.』</p>
 
 <p>Not much can beat me when it comes to containing national-security level secrets, but evolution will be a much bigger surprise to any black cat.</p>
@@ -65,7 +65,7 @@ editor:
 
 <p>She was left speechless.</p>
 
-<p>「……! !」</p>
+<p>「……!!」</p>
 
 <p>She stared at Fran with her eyes open to the limit, her mouth continuously moving like a goldfish panting from lack of oxygen.</p>
 
@@ -79,7 +79,7 @@ editor:
 <p>「Nn.」</p>
 <p>「Ha… Haha……」</p>
 
-<p>Nadia collapsed to her knees in front of Fran. She slowly reached out and cupped Fran's cheeks between her hands. Their eyes were on the same level.</p>
+<p>Nadia collapsed to her knees in front of Fran. She slowly reached out and cupped Fran's cheeks between her hands. Their eyes were now on the same level.</p>
 
 <p>Then she cried again.</p>
 
@@ -120,7 +120,7 @@ editor:
 
 <p>「But that's not all. I evolved because of Master.」</p>
 <p>「Is that so?」</p>
-<p>「Nn. It's also thanks to the Master that I know what it takes to evolve.」</p>
+<p>「Nn. It's also thanks to Master that I know what it takes to evolve.」</p>
 
 <p>When Fran nodded her head, Nadia suddenly turned serious. She was staring at me.</p>
 
