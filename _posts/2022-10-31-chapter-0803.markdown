@@ -2,7 +2,7 @@
 layout: post
 title:  "Tenken Chapter 803"
 permalink: Tenken/0803.html
-categories: Tenken
+categories: TenKen
 chapter: 803
 exclude: true
 translator: Seeker
@@ -52,7 +52,7 @@ editor:
 <p>『Gnrgh……』</p>
 
 <br>
-<p>Name: Overgrowth, the Golden Devourer Sword</p>
+<p>Name: Overgrowth, the Golden Devourer<sup>[<a href="#ref1">1</a>]</sup> Sword</p>
 <p>Attack: 4417, Magic: 10631, Durability: 6697</p>
 <p>Mana Conductivity: S</p>
 <p>Skills</p>
@@ -151,5 +151,7 @@ editor:
 
 <p>I see. That would certainly explain why he isn't well known.</p>
 
-
+<br>
+<p>===== (Translation notes)</p>
+<p id="ref1"> [1] Golden Devourer (金喰/konjiki) - Could also be read as "Soul Eater" (魂喰/konjiki)</p>
 

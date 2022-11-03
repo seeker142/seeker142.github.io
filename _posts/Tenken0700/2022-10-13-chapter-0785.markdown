@@ -2,7 +2,7 @@
 layout: post
 title:  "Tenken Chapter 785"
 permalink: Tenken/0785.html
-categories: Tenken
+categories: TenKen
 chapter: 785
 exclude: true
 translator: Seeker
