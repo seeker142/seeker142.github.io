@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tenken Chapter 755"
+title:  "TenKen Chapter 755"
 permalink: Tenken/0755.html
 categories: TenKen
 chapter: 755
