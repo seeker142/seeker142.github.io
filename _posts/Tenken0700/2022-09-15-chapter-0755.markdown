@@ -9,126 +9,166 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch755">755: Amanda After Jean</h2>
-<p>『Well, it's been a while since we were in Alessa. Let's head to the Adventurers Guild first.』</p>
-<p>「Nn.」</p>
-<p>「Woof!」</p>
 
-<p>As one would expect, the news hadn't reached this far yet, so there was no commotion as we walked through the streets of Alessa.</p>
+『Well, it's been a while since we were in Alessa. Let's head to the Adventurers Guild first.』
 
-<p>Some of the merchants knew Fran from before, but they didn't recognize her as the tournament champion. After all, she looked too young and too cute for that.</p>
+「Nn.」
 
-<p>While strolling leisurely through the town for the first time in a long while, a familiar face could be seen walking towards us.</p>
+「Woof!」
 
-<p>No, she must have sensed Fran's presence and dashed directly towards us.</p>
+As one would expect, the news hadn't reached this far yet, so there was no commotion as we walked through the streets of Alessa.
 
-<p>「Fran-chan!」</p>
-<p>「Amanda.」</p>
-<p>「It's been forever! I missed you so much!」</p>
-<p>「Mgyu.」</p>
+Some of the merchants knew Fran from before, but they didn't recognize her as the tournament champion. After all, she looked too young and too cute for that.
 
-<p>Without stopping, Amanda hugged Fran.</p>
+While strolling leisurely through the town for the first time in a long while, a familiar face could be seen walking towards us.
 
-<p>「I heard the news from the guildmaster! Congratulations on winning the tournament!」</p>
-<p>「Mrgh.」</p>
-<p>「But… are you okay? Did you get hurt a lot?」</p>
-<p>「Mgah.」</p>
-<p>「Fran-chan?」</p>
-<p>「Nnrgh……」</p>
+No, she must have sensed Fran's presence and dashed directly towards us.
 
-<p>She was held so tightly in Amanda's ample bosom that she couldn't breathe. But she knew Amanda didn't mean any harm, so she couldn't bring herself to force her off.</p>
+「Fran-chan!」
 
-<p>『Umm, Fran's starting to suffocate, so can you go a little easier on her?』</p>
-<p>「Ahhh! I'm sorry! Fran-chan, are you okay?」</p>
-<p>「Nn. I'm fine」</p>
+「Amanda.」
 
-<p>Fran was smiling, even though she was almost choked to death.</p>
+「It's been forever! I missed you so much!」
 
-<p>「I can't believe you won! You really did an amazing job!」</p>
-<p>「Nn. I tried my best.」</p>
-<p>「But you know, there are still a lot of strong guys out there in the world. Don't get too overconfident, okay?」</p>
-<p>「Thanks. I'll be careful.」</p>
-<p>「Ufufufu. Maybe that was a little too nosy of me? You'll be fine as long as you stay aware of that.」</p>
+「Mgyu.」
 
-<p>Fran looked really happy to be talking to Amanda. She was one of the few people who Fran lets fawn over her.</p>
+Without stopping, Amanda hugged Fran.
 
-<p>「Anyways, why don't we go to the Adventurers Guild? You were on your way there, right?」</p>
-<p>「Nn.」</p>
+「I heard the news from the guildmaster! Congratulations on winning the tournament!」
 
-<p>And so we set out again for the Adventurers Guild. We passed some adventurers along the way, but they didn't seem to know anything about Fran.</p>
+「Mrgh.」
 
-<p>Klimt and Amanda had heard about her through the magic communications, but it looked like the word had not yet spread among the regular adventurers.</p>
+「But… are you okay? Did you get hurt a lot?」
 
-<p>「If you had been a few days later, there might have been a big celebration.」</p>
-<p>『I wouldn't want that.』</p>
-<p>「It's a good thing it was today.」</p>
-<p>「Nn. Since you're here too.」</p>
-<p>「I know right! I'm supposed to leave for the north again tomorrow! It must be fate that we could meet today!」</p>
+「Mgah.」
 
-<p>We arrived at the guild along with this Rank A adventurer, so excited that she was spinning around in circles, attracting quite a bit of attention. There, we met another familiar face.</p>
+「Fran-chan?」
 
-<p>「Oh, Fran-san, is that you? Nice seeing you again after so long.」</p>
+「Nnrgh……」
 
-<p>That was Freon, a plain-looking, thin-eyed elf man. We had once worked together on a dungeon investigation.</p>
+She was held so tightly in Amanda's ample bosom that she couldn't breathe. But she knew Amanda didn't mean any harm, so she couldn't bring herself to force her off.
 
-<p>His use of spirit magic, and his plain appearance despite being an elf left a lasting impression on me.</p>
+『Umm, Fran's starting to suffocate, so can you go a little easier on her?』
 
-<p>「Nn. You too, Freon.」</p>
+「Ahhh! I'm sorry! Fran-chan, are you okay?」
 
-<p>What a surprise! Fran actually remembered Freon! She had completely forgotten about Krad, who was on the same request…… Maybe she had a strong impression of Freon as a spirit caster?</p>
+「Nn. I'm fine」
 
-<p>Fran stared at Freon's shoulder rather than his face. I was wondering about that too. There was clearly a spirit there.</p>
+Fran was smiling, even though she was almost choked to death.
 
-<p>It was a sensation I had not noticed before.</p>
+「I can't believe you won! You really did an amazing job!」
 
-<p>And it must be a decently strong spirit. Maybe it was around mid-class level?</p>
+「Nn. I tried my best.」
 
-<p>「Can you… see the spirit?」</p>
-<p>「Kinda…」</p>
-<p>「That's wonderful. If you train your senses, you may be able to use spirit magic.」</p>
-<p>「I'll do my best.」</p>
+「But you know, there are still a lot of strong guys out there in the world. Don't get too overconfident, okay?」
 
-<p>While Fran was talking with Freon, Amanda had some sort of exchange with Nell-san at the reception desk.</p>
+「Thanks. I'll be careful.」
 
-<p>「Can we meet with the guildmaster?」</p>
-<p>「No, he and Donadrond-san are handling the official from the capital right now.」</p>
-<p>「Oh, I remember you telling me about something like that.」</p>
-<p>「You said meeting him was too much trouble and refused, so now he's pissed.」</p>
-<p>「I guess we can't help it. Sorry Fran-chan, the guildmaster is stuck at work.」</p>
-<p>「Work can't be helped.」</p>
-<p>「Anyways, congratulations, Fran-chan!」</p>
+「Ufufufu. Maybe that was a little too nosy of me? You'll be fine as long as you stay aware of that.」
 
-<p>Nell-san, the receptionist, leaned over the counter to congratulate Fran on her win. This girl has been very sweet to Fran ever since they first met.</p>
+Fran looked really happy to be talking to Amanda. She was one of the few people who Fran lets fawn over her.
 
-<p>Well, I can understand why someone would want to give favor to a beautiful girl like Fran, when most adventurers are crass and sweaty men.</p>
+「Anyways, why don't we go to the Adventurers Guild? You were on your way there, right?」
 
-<p>「Thanks. You knew?」</p>
-<p>「Of course I do, with my receptionist privilege.」</p>
+「Nn.」
 
-<p>The guild officials apparently knew that Fran had won the tournament. Now that you mention it, I can feel the admiring glances from the other receptionists too.</p>
+And so we set out again for the Adventurers Guild. We passed some adventurers along the way, but they didn't seem to know anything about Fran.
 
-<p>Fran must be happy to be praised by someone she knows. She was smiling.</p>
+Klimt and Amanda had heard about her through the magic communications, but it looked like the word had not yet spread among the regular adventurers.
 
-<p>「I never thought that the girl I went into the dungeon with would become so strong in just one year. Who would've thought that she would win the martial arts tournament…」</p>
-<p>「…? You know too, Freon?」</p>
-<p>「Y-Yes. I'm a very well-informed person.」</p>
-<p>「Whoa, amazing.」</p>
+「If you had been a few days later, there might have been a big celebration.」
 
-<p>The other adventurers didn't know about Fran's win, but being the youngest winner is great news in its own right. Maybe it's possible to find out such news with the right sources.</p>
+『I wouldn't want that.』
 
-<p>「Hmmm…… So, how about a little mock battle with me outside of town?」</p>
+「It's a good thing it was today.」
 
-<p>Amanda suggested such a thing. Was it my imagination, or did she look strangely serious?</p>
+「Nn. Since you're here too.」
 
-<p>Fran, a girl who loves to fight, would never turn down an invitation to a mock battle. She nodded her head without a moment's pause.</p>
+「I know right! I'm supposed to leave for the north again tomorrow! It must be fate that we could meet today!」
 
-<p>「Okay!」</p>
-<p>「Ufufu. Then let's go.」</p>
-<p>「I don't mind a mock battle, but don't overdo it and ruin a beginner's hunting ground!」</p>
-<p>「We'll be fine! Right, Fran-chan?」</p>
-<p>「Nn.」</p>
-<p>「I don't trust you!」</p>
+We arrived at the guild along with this Rank A adventurer, so excited that she was spinning around in circles, attracting quite a bit of attention. There, we met another familiar face.
 
-<p>Nell-san, that is very true. Well, I'll be watching over them too.</p>
+「Oh, Fran-san, is that you? Nice seeing you again after so long.」
+
+That was Freon, a plain-looking, thin-eyed elf man. We had once worked together on a dungeon investigation.
+
+His use of spirit magic, and his plain appearance despite being an elf left a lasting impression on me.
+
+「Nn. You too, Freon.」
+
+What a surprise! Fran actually remembered Freon! She had completely forgotten about Krad, who was on the same request…… Maybe she had a strong impression of Freon as a spirit caster?
+
+Fran stared at Freon's shoulder rather than his face. I was wondering about that too. There was clearly a spirit there.
+
+It was a sensation I had not noticed before.
+
+And it must be a decently strong spirit. Maybe it was around mid-class level?
+
+「Can you… see the spirit?」
+
+「Kinda…」
+
+「That's wonderful. If you train your senses, you may be able to use spirit magic.」
+
+「I'll do my best.」
+
+While Fran was talking with Freon, Amanda had some sort of exchange with Nell-san at the reception desk.
+
+「Can we meet with the guildmaster?」
+
+「No, he and Donadrond-san are handling the official from the capital right now.」
+
+「Oh, I remember you telling me about something like that.」
+
+「You said meeting him was too much trouble and refused, so now he's pissed.」
+
+「I guess we can't help it. Sorry Fran-chan, the guildmaster is stuck at work.」
+
+「Work can't be helped.」
+
+「Anyways, congratulations, Fran-chan!」
+
+Nell-san, the receptionist, leaned over the counter to congratulate Fran on her win. This girl has been very sweet to Fran ever since they first met.
+
+Well, I can understand why someone would want to give favor to a beautiful girl like Fran, when most adventurers are crass and sweaty men.
+
+「Thanks. You knew?」
+
+「Of course I do, with my receptionist privilege.」
+
+The guild officials apparently knew that Fran had won the tournament. Now that you mention it, I can feel the admiring glances from the other receptionists too.
+
+Fran must be happy to be praised by someone she knows. She was smiling.
+
+「I never thought that the girl I went into the dungeon with would become so strong in just one year. Who would've thought that she would win the martial arts tournament…」
+
+「…? You know too, Freon?」
+
+「Y-Yes. I'm a very well-informed person.」
+
+「Whoa, amazing.」
+
+The other adventurers didn't know about Fran's win, but being the youngest winner is great news in its own right. Maybe it's possible to find out such news with the right sources.
+
+「Hmmm…… So, how about a little mock battle with me outside of town?」
+
+Amanda suggested such a thing. Was it my imagination, or did she look strangely serious?
+
+Fran, a girl who loves to fight, would never turn down an invitation to a mock battle. She nodded her head without a moment's pause.
+
+「Okay!」
+
+「Ufufu. Then let's go.」
+
+「I don't mind a mock battle, but don't overdo it and ruin a beginner's hunting ground!」
+
+「We'll be fine! Right, Fran-chan?」
+
+「Nn.」
+
+「I don't trust you!」
+
+Nell-san, that is very true. Well, I'll be watching over them too.
 
 
 

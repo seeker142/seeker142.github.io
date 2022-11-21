@@ -9,150 +9,176 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch797">797: At the Cemetery</h2>
-<p>Fran wept quietly at the house of her memories, but she calmed down after a short while.</p>
 
-<p>『Are you all right?』</p>
-<p>「Nn… thank you.」</p>
+Fran wept quietly at the house of her memories, but she calmed down after a short while.
 
-<p>She rubbed her eyes and then started to look around the house.</p>
+『Are you all right?』
 
-<p>Was all of this destruction caused by antidemons? Maybe it had been ransacked by bandits afterwards? There weren't any dishes or eating utensils, so practically nothing was left behind.</p>
+「Nn… thank you.」
 
-<p>However, Fran seemed to have remembered something. She walked to the corner of the room and started digging in the dirt under the former floor.</p>
+She rubbed her eyes and then started to look around the house.
 
-<p>After a few seconds of digging, without caring about getting her hands dirty, Fran picked up something from the dirt.</p>
+Was all of this destruction caused by antidemons? Maybe it had been ransacked by bandits afterwards? There weren't any dishes or eating utensils, so practically nothing was left behind.
 
-<p>「This is……」</p>
-<p>『A mug cup……?』</p>
-<p>「Nn. A cup I got for my birthday.」</p>
+However, Fran seemed to have remembered something. She walked to the corner of the room and started digging in the dirt under the former floor.
 
-<p>The mug that had broken in half probably used to be white. It was now covered in dirt, but after a wash with water magic, the white surface was revealed. I could also see a small black spiral-like pattern on it.</p>
+After a few seconds of digging, without caring about getting her hands dirty, Fran picked up something from the dirt.
 
-<p>It had been a gift from her parents on her fifth birthday.</p>
+「This is……」
 
-<p>As a child, Fran loved this mug and drank water, tea, and anything else from it.</p>
+『A mug cup……?』
 
-<p>One day, however, she accidentally broke it. Afraid of being scolded, Fran removed the floorboards and buried it in the ground to hide it.</p>
+「Nn. A cup I got for my birthday.」
 
-<p>And thanks to that event, this was the only thing left behind.</p>
+The mug that had broken in half probably used to be white. It was now covered in dirt, but after a wash with water magic, the white surface was revealed. I could also see a small black spiral-like pattern on it.
 
-<p>『Want to get it fixed? It should be rather easy.』</p>
-<p>「Really?」</p>
-<p>『Yeah.』</p>
-<p>「Nn! Let's fix it! I'll do whatever it takes!」</p>
+It had been a gift from her parents on her fifth birthday.
 
-<p>She finally smiled. I knew that depressed mood never suited Fran.</p>
+As a child, Fran loved this mug and drank water, tea, and anything else from it.
 
-<p>「Next, let's find the grave.」</p>
-<p>『Yeah, Amanda said she made one.』</p>
-<p>「Nn!」</p>
+One day, however, she accidentally broke it. Afraid of being scolded, Fran removed the floorboards and buried it in the ground to hide it.
 
-<p>I remember her saying that she built a grave in a corner of the cemetery that was originally there.</p>
+And thanks to that event, this was the only thing left behind.
 
-<p>『Which way is the cemetery?』</p>
-<p>「……That way.」</p>
+『Want to get it fixed? It should be rather easy.』
 
-<p>It looked like the memories of her life at the village had completely returned. She started to walk without hesitation.</p>
+「Really?」
 
-<p>Something must have clicked inside of her.</p>
+『Yeah.』
 
-<p>She no longer had the confused look that she wore when we first stepped foot into Castel.</p>
+「Nn! Let's fix it! I'll do whatever it takes!」
 
-<p>「There, the graves.」</p>
+She finally smiled. I knew that depressed mood never suited Fran.
 
-<p>After looking in that direction, I saw the remnants of a rotting wooden fence peeking out from the grass. That appeared to be the boundary separating the village plaza from the area beyond.</p>
+「Next, let's find the grave.」
 
-<p>After breaking through a sea of grass, we found ourselves in a cemetery.</p>
+『Yeah, Amanda said she made one.』
 
-<p>But isn't this a bit strange?</p>
+「Nn!」
 
-<p>『Why is there no grass here?』</p>
-<p>「Did someone cut the weeds?」</p>
-<p>『No, that shouldn't be possible……』</p>
+I remember her saying that she built a grave in a corner of the cemetery that was originally there.
 
-<p>Wait a minute. Just because no one lives here doesn't necessarily mean that no one ever comes here. Then, would it be possible the former residents visit regularly to take care of the weeds?</p>
+『Which way is the cemetery?』
 
-<p>Maybe they wanted to clean up the cemetery at least.</p>
+「……That way.」
 
-<p>『Well, I guess it makes it easier to find the graves, right?』</p>
-<p>「Nn.」</p>
+It looked like the memories of her life at the village had completely returned. She started to walk without hesitation.
 
-<p>After walking around the cemetery, I was convinced. Someone was clearly tending to the graves.</p>
+Something must have clicked inside of her.
 
-<p>The grass wasn't the only weird thing, the headstones had been cleaned off as well. They had no trace of moss, and barely any dirt on them.</p>
+She no longer had the confused look that she wore when we first stepped foot into Castel.
 
-<p>They must have been wiped off within the past few days. Maybe we could find some Castel survivors if we search the nearby villages and towns.</p>
+「There, the graves.」
 
-<p>Fran wandered around the graveyard for a bit, but she soon found what she was looking for.</p>
+After looking in that direction, I saw the remnants of a rotting wooden fence peeking out from the grass. That appeared to be the boundary separating the village plaza from the area beyond.
 
-<p>「That's……」</p>
-<p>『Yeah, it's definitely different from the others.』</p>
-<p>「Nn.」</p>
+After breaking through a sea of grass, we found ourselves in a cemetery.
 
-<p>Amanda said she had made the grave herself, and the one in front of us was clearly different from the others.</p>
+But isn't this a bit strange?
 
-<p>Rather than a beautiful gravestone professionally carved on request, it was a rough gravestone carved by an amateur from some random stone they found.</p>
+『Why is there no grass here?』
 
-<p>However, after closely scrutinizing the surface, we found it was scraped several times over in detail. I could tell that it was made with the utmost care. We felt the hard work and thought that went into the making of the gravestone.</p>
+「Did someone cut the weeds?」
 
-<p>After reading the gravestone, we found the names "Kinan" and "Framea" engraved on it. This was definitely the grave of Fran's parents.</p>
+『No, that shouldn't be possible……』
 
-<p>「Mom, Dad.」</p>
-<p>『……』</p>
-<p>「Woof……」</p>
-<p>「……」</p>
+Wait a minute. Just because no one lives here doesn't necessarily mean that no one ever comes here. Then, would it be possible the former residents visit regularly to take care of the weeds?
 
-<p>We silently paid our respects.</p>
+Maybe they wanted to clean up the cemetery at least.
 
-<p>Fran's mom and dad. My name is Master and I'm Fran's partner. I know you may be worried that I can't be trusted to take care of your daughter, but I swear to protect Fran even if it costs me my life. Please continue to watch over Fran from the heavens.</p>
+『Well, I guess it makes it easier to find the graves, right?』
 
-<p>A few minutes later, Fran looked up to the sky. Then, she nodded her head.</p>
+「Nn.」
 
-<p>「……Nn. I'm done.」</p>
-<p>『Already?』</p>
-<p>「Nn. I've said my goodbyes.」</p>
+After walking around the cemetery, I was convinced. Someone was clearly tending to the graves.
 
-<p>If Fran's okay with it, then I'm good too.</p>
+The grass wasn't the only weird thing, the headstones had been cleaned off as well. They had no trace of moss, and barely any dirt on them.
 
-<p>I'm glad we came here. I was able to reaffirm my commitment to protect Fran.</p>
+They must have been wiped off within the past few days. Maybe we could find some Castel survivors if we search the nearby villages and towns.
 
-<p>「Let's clean the grave.」</p>
-<p>『Good idea. We can take care of the weeds too.』</p>
-<p>「Nn.」</p>
+Fran wandered around the graveyard for a bit, but she soon found what she was looking for.
 
-<p>It may not be much, but it's important to feel that you did something.</p>
+「That's……」
 
-<p>After pulling weeds around the area, we use water magic to wash off the grave of Fran's parents.</p>
+『Yeah, it's definitely different from the others.』
 
-<p>Just after we had finished cleaning the graves, Fran suddenly stopped moving. It wasn't just her, Urushi paused too.</p>
+「Nn.」
 
-<p>「Hmm?」</p>
-<p>「Woof woof!」</p>
-<p>『That's――』</p>
+Amanda said she had made the grave herself, and the one in front of us was clearly different from the others.
 
-<p>I could feel it too. There was clearly a human presence.</p>
+Rather than a beautiful gravestone professionally carved on request, it was a rough gravestone carved by an amateur from some random stone they found.
 
-<p>After scanning the surroundings again, I detected the faintest hint of a human in the vicinity.</p>
+However, after closely scrutinizing the surface, we found it was scraped several times over in detail. I could tell that it was made with the utmost care. We felt the hard work and thought that went into the making of the gravestone.
 
-<p>We had assumed the village was uninhabited, but that might have been a mistake.</p>
+After reading the gravestone, we found the names "Kinan" and "Framea" engraved on it. This was definitely the grave of Fran's parents.
 
-<p>I searched more extensively, and found that there seemed to be a person in a house next to the cemetery.</p>
+「Mom, Dad.」
 
-<p>Was someone really living in this abandoned village? Or did they have some reason for hiding in here? Either way, the fact that they were able to conceal themselves from us for so long indicated they were quite skillful.</p>
+『……』
 
-<p>If their presence concealment had not been momentarily disturbed for some reason, we might have left Castel without noticing them.</p>
+「Woof……」
 
-<p>『What do we do? I have no clue who they could be.』</p>
+「……」
 
-<p>They weren't necessarily going to be friendly. For example, there was always the possibility of them being a former adventurer turned bandit or a member of a criminal organization.</p>
+We silently paid our respects.
 
-<p>However, Fran started walking toward the presence.</p>
+Fran's mom and dad. My name is Master and I'm Fran's partner. I know you may be worried that I can't be trusted to take care of your daughter, but I swear to protect Fran even if it costs me my life. Please continue to watch over Fran from the heavens.
 
-<p>（Maybe we can get some info on Castel.）</p>
-<p>『Okay, just be careful. Urushi, get ready to attack from the shadows at any moment.』</p>
-<p>（Woof!）</p>
+A few minutes later, Fran looked up to the sky. Then, she nodded her head.
 
-<p>Let's see what kind of guy is hiding here.</p>
+「……Nn. I'm done.」
+
+『Already?』
+
+「Nn. I've said my goodbyes.」
+
+If Fran's okay with it, then I'm good too.
+
+I'm glad we came here. I was able to reaffirm my commitment to protect Fran.
+
+「Let's clean the grave.」
+
+『Good idea. We can take care of the weeds too.』
+
+「Nn.」
+
+It may not be much, but it's important to feel that you did something.
+
+After pulling weeds around the area, we use water magic to wash off the grave of Fran's parents.
+
+Just after we had finished cleaning the graves, Fran suddenly stopped moving. It wasn't just her, Urushi paused too.
+
+「Hmm?」
+
+「Woof woof!」
+
+『That's――』
+
+I could feel it too. There was clearly a human presence.
+
+After scanning the surroundings again, I detected the faintest hint of a human in the vicinity.
+
+We had assumed the village was uninhabited, but that might have been a mistake.
+
+I searched more extensively, and found that there seemed to be a person in a house next to the cemetery.
+
+Was someone really living in this abandoned village? Or did they have some reason for hiding in here? Either way, the fact that they were able to conceal themselves from us for so long indicated they were quite skillful.
+
+If their presence concealment had not been momentarily disturbed for some reason, we might have left Castel without noticing them.
+
+『What do we do? I have no clue who they could be.』
+
+They weren't necessarily going to be friendly. For example, there was always the possibility of them being a former adventurer turned bandit or a member of a criminal organization.
+
+However, Fran started walking toward the presence.
+
+（Maybe we can get some info on Castel.）
+
+『Okay, just be careful. Urushi, get ready to attack from the shadows at any moment.』
+
+（Woof!）
+
+Let's see what kind of guy is hiding here.
 
 
 

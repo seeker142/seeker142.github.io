@@ -9,133 +9,156 @@ translator: Seeker
 editor:
 ---
 <h2 id="ch826">826: Jayne</h2>
-<p>After the dwarves showed up, another army appeared. This time, an army of demonkin.</p>
 
-<p>With their support, we managed to join up with the dwarves.</p>
+After the dwarves showed up, another army appeared. This time, an army of demonkin.
 
-<p>「Orfalve-sama! Thank you for your assistance!」</p>
-<p>「Fuahahaha! It is just what we needed to repay our debt to Fran! You need not worry about it!」</p>
+With their support, we managed to join up with the dwarves.
 
-<p>The dwarf queen laughed off Hilt's words and welcomed our hundred man army into their ranks.</p>
+「Orfalve-sama! Thank you for your assistance!」
 
-<p>The dwarves came forward to protect Fran and the others, smiling at us as we passed them by. They also seemed to be trying to reassure us by giving us a thumbs-up or a guts-pose.</p>
+「Fuahahaha! It is just what we needed to repay our debt to Fran! You need not worry about it!」
 
-<p>Their opponents were no normal antidemons. Even without the ability to coordinate, the hordes still consisted of elites, the powerful black antidemons. Your average soldier would be saying their prayers right about now.</p>
+The dwarf queen laughed off Hilt's words and welcomed our hundred man army into their ranks.
 
-<p>To the dwarves, however, this difference was insignificant.</p>
+The dwarves came forward to protect Fran and the others, smiling at us as we passed them by. They also seemed to be trying to reassure us by giving us a thumbs-up or a guts-pose.
 
-<p>Just as I had seen in our first battle with the dwarves, they simply marched forward, knocking down the antidemons with impunity.</p>
+Their opponents were no normal antidemons. Even without the ability to coordinate, the hordes still consisted of elites, the powerful black antidemons. Your average soldier would be saying their prayers right about now.
 
-<p>The march of the dwarves showed no sign of stopping. They made it look so easy that the thought, "Huh, were they really that weak?", almost passed through my head.</p>
+To the dwarves, however, this difference was insignificant.
 
-<p>Especially Orfalve, who was leading the warriors on the front line, was a surprise even to us.</p>
+Just as I had seen in our first battle with the dwarves, they simply marched forward, knocking down the antidemons with impunity.
 
-<p>She made no attempts to defend herself, simply shrugging off each blow with her own toughness and armor, then crushing her opponent with a counterattack. And this was against the black and red knight-types that even we struggled against.</p>
+The march of the dwarves showed no sign of stopping. They made it look so easy that the thought, "Huh, were they really that weak?", almost passed through my head.
 
-<p>Not a single antidemon could get past the wall of dwarves.</p>
+Especially Orfalve, who was leading the warriors on the front line, was a surprise even to us.
 
-<p>The tense atmosphere of Fran and the others seemed to have loosened up a bit. They still didn't let their guard down, but they certainly felt relief at this sight of hope.</p>
+She made no attempts to defend herself, simply shrugging off each blow with her own toughness and armor, then crushing her opponent with a counterattack. And this was against the black and red knight-types that even we struggled against.
 
-<p>Being behind the dwarves was just that reassuring.</p>
+Not a single antidemon could get past the wall of dwarves.
 
-<p>And they were not fighting alone.</p>
+The tense atmosphere of Fran and the others seemed to have loosened up a bit. They still didn't let their guard down, but they certainly felt relief at this sight of hope.
 
-<p>The demonkin had joined up behind the dwarves, sending them healing and support magic. The dwarven army already had overwhelming power, and now you're giving them magical support? That's just overkill.</p>
+Being behind the dwarves was just that reassuring.
 
-<p>I had finally regained enough composure to examine the demonkin army.</p>
+And they were not fighting alone.
 
-<p>Initially, I believed their army was about half the size of the dwarven army, but they were even smaller than I thought. The demonkin army only looked bigger because of all the undead following them.</p>
+The demonkin had joined up behind the dwarves, sending them healing and support magic. The dwarven army already had overwhelming power, and now you're giving them magical support? That's just overkill.
 
-<p>There were a little more than 200 undead guarding the demonkin, all quite powerful.</p>
+I had finally regained enough composure to examine the demonkin army.
 
-<p>I searched for Jean, but couldn't find any signs of his presence. Maybe he was hiding from us?</p>
+Initially, I believed their army was about half the size of the dwarven army, but they were even smaller than I thought. The demonkin army only looked bigger because of all the undead following them.
 
-<p>Just as I was thinking that, I heard Announcer-san's warning.</p>
+There were a little more than 200 undead guarding the demonkin, all quite powerful.
 
-<p>《A presence is approaching.》</p>
-<p>『Eh?』</p>
+I searched for Jean, but couldn't find any signs of his presence. Maybe he was hiding from us?
 
-<p>Where? I didn't sense anything, but Announcer-san wouldn't lie to me. I diverted all my concentration to detection, searching for the person Announcer-san was trying to warn me about.</p>
+Just as I was thinking that, I heard Announcer-san's warning.
 
-<p>And sure enough, someone was there. I could feel a very slight vibration with each step they took. Fran sensed this too.</p>
+《A presence is approaching.》
 
-<p>She quickly turned around, and her eyes widened.</p>
+『Eh?』
 
-<p>That someone was really closing in right behind us.</p>
+Where? I didn't sense anything, but Announcer-san wouldn't lie to me. I diverted all my concentration to detection, searching for the person Announcer-san was trying to warn me about.
 
-<p>And it was the sorceress at the head of the demonkin army.</p>
+And sure enough, someone was there. I could feel a very slight vibration with each step they took. Fran sensed this too.
 
-<p>I couldn't feel any hostile intent, but she did attempt to sneak up on us. Fran glared at the woman warily.</p>
+She quickly turned around, and her eyes widened.
 
-<p>But the sorceress simply shrugged her shoulders, not looking apologetic in the slightest.</p>
+That someone was really closing in right behind us.
 
-<p>「Oh? Guess you caught me.」</p>
-<p>「……Who are you?」</p>
-<p>「Ahahahaha! My name is Jayne, Jayne Dovey, ruler of the underworld, and she who has gazed into the darkest depths!」</p>
+And it was the sorceress at the head of the demonkin army.
 
-<p>Ugh. I could tell she was related to Jean even if she didn't tell us her family name! Maybe she's Jean's little sister or something?</p>
+I couldn't feel any hostile intent, but she did attempt to sneak up on us. Fran glared at the woman warily.
 
-<p>I tried to appraise her, but I got repelled somehow. Not only was she powerful enough to resist, I felt something blocking me as well. Judging by that feeling, she was likely using some sort of anti-appraisal skill combined with an anti-appraisal item.</p>
+But the sorceress simply shrugged her shoulders, not looking apologetic in the slightest.
 
-<p>「Ahahahaha! You just attempted to appraise me, huh? Nonsense, simply nonsense! I'm wearing a very powerful appraisal blocking item, so not even Garrus' Divine Eye would work! Well, that's no wonder since the boy can't even fully utilize his Divine Eye!」</p>
+「Oh? Guess you caught me.」
 
-<p>Did she call Garrus "the boy"? I thought she was Jean's little sister, but maybe she was the older sister instead. You just can't tell the age of these long-lifespan races by their appearance.</p>
+「……Who are you?」
 
-<p>「……Who are you?」</p>
-<p>「Huh? Didn't I already answer that?」</p>
-<p>「You said your name was Jayne, but you didn't say who you were. Are you related to Jean?」</p>
-<p>「Ah! That's right, of course. It's been so long that I've spoken to someone who didn't recognize my name. What a blunder!」</p>
+「Ahahahaha! My name is Jayne, Jayne Dovey, ruler of the underworld, and she who has gazed into the darkest depths!」
 
-<p>So she must be at least famous enough to have her name recognized back home?</p>
+Ugh. I could tell she was related to Jean even if she didn't tell us her family name! Maybe she's Jean's little sister or something?
 
-<p>「<em>Gasp</em>! Ever since I arrived at this continent, I've been getting weird looks every time I introduced myself…… Don't tell me that this was the actual reason. I had thought they were all stricken with fear at the mere mention of my name!」</p>
+I tried to appraise her, but I got repelled somehow. Not only was she powerful enough to resist, I felt something blocking me as well. Judging by that feeling, she was likely using some sort of anti-appraisal skill combined with an anti-appraisal item.
 
-<p>The complete inability to listen to others combined with that eccentric personality… I'm sure she shares the same blood as Jean. They were similar in appearance too.</p>
+「Ahahahaha! You just attempted to appraise me, huh? Nonsense, simply nonsense! I'm wearing a very powerful appraisal blocking item, so not even Garrus' Divine Eye would work! Well, that's no wonder since the boy can't even fully utilize his Divine Eye!」
 
-<p>Jayne was about 160 cm tall, with skin so pale it almost looked blue. She also shared the same dull silver hair, goat-like horns, and red eyes as Jean.</p>
+Did she call Garrus "the boy"? I thought she was Jean's little sister, but maybe she was the older sister instead. You just can't tell the age of these long-lifespan races by their appearance.
 
-<p>However, the softness in her eyes probably made her seem more friendly than Jean. She appeared strangely approachable, in spite of her behavior.</p>
+「……Who are you?」
 
-<p>Maybe her voice was a part of that too? She had what I would call a "loli voice", that could probably be mistaken for that of an elementary school girl. You might say she was the complete opposite of Orfalve, whose tone always had a regal air.</p>
+「Huh? Didn't I already answer that?」
 
-<p>Her outfit was similar to Jean's, a robe with skull accessories scattered all over. However, the two main differences were the chest gap revealing her cleavage and the bottom of her robe turning into a tightly fitting dress.</p>
+「You said your name was Jayne, but you didn't say who you were. Are you related to Jean?」
 
-<p>「Ah yes, we were still in the middle of a conversation! I am Jayne and Jean Dovey is one of my sons!」</p>
-<p>「Son?」</p>
+「Ah! That's right, of course. It's been so long that I've spoken to someone who didn't recognize my name. What a blunder!」
 
-<p>Seriously? This is his mother? That's not what I was thinking when I said they were related!</p>
+So she must be at least famous enough to have her name recognized back home?
 
-<p>「Precisely! Uhh, the ninth son, I believe?」</p>
-<p>「Jayne, he is your eighth son.」</p>
-<p>「Huh, really?」</p>
-<p>「!」</p>
-<p>『Uwah!』</p>
+「<em>Gasp</em>! Ever since I arrived at this continent, I've been getting weird looks every time I introduced myself…… Don't tell me that this was the actual reason. I had thought they were all stricken with fear at the mere mention of my name!」
 
-<p>Damn, that really scared me! The skull necklace resting on Jayne's chest suddenly spoke out of nowhere! That silver necklace looked just to be one of her many skull accessories……</p>
+The complete inability to listen to others combined with that eccentric personality… I'm sure she shares the same blood as Jean. They were similar in appearance too.
 
-<p>Is it an undead? If so, I was certainly unable to sense any sign of it……</p>
+Jayne was about 160 cm tall, with skin so pale it almost looked blue. She also shared the same dull silver hair, goat-like horns, and red eyes as Jean.
 
-<p>「Surprised? This is an undead item! It's specialized in concealment and disguise, so I'm sure you couldn't sense it, right?」</p>
+However, the softness in her eyes probably made her seem more friendly than Jean. She appeared strangely approachable, in spite of her behavior.
 
-<p>It turned out that this necklace was the trick behind her Presence Blocking and Appraisal Blocking. It probably applied the effect to both the item itself and the wielder.</p>
+Maybe her voice was a part of that too? She had what I would call a "loli voice", that could probably be mistaken for that of an elementary school girl. You might say she was the complete opposite of Orfalve, whose tone always had a regal air.
 
-<p>「My name is Tort Dovey, the one in charge of making sure she does not go over board.」</p>
-<p>「Dovey?」</p>
-<p>「Tort is my great-grandfather. He turned himself into an undead to continue serving his country.」</p>
-<p>「Indeed. It is a pleasure to meet you.」</p>
-<p>「……Jayne, are you someone important?」</p>
-<p>「Ahahahaha! You see, Dovey is the family name of the demonkin kingdom's ruling class!」</p>
-<p>「So……?」</p>
-<p>「You are certainly one calm girl. She means to say she is the queen of the demonkin kingdom, known widely as the Demon Lord.」</p>
-<p>「Precisely!」</p>
+Her outfit was similar to Jean's, a robe with skull accessories scattered all over. However, the two main differences were the chest gap revealing her cleavage and the bottom of her robe turning into a tightly fitting dress.
 
-<p>The Demon Lord smirked with a smug pose in front of us. What? You're telling me this girl is the Demon Lord? And if she's Jean's mother, then she must be way older, right? Judging by her appearance and behavior, I could have sworn she was a teenager……</p>
+「Ah yes, we were still in the middle of a conversation! I am Jayne and Jean Dovey is one of my sons!」
 
-<p>「Hmm.」</p>
-<p>「D-Do you not think you are being a little too composed?」</p>
-<p>「Oooh, that's one cool attitude! I like you a lot!」</p>
+「Son?」
 
-<p>No, Fran's only calm because she doesn't realize how important the demon lord is! I'm currently freaking out here! Is this girl seriously a queen? Doesn't that make Jean a prince? Say it ain't so!</p>
+Seriously? This is his mother? That's not what I was thinking when I said they were related!
+
+「Precisely! Uhh, the ninth son, I believe?」
+
+「Jayne, he is your eighth son.」
+
+「Huh, really?」
+
+「!」
+
+『Uwah!』
+
+Damn, that really scared me! The skull necklace resting on Jayne's chest suddenly spoke out of nowhere! That silver necklace looked just to be one of her many skull accessories……
+
+Is it an undead? If so, I was certainly unable to sense any sign of it……
+
+「Surprised? This is an undead item! It's specialized in concealment and disguise, so I'm sure you couldn't sense it, right?」
+
+It turned out that this necklace was the trick behind her Presence Blocking and Appraisal Blocking. It probably applied the effect to both the item itself and the wielder.
+
+「My name is Tort Dovey, the one in charge of making sure she does not go over board.」
+
+「Dovey?」
+
+「Tort is my great-grandfather. He turned himself into an undead to continue serving his country.」
+
+「Indeed. It is a pleasure to meet you.」
+
+「……Jayne, are you someone important?」
+
+「Ahahahaha! You see, Dovey is the family name of the demonkin kingdom's ruling class!」
+
+「So……?」
+
+「You are certainly one calm girl. She means to say she is the queen of the demonkin kingdom, known widely as the Demon Lord.」
+
+「Precisely!」
+
+The Demon Lord smirked with a smug pose in front of us. What? You're telling me this girl is the Demon Lord? And if she's Jean's mother, then she must be way older, right? Judging by her appearance and behavior, I could have sworn she was a teenager……
+
+「Hmm.」
+
+「D-Do you not think you are being a little too composed?」
+
+「Oooh, that's one cool attitude! I like you a lot!」
+
+No, Fran's only calm because she doesn't realize how important the demon lord is! I'm currently freaking out here! Is this girl seriously a queen? Doesn't that make Jean a prince? Say it ain't so!
 
 
 

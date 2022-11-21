@@ -10,115 +10,147 @@ editor:
 ---
 <h2 id="ch742">742: Their Goal</h2>
 
-<p>The captured Abarb must have realized that he can't escape from me and Urushi. He looked up at me with an air of resignation.</p>
+The captured Abarb must have realized that he can't escape from me and Urushi. He looked up at me with an air of resignation.
 
-<p>「Who is your employer?」</p>
-<p>「The Black Skeleton Corps of the Raydoss Kingdom.」</p>
+「Who is your employer?」
 
-<p>He answered the question very readily. Well, I guess he didn't have enough loyalty to keep his mouth shut when torture was on the table.</p>
+「The Black Skeleton Corps of the Raydoss Kingdom.」
 
-<p>「The Black Skeleton Corps!」</p>
-<p>「You know them?」</p>
-<p>「Well, yeah. We have a bit of history.」</p>
-<p>「……They never said that……」</p>
+He answered the question very readily. Well, I guess he didn't have enough loyalty to keep his mouth shut when torture was on the table.
 
-<p>Apparently, Abarb was not informed. Was he just being used as a pawn?</p>
+「The Black Skeleton Corps!」
 
-<p>「What were you going to do with Fran?」</p>
-<p>「I don't know. They just told me to go kidnap her.」</p>
-<p>「Okay…… I'm sure they have a bunch of plots going on. What are they up to?」</p>
-<p>「Apparently, they want to expand their forces.」</p>
-<p>「Recruiting? No, considering that they've been targeting Fran, are they going to turn her into a slave? Or maybe even undead?」</p>
+「You know them?」
 
-<p>Abarb's eyes widened in surprise at my comment.</p>
+「Well, yeah. We have a bit of history.」
 
-<p>「You seem to know a lot. Yes, that's right. They kidnap some promising adventurers, turn them into undead and dominate them with their secret spells. Hee hee hee! Interesting, isn't it!」</p>
-<p>「……You're saying there are already casualties?」</p>
-<p>「Yes, yes! About twenty of the contestants in the tournament have already been turned into undead.」</p>
+「……They never said that……」
 
-<p>It was not unusual for the losers of the tournament to leave the town, and many people come and go as they please. The disappearance of a few adventurers would not cause a commotion.</p>
+Apparently, Abarb was not informed. Was he just being used as a pawn?
 
-<p>Also, Ulmutt was not well staffed at this time of the year for a missing persons search. It would be almost impossible to organize a large search party.</p>
+「What were you going to do with Fran?」
 
-<p>Ulmutt during the martial arts competitions was probably the perfect place to plan a kidnapping.</p>
+「I don't know. They just told me to go kidnap her.」
 
-<p>Usually there is a little more security, but this year things are complicated.</p>
+「Okay…… I'm sure they have a bunch of plots going on. What are they up to?」
 
-<p>The undead outbreak, the idiot nobles of the Kingdom of Shallus. I've heard that there are even more small incidents than usual, such as thugs fighting in the town.</p>
+「Apparently, they want to expand their forces.」
 
-<p>「Huh? Could it be that the undead ruckus outside of town was set up by……」</p>
-<p>「The Black Skeleton Corps, of course. They are trying to put as much pressure on the town's security as possible!」</p>
-<p>「What else did they do?」</p>
-<p>「Well you see…」</p>
+「Recruiting? No, considering that they've been targeting Fran, are they going to turn her into a slave? Or maybe even undead?」
 
-<p>I couldn't hold back a sigh as Abarb told me about their plan.</p>
+Abarb's eyes widened in surprise at my comment.
 
-<p>「Sigh…… So you're telling me that hiring random goons and sending assassins to the top contestants was all part of Raydoss's plan?」</p>
-<p>「Each one may be a crude plan on its own, but if there are commotions on multiple fronts, manpower will be consumed no matter what.」</p>
+「You seem to know a lot. Yes, that's right. They kidnap some promising adventurers, turn them into undead and dominate them with their secret spells. Hee hee hee! Interesting, isn't it!」
 
-<p>What is it that they're after with all this preparation and spreading security so thin? It seems like too big a plot just to kidnap a few talented adventurers.</p>
+「……You're saying there are already casualties?」
 
-<p>「Hee-hee. Securing some persons of influence. That's what we're really after.」</p>
-<p>「Persons of influence……?」</p>
+「Yes, yes! About twenty of the contestants in the tournament have already been turned into undead.」
 
-<p>He just said "persons of influence", not "adventurers". In other words…</p>
+It was not unusual for the losers of the tournament to leave the town, and many people come and go as they please. The disappearance of a few adventurers would not cause a commotion.
 
-<p>「You mean you're going after the VIPs!?」</p>
-<p>「That's right. Aurel, an evolved beastman with both military and political power, and Dimitris, one of the world's most powerful adventurers, are our two main targets.」</p>
+Also, Ulmutt was not well staffed at this time of the year for a missing persons search. It would be almost impossible to organize a large search party.
 
-<p>Those were some surprising names because the two are very strong. They have their own bodyguards too, so even if the security is a little slack, how can a kidnapping possibly succeed?</p>
+Ulmutt during the martial arts competitions was probably the perfect place to plan a kidnapping.
 
-<p>That goes especially for Dimitris. Even if you wanted to surprise attack or assassinate him, he would just brush it off. It would take multiple people at Fran's level to put up an actual fight.</p>
+Usually there is a little more security, but this year things are complicated.
 
-<p>「There are currently multiple disturbances both in and outside of town. Many guards and adventurers will have been dispatched to solve them. Inevitably, the security for the closing ceremony will be spread thin.」</p>
-<p>「Why target the closing ceremony?」</p>
-<p>「Once the event is over, strangers will become conspicuous. Besides, it would be a disgrace to the Kranzel Kingdom if they kidnapped a prominent person in front of the emissaries and nobles of other countries. That's one of their goals too.」</p>
-<p>「I see, but there's a hole in the plan. Security is useless in the first place if you're going after Dimitris.」</p>
-<p>「Heh-heh. The reason for reducing the number of guards is to make it easier for us to invade, escape, and hide. We have other methods to obtain Dimitris and Aurel. Ones that they can do nothing about.」</p>
+The undead outbreak, the idiot nobles of the Kingdom of Shallus. I've heard that there are even more small incidents than usual, such as thugs fighting in the town.
 
-<p>Abarb's confident expression suggested that he really believed it was possible to capture Dimitris and Aurel.</p>
+「Huh? Could it be that the undead ruckus outside of town was set up by……」
 
-<p>「And how would you do that?」</p>
-<p>「Dimitris and Aurel have lovely granddaughters, don't they? Hee-hee-hee!」</p>
-<p>「Hostages?!」</p>
+「The Black Skeleton Corps, of course. They are trying to put as much pressure on the town's security as possible!」
 
-<p>Certainly, it would be effective to take Dimitris's granddaughter Nilfe and Aurel's granddaughter Kaitly hostage. They would have guards too, but it would be much easier than targeting their grandfathers directly.</p>
+「What else did they do?」
 
-<p>Should I send Urushi to protect them? But until Fran wakes up, I can't leave her side……</p>
+「Well you see…」
 
-<p>「…Kaitly and Nilfe are in danger?」</p>
-<p>「Fran! You're awake!」</p>
-<p>「Master.」</p>
+I couldn't hold back a sigh as Abarb told me about their plan.
 
-<p>Fran opened her eyes slightly while I was hesitating. It seems that she has regained consciousness after the healing spells we had been casting on her.</p>
+「Sigh…… So you're telling me that hiring random goons and sending assassins to the top contestants was all part of Raydoss's plan?」
 
-<p>However, she was having a hard time getting her body up.</p>
+「Each one may be a crude plan on its own, but if there are commotions on multiple fronts, manpower will be consumed no matter what.」
 
-<p>「I'm going to help them.」</p>
-<p>「Don't be stupid! You can't get up!」</p>
-<p>「No. I'm going.」</p>
-<p>「……!」</p>
+What is it that they're after with all this preparation and spreading security so thin? It seems like too big a plot just to kidnap a few talented adventurers.
 
-<p>How can I reject Fran when she gives me such a desperate look!</p>
+「Hee-hee. Securing some persons of influence. That's what we're really after.」
 
-<p>「Where are Kaitly and Nilfe?」</p>
-<p>「I assisted them in acquiring those two, but I don't know where they're being held after that.」</p>
-<p>「Urushi, do you know where they are?」</p>
-<p>「Arf.」</p>
+「Persons of influence……?」
 
-<p>Even Urushi can't tell from here I guess.</p>
+He just said "persons of influence", not "adventurers". In other words…
 
-<p>「Let's just go to their hideout. Where is it?」</p>
+「You mean you're going after the VIPs!?」
 
-<p>We got the location of their hideout from Abarb. It seemed that they were using a private house close to the arena.</p>
+「That's right. Aurel, an evolved beastman with both military and political power, and Dimitris, one of the world's most powerful adventurers, are our two main targets.」
 
-<p>There were many other questions I wanted to ask him, but now is not the time. We should hand him over to the guild for now to keep him in custody.</p>
+Those were some surprising names because the two are very strong. They have their own bodyguards too, so even if the security is a little slack, how can a kidnapping possibly succeed?
 
-<p>As I was tying up Abarb and preparing to leave, yet another person came rushing into the room.</p>
+That goes especially for Dimitris. Even if you wanted to surprise attack or assassinate him, he would just brush it off. It would take multiple people at Fran's level to put up an actual fight.
 
-<p>「Fran! You okay!?」</p>
-<p>「Colbert?」</p>
-<p>「Some weird people suddenly started rampaging around town and… Whoa? Ehh? C-Curry Master!!!」</p>
+「There are currently multiple disturbances both in and outside of town. Many guards and adventurers will have been dispatched to solve them. Inevitably, the security for the closing ceremony will be spread thin.」
+
+「Why target the closing ceremony?」
+
+「Once the event is over, strangers will become conspicuous. Besides, it would be a disgrace to the Kranzel Kingdom if they kidnapped a prominent person in front of the emissaries and nobles of other countries. That's one of their goals too.」
+
+「I see, but there's a hole in the plan. Security is useless in the first place if you're going after Dimitris.」
+
+「Heh-heh. The reason for reducing the number of guards is to make it easier for us to invade, escape, and hide. We have other methods to obtain Dimitris and Aurel. Ones that they can do nothing about.」
+
+Abarb's confident expression suggested that he really believed it was possible to capture Dimitris and Aurel.
+
+「And how would you do that?」
+
+「Dimitris and Aurel have lovely granddaughters, don't they? Hee-hee-hee!」
+
+「Hostages?!」
+
+Certainly, it would be effective to take Dimitris's granddaughter Nilfe and Aurel's granddaughter Kaitly hostage. They would have guards too, but it would be much easier than targeting their grandfathers directly.
+
+Should I send Urushi to protect them? But until Fran wakes up, I can't leave her side……
+
+「…Kaitly and Nilfe are in danger?」
+
+「Fran! You're awake!」
+
+「Master.」
+
+Fran opened her eyes slightly while I was hesitating. It seems that she has regained consciousness after the healing spells we had been casting on her.
+
+However, she was having a hard time getting her body up.
+
+「I'm going to help them.」
+
+「Don't be stupid! You can't get up!」
+
+「No. I'm going.」
+
+「……!」
+
+How can I reject Fran when she gives me such a desperate look!
+
+「Where are Kaitly and Nilfe?」
+
+「I assisted them in acquiring those two, but I don't know where they're being held after that.」
+
+「Urushi, do you know where they are?」
+
+「Arf.」
+
+Even Urushi can't tell from here I guess.
+
+「Let's just go to their hideout. Where is it?」
+
+We got the location of their hideout from Abarb. It seemed that they were using a private house close to the arena.
+
+There were many other questions I wanted to ask him, but now is not the time. We should hand him over to the guild for now to keep him in custody.
+
+As I was tying up Abarb and preparing to leave, yet another person came rushing into the room.
+
+「Fran! You okay!?」
+
+「Colbert?」
+
+「Some weird people suddenly started rampaging around town and… Whoa? Ehh? C-Curry Master!!!」
 
 
 

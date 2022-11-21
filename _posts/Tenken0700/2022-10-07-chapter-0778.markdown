@@ -9,116 +9,138 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch778">778: South Team's Charge</h2>
-<p>Fran and the other adventurers of the South Team charged into the antidemon swarm, while shouting to pump themselves up.</p>
 
-<p>Fran led them as the vanguard, and Urushi followed as the rearguard.</p>
+Fran and the other adventurers of the South Team charged into the antidemon swarm, while shouting to pump themselves up.
 
-<p>「Hah! Impact Slash!」</p>
+Fran led them as the vanguard, and Urushi followed as the rearguard.
 
-<p>Fran unleashed a Holy Sword Art, blowing the antidemons in the front of the pack to the ground.</p>
+「Hah! Impact Slash!」
 
-<p>Whenever she used this technique before, she would be unable to move freely for a few seconds, making her wide open to any counterattacks. That would be a fatal flaw on the battlefield.</p>
+Fran unleashed a Holy Sword Art, blowing the antidemons in the front of the pack to the ground.
 
-<p>To prevent this, I devised a method of forcibly moving her with telekinesis, but that had the disadvantage of putting a huge burden on Fran's body.</p>
+Whenever she used this technique before, she would be unable to move freely for a few seconds, making her wide open to any counterattacks. That would be a fatal flaw on the battlefield.
 
-<p>It would be fine if she only got some minor strains, but there were constant broken bones and pulled muscles. We would have to continue fighting while also healing the self-damage.</p>
+To prevent this, I devised a method of forcibly moving her with telekinesis, but that had the disadvantage of putting a huge burden on Fran's body.
 
-<p>But the current Fran was different.</p>
+It would be fine if she only got some minor strains, but there were constant broken bones and pulled muscles. We would have to continue fighting while also healing the self-damage.
 
-<p>Even without my help, she was able to cover her openings.</p>
+But the current Fran was different.
 
-<p>She succeeded in diverting the momentum of her technique, rather than resisting it. By using the parts of her body that were not under strain, she was able to move into a stance capable of following up.</p>
+Even without my help, she was able to cover her openings.
 
-<p>This was proof that Fran had mastered the use of Holy Sword Arts.</p>
+She succeeded in diverting the momentum of her technique, rather than resisting it. By using the parts of her body that were not under strain, she was able to move into a stance capable of following up.
 
-<p>Back when she had used this same move against the skeletal knight on the floating island, she needed me to cover her opening, which ended up breaking her arm.</p>
+This was proof that Fran had mastered the use of Holy Sword Arts.
 
-<p>In other words, she was unable to fully utilize the Holy Sword Arts back then.</p>
+Back when she had used this same move against the skeletal knight on the floating island, she needed me to cover her opening, which ended up breaking her arm.
 
-<p>But now Fran had mastered it all by herself.</p>
+In other words, she was unable to fully utilize the Holy Sword Arts back then.
 
-<p>『Haha! Nice one, Fran!』</p>
-<p>「Nn!」</p>
+But now Fran had mastered it all by herself.
 
-<p>Fran dived into the gap she just made, nimbly cutting down all the antidemons nearby.</p>
+『Haha! Nice one, Fran!』
 
-<p>However, she did not charge through the army at full speed. While slaying antidemons, she adjusting her pace to not leave behind the adventurers who were following her.</p>
+「Nn!」
 
-<p>The adventurers also managed their own against the antidemons. This was because they only had to concentrate on the left and right flanks, since Fran was taking the front.</p>
+Fran dived into the gap she just made, nimbly cutting down all the antidemons nearby.
 
-<p>「Doruaaah! Follow Black Lightning Princess-san!」</p>
-<p>「Need help on the right!」</p>
-<p>「Got it! Wind Bullet!」</p>
+However, she did not charge through the army at full speed. While slaying antidemons, she adjusting her pace to not leave behind the adventurers who were following her.
 
-<p>Diggins was perfectly fine. Like Fran, he had not yet Awakened, but he was still blasting away at the antidemons without a hitch.</p>
+The adventurers also managed their own against the antidemons. This was because they only had to concentrate on the left and right flanks, since Fran was taking the front.
 
-<p>His weapons were a huge metal club and his fists. The average nab would have to use both hands to hold the club, but he swung it with one hand while using his free left hand to smash more antidemons.</p>
+「Doruaaah! Follow Black Lightning Princess-san!」
 
-<p>The adventurers were fighting steadily, working well together.</p>
+「Need help on the right!」
 
-<p>Urushi was there protecting their backs, focused mainly on supporting the adventurers rather than destroying antidemons. But he also covered them with dark magic while defeating the antidemons that tried to enter their blind spots.</p>
+「Got it! Wind Bullet!」
 
-<p>At first, the adventurers seemed uneasy about entrusting their backs to Urushi, but they came to understand his abilities as the battle went on.</p>
+Diggins was perfectly fine. Like Fran, he had not yet Awakened, but he was still blasting away at the antidemons without a hitch.
 
-<p>They were soon able to fight without worrying about their backs.</p>
+His weapons were a huge metal club and his fists. The average nab would have to use both hands to hold the club, but he swung it with one hand while using his free left hand to smash more antidemons.
 
-<p>If they only needed to focus on what's in front of them, these Rank C adventurers would not fall behind lower-ranked antidemons.</p>
+The adventurers were fighting steadily, working well together.
 
-<p>The fact that we were completely surrounded by antidemons, yet had zero casualties, was due in large part to Urushi's efforts.</p>
+Urushi was there protecting their backs, focused mainly on supporting the adventurers rather than destroying antidemons. But he also covered them with dark magic while defeating the antidemons that tried to enter their blind spots.
 
-<p>『We still have a long ways to go.』</p>
-<p>「Nn.」</p>
+At first, the adventurers seemed uneasy about entrusting their backs to Urushi, but they came to understand his abilities as the battle went on.
 
-<p>Since we had to stay near the adventurers, we can't just rush through. That gave the antidemons enough time to swarm us from the surrounding area, no matter how many we defeated.</p>
+They were soon able to fight without worrying about their backs.
 
-<p>This wasn't hard for Fran, but it must have been painful for the adventurers. Morale was great after they saw Fran's strength up close, but I could see some casualties in the future if we pushed them too hard.</p>
+If they only needed to focus on what's in front of them, these Rank C adventurers would not fall behind lower-ranked antidemons.
 
-<p>（Master, I think I'll swap places.）</p>
-<p>『What are you gonna do?』</p>
-<p>（I'll let Diggins take the front, he can handle it. Urushi and I will cover the left and right sides.）</p>
-<p>『Sounds good to me.』</p>
+The fact that we were completely surrounded by antidemons, yet had zero casualties, was due in large part to Urushi's efforts.
 
-<p>Whether Fran or Diggins is in the front, the speed of the group would not change much.</p>
+『We still have a long ways to go.』
 
-<p>So, it would be better to reinforce the left and right flanks. That way, we can minimize the pressure on the other adventurers.</p>
+「Nn.」
 
-<p>「Diggins!」</p>
-<p>「Yeah! What's up?」</p>
-<p>「Take the front. I'll help everyone from further back.」</p>
-<p>「Okay! That's a big job! I'll do my best!」</p>
-<p>「Please do.」</p>
-<p>「Doryaaa!」</p>
+Since we had to stay near the adventurers, we can't just rush through. That gave the antidemons enough time to swarm us from the surrounding area, no matter how many we defeated.
 
-<p>That's our Rank B adventurer. He switched places with Fran immediately and began reaping antidemons in the same manner as before.</p>
+This wasn't hard for Fran, but it must have been painful for the adventurers. Morale was great after they saw Fran's strength up close, but I could see some casualties in the future if we pushed them too hard.
 
-<p>He still has Awakening up his sleeve, so this bear guy should be fine in the front.</p>
+（Master, I think I'll swap places.）
 
-<p>「Urushi, cover on the right. I'll watch the left.」</p>
-<p>「Woof!」</p>
+『What are you gonna do?』
 
-<p>The speed of our advance remained the same, but it became much more stable. Anyone who needed a heal got one immediately, and our enhancement magic could constantly be refreshed. The defense in the rear was still ironclad.</p>
+（I'll let Diggins take the front, he can handle it. Urushi and I will cover the left and right sides.）
 
-<p>「Thank you very much!」</p>
-<p>「Man, you're even healing us……!」</p>
-<p>「I'd expect as much for someone Diggins-san accepted as his boss!」</p>
+『Sounds good to me.』
 
-<p>The adventurers had even regained enough composure to chit chat.</p>
+Whether Fran or Diggins is in the front, the speed of the group would not change much.
 
-<p>『I'm sensing a large magical presence ahead. It's probably the commander.』</p>
-<p>「The commander is ahead. But Hilt's party is already coming from the other side.」</p>
-<p>「Seriously?」</p>
-<p>「Nn. We can't let the north guys beat us.」</p>
-<p>「Of course!」</p>
-<p>「If we don't do something, they might take the good part. Everyone get fired up.」</p>
-<p>「「「Yeeaahh!」」」</p>
+So, it would be better to reinforce the left and right flanks. That way, we can minimize the pressure on the other adventurers.
 
-<p>As Fran announced this, the looks on the adventurers' faces changed.</p>
+「Diggins!」
 
-<p>As expected, they were eager to get the credit, since that would be reflected in their points.</p>
+「Yeah! What's up?」
 
-<p>However, Hilt's northern party was almost at the commander too. I'd say they are about as close as us.</p>
+「Take the front. I'll help everyone from further back.」
 
-<p>Now then, who will reach the target first?</p>
+「Okay! That's a big job! I'll do my best!」
+
+「Please do.」
+
+「Doryaaa!」
+
+That's our Rank B adventurer. He switched places with Fran immediately and began reaping antidemons in the same manner as before.
+
+He still has Awakening up his sleeve, so this bear guy should be fine in the front.
+
+「Urushi, cover on the right. I'll watch the left.」
+
+「Woof!」
+
+The speed of our advance remained the same, but it became much more stable. Anyone who needed a heal got one immediately, and our enhancement magic could constantly be refreshed. The defense in the rear was still ironclad.
+
+「Thank you very much!」
+
+「Man, you're even healing us……!」
+
+「I'd expect as much for someone Diggins-san accepted as his boss!」
+
+The adventurers had even regained enough composure to chit chat.
+
+『I'm sensing a large magical presence ahead. It's probably the commander.』
+
+「The commander is ahead. But Hilt's party is already coming from the other side.」
+
+「Seriously?」
+
+「Nn. We can't let the north guys beat us.」
+
+「Of course!」
+
+「If we don't do something, they might take the good part. Everyone get fired up.」
+
+「「「Yeeaahh!」」」
+
+As Fran announced this, the looks on the adventurers' faces changed.
+
+As expected, they were eager to get the credit, since that would be reflected in their points.
+
+However, Hilt's northern party was almost at the commander too. I'd say they are about as close as us.
+
+Now then, who will reach the target first?
 
 
 

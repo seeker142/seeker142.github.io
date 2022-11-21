@@ -10,53 +10,66 @@ editor: PinkR
 ---
 <h2 id="ch710">710: Colbert and Hilt</h2>
 
-<p>「Colbert, are you okay?」</p>
-<p>「Oh, Fran……」</p>
+「Colbert, are you okay?」
+
+「Oh, Fran……」
 
 <p>When we entered the infirmary, we found Colbert lying on the bed with a bandage wrapped around his head.
   He was able to respond normally when Fran called out to him.</p>
 
-<p>I wondered how he was doing after that terrible head-butt, but it seems that he was saved by a healing spell.</p>
+I wondered how he was doing after that terrible head-butt, but it seems that he was saved by a healing spell.
 
 <p>However, his skull was caved in and he suffered a few fractures from the fall. 
   In addition, the recoil from special technique he delivered to Sibylla damaged every muscle in his body, and for a time he appeared to be in critical condition.</p>
 
-<p>He is sullen and drooping.</p>
+He is sullen and drooping.
 
-<p>「I lost.」</p>
-<p>「Nn, I saw that.」</p>
+「I lost.」
+
+「Nn, I saw that.」
+
 <p>「Haah... I know it's my fault that my best moves didn't work. I didn't think it could take her down, b
   ut I thought I could at least knock her out of the ring……」</p>
-<p>「That was a great move.」</p>
-<p>「Yeah? It's my own special technique that I came up with after I got expelled from the Dimitris school, but……」</p>
-<p>「But?」</p>
-<p>「It's not complete.」</p>
 
-<p> The Dimitris school utilizes magical discharge which has a wide variety of uses, including far-reaching attacks by shooting ki and strengthening the body with ki.</p>
+「That was a great move.」
 
-<p>However, because Colbert's Dimitris style had been sealed off, his ability to use ki, which was something he had taken for granted, has been greatly reduced.</p>
+「Yeah? It's my own special technique that I came up with after I got expelled from the Dimitris school, but……」
 
-<p>Despite this, he still had some of the skills he had acquired such as 'magic release'. He did wonder if he could somehow use them in a different way.</p>
+「But?」
 
-<p>「During a quest, I fought with against a magical beast that moved really fast by releasing magical power. You know how their movements are hard to detect, right?」</p>
-<p>「Nn.」</p>
+「It's not complete.」
 
-<p>Basically, they release magic power behind them to accelerate, and rush forward. It's hard to predict how it moves purely by looking at their muscles and body movements.</p>
+ The Dimitris school utilizes magical discharge which has a wide variety of uses, including far-reaching attacks by shooting ki and strengthening the body with ki.
 
-<p>「That's how I came up with the idea. I thought that if I could use the release of magic power, I could eliminate the wind up time of my attack.」</p>
-<p>「That's what you were doing?」</p>
+However, because Colbert's Dimitris style had been sealed off, his ability to use ki, which was something he had taken for granted, has been greatly reduced.
+
+Despite this, he still had some of the skills he had acquired such as 'magic release'. He did wonder if he could somehow use them in a different way.
+
+「During a quest, I fought with against a magical beast that moved really fast by releasing magical power. You know how their movements are hard to detect, right?」
+
+「Nn.」
+
+Basically, they release magic power behind them to accelerate, and rush forward. It's hard to predict how it moves purely by looking at their muscles and body movements.
+
+「That's how I came up with the idea. I thought that if I could use the release of magic power, I could eliminate the wind up time of my attack.」
+
+「That's what you were doing?」
+
 <p>「Yeah. But it takes too much time to build up that power. In a match like this, you can't pull it off unless your opponent waits for you to attack. 
   I'll take a long time until I can use this in a real fight. Besides, it's not even that powerful……」</p>
-<p>「Sibylla got blasted away.」</p>
-<p>「Even so, it's nothing more than a fast punch. I'm feel like if you put magic into the attack itself, it'll make it perfect.」</p>
-<p>「I see.」</p>
+
+「Sibylla got blasted away.」
+
+「Even so, it's nothing more than a fast punch. I'm feel like if you put magic into the attack itself, it'll make it perfect.」
+
+「I see.」
 
 <p>A strike coming out of a neutral stance with extreme speed. And a release of agic to cause internal organ destruction to top it all off. 
   That must be Colbert's ideal form.</p>
 
-<p>「Then… Even you'd take damage from that too, right?」</p>
+「Then… Even you'd take damage from that too, right?」
 
-<p>Colbert was thinking of this as a countermeasure to the physical nullification we were using last year.</p>
+Colbert was thinking of this as a countermeasure to the physical nullification we were using last year.
 
 <p>「Dimitris style specializes in ki manipulation. It is a tremendous advantage to be able to use martial arts and techniques from a distance…… 
   But your ability nullifies not only fists, but also ki and because of that, all of my Dimitris style techniques were rendered useless. 
@@ -74,51 +87,63 @@ editor: PinkR
 <p>However, our physical nullification is also able repel the ki. Otherwise, 
   there is wouldn't be an explanation for the fact that we were able to completely invalidates Colbert's various attacks last year.</p>
 
-<p>「That's why I was going to hit her with magic power instead of ki……」</p>
+「That's why I was going to hit her with magic power instead of ki……」
 
 <p>As Colbert said, if magic is released into the body at such a distance, even physical nullification wouldn't work. 
   However, as the word "unfinished" implies, it seems like Colbert hasn't mastered it yet. He seemed to have used up all of his magic power by propelling himself.</p>
 
-<p>「Well, I'll show you the finished product one of these days.」</p>
-<p>「Looking forward to it.」</p>
-<p>「Yeah…」</p>
+「Well, I'll show you the finished product one of these days.」
 
-<p>Boom!</p>
+「Looking forward to it.」
 
-<p>Colbert smiled and nodded. Then the door to the infirmary opens with a force that threatened to send him flying.</p>
+「Yeah…」
 
-<p>「Colbert!」</p>
-<p>「Whoa! M-Miss Hilt?」</p>
+Boom!
 
-<p>A scary-looking Hilt jumps in looking around the infirmary with a piercing gaze that was almost as sharp as a gunshot.</p>
+Colbert smiled and nodded. Then the door to the infirmary opens with a force that threatened to send him flying.
 
-<p>「Hmm, looks like you're okay.」</p>
+「Colbert!」
+
+「Whoa! M-Miss Hilt?」
+
+A scary-looking Hilt jumps in looking around the infirmary with a piercing gaze that was almost as sharp as a gunshot.
+
+「Hmm, looks like you're okay.」
 
 <p>I thought she was angry at Colbert for losing, but she was just in a panic. After seeing Fran conversing with Colbert, 
   she clearly let out a sigh in relief.</p>
 
-<p>「You're Fran, the Black Lightning Princess…… Why are you here?」</p>
-<p>「To see him.」</p>
-<p>「I see. I appreciate it.」</p>
-<p>「Why would Hilt thank me?」</p>
-<p>「Eh? H-He's a former member of our school! S-So even though it was a bit of a pain, I still need to check on his condition!」</p>
-<p>「Hmmm…」</p>
+「You're Fran, the Black Lightning Princess…… Why are you here?」
 
-<p>Hilt seems very nervous. Her face is bright red and it's all too obvious.</p>
+「To see him.」
 
-<p>But Colbert seems completely oblivious to her feelings.</p>
+「I see. I appreciate it.」
 
-<p>「Sorry to bother you, miss.」</p>
-<p>「Oh…… O-Of course! Jeez! How can you be defeated by such a no name mercenary! That proves you've been slacking on your training!」</p>
-<p>「Haha. That's harsh.」</p>
-<p>「W-Well, I can train you again, I suppose?」</p>
+「Why would Hilt thank me?」
 
-<p>Isn't this a subtle way of saying that she wants him back on the Dimitris style? But Colbert... He was one of those dense protagonist types.</p>
+「Eh? H-He's a former member of our school! S-So even though it was a bit of a pain, I still need to check on his condition!」
 
-<p>「I've been expelled. I can't go back to the Dimitris school.」</p>
-<p>「…!」</p>
+「Hmmm…」
 
-<p>Hilt seemed annoyed, frustrated with Colbert for not reading her intentions, and with herself for not being honest.</p>
+Hilt seems very nervous. Her face is bright red and it's all too obvious.
+
+But Colbert seems completely oblivious to her feelings.
+
+「Sorry to bother you, miss.」
+
+「Oh…… O-Of course! Jeez! How can you be defeated by such a no name mercenary! That proves you've been slacking on your training!」
+
+「Haha. That's harsh.」
+
+「W-Well, I can train you again, I suppose?」
+
+Isn't this a subtle way of saying that she wants him back on the Dimitris style? But Colbert... He was one of those dense protagonist types.
+
+「I've been expelled. I can't go back to the Dimitris school.」
+
+「…!」
+
+Hilt seemed annoyed, frustrated with Colbert for not reading her intentions, and with herself for not being honest.
 
 <p>This is so obvious to the point where it's impressive he doesn't seem to notice it at all. 
   Well, it's not easy to notice some things because of one's own bias, even if people around are telling you otherwise. 
@@ -127,15 +152,15 @@ editor: PinkR
 <p>Maybe in Colbert's mind, Hilt is nothing more than the heiress to the school, and one who is very strict to him. 
   'It is impossible for her to fall in love with me', or so he thinks.</p>
 
-<p>「That's enough! Fran, I'm going to win!」</p>
+「That's enough! Fran, I'm going to win!」
 
 <p>With these words, Hilt stormed off. The look she gave Fran at the end was nothing but full of hostility, 
   since she was the reason for Colbert's expulsion and now she was the one who had to be defeated in order to make her love bear fruit. 
   If they were to fight now, she would be even more fired up than before.</p>
 
-<p>「Uhh, I'm sorry about the lady.」</p>
+「Uhh, I'm sorry about the lady.」
 
-<p>We can't lose either, but we'll be rooting for you behind the scenes.</p>
+We can't lose either, but we'll be rooting for you behind the scenes.
 
 
 

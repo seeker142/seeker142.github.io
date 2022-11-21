@@ -10,120 +10,149 @@ editor:
 ---
 <h2 id="ch767">767: Castel's Current Situation</h2>
 
-<p>After intervening in a fight that was about to break out, the guildmaster brought Fran into his office.</p>
+After intervening in a fight that was about to break out, the guildmaster brought Fran into his office.
 
-<p>「You're… Fran the Black Lightning Princess, right?」</p>
-<p>「Nn.」</p>
-<p>「I heard you beat up old man Diaz? That's awesome!」</p>
-<p>「How do you know that?」</p>
-<p>「News about the major adventurers goes everywhere, and I've got all the details on the Ulmutt tournament. Eliante sent me some info too.」</p>
+「You're… Fran the Black Lightning Princess, right?」
 
-<p>Apparently word of Fran's victory had spread to a continent far away.</p>
+「Nn.」
 
-<p>「Those guys were just the grunts of a big group of adventurers. If they get into a fight, the higher-ups will come out. But if they picked a fight with you, who knows how much damage there would be…… Give me a break.」</p>
-<p>「They're the ones who started it.」</p>
-<p>「I know, I know…… But if you sent dozens of people into retirement during the antidemon season, my career would be on the line!」</p>
+「I heard you beat up old man Diaz? That's awesome!」
 
-<p>Retirement……? Even Fran wouldn't go that far, right? Well, I guess he's heard exaggerated rumors about Fran from people like Eliante.</p>
+「How do you know that?」
 
-<p>「Then just keep an eye on them to make sure they don't do anything stupid.」</p>
-<p>「I was keeping an eye on them! That's why I intervened! And you're still glaring at me………! Don't make such a huge fuss during this season! Ugh, you combat maniacs!」</p>
+「News about the major adventurers goes everywhere, and I've got all the details on the Ulmutt tournament. Eliante sent me some info too.」
 
-<p>Guildmaster Dalho exclaimed, violently scratching his head. Fran, who had been watching this, turned strangely friendly.</p>
+Apparently word of Fran's victory had spread to a continent far away.
 
-<p>She was taking blame for the situation even though she just got caught up in it. This was the kind of thing that would normally tick her off……</p>
+「Those guys were just the grunts of a big group of adventurers. If they get into a fight, the higher-ups will come out. But if they picked a fight with you, who knows how much damage there would be…… Give me a break.」
 
-<p>「I'm sorry. Next time, I'll just ignore them.」</p>
-<p>「R-Really?」</p>
-<p>「Nn.」</p>
-<p>「Thanks!」</p>
+「They're the ones who started it.」
 
-<p>I knew it. For some reason, she's being really nice to Dalho. What's the matter?</p>
+「I know, I know…… But if you sent dozens of people into retirement during the antidemon season, my career would be on the line!」
 
-<p>『Fran, aren't you being kinda soft on Dalho?』</p>
-<p>（Dalho looks like Eliante. Kinda sad.）</p>
-<p>『Oh, I see.』</p>
+Retirement……? Even Fran wouldn't go that far, right? Well, I guess he's heard exaggerated rumors about Fran from people like Eliante.
 
-<p>Now that you mention it, he does look a bit like Eliante when she's trapped under a mountain of paperwork.</p>
+「Then just keep an eye on them to make sure they don't do anything stupid.」
 
-<p>I guess them being driven insane by overwork looked so pitiful that she wanted to be kind to them unconditionally.</p>
+「I was keeping an eye on them! That's why I intervened! And you're still glaring at me………! Don't make such a huge fuss during this season! Ugh, you combat maniacs!」
 
-<p>I can agree. We should be kind to those pitiful souls trapped in terrible workplaces.</p>
+Guildmaster Dalho exclaimed, violently scratching his head. Fran, who had been watching this, turned strangely friendly.
 
-<p>「Their leader is a decent guy, but the subordinates are all bloodthirsty. If one of their underlings gets beat up by someone who looks like a child, they will definitely retaliate. Those guys are all about face.」</p>
-<p>「Hmm. Are they strong?」</p>
-<p>「If they were, I wouldn't be telling you not to make a scene.」</p>
+She was taking blame for the situation even though she just got caught up in it. This was the kind of thing that would normally tick her off……
 
-<p>Their strength was about average, so it mostly came from their numbers. After hearing that, I could tell that Fran had lost interest.</p>
+「I'm sorry. Next time, I'll just ignore them.」
 
-<p>Her face was so readable that even Dalho, someone who had never met her before, understood that too.</p>
+「R-Really?」
 
-<p>「……Enough about those guys.」</p>
-<p>「I'm glad to hear you say that. So, what else can I do for you besides making the antidemon card? I can find you a job too, if that's what you're looking for.」</p>
-<p>「We can save the job for another time. I'd rather get some info.」</p>
+「Nn.」
 
-<p>Fran then told him that she was going to Castel, that she was looking for Rank S adventurers, and that her goal was to meet Trismegistus.</p>
+「Thanks!」
 
-<p>His reaction was similar to William's. However, as one would expect from the Adventurers Guild, they knew more about the illegal village of Castel than the administrative council.</p>
+I knew it. For some reason, she's being really nice to Dalho. What's the matter?
 
-<p>「Here is a map with Castel.」</p>
-<p>「I see. This is indeed a map of Gordicia… It also has the names of Nocta and Sendia……」</p>
+『Fran, aren't you being kinda soft on Dalho?』
 
-<p>She showed him the map that Amanda gave her. According to the map, Castel was located in the northeastern part of Gordicia.</p>
+（Dalho looks like Eliante. Kinda sad.）
 
-<p>It would be quite far from the western port where we are now.</p>
+『Oh, I see.』
 
-<p>「So that is Castel. Wait just a sec.」</p>
+Now that you mention it, he does look a bit like Eliante when she's trapped under a mountain of paperwork.
 
-<p>Dalho took out several maps from his desk and started to examine them. He was very enthusiastic.</p>
+I guess them being driven insane by overwork looked so pitiful that she wanted to be kind to them unconditionally.
 
-<p>He seemed to like Fran for treating him so sympathetically. Well, I'm sure he's also trying to earn favor with the one who defeated a bunch of Rank A adventurers too.</p>
+I can agree. We should be kind to those pitiful souls trapped in terrible workplaces.
 
-<p>「Hmmm… Castel is…… it's already marked as destroyed.」</p>
-<p>「Eh?」</p>
-<p>「I don't know why, but it's not on the current map. It's on the map from four years ago, but it's missing from the maps since then.」</p>
+「Their leader is a decent guy, but the subordinates are all bloodthirsty. If one of their underlings gets beat up by someone who looks like a child, they will definitely retaliate. Those guys are all about face.」
 
-<p>Dalho showed us several maps.</p>
+「Hmm. Are they strong?」
 
-<p>Indeed, Castel's name was missing from the latest maps while it was definitely on the older ones.</p>
+「If they were, I wouldn't be telling you not to make a scene.」
 
-<p>「……I don't know what you're looking for, but I don't think people live there anymore.」</p>
-<p>「……Still, that's okay.」</p>
-<p>「……Well, I won't ask for your reasons.」</p>
-<p>「It's fine. I'm just going to visit a grave.」</p>
-<p>「Visit a grave?」</p>
-<p>「Mom and Dad's grave.」</p>
-<p>「I see. Then I guess you gotta go.」</p>
-<p>「Nn.」</p>
+Their strength was about average, so it mostly came from their numbers. After hearing that, I could tell that Fran had lost interest.
 
-<p>After Fran nodded, Dalho gave us some useful information. If we tried to go in a straight line to Castel, we would run into some very tall mountains. Therefore, he said, we would have to go around from the north.</p>
+Her face was so readable that even Dalho, someone who had never met her before, understood that too.
 
-<p>「You may be able to make it over the mountains, but it's a bad idea to push yourself too hard on this continent. It would be faster to avoid the mountains even if it's the long way around. You can also go through Nocta if you take the north route.」</p>
-<p>「Nocta?」</p>
-<p>「Here.」</p>
+「……Enough about those guys.」
 
-<p>Dalho pointed to a spot on the map in the northern central part of Gordicia. It was a little south of the North Port.</p>
+「I'm glad to hear you say that. So, what else can I do for you besides making the antidemon card? I can find you a job too, if that's what you're looking for.」
 
-<p>Like he said, it was located right on our path if we take the northern route to Castel from the West Port.</p>
+「We can save the job for another time. I'd rather get some info.」
 
-<p>「Nocta is not an illegal town. It's in a perfect safe zone where no antidemons spring up, with an Adventurers Guild too. You can stock up on various supplies there.」</p>
+Fran then told him that she was going to Castel, that she was looking for Rank S adventurers, and that her goal was to meet Trismegistus.
 
-<p>Many operating on the continent apparently used Nocta as a front-line base.</p>
+His reaction was similar to William's. However, as one would expect from the Adventurers Guild, they knew more about the illegal village of Castel than the administrative council.
 
-<p>「Also, you may be able to get more information about the blue cats in Nocta.」</p>
+「Here is a map with Castel.」
 
-<p>Nocta had the headquarters for the Unreturned Adventurer Tracking. As the name suggested, this department was in charge of searching for adventurers who have disappeared while on an assignment.</p>
+「I see. This is indeed a map of Gordicia… It also has the names of Nocta and Sendia……」
 
-<p>If they were defeated by antidemons, they would be absorbed and disappear completely. However, there were some adventurers who failed in their requests, and ran away since they didn't want to pay the penalty fee.</p>
+She showed him the map that Amanda gave her. According to the map, Castel was located in the northeastern part of Gordicia.
 
-<p>They also had the job of finding those adventurers and punishing them. In many cases, nobles from various countries were involved, so they really cracked down on them.</p>
+It would be quite far from the western port where we are now.
 
-<p>However, there were some unreturned adventurers who were believed to have been secretly enslaved. Naturally, they should have information on them as well.</p>
+「So that is Castel. Wait just a sec.」
 
-<p>「If I go there, will they give me info?」</p>
-<p>「The guildmaster of Nocta is a pervert that loves anyone strong, so I'm sure you'll be fine. Don't worry, you'll get what you're after.」</p>
+Dalho took out several maps from his desk and started to examine them. He was very enthusiastic.
 
-<p>Uhh, how am I supposed to be unworried? "Pervert"? You said "pervert", right? A-Are we going to be okay?</p>
+He seemed to like Fran for treating him so sympathetically. Well, I'm sure he's also trying to earn favor with the one who defeated a bunch of Rank A adventurers too.
+
+「Hmmm… Castel is…… it's already marked as destroyed.」
+
+「Eh?」
+
+「I don't know why, but it's not on the current map. It's on the map from four years ago, but it's missing from the maps since then.」
+
+Dalho showed us several maps.
+
+Indeed, Castel's name was missing from the latest maps while it was definitely on the older ones.
+
+「……I don't know what you're looking for, but I don't think people live there anymore.」
+
+「……Still, that's okay.」
+
+「……Well, I won't ask for your reasons.」
+
+「It's fine. I'm just going to visit a grave.」
+
+「Visit a grave?」
+
+「Mom and Dad's grave.」
+
+「I see. Then I guess you gotta go.」
+
+「Nn.」
+
+After Fran nodded, Dalho gave us some useful information. If we tried to go in a straight line to Castel, we would run into some very tall mountains. Therefore, he said, we would have to go around from the north.
+
+「You may be able to make it over the mountains, but it's a bad idea to push yourself too hard on this continent. It would be faster to avoid the mountains even if it's the long way around. You can also go through Nocta if you take the north route.」
+
+「Nocta?」
+
+「Here.」
+
+Dalho pointed to a spot on the map in the northern central part of Gordicia. It was a little south of the North Port.
+
+Like he said, it was located right on our path if we take the northern route to Castel from the West Port.
+
+「Nocta is not an illegal town. It's in a perfect safe zone where no antidemons spring up, with an Adventurers Guild too. You can stock up on various supplies there.」
+
+Many operating on the continent apparently used Nocta as a front-line base.
+
+「Also, you may be able to get more information about the blue cats in Nocta.」
+
+Nocta had the headquarters for the Unreturned Adventurer Tracking. As the name suggested, this department was in charge of searching for adventurers who have disappeared while on an assignment.
+
+If they were defeated by antidemons, they would be absorbed and disappear completely. However, there were some adventurers who failed in their requests, and ran away since they didn't want to pay the penalty fee.
+
+They also had the job of finding those adventurers and punishing them. In many cases, nobles from various countries were involved, so they really cracked down on them.
+
+However, there were some unreturned adventurers who were believed to have been secretly enslaved. Naturally, they should have information on them as well.
+
+「If I go there, will they give me info?」
+
+「The guildmaster of Nocta is a pervert that loves anyone strong, so I'm sure you'll be fine. Don't worry, you'll get what you're after.」
+
+Uhh, how am I supposed to be unworried? "Pervert"? You said "pervert", right? A-Are we going to be okay?
 
 
 

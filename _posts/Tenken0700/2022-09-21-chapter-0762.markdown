@@ -9,114 +9,132 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch762">762: A Beautiful and Boring Port</h2>
-<p>On the way to our assigned quarters, we tried asking him about the administrative council. We needed to deliver a letter to the consultant William, but we didn't know where he was.</p>
 
-<p>「The administrative council? There's one here, they have a branch in each port.」</p>
-<p>「Where are the consultants?」</p>
-<p>「Consultants? Not sure, I don't know that much about the details.」</p>
+On the way to our assigned quarters, we tried asking him about the administrative council. We needed to deliver a letter to the consultant William, but we didn't know where he was.
 
-<p>Then, it would be quickest to go to the branch office and ask them directly.</p>
+「The administrative council? There's one here, they have a branch in each port.」
 
-<p>「The branch office is located in the center of the port, so you should be able to find it easily. The branch itself is not a big building, but it has a sign.」</p>
-<p>「It's not big?」</p>
-<p>「There's no need to show off your authority here, so it's more of a simple and sturdy building. They're all civilians and don't have much in the way of military strength.」</p>
-<p>「No soldiers?」</p>
-<p>「Right.」</p>
+「Where are the consultants?」
 
-<p>Brunen gave us a brief description of the administrative council.</p>
+「Consultants? Not sure, I don't know that much about the details.」
 
-<p>「The main work of the administrative council is the management and maintenance of the facilities on the continent of Gordicia. It also coordinates the information coming from all over Gordicia and distributes the forces using that information. That's about it.」</p>
+Then, it would be quickest to go to the branch office and ask them directly.
 
-<p>The administrative council was staffed mostly by civilian officials dispatched from various countries and had almost no forces of its own. At best, they had a few security guards. They also managed the slaves who have been sent to Gordicia for serious crimes, but there was a special subordinate organization for that.</p>
+「The branch office is located in the center of the port, so you should be able to find it easily. The branch itself is not a big building, but it has a sign.」
 
-<p>I had been thinking of it as a group of warriors and knights that keep the fight going in Gordicia, but it seems like an organization that did little fighting of its own.</p>
+「It's not big?」
 
-<p>「Consultant is a position held by a person who has been working for the council for many years.」</p>
+「There's no need to show off your authority here, so it's more of a simple and sturdy building. They're all civilians and don't have much in the way of military strength.」
 
-<p>Staying in Gordicia for an extended period of time is tough for any normal person. It is even more so for an untrained civilian or the common foot soldier.</p>
+「No soldiers?」
 
-<p>Therefore, it is expected that members of the council will be replaced after a few years. However, there were some who wanted to stay on the continent because of a sense of fulfillment, a sense of duty, or for other reasons.</p>
+「Right.」
 
-<p>While motivated and experienced people can be very useful, it can be a problem if the number of such people continues to increase.</p>
+Brunen gave us a brief description of the administrative council.
 
-<p>If those employed by the council are not replaced, other countries will not be able to send their own men. In other words, it is no longer possible to cook the books by sending civilian officials rather than combatants when fulfilling the Gordician Duty. This was a problem for many of the smaller countries.</p>
+「The main work of the administrative council is the management and maintenance of the facilities on the continent of Gordicia. It also coordinates the information coming from all over Gordicia and distributes the forces using that information. That's about it.」
 
-<p>So there was a negotiation between the organization and various countries, and they created the position of consultant for those who wanted to stay for an extended period of time.</p>
+The administrative council was staffed mostly by civilian officials dispatched from various countries and had almost no forces of its own. At best, they had a few security guards. They also managed the slaves who have been sent to Gordicia for serious crimes, but there was a special subordinate organization for that.
 
-<p>「Oh, we can see the housing accommodation now.」</p>
-<p>「……There?」</p>
-<p>「Yes, that's it.」</p>
-<p>「A mansion?」</p>
+I had been thinking of it as a group of warriors and knights that keep the fight going in Gordicia, but it seems like an organization that did little fighting of its own.
 
-<p>Just as Fran had muttered, the lodgings assigned to the Kingdom of Belioth were completely different from what she had imagined.</p>
+「Consultant is a position held by a person who has been working for the council for many years.」
 
-<p>I had heard that it was for a small group of people, so I thought it would be something like a small country inn. The inns around the port were simple and plain, just like what I was thinking.</p>
+Staying in Gordicia for an extended period of time is tough for any normal person. It is even more so for an untrained civilian or the common foot soldier.
 
-<p>But what appeared before us was a nobleman's mansion. Smaller in size, to be sure, but still……</p>
+Therefore, it is expected that members of the council will be replaced after a few years. However, there were some who wanted to stay on the continent because of a sense of fulfillment, a sense of duty, or for other reasons.
 
-<p>「Here we are again this year. I did ask them to lower the grade too……」</p>
+While motivated and experienced people can be very useful, it can be a problem if the number of such people continues to increase.
 
-<p>Brunen said that as he chuckled.</p>
+If those employed by the council are not replaced, other countries will not be able to send their own men. In other words, it is no longer possible to cook the books by sending civilian officials rather than combatants when fulfilling the Gordician Duty. This was a problem for many of the smaller countries.
 
-<p>Apparently, the council was accounting for Weena Rhyn, and this was the place to which she was assigned every time.</p>
+So there was a negotiation between the organization and various countries, and they created the position of consultant for those who wanted to stay for an extended period of time.
 
-<p>Even though authority is meaningless in Gordicia, it is not possible to put the royalty of a large country or related persons in general dormitories. There are special housing and VIP rooms for high-ranking nobles.</p>
+「Oh, we can see the housing accommodation now.」
 
-<p>The mansion in front of us was a special house rented to such people and their attendants. Well, Weena Rhyn is one of the most powerful people in the world, so perhaps it is only natural that she should be given special treatment.</p>
+「……There?」
 
-<p>It seemed that this accommodation was rented to Belioth again mostly since it was a customary practice, although the fact that Weena Rhyn was not available this time had been reported to the organizers.</p>
+「Yes, that's it.」
 
-<p>「I guess it can't be helped…… I'm a noble too, so it's not completely wrong.」</p>
+「A mansion?」
 
-<p>Brunen is still a count. He could even be considered a marquis-level in a small country.</p>
+Just as Fran had muttered, the lodgings assigned to the Kingdom of Belioth were completely different from what she had imagined.
 
-<p>「I'll prepare you a room. Ask the clerks for it later.」</p>
-<p>「Hey, can I go to the administrative council or the Adventurers Guild?」</p>
-<p>「Sure. We're deploying in four days, so do whatever you want in the meanwhile. Just don't be late, okay?」</p>
-<p>「I know.」</p>
-<p>「Yeah, and if you get in trouble with any of the other countries, just mention Weena Rhyn-dono's name. That's usually enough to get them to back off.」</p>
+I had heard that it was for a small group of people, so I thought it would be something like a small country inn. The inns around the port were simple and plain, just like what I was thinking.
 
-<p>So you tell us to push all the trouble onto Weena Rhyn, rather than not getting into trouble in the first place?</p>
+But what appeared before us was a nobleman's mansion. Smaller in size, to be sure, but still……
 
-<p>「Okay.」</p>
-<p>「If at all possible, it's best if you don't get into trouble, but……」</p>
+「Here we are again this year. I did ask them to lower the grade too……」
 
-<p>Fran nodded vigorously, which seemed to make him feel a little uneasy. He doesn't trust us at all.</p>
+Brunen said that as he chuckled.
 
-<p>Brunen, who seemed anxious to the very end, saw Fran off as she headed back to the port. Normally in a port of this size, there would be a lot of ruffians walking around, but there were almost no such people in Gordicia.</p>
+Apparently, the council was accounting for Weena Rhyn, and this was the place to which she was assigned every time.
 
-<p>There were knights and soldiers walking all over the place, so adventurers were careful not to get off on the wrong foot.</p>
+Even though authority is meaningless in Gordicia, it is not possible to put the royalty of a large country or related persons in general dormitories. There are special housing and VIP rooms for high-ranking nobles.
 
-<p>No food stalls or anything either. The wide, clean harbor stretched as far as the eye could see.</p>
+The mansion in front of us was a special house rented to such people and their attendants. Well, Weena Rhyn is one of the most powerful people in the world, so perhaps it is only natural that she should be given special treatment.
 
-<p>I had an image of the Gordicia continent as the place where fierce battles against antidemons are waged one after another……</p>
+It seemed that this accommodation was rented to Belioth again mostly since it was a customary practice, although the fact that Weena Rhyn was not available this time had been reported to the organizers.
 
-<p>But the ports where the armies of various countries were stationed are the exact opposite.</p>
+「I guess it can't be helped…… I'm a noble too, so it's not completely wrong.」
 
-<p>I guess that's to be expected.</p>
+Brunen is still a count. He could even be considered a marquis-level in a small country.
 
-<p>「Dwarves.」</p>
-<p>「Arf.」</p>
+「I'll prepare you a room. Ask the clerks for it later.」
 
-<p>A group of dwarven warriors silently advanced in front of us. Seeing as they were all dwarves, maybe they were from some kind of dwarven country?</p>
+「Hey, can I go to the administrative council or the Adventurers Guild?」
 
-<p>All of them looked pretty strong too. Fran's eyes lit up.</p>
+「Sure. We're deploying in four days, so do whatever you want in the meanwhile. Just don't be late, okay?」
 
-<p>The way they lined up neatly and marched without any words was the splitting image of a perfect army. No one would be stupid enough to commit a crime in such a place full of people like them.</p>
+「I know.」
 
-<p>Fran watched the march of the dwarves for a while, but soon got tired of it. No wonder, since they're literally just walking around.</p>
+「Yeah, and if you get in trouble with any of the other countries, just mention Weena Rhyn-dono's name. That's usually enough to get them to back off.」
 
-<p>「……Boring.」</p>
-<p>「Woof.」</p>
+So you tell us to push all the trouble onto Weena Rhyn, rather than not getting into trouble in the first place?
 
-<p>In the end, we easily reached the administrative council building without getting into any fights or finding any food stalls.</p>
+「Okay.」
 
-<p>It didn't even take us fifteen minutes from our lodgings, huh?</p>
+「If at all possible, it's best if you don't get into trouble, but……」
 
-<p>As Brunen said, it was an unassuming two-story building, mostly made of wood. If it wasn't for the sign, I might have thought it was an inn.</p>
+Fran nodded vigorously, which seemed to make him feel a little uneasy. He doesn't trust us at all.
 
-<p>『Well, let's go ask if our consultant William is here.』</p>
-<p>「Nn.」</p>
+Brunen, who seemed anxious to the very end, saw Fran off as she headed back to the port. Normally in a port of this size, there would be a lot of ruffians walking around, but there were almost no such people in Gordicia.
+
+There were knights and soldiers walking all over the place, so adventurers were careful not to get off on the wrong foot.
+
+No food stalls or anything either. The wide, clean harbor stretched as far as the eye could see.
+
+I had an image of the Gordicia continent as the place where fierce battles against antidemons are waged one after another……
+
+But the ports where the armies of various countries were stationed are the exact opposite.
+
+I guess that's to be expected.
+
+「Dwarves.」
+
+「Arf.」
+
+A group of dwarven warriors silently advanced in front of us. Seeing as they were all dwarves, maybe they were from some kind of dwarven country?
+
+All of them looked pretty strong too. Fran's eyes lit up.
+
+The way they lined up neatly and marched without any words was the splitting image of a perfect army. No one would be stupid enough to commit a crime in such a place full of people like them.
+
+Fran watched the march of the dwarves for a while, but soon got tired of it. No wonder, since they're literally just walking around.
+
+「……Boring.」
+
+「Woof.」
+
+In the end, we easily reached the administrative council building without getting into any fights or finding any food stalls.
+
+It didn't even take us fifteen minutes from our lodgings, huh?
+
+As Brunen said, it was an unassuming two-story building, mostly made of wood. If it wasn't for the sign, I might have thought it was an inn.
+
+『Well, let's go ask if our consultant William is here.』
+
+「Nn.」
 
 
 

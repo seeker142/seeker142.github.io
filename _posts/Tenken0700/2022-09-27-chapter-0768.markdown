@@ -10,113 +10,131 @@ editor:
 ---
 <h2 id="ch768">768: The Barrier</h2>
 
-<p>After Dalho the guildmaster gave us the information we wanted to know, we departed the guild. He mainly told us the locations of the big illegal towns, and who to watch out for.</p>
+After Dalho the guildmaster gave us the information we wanted to know, we departed the guild. He mainly told us the locations of the big illegal towns, and who to watch out for.
 
-<p>One such group was the dragonkin.</p>
+One such group was the dragonkin.
 
-<p>In our minds, they were an honest race that had repented after being punished by the gods, and were solemnly hunting antidemons ever since.</p>
+In our minds, they were an honest race that had repented after being punished by the gods, and were solemnly hunting antidemons ever since.
 
-<p>Of course, there are many such honest dragonkin, but he said that there are some who were not so honorable.</p>
+Of course, there are many such honest dragonkin, but he said that there are some who were not so honorable.
 
-<p>Those who cling to their past glory and cannot accept the decline of their race.</p>
+Those who cling to their past glory and cannot accept the decline of their race.
 
-<p>Being unable to accept the current state of their race and struggling to fix it. That's a feeling Fran knows all too well, so I can sympathize with them.</p>
+Being unable to accept the current state of their race and struggling to fix it. That's a feeling Fran knows all too well, so I can sympathize with them.
 
-<p>This goes especially for the younger generation. They do not understand why they too must be punished for the failures of their ancestors.</p>
+This goes especially for the younger generation. They do not understand why they too must be punished for the failures of their ancestors.
 
-<p>It is not wrong to act to improve the status of your race. In fact, it is natural.</p>
+It is not wrong to act to improve the status of your race. In fact, it is natural.
  
-<p>However, there are a few people who have let their feelings go in the wrong direction. They still say that "dragonkin are the superior race" and constantly look down on the other races.</p>
+However, there are a few people who have let their feelings go in the wrong direction. They still say that "dragonkin are the superior race" and constantly look down on the other races.
 
-<p>In some cases, they are so violent that they resort to force.</p>
+In some cases, they are so violent that they resort to force.
 
-<p>He said that the number of conflicts with dragonkin like that has been increasing in the past few years. I'll try to stay out of it as much as possible, because I can see nothing but trouble in the future if Fran and some idiot dragonkin meet.</p>
+He said that the number of conflicts with dragonkin like that has been increasing in the past few years. I'll try to stay out of it as much as possible, because I can see nothing but trouble in the future if Fran and some idiot dragonkin meet.
 
-<p>Also, they successfully made our antidemon card while we were talking to Dalho. He handed it to us when we left.</p>
+Also, they successfully made our antidemon card while we were talking to Dalho. He handed it to us when we left.
 
-<p>『Like we heard before, Isario the Rank S adventurer should be the eastern port.』</p>
-<p>（Nn… and we don't know where Ashwrath is.）</p>
-<p>『It's Ashwrath, so I'm sure he's safe and sound…… Probably in some illegal town somewhere.』</p>
+『Like we heard before, Isario the Rank S adventurer should be the eastern port.』
 
-<p>But as I talked to Fran, I had a strange feeling of frustration. I felt like I was forgetting something.</p>
+（Nn… and we don't know where Ashwrath is.）
 
-<p>Was there any question we forgot to ask him?</p>
+『It's Ashwrath, so I'm sure he's safe and sound…… Probably in some illegal town somewhere.』
 
-<p>『Hmmm………』</p>
-<p>（Master, what's wrong?）</p>
-<p>『I feel like I'm forgetting something. Did we forget to ask Dalho anything?』</p>
-<p>（Hmm?）</p>
+But as I talked to Fran, I had a strange feeling of frustration. I felt like I was forgetting something.
 
-<p>Fran didn't know either. But there was someone who could answer our question.</p>
+Was there any question we forgot to ask him?
 
-<p>（Woof!）</p>
-<p>『Urushi, what's wrong?』</p>
-<p>（Woof woof!）</p>
+『Hmmm………』
 
-<p>Urushi, who had been sleeping in the shadows, came out and made some gestures. He stood up on his hind legs and began moving his front legs. His right paw waved up and down, touching his mouth.</p>
+（Master, what's wrong?）
 
-<p>『Huh? Your mouth? That movement is… eating something?』</p>
-<p>（Arf!）</p>
+『I feel like I'm forgetting something. Did we forget to ask Dalho anything?』
 
-<p>Apparently I was just a little off.</p>
+（Hmm?）
 
-<p>『If it's not eating, then maybe drinking?』</p>
-<p>（Woof!）</p>
-<p>『Drinking……? Oh! The wine!』</p>
+Fran didn't know either. But there was someone who could answer our question.
 
-<p>The old elvish wine that Diaz gave me! He said to give it to the guildmaster so he would help us!</p>
+（Woof!）
 
-<p>『But we already got what we wanted to know, and it'd be kinda awkward to go back in just to give it to him……』</p>
+『Urushi, what's wrong?』
 
-<p>Well, let's just keep it in the dimensional storage for a while. It would be a good ace in the hole against any dwarves we meet.</p>
+（Woof woof!）
+
+Urushi, who had been sleeping in the shadows, came out and made some gestures. He stood up on his hind legs and began moving his front legs. His right paw waved up and down, touching his mouth.
+
+『Huh? Your mouth? That movement is… eating something?』
+
+（Arf!）
+
+Apparently I was just a little off.
+
+『If it's not eating, then maybe drinking?』
+
+（Woof!）
+
+『Drinking……? Oh! The wine!』
+
+The old elvish wine that Diaz gave me! He said to give it to the guildmaster so he would help us!
+
+『But we already got what we wanted to know, and it'd be kinda awkward to go back in just to give it to him……』
+
+Well, let's just keep it in the dimensional storage for a while. It would be a good ace in the hole against any dwarves we meet.
 
 <br>
-<p>Five minutes later.</p>
 
-<p>「Okay, let's go.」</p>
-<p>『Yeah.』</p>
-<p>「Arf.」</p>
+Five minutes later.
 
-<p>After leaving the guild, we went to the area in front of the barrier.</p>
+「Okay, let's go.」
 
-<p>When we asked the guildmaster how to enter the barrier, he said that people could pass through normally.</p>
+『Yeah.』
 
-<p>No special spells, tools, or procedures were needed to enter the barrier, so it seemed all we had to do was to walk through it.</p>
+「Arf.」
 
-<p>Behind us was a huge harbor, and beyond the barrier in front of us was a grassy field. It was strikingly obvious that the world inside the barrier varied greatly from the one outside.</p>
+After leaving the guild, we went to the area in front of the barrier.
 
-<p>「Hmmm………」</p>
+When we asked the guildmaster how to enter the barrier, he said that people could pass through normally.
 
-<p>Fran lightly poked the boundary.</p>
+No special spells, tools, or procedures were needed to enter the barrier, so it seemed all we had to do was to walk through it.
 
-<p>『W-Well?』</p>
-<p>「……It's… a little weird.」</p>
-<p>『Oh?』</p>
-<p>「Woof?」</p>
+Behind us was a huge harbor, and beyond the barrier in front of us was a grassy field. It was strikingly obvious that the world inside the barrier varied greatly from the one outside.
 
-<p>Urushi and I both touch the barrier too. My telekinesis could not feel anything at all. I could see it right in front of me, but I couldn't touch it. It was like an illusion.</p>
+「Hmmm………」
 
-<p>Urushi was flapping his paw that had touched the barrier and sniffing it. It seems that his sense of touch felt something too.</p>
+Fran lightly poked the boundary.
 
-<p>Well, Urushi will generally be hiding in the shadows. If he stays in the shadows while using stealth techniques to hide his mana, even the antidemons should not be able to detect him.</p>
+『W-Well?』
 
-<p>If none of those measures work, then I guess he'll have to wait outside the barrier.</p>
+「……It's… a little weird.」
 
-<p>I'm planning to hide my mana too. I heard that other adventurers with enchanted swords put a mana blocking effect on their sheaths so the antidemons can't detect them.</p>
+『Oh?』
 
-<p>In other words, if we can hide our mana, we can fool the antidemons' senses.</p>
+「Woof?」
 
-<p>Fran was poking at the barrier for a few seconds, but she soon got bored of it. Without any hesitation, she walked through the barrier.</p>
+Urushi and I both touch the barrier too. My telekinesis could not feel anything at all. I could see it right in front of me, but I couldn't touch it. It was like an illusion.
 
-<p>「Feels kinda like a curtain.」</p>
-<p>「Woof.」</p>
+Urushi was flapping his paw that had touched the barrier and sniffing it. It seems that his sense of touch felt something too.
 
-<p>Looks like they both felt a slight touch. Since I didn't feel anything, it might be a mental sensation rather than a physical one.</p>
+Well, Urushi will generally be hiding in the shadows. If he stays in the shadows while using stealth techniques to hide his mana, even the antidemons should not be able to detect him.
 
-<p>Well, it's a barrier made by the gods. I don't think laymen like us could possibly understand it, so there's no point thinking about it.</p>
+If none of those measures work, then I guess he'll have to wait outside the barrier.
 
-<p>『Let's find ourselves some antidemons.』</p>
-<p>「Nn.」</p>
+I'm planning to hide my mana too. I heard that other adventurers with enchanted swords put a mana blocking effect on their sheaths so the antidemons can't detect them.
+
+In other words, if we can hide our mana, we can fool the antidemons' senses.
+
+Fran was poking at the barrier for a few seconds, but she soon got bored of it. Without any hesitation, she walked through the barrier.
+
+「Feels kinda like a curtain.」
+
+「Woof.」
+
+Looks like they both felt a slight touch. Since I didn't feel anything, it might be a mental sensation rather than a physical one.
+
+Well, it's a barrier made by the gods. I don't think laymen like us could possibly understand it, so there's no point thinking about it.
+
+『Let's find ourselves some antidemons.』
+
+「Nn.」
 
 
 

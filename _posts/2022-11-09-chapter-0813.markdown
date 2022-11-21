@@ -10,148 +10,153 @@ editor:
 ---
 <h2 id="ch813">813: Side - Nadia</h2>
 
-<p>Four days have passed since Fran left Castel.</p>
+Four days have passed since Fran left Castel.
 
-<p>I almost panicked when she said she wanted to stay here, but in the end, I managed to send her to Nocta.</p>
+I almost panicked when she said she wanted to stay here, but in the end, I managed to send her to Nocta.
 
-<p>I'm sure Fran didn't understand what I meant, but Master certainly did. He may be a sword, but he's clearly a human on the inside.</p>
+I'm sure Fran didn't understand what I meant, but Master certainly did. He may be a sword, but he's clearly a human on the inside.
 
-<p>I saw his slight reaction to my last words.</p>
+I saw his slight reaction to my last words.
 
-<p>And even if he didn't understand, it matters little. I've done what I could.</p>
+And even if he didn't understand, it matters little. I've done what I could.
 
-<p>「There's no way you're getting a hundred people in this season.」</p>
+「There's no way you're getting a hundred people in this season.」
 
-<p>Fran and Master probably didn't know how Gordicia worked yet. When the antidemon season comes rolling in, the vast majority of adventurers start moving very cautiously.</p>
+Fran and Master probably didn't know how Gordicia worked yet. When the antidemon season comes rolling in, the vast majority of adventurers start moving very cautiously.
 
-<p>Of course they would. With stronger and more numerous antidemons, the slightest error in judgment could prove fatal.</p>
+Of course they would. With stronger and more numerous antidemons, the slightest error in judgment could prove fatal.
 
-<p>Not many people would risk their lives for a request to rescue an abandoned village.</p>
+Not many people would risk their lives for a request to rescue an abandoned village.
 
-<p>「Let's see…… Almost here now?」</p>
+「Let's see…… Almost here now?」
 
-<p>I could see a swarm of antidemons approaching the village. Their march was slow.</p>
+I could see a swarm of antidemons approaching the village. Their march was slow.
 
-<p>This proved they were being led by a commander. A group consisting entirely of lesser antidemons would mindlessly rush in to satisfy their appetites.</p>
+This proved they were being led by a commander. A group consisting entirely of lesser antidemons would mindlessly rush in to satisfy their appetites.
 
-<p>I could sense their presences gathering in a single place.</p>
+I could sense their presences gathering in a single place.
 
-<p>The basic strategy of antidemons in battle is concentration of power. They form an army around a commander or a greater antidemon and march together, taking advantage of their superior numbers.</p>
+The basic strategy of antidemons in battle is concentration of power. They form an army around a commander or a greater antidemon and march together, taking advantage of their superior numbers.
 
-<p>Only when this initial strategy is hindered or prevented, is when they take actions such as encirclement or focusing a target.</p>
+Only when this initial strategy is hindered or prevented, is when they take actions such as encirclement or focusing a target.
 
-<p>I can manage on my own for a while. All I have to do is stay in front of them and keep fighting, using myself as live bait.</p>
+I can manage on my own for a while. All I have to do is stay in front of them and keep fighting, using myself as live bait.
 
-<p>This time, I <em>will</em> protect Castel.</p>
+This time, I <em>will</em> protect Castel.
 
-<p>「I'll have to protect the cemetery at least…… Guys, I'm heading out.」</p>
+「I'll have to protect the cemetery at least…… Guys, I'm heading out.」
 
-<p>I pulled out Overgrowth, wading through the grass toward the antidemon horde.</p>
+I pulled out Overgrowth, wading through the grass toward the antidemon horde.
 
-<p>This magic sword has been with me for almost twenty years now.</p>
+This magic sword has been with me for almost twenty years now.
 
-<p>I acquired it the very day I lost my husband.</p>
+I acquired it the very day I lost my husband.
 
-<p>At the time, I had finally graduated from being a novice, and was beginning to gain confidence in myself as an adventurer.</p>
+At the time, I had finally graduated from being a novice, and was beginning to gain confidence in myself as an adventurer.
 
-<p>That confidence turned into arrogance, and my husband and I became more reckless than usual.</p>
+That confidence turned into arrogance, and my husband and I became more reckless than usual.
 
-<p>And the end result was that fateful day. A chance encounter with a vicious antidemon, engraving despair and regret into my very being.</p>
+And the end result was that fateful day. A chance encounter with a vicious antidemon, engraving despair and regret into my very being.
 
-<p>I don't know if I could win against it, even as strong as I am now. Naturally, there was no way for us to escape together, so my husband acted as a decoy――and was cut down as if he was nothing.</p>
+I don't know if I could win against it, even as strong as I am now. Naturally, there was no way for us to escape together, so my husband acted as a decoy――and was cut down as if he was nothing.
 
-<p>He was torn to pieces, unable to buy even a second of time. When I saw his flesh and entrails strewn about, I felt as if our very existences had just been denied.</p>
+He was torn to pieces, unable to buy even a second of time. When I saw his flesh and entrails strewn about, I felt as if our very existences had just been denied.
 
-<p>It was only by chance that I was spared. A high-ranking adventurer had begun fighting nearby, and the antidemon's eyes turned in his direction instead of mine.</p>
+It was only by chance that I was spared. A high-ranking adventurer had begun fighting nearby, and the antidemon's eyes turned in his direction instead of mine.
 
-<p>At the time, I didn't even think about being saved. I don't know why, but I chased after that antidemon as it tried to leave.</p>
+At the time, I didn't even think about being saved. I don't know why, but I chased after that antidemon as it tried to leave.
 
-<p>How could I let you get away with this? Let me get at least one hit in, even if it costs me my life. Maybe those were the kinds of thoughts going through my mind at the time.</p>
+How could I let you get away with this? Let me get at least one hit in, even if it costs me my life. Maybe those were the kinds of thoughts going through my mind at the time.
 
-<p>I ran as fast as my body would allow, just in time to see that Rank S adventurer turn the antidemon into ashes.</p>
+I ran as fast as my body would allow, just in time to see that Rank S adventurer turn the antidemon into ashes.
 
-<p>After that, I guess I started feeling completely empty. I stopped caring about anything, not knowing what to do with my life.</p>
+After that, I guess I started feeling completely empty. I stopped caring about anything, not knowing what to do with my life.
 
-<p>I had lost everything, my beloved husband, my confidence to continue as an adventurer, and the target of my revenge. I picked up my sword and thought about ending it all――and that's when I met her.</p>
+I had lost everything, my beloved husband, my confidence to continue as an adventurer, and the target of my revenge. I picked up my sword and thought about ending it all――and that's when I met her.
 
-<p>The Silver Lady, a pitiful golem endlessly wandering the continent of Gordicia in search of Overgrowth's next wielder.</p>
+The Silver Lady, a pitiful golem endlessly wandering the continent of Gordicia in search of Overgrowth's next wielder.
 
-<p>Until that moment, I thought she was just a myth. I had no idea the Silver Lady actually existed……</p>
+Until that moment, I thought she was just a myth. I had no idea the Silver Lady actually existed……
 
-<p>The moment I saw the magic sword the expressionless woman carried, I immediately understood. This sword needed me, and I needed it.</p>
+The moment I saw the magic sword the expressionless woman carried, I immediately understood. This sword needed me, and I needed it.
 
-<p>I guess that feeling proved my qualification to hold the blade.</p>
+I guess that feeling proved my qualification to hold the blade.
 
-<p>Having become Overgrowth's wielder, I used it to hunt antidemons ever since.</p>
+Having become Overgrowth's wielder, I used it to hunt antidemons ever since.
 
-<p>When explaining to Fran, I mentioned vengeance against antidemons as the condition for using Overgrowth, but that was not the only requirement.</p>
+When explaining to Fran, I mentioned vengeance against antidemons as the condition for using Overgrowth, but that was not the only requirement.
 
-<p>The other requirement was "despair". A despair so deeply ingrained that you could continue fighting even as your body mutates into an antidemon. Well, at least that's what the Silver Lady said.</p>
+The other requirement was "despair". A despair so deeply ingrained that you could continue fighting even as your body mutates into an antidemon. Well, at least that's what the Silver Lady said.
 
-<p>「Despair, huh……?」</p>
+「Despair, huh……?」
 
-<p>Even that golem assured me I was filled with despair, but it looks like I can die with a glimmer of hope in my heart. Call it a miracle.</p>
+Even that golem assured me I was filled with despair, but it looks like I can die with a glimmer of hope in my heart. Call it a miracle.
 
-<p>「I've got to take care of them fast, just in case Fran comes back.」</p>
+「I've got to take care of them fast, just in case Fran comes back.」
 
-<p>Even though my request will stall her a bit, I'm sure Fran will come back even if she's alone. Fine, then all I have to do is clean up house before she gets here.</p>
+Even though my request will stall her a bit, I'm sure Fran will come back even if she's alone. Fine, then all I have to do is clean up house before she gets here.
 
-<p>My old friend's child came back alive. I won't let her die here.</p>
+My old friend's child came back alive. I won't let her die here.
 
-<p>「Over here, antidemons. But I have to warn you I'll be pretty tough today. Don't expect me to be easy prey!」</p>
-<p>「Shaaaagh!」</p>
-<p>「Shooourh!」</p>
+「Over here, antidemons. But I have to warn you I'll be pretty tough today. Don't expect me to be easy prey!」
 
-<p>The swordsman-types charge at me, but I slay them all with a single swing. They were only lesser antidemons, but I was still surprised at how well I could see their movements.</p>
+「Shaaaagh!」
 
-<p>Looks like I'm in peak condition today.</p>
+「Shooourh!」
 
-<p>「Devour them, Overgrowth… It's an all-you-can-eat buffet! I'll feed you antidemons until you get full, or I go crazy, whichever comes first!」</p>
+The swordsman-types charge at me, but I slay them all with a single swing. They were only lesser antidemons, but I was still surprised at how well I could see their movements.
+
+Looks like I'm in peak condition today.
+
+「Devour them, Overgrowth… It's an all-you-can-eat buffet! I'll feed you antidemons until you get full, or I go crazy, whichever comes first!」
 
 
 
 <br>
-<p>I keep hacking and slashing, hacking and slashing. The sun sets and rises again. All the while, I'm continuously cutting down antidemons.</p>
 
-<p>So much blood and sweat has spilled out of me, that I don't even know the difference any more. I should be exhausted by now, but my body's performance was just getting better and better.</p>
+I keep hacking and slashing, hacking and slashing. The sun sets and rises again. All the while, I'm continuously cutting down antidemons.
 
-<p>How many have I slain and devoured by now? A thousand? Ten thousand?</p>
+So much blood and sweat has spilled out of me, that I don't even know the difference any more. I should be exhausted by now, but my body's performance was just getting better and better.
 
-<p>Still, the waves of antidemons had no end.</p>
+How many have I slain and devoured by now? A thousand? Ten thousand?
 
-<p>「Shwiiiii!」</p>
-<p>「Ruiiiiii!」</p>
-<p>「Hah! There's some tougher ones now, but they can't scratch me at all! Bring me the commander!」</p>
+Still, the waves of antidemons had no end.
 
-<p>That's a lie.</p>
+「Shwiiiii!」
 
-<p>I don't know how much of my blood I've already spilled.</p>
+「Ruiiiiii!」
 
-<p>I'm only standing because of Overgrowth's absorption power and my own regeneration skills. That's the reason I've been able to patch up my wounds, replenish my strength, and force myself to keep going.</p>
+「Hah! There's some tougher ones now, but they can't scratch me at all! Bring me the commander!」
 
-<p>「Hmph……? Finally coming?」</p>
+That's a lie.
 
-<p>From the center of the swarm of antidemons, a terrifying aura erupted. There was no doubt. The commander and his guard were about to enter the fray.</p>
+I don't know how much of my blood I've already spilled.
 
-<p>「At long last……!」</p>
+I'm only standing because of Overgrowth's absorption power and my own regeneration skills. That's the reason I've been able to patch up my wounds, replenish my strength, and force myself to keep going.
 
-<p>Overgrowth, the time is now! You can take my flesh and blood! So grant me your power!</p>
+「Hmph……? Finally coming?」
 
-<p>「Golden Devourer! Activate!」</p>
+From the center of the swarm of antidemons, a terrifying aura erupted. There was no doubt. The commander and his guard were about to enter the fray.
 
-<p>Overgrowth connected and fused with me. As we became more united, the energy Overgrowth absorbed from the antidemons flowed into me with greater force than ever before.</p>
+「At long last……!」
 
-<p>「Graaaaaaaaaaaagh!」</p>
+Overgrowth, the time is now! You can take my flesh and blood! So grant me your power!
 
-<p>I felt the erosion expanding on my left arm with a sharp cracking sound. This was the price I had to pay for my power.</p>
+「Golden Devourer! Activate!」
 
-<p>But that's fine.</p>
+Overgrowth connected and fused with me. As we became more united, the energy Overgrowth absorbed from the antidemons flowed into me with greater force than ever before.
 
-<p>Framea…… I will protect your baby this time.</p>
+「Graaaaaaaaaaaagh!」
 
-<p>I gazed upwards at the cloudless sky.</p>
+I felt the erosion expanding on my left arm with a sharp cracking sound. This was the price I had to pay for my power.
 
-<p>Looks like I picked a good day to be my last.</p>
+But that's fine.
+
+Framea…… I will protect your baby this time.
+
+I gazed upwards at the cloudless sky.
+
+Looks like I picked a good day to be my last.
 
 
 

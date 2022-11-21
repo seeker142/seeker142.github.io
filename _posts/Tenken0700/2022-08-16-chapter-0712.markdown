@@ -9,135 +9,170 @@ translator: Seeker
 editor: PinkR
 ---
 <h2 id="ch712">712: Biscot Match Begins</h2>
-<p>Fran is on her merry way to the venue this morning. Her hands equipped with roasted meat skewers from a food stall, as just like every other morning.</p>
 
-<p>Of course she ate breakfast at the inn, or rather, she took some stuff out of her dimensional storage and ate it when she got up from bed. What does it matter? To Fran, a grilled skewer was like a cookie to an ordinary person.</p>
+Fran is on her merry way to the venue this morning. Her hands equipped with roasted meat skewers from a food stall, as just like every other morning.
 
-<p>「Munch!」</p>
-<p>「Nom nom.」</p>
+Of course she ate breakfast at the inn, or rather, she took some stuff out of her dimensional storage and ate it when she got up from bed. What does it matter? To Fran, a grilled skewer was like a cookie to an ordinary person.
 
-<p>Urushi meanwhile, was chomping on a huge cow bone taken after broth had been made with it. The lady at the soup stall gave it to us.</p>
+「Munch!」
 
-<p>He seemed to enjoy biting the middle of the bone which was more than a metre long.</p>
+「Nom nom.」
 
-<p>Reminds me of a silly-looking dog walking with a long wooden stick in its mouth.</p>
+Urushi meanwhile, was chomping on a huge cow bone taken after broth had been made with it. The lady at the soup stall gave it to us.
 
-<p>Yesterday, I heard that the number of customers increased after Fran praised them, and she even got some free bowls of soup for it. Those disappeared into Fran and Urushi's bellies in an instant.</p>
+He seemed to enjoy biting the middle of the bone which was more than a metre long.
 
-<p>I'm pretty sure there's some stuff you needed to chew in there though.</p>
+Reminds me of a silly-looking dog walking with a long wooden stick in its mouth.
 
-<p>「Mogu…… Mwah!」</p>
-<p>『What's wrong, Fran?』</p>
-<p>「That…」</p>
+Yesterday, I heard that the number of customers increased after Fran praised them, and she even got some free bowls of soup for it. Those disappeared into Fran and Urushi's bellies in an instant.
 
-<p>Fran stopped suddenly and saw a familiar man standing in front of her.</p>
+I'm pretty sure there's some stuff you needed to chew in there though.
 
-<p>「That one guy from that country…」</p>
-<p>『Viscount Emmert of the Kingdom of Shallus. Well, not that you need to remember.』</p>
-<p>「What do we do?」</p>
-<p>『Hmm.』</p>
+「Mogu…… Mwah!」
 
-<p>He's obviously waiting for someone. It's very likely that it's Fran.</p>
+『What's wrong, Fran?』
 
-<p>Actually, we had a chance to talk to Kaitly a little bit yesterday. I remember what she said.</p>
+「That…」
+
+Fran stopped suddenly and saw a familiar man standing in front of her.
+
+「That one guy from that country…」
+
+『Viscount Emmert of the Kingdom of Shallus. Well, not that you need to remember.』
+
+「What do we do?」
+
+『Hmm.』
+
+He's obviously waiting for someone. It's very likely that it's Fran.
+
+Actually, we had a chance to talk to Kaitly a little bit yesterday. I remember what she said.
 
 <br>
-<p>「Shallus Kingdom? They came to me too.」</p>
-<p>「Oh, yes! I heard that those people are causing a lot of trouble and making Grandfather very busy. He said he's going to send a letter of protest to the Shallus Kingdom.」</p>
 
-<p>A letter of protest to the kingdom? Seems like the situation has become even more serious than I imagined.</p>
+「Shallus Kingdom? They came to me too.」
 
-<p>「I heard they never keep their promises ever.」</p>
-<p>「Really? Maybe they'll send another person for me?」</p>
-<p>「Maybe…… I heard that some of them were so persistent that an adventurer struck back them. They're nobles, so it seems like the guild and the lord couldn't protect them.」</p>
-<p>「Even though it's their fault?」</p>
-<p>「Well, it's not a crime to solicit, and the other party has a nobleman……」</p>
+「Oh, yes! I heard that those people are causing a lot of trouble and making Grandfather very busy. He said he's going to send a letter of protest to the Shallus Kingdom.」
 
-<p>In the end, it seems like the person who hit first is considered to be the one at fault. Is that perhaps the goal? To disqualify a promising contestant by provoking them to commit a crime? Or maybe to use that as fuel for blackmail?</p>
+A letter of protest to the kingdom? Seems like the situation has become even more serious than I imagined.
 
-<p>「Fran-oneesama, please be careful.」</p>
-<p>「Okay.」</p>
+「I heard they never keep their promises ever.」
+
+「Really? Maybe they'll send another person for me?」
+
+「Maybe…… I heard that some of them were so persistent that an adventurer struck back them. They're nobles, so it seems like the guild and the lord couldn't protect them.」
+
+「Even though it's their fault?」
+
+「Well, it's not a crime to solicit, and the other party has a nobleman……」
+
+In the end, it seems like the person who hit first is considered to be the one at fault. Is that perhaps the goal? To disqualify a promising contestant by provoking them to commit a crime? Or maybe to use that as fuel for blackmail?
+
+「Fran-oneesama, please be careful.」
+
+「Okay.」
+
 <br>
 
-<p>That was the exchange we had.</p>
+That was the exchange we had.
 
-<p>『Let's just keep going. And when Viscount Emmert comes this way, we'll just make a run for it.』</p>
-<p>「Okay.」</p>
-<p>『Well, as long as you hide your presence, I don't think he'll find us.』</p>
+『Let's just keep going. And when Viscount Emmert comes this way, we'll just make a run for it.』
 
-<p>We blended into the crowd and passed by Viscount Emmert and a man who looks like his retainer as the spectators entered the stadium.</p>
+「Okay.」
 
-<p>Sure enough, Viscount Emmert and his follower didn't notice Fran when she hid herself.</p>
+『Well, as long as you hide your presence, I don't think he'll find us.』
 
-<p>「Is that black cat girl still not here?」</p>
-<p>「I think she should be here now……」</p>
-<p>「Whatever! Look harder!」</p>
+We blended into the crowd and passed by Viscount Emmert and a man who looks like his retainer as the spectators entered the stadium.
 
-<p>So they really were after Fran huh? Well, I guess we'll just have to keep avoiding them like this. We'll be leaving this town in a few days anyways.</p>
+Sure enough, Viscount Emmert and his follower didn't notice Fran when she hid herself.
 
-<p>Half an hour later.</p>
+「Is that black cat girl still not here?」
 
-<p>『Here she is again for the first game of the day! The strongest of the black cats, Black Lightning Princess Fraaaan!』</p>
+「I think she should be here now……」
 
-<p>No one in particular bothered us the waiting room, and we were on the arena facing today's opponent.</p>
+「Whatever! Look harder!」
 
-<p>A huge shieldman in matted metal armor with a huge tower shield, Biscot, a man suspected of being a spy for the kingdom of Raydoss.</p>
+So they really were after Fran huh? Well, I guess we'll just have to keep avoiding them like this. We'll be leaving this town in a few days anyways.
 
-<p>Based on what I saw in the first round, he's a very strong defensive type.</p>
+Half an hour later.
 
-<p>『Fran, what do you want to do today?』</p>
-<p>（…I want to go alone.）</p>
-<p>『Got it.』</p>
-<p>（Really?）</p>
-<p>『What do you mean?』</p>
-<p>（Because of how Mordred bested me.）</p>
-<p>『Maybe in a real battle where lives are at stake, but this is just a competition. Besides, don't you want to fight a shieldman?』</p>
-<p>（Nn.）</p>
+『Here she is again for the first game of the day! The strongest of the black cats, Black Lightning Princess Fraaaan!』
 
-<p>Fran has never fought a high-level shieldman in a one-on-one match before. She wants to experience it.</p>
+No one in particular bothered us the waiting room, and we were on the arena facing today's opponent.
 
-<p>That's why she wants to have a back and forth fight rather than just instantly taking him down with all her might.</p>
+A huge shieldman in matted metal armor with a huge tower shield, Biscot, a man suspected of being a spy for the kingdom of Raydoss.
 
-<p>『But be careful.』</p>
-<p>「Nn.」</p>
+Based on what I saw in the first round, he's a very strong defensive type.
 
-<p>Even for me, I think it's a good experience for me against Biscot here. Besides, it wasn't a bad idea for us to save our cards for the next round.</p>
+『Fran, what do you want to do today?』
 
-<p>「Hey, long time since we met in the dungeon.」</p>
-<p>「Nn.」</p>
-<p>「Show me how strong you are, adventurer.」</p>
-<p>「You show me that your shield isn't just a decoration.」</p>
+（…I want to go alone.）
 
-<p>Fran and Biscot began their match, as the two exchange killing intent.</p>
+『Got it.』
 
-<p>「Haaaaaaah!」</p>
-<p>「Tch!」</p>
+（Really?）
 
-<p>The awakened Fran cuts at full speed right from the start. It seems that even Biscot can't handle the speed.</p>
+『What do you mean?』
 
-<p>She slipped through the shield and landed several good shots. His metal armour was very well made, but it's not strong enough to completely repel our attacks.</p>
+（Because of how Mordred bested me.）
 
-<p>Did we overestimate him? That's what I thought, until Biscot began to prove how truly resilient he was.</p>
+『Maybe in a real battle where lives are at stake, but this is just a competition. Besides, don't you want to fight a shieldman?』
 
-<p>「Huh!?」</p>
-<p>「That was too weak! Far too weak!」</p>
+（Nn.）
 
-<p>No matter how serious the wound, he didn't falter at all. He's obviously losing a lot of blood, but there's no sign that he's healing himself. He seems to have some sort of auto-regeneration skill.</p>
+Fran has never fought a high-level shieldman in a one-on-one match before. She wants to experience it.
 
-<p>No damage nullification skills like Sibylla's, but just plain sturdiness and persistence. He frowned from time to time, showing that he doesn't have pain nullification, but only a little.</p>
+That's why she wants to have a back and forth fight rather than just instantly taking him down with all her might.
 
-<p>「Usually, I'm dealing with huge magical beasts! This kind of wound is just an everyday occurrence!」</p>
+『But be careful.』
 
-<p>So he's gone head-to-head with large magical beasts? That would explain how tough he is.</p>
+「Nn.」
 
-<p>Fran is currently unharmed, but it doesn't feel like we're ahead. It's probably because Biscot isn't showing any signs of weakness.</p>
+Even for me, I think it's a good experience for me against Biscot here. Besides, it wasn't a bad idea for us to save our cards for the next round.
 
-<p>「It was a lot worse when I got chewed up and swallowed by that Earth Dragon!」</p>
-<p>「Earth Dragon?」</p>
-<p>「Yeah! Our knight div… Uh, it's nothing. Anyway, we're about to get down to business! You better get serious!」</p>
-<p>「Bring it!」</p>
+「Hey, long time since we met in the dungeon.」
 
-<p>Biscot, you were gonna say "our knight division", right? Like I suspected, they are definitely knights from Raydoss.</p>
+「Nn.」
+
+「Show me how strong you are, adventurer.」
+
+「You show me that your shield isn't just a decoration.」
+
+Fran and Biscot began their match, as the two exchange killing intent.
+
+「Haaaaaaah!」
+
+「Tch!」
+
+The awakened Fran cuts at full speed right from the start. It seems that even Biscot can't handle the speed.
+
+She slipped through the shield and landed several good shots. His metal armour was very well made, but it's not strong enough to completely repel our attacks.
+
+Did we overestimate him? That's what I thought, until Biscot began to prove how truly resilient he was.
+
+「Huh!?」
+
+「That was too weak! Far too weak!」
+
+No matter how serious the wound, he didn't falter at all. He's obviously losing a lot of blood, but there's no sign that he's healing himself. He seems to have some sort of auto-regeneration skill.
+
+No damage nullification skills like Sibylla's, but just plain sturdiness and persistence. He frowned from time to time, showing that he doesn't have pain nullification, but only a little.
+
+「Usually, I'm dealing with huge magical beasts! This kind of wound is just an everyday occurrence!」
+
+So he's gone head-to-head with large magical beasts? That would explain how tough he is.
+
+Fran is currently unharmed, but it doesn't feel like we're ahead. It's probably because Biscot isn't showing any signs of weakness.
+
+「It was a lot worse when I got chewed up and swallowed by that Earth Dragon!」
+
+「Earth Dragon?」
+
+「Yeah! Our knight div… Uh, it's nothing. Anyway, we're about to get down to business! You better get serious!」
+
+「Bring it!」
+
+Biscot, you were gonna say "our knight division", right? Like I suspected, they are definitely knights from Raydoss.
 
 <br>
 

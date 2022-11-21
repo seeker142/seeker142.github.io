@@ -10,118 +10,141 @@ editor:
 ---
 <h2 id="ch765">765: Season of Incursion</h2>
 
-<p>「Now all that's left is the matter of where to find the Rank S adventurers?」</p>
-<p>「Nn. Isario and Ashwrath.」</p>
-<p>「As for Isario-dono, he should be in the East Port. If you head to the Adventurers Guild there, you may be able to find out more about his location.」</p>
+「Now all that's left is the matter of where to find the Rank S adventurers?」
 
-<p>That's on the opposite side of the continent from our current location, since we're in the West Port… It would be a bit scary to go through the entirety of Gordicia while we're still new here.</p>
+「Nn. Isario and Ashwrath.」
 
-<p>Let's try meeting him when we're done with the grave visit.</p>
+「As for Isario-dono, he should be in the East Port. If you head to the Adventurers Guild there, you may be able to find out more about his location.」
 
-<p>「What about Ashwrath?」</p>
-<p>「We know he is in the continent, but we don't know his current whereabouts. Since he is a Rank S adventurer, we should be getting information about him, but……」</p>
+That's on the opposite side of the continent from our current location, since we're in the West Port… It would be a bit scary to go through the entirety of Gordicia while we're still new here.
 
-<p>If he entered the barrier and was operating in an illegal village or similar location, it seems they would not know his exact location.</p>
+Let's try meeting him when we're done with the grave visit.
 
-<p>I guess we have no choice but to look for Ashwrath ourselves. Well, it is not absolutely necessary to meet him, so we can just consider ourselves lucky if we do find him.</p>
+「What about Ashwrath?」
 
-<p>「Isario is fine, but you know Ashwrath is a dangerous man, right?」</p>
-<p>「I know. We've met.」</p>
-<p>「I see, then carry on.」</p>
+「We know he is in the continent, but we don't know his current whereabouts. Since he is a Rank S adventurer, we should be getting information about him, but……」
 
-<p>I can understand why he was worried. The person he was told to help is trying to make contact with a dangerous Rank S adventurer.</p>
+If he entered the barrier and was operating in an illegal village or similar location, it seems they would not know his exact location.
 
-<p>William was relieved to hear that Fran knew him.</p>
+I guess we have no choice but to look for Ashwrath ourselves. Well, it is not absolutely necessary to meet him, so we can just consider ourselves lucky if we do find him.
 
-<p>「Thanks for the information. You were a great help.」</p>
+「Isario is fine, but you know Ashwrath is a dangerous man, right?」
 
-<p>Fran bowed her head and started to get up from her chair, but William stopped her.</p>
+「I know. We've met.」
 
-<p>「Just a minute. I still have more information to give you!」</p>
-<p>「?」</p>
-<p>「It's currently the season of incursion. Don't do anything rash, okay?」</p>
-<p>「Incursion?」</p>
-<p>「It's a period of time where the antidemons increase in both number and strength, happening once every few years.」</p>
+「I see, then carry on.」
 
-<p>It seems the creation of antidemons is not uniform with time.</p>
+I can understand why he was worried. The person he was told to help is trying to make contact with a dangerous Rank S adventurer.
 
-<p>Some years there are very few antidemons, and other years there are unusually large numbers. The most dangerous period is called the "season of incursion".</p>
+William was relieved to hear that Fran knew him.
 
-<p>They don't know exactly when the season will come, and it may even come two years in a row. It had apparently been five years since the last season, so it was predicted to come very soon.</p>
+「Thanks for the information. You were a great help.」
 
-<p>「More and stronger antidemons, that's it?」</p>
-<p>「Not only that, there are more and more sightings of Uniques.」</p>
+Fran bowed her head and started to get up from her chair, but William stopped her.
 
-<p>These "Unique" antidemons are said to be powerful individuals with characteristics and abilities not found in ordinary antidemons.</p>
+「Just a minute. I still have more information to give you!」
 
-<p>No two Uniques were ever the same, and there are still many mysteries about how and why they appear.</p>
+「?」
 
-<p>In the first place, ordinary antidemons are roughly classified into five different types.</p>
+「It's currently the season of incursion. Don't do anything rash, okay?」
 
-<p>Swordsman-type antidemons are about the size of goblins and mainly engage in melee combat.</p>
+「Incursion?」
 
-<p>The archer-type is even smaller than the swordsman-type and shoots magic bullets from a distance.</p>
+「It's a period of time where the antidemons increase in both number and strength, happening once every few years.」
 
-<p>The knight-type is about the size of an ogre and is capable of fighting in both close and long range combat.</p>
+It seems the creation of antidemons is not uniform with time.
 
-<p>The beast-type walks on four legs and can vary widely in size, from as small as a puppy to as large as a house.</p>
+Some years there are very few antidemons, and other years there are unusually large numbers. The most dangerous period is called the "season of incursion".
 
-<p>And finally the cannon-type. The largest confirmed sighting of them was as big as a fortress, and they specialize in long range mass area attacks.</p>
+They don't know exactly when the season will come, and it may even come two years in a row. It had apparently been five years since the last season, so it was predicted to come very soon.
 
-<p>This was the information on basic antidemons. No one knew if they were intelligent or not, but they do attack humans in while working in large groups.</p>
+「More and stronger antidemons, that's it?」
 
-<p>It is impossible to negotiate or coexist with them, so the battle will continue until one side is annihilated.</p>
+「Not only that, there are more and more sightings of Uniques.」
 
-<p>「Ordinary antidemons are often led by knight-types or beast-types. However in large groups, they may be commanded by a Unique.」</p>
-<p>「Are they strong?」</p>
-<p>「It varies widely, but I've heard of a Unique who could compete with a Rank S.」</p>
+These "Unique" antidemons are said to be powerful individuals with characteristics and abilities not found in ordinary antidemons.
 
-<p>Oh man, that's crazy. If they could compete with a Rank S, then that's a minimum threat level of A.</p>
+No two Uniques were ever the same, and there are still many mysteries about how and why they appear.
 
-<p>「However, a Unique that powerful has only been sighted once a few hundred years ago. Not that it changes the fact that they are still very strong. I'd say they are B level threats on average.」</p>
+In the first place, ordinary antidemons are roughly classified into five different types.
 
-<p>Good to hear. It would be nothing short of a nightmare to go somewhere filled with A level threats.</p>
+Swordsman-type antidemons are about the size of goblins and mainly engage in melee combat.
 
-<p>「But if you're going to Castel, you might want to hurry up.」</p>
-<p>「What do you mean?」</p>
-<p>「Among the Uniques born during the season of incursion, the most well-known is the occupier-type.」</p>
+The archer-type is even smaller than the swordsman-type and shoots magic bullets from a distance.
 
-<p>This occupier-type aggressively attacks villages and towns, devouring everything there and turning them into antidemon strongholds.</p>
+The knight-type is about the size of an ogre and is capable of fighting in both close and long range combat.
 
-<p>Towns and villages within the barrier of the Gordicia continent are located in safe zones where antidemons do not or rarely spring up.</p>
+The beast-type walks on four legs and can vary widely in size, from as small as a puppy to as large as a house.
 
-<p>However, after the occupier-type takes them over, they are no longer safe zones. Antidemons will begin to spring up in them normally.</p>
+And finally the cannon-type. The largest confirmed sighting of them was as big as a fortress, and they specialize in long range mass area attacks.
 
-<p>「Of course, Castel must have been built in a safe zone. If that is the case……」</p>
-<p>「Could it be attacked?」</p>
-<p>「Exactly. You wanted to visit a grave, right? If the occupier-type destroys Castel, then everything in the area will be consumed. People, houses, graves, everything.」</p>
+This was the information on basic antidemons. No one knew if they were intelligent or not, but they do attack humans in while working in large groups.
 
-<p>Fran heard William's words and immediately stood up, kicking her chair away. Her face was covered in panic.</p>
+It is impossible to negotiate or coexist with them, so the battle will continue until one side is annihilated.
 
-<p>「……I have to hurry.」</p>
-<p>「Hold on.」</p>
-<p>「But……!」</p>
-<p>『Fran, we can't go immediately either way. There's Belioth's request still.』</p>
-<p>「……」</p>
+「Ordinary antidemons are often led by knight-types or beast-types. However in large groups, they may be commanded by a Unique.」
 
-<p>Fran bit her lip.</p>
+「Are they strong?」
 
-<p>She still had enough of her wits to not dump the request and go to Castel right away, but her impatience was getting the better of her.</p>
+「It varies widely, but I've heard of a Unique who could compete with a Rank S.」
 
-<p>「Don't worry, Fran. There's still time.」</p>
-<p>「What do you mean?」</p>
-<p>「I'm sorry for making you feel rushed, but the season of incursion is not yet in full swing. There have been only a few sightings of the scout-type antidemons, which are said to only show up during the season.」</p>
+Oh man, that's crazy. If they could compete with a Rank S, then that's a minimum threat level of A.
 
-<p>The scout-type is said to be a spider-like antidemon about the size of a human head, and is mainly engaged in information gathering.</p>
+「However, a Unique that powerful has only been sighted once a few hundred years ago. Not that it changes the fact that they are still very strong. I'd say they are B level threats on average.」
 
-<p>「The occupier-type does not appear until a few days after the scout-type has been seen in large numbers. That means there is at least a week before the full-scale incursion.」</p>
+Good to hear. It would be nothing short of a nightmare to go somewhere filled with A level threats.
 
-<p>So Castel is still safe for the time being. If we hurry after finishing the request, we should have plenty of time.</p>
+「But if you're going to Castel, you might want to hurry up.」
 
-<p>「Besides, just because the season has begun does not mean that the number of occupier-types will immediately increase. They tend to begin their attacks starting from the towns near the center of the continent. The map you brought with you only gives us a rough idea of where Castel is, but I would say they have about ten days.」</p>
-<p>「……Got it.」</p>
+「What do you mean?」
 
-<p>However, this means we don't have time to fool around anymore. We should get to Castel as soon we can.</p>
+「Among the Uniques born during the season of incursion, the most well-known is the occupier-type.」
+
+This occupier-type aggressively attacks villages and towns, devouring everything there and turning them into antidemon strongholds.
+
+Towns and villages within the barrier of the Gordicia continent are located in safe zones where antidemons do not or rarely spring up.
+
+However, after the occupier-type takes them over, they are no longer safe zones. Antidemons will begin to spring up in them normally.
+
+「Of course, Castel must have been built in a safe zone. If that is the case……」
+
+「Could it be attacked?」
+
+「Exactly. You wanted to visit a grave, right? If the occupier-type destroys Castel, then everything in the area will be consumed. People, houses, graves, everything.」
+
+Fran heard William's words and immediately stood up, kicking her chair away. Her face was covered in panic.
+
+「……I have to hurry.」
+
+「Hold on.」
+
+「But……!」
+
+『Fran, we can't go immediately either way. There's Belioth's request still.』
+
+「……」
+
+Fran bit her lip.
+
+She still had enough of her wits to not dump the request and go to Castel right away, but her impatience was getting the better of her.
+
+「Don't worry, Fran. There's still time.」
+
+「What do you mean?」
+
+「I'm sorry for making you feel rushed, but the season of incursion is not yet in full swing. There have been only a few sightings of the scout-type antidemons, which are said to only show up during the season.」
+
+The scout-type is said to be a spider-like antidemon about the size of a human head, and is mainly engaged in information gathering.
+
+「The occupier-type does not appear until a few days after the scout-type has been seen in large numbers. That means there is at least a week before the full-scale incursion.」
+
+So Castel is still safe for the time being. If we hurry after finishing the request, we should have plenty of time.
+
+「Besides, just because the season has begun does not mean that the number of occupier-types will immediately increase. They tend to begin their attacks starting from the towns near the center of the continent. The map you brought with you only gives us a rough idea of where Castel is, but I would say they have about ten days.」
+
+「……Got it.」
+
+However, this means we don't have time to fool around anymore. We should get to Castel as soon we can.
 
 
 

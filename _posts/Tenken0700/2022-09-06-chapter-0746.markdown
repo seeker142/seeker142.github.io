@@ -10,139 +10,159 @@ editor:
 ---
 <h2 id="ch746">746: Hostages Released?</h2>
 
-<p>I scouted out the arena with my extended string, where I see a masked man threatening Dimitris and Aurel.</p>
+I scouted out the arena with my extended string, where I see a masked man threatening Dimitris and Aurel.
 
-<p>The mask had an effect that makes him look human, but an appraisal revealed that he was an undead.</p>
+The mask had an effect that makes him look human, but an appraisal revealed that he was an undead.
 
-<p>The magical power cloaking him was quite powerful.</p>
+The magical power cloaking him was quite powerful.
 
-<p>He's Threat Level C at minimum, or maybe even Threat Level B since he had the skill to hide his magic, and the brains to infiltrate towns disguised as a human.</p>
+He's Threat Level C at minimum, or maybe even Threat Level B since he had the skill to hide his magic, and the brains to infiltrate towns disguised as a human.
 
-<p>His stats show he was specialized in magic, having high levels in death poison magic, black magic, and support magic. He was very strong at long range, but not so good at close range. He had a lot of skills at a high level, but no unique skills.</p>
+His stats show he was specialized in magic, having high levels in death poison magic, black magic, and support magic. He was very strong at long range, but not so good at close range. He had a lot of skills at a high level, but no unique skills.
 
-<p>It would be quite difficult to defeat him without harming Kaitly.</p>
+It would be quite difficult to defeat him without harming Kaitly.
 
-<p>This undead named Acidman was smiling triumphantly as he bound Kaitly's body with dark magic. Behind him is… the man who used to be Nilfe's guard? He had been turned into an undead.</p>
+This undead named Acidman was smiling triumphantly as he bound Kaitly's body with dark magic. Behind him is… the man who used to be Nilfe's guard? He had been turned into an undead.
 
-<p>And I could feel a weird magical connection between Acidman and Kaitly. I see, that must be the curse. If Acidman falls, Kaitly and the Nilfe really will lose their lives. I could sense how evil the magic contained in the curse was.</p>
+And I could feel a weird magical connection between Acidman and Kaitly. I see, that must be the curse. If Acidman falls, Kaitly and the Nilfe really will lose their lives. I could sense how evil the magic contained in the curse was.
 
-<p>Whoa! Dimitris just punched some arrogant-looking guy off the stage!</p>
+Whoa! Dimitris just punched some arrogant-looking guy off the stage!
 
-<p>「Master, how is it?」</p>
-<p>『Not looking good. If it continues like this, Dimitris might have to put the slave collar on himself.』</p>
-<p>「……What do we do?」</p>
-<p>『Worst case scenario, I could try to interfere with telekinesis or something……?』</p>
+「Master, how is it?」
 
-<p>If Dimitris becomes Raydoss's slave, it could change the balance of power between our countries.</p>
+『Not looking good. If it continues like this, Dimitris might have to put the slave collar on himself.』
 
-<p>He probably thought it was better to become a slave than to have his granddaughter die. As long as he was still alive, he would still have a chance to be liberated later.</p>
+「……What do we do?」
 
-<p>「But Kaitly and Nilfe's safety is important.」</p>
-<p>『Yeah I know.』</p>
+『Worst case scenario, I could try to interfere with telekinesis or something……?』
 
-<p>We can't put them in danger, so what can we do?</p>
+If Dimitris becomes Raydoss's slave, it could change the balance of power between our countries.
 
-<p>Because of that curse, I can't think of anything at the moment. Even if we capture Nilfe back, things won't get any better.</p>
+He probably thought it was better to become a slave than to have his granddaughter die. As long as he was still alive, he would still have a chance to be liberated later.
 
-<p>While I and the other adventurers could do nothing but gnash our teeth, we saw someone coming out of the stage passageway.</p>
+「But Kaitly and Nilfe's safety is important.」
 
-<p>『It's Sibylla!』</p>
-<p>「……Enemy reinforcements?」</p>
-<p>『Yeah, this is not good.』</p>
+『Yeah I know.』
 
-<p>They have hostages and Sibylla is on their side, so wouldn't we have practically no chance of winning? Dimitris, who seemed to be the most dependable person here, is unable to do anything either……</p>
+We can't put them in danger, so what can we do?
 
-<p>While we were watching the situation, wondering what to do, Acidman ordered Sibylla to put the slave collars on Dimitris and Aurel.</p>
+Because of that curse, I can't think of anything at the moment. Even if we capture Nilfe back, things won't get any better.
 
-<p>Then Sibylla made her move――</p>
+While I and the other adventurers could do nothing but gnash our teeth, we saw someone coming out of the stage passageway.
 
-<p>『Ehh?!』</p>
-<p>「Master, what's going on?」</p>
-<p>『S-Sibylla betrayed the undead!』</p>
-<p>「!!」</p>
+『It's Sibylla!』
 
-<p>Sibylla slashed at Acidman! Not only did she attack him, but she's even finishing him off.</p>
+「……Enemy reinforcements?」
 
-<p>While everyone was stunned by the sudden situation, Sibylla's sword cut Acidman's body in half. No matter how strong he is, he was easily vanquished by Sibylla's sudden backstab.</p>
+『Yeah, this is not good.』
 
-<p>And Kaitly was still alive too. Sibylla had somehow devoured the curse. She really can eat anything!</p>
+They have hostages and Sibylla is on their side, so wouldn't we have practically no chance of winning? Dimitris, who seemed to be the most dependable person here, is unable to do anything either……
 
-<p>「Master, let's go!」</p>
-<p>『Y-Yeah. You're right.』</p>
+While we were watching the situation, wondering what to do, Acidman ordered Sibylla to put the slave collars on Dimitris and Aurel.
 
-<p>While Fran and I move in, the situation progressed further.</p>
+Then Sibylla made her move――
 
-<p>Biscot and Klikka appeared from the same passageway that Sibylla came out of. And not only them, but they were accompanied by a girl.</p>
+『Ehh?!』
 
-<p>Hilt saw them and shouted the girl's name.</p>
+「Master, what's going on?」
 
-<p>「Nilfe!」</p>
+『S-Sibylla betrayed the undead!』
 
-<p>Yes, it was that supposed hostage Nilfe who was holding hands with Klikka. I couldn't see any injuries on her.</p>
+「!!」
 
-<p>But how did she get here? Considering that Sibylla betrayed Acidman, perhaps they rescued her too?</p>
+Sibylla slashed at Acidman! Not only did she attack him, but she's even finishing him off.
 
-<p>Why? They should both be working for Raydoss……</p>
+While everyone was stunned by the sudden situation, Sibylla's sword cut Acidman's body in half. No matter how strong he is, he was easily vanquished by Sibylla's sudden backstab.
 
-<p>While everyone including me were confused, Sibylla picked up Kaitly. This meant that both hostages are now in the hands of Sibylla and her friends……</p>
+And Kaitly was still alive too. Sibylla had somehow devoured the curse. She really can eat anything!
 
-<p>Sibylla, who was wiping the dirt off Kaitly's body, did not seem to have any harmful intentions.</p>
+「Master, let's go!」
 
-<p>Hilt glared sternly at Klikka, who had secured Nilfe.</p>
+『Y-Yeah. You're right.』
 
-<p>「You lot are…… not working with the masked man, are you?」</p>
-<p>「If you're asking if we're friends, then I have to say no. Although we are from the same country.」</p>
-<p>「So you are also from the Kingdom of Raydoss?」</p>
-<p>「Yeah, I'm Sibylla, captain of the Kingdom of Raydoss' regional defense unit, the Knights of the Red Sword.」</p>
+While Fran and I move in, the situation progressed further.
 
-<p>Sibylla easily revealed her identity.</p>
+Biscot and Klikka appeared from the same passageway that Sibylla came out of. And not only them, but they were accompanied by a girl.
 
-<p>A knight captain! I knew she was more than just a knight. And the "regional defense unit" is a rather interesting title.</p>
+Hilt saw them and shouted the girl's name.
 
-<p>Hilt was surprised as well.</p>
+「Nilfe!」
 
-<p>「K-Knight captain? Then what are you doing here?」</p>
-<p>「Hahaha. It's a long story.」</p>
+Yes, it was that supposed hostage Nilfe who was holding hands with Klikka. I couldn't see any injuries on her.
 
-<p>They must have finally realized that Sibylla and her friends are the enemy. I could see the adventurers and soldiers around us all braced themselves at once.</p>
+But how did she get here? Considering that Sibylla betrayed Acidman, perhaps they rescued her too?
 
-<p>They would not attack now, since the two girls were still hostages, but they would rush at Sibylla if they had the chance.</p>
+Why? They should both be working for Raydoss……
 
-<p>The original culprit was defeated, but now more people from Raydoss are here. Dimitris also stopped to watch the situation.</p>
+While everyone including me were confused, Sibylla picked up Kaitly. This meant that both hostages are now in the hands of Sibylla and her friends……
 
-<p>Then, yet more people showed up.</p>
+Sibylla, who was wiping the dirt off Kaitly's body, did not seem to have any harmful intentions.
 
-<p>「Urushi and Colbert are here.」</p>
+Hilt glared sternly at Klikka, who had secured Nilfe.
 
-<p>Fran, who had reached the doorway to the audience, looked down at the stage below and muttered.</p>
+「You lot are…… not working with the masked man, are you?」
 
-<p>「Miss Nilfe!」</p>
-<p>「Woof!」</p>
+「If you're asking if we're friends, then I have to say no. Although we are from the same country.」
 
-<p>They had gone to look for Nilfe, but had finally caught up with her after a near miss.</p>
+「So you are also from the Kingdom of Raydoss?」
 
-<p>「You three, let the girls go!」</p>
-<p>「Woof!」</p>
+「Yeah, I'm Sibylla, captain of the Kingdom of Raydoss' regional defense unit, the Knights of the Red Sword.」
 
-<p>Well I mean they are currently Sibylla's lifeline. There's no way they would let them go so――</p>
+Sibylla easily revealed her identity.
 
-<p>「Yeah, sure. Come on, go to them.」</p>
-<p>「Eh?」</p>
+A knight captain! I knew she was more than just a knight. And the "regional defense unit" is a rather interesting title.
 
-<p>Kaitly looked up at Sibylla in confusion when she was pushed forward.</p>
+Hilt was surprised as well.
 
-<p>「Klikka, give the little lady back to them.」</p>
-<p>「Understood.」</p>
+「K-Knight captain? Then what are you doing here?」
 
-<p>Unlike Kaitly, who had hesitated, Nilfe ran towards Hilt at once. She reached her without any problem.</p>
+「Hahaha. It's a long story.」
 
-<p>「Hilt-oneechan!」</p>
-<p>「Nilfe!」</p>
+They must have finally realized that Sibylla and her friends are the enemy. I could see the adventurers and soldiers around us all braced themselves at once.
 
-<p>Kaitly remained puzzled by this, probably because she did not understand the meaning of Sibylla's actions.</p>
+They would not attack now, since the two girls were still hostages, but they would rush at Sibylla if they had the chance.
 
-<p>「W-Why? Why are you helping me……?」</p>
-<p>「Because I owe you a debt.」</p>
+The original culprit was defeated, but now more people from Raydoss are here. Dimitris also stopped to watch the situation.
+
+Then, yet more people showed up.
+
+「Urushi and Colbert are here.」
+
+Fran, who had reached the doorway to the audience, looked down at the stage below and muttered.
+
+「Miss Nilfe!」
+
+「Woof!」
+
+They had gone to look for Nilfe, but had finally caught up with her after a near miss.
+
+「You three, let the girls go!」
+
+「Woof!」
+
+Well I mean they are currently Sibylla's lifeline. There's no way they would let them go so――
+
+「Yeah, sure. Come on, go to them.」
+
+「Eh?」
+
+Kaitly looked up at Sibylla in confusion when she was pushed forward.
+
+「Klikka, give the little lady back to them.」
+
+「Understood.」
+
+Unlike Kaitly, who had hesitated, Nilfe ran towards Hilt at once. She reached her without any problem.
+
+「Hilt-oneechan!」
+
+「Nilfe!」
+
+Kaitly remained puzzled by this, probably because she did not understand the meaning of Sibylla's actions.
+
+「W-Why? Why are you helping me……?」
+
+「Because I owe you a debt.」
 
 
 

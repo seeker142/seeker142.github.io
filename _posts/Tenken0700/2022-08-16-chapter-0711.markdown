@@ -9,167 +9,214 @@ translator: Seeker
 editor: PinkR
 ---
 <h2 id="ch711">711: Spectating the match with Mordred</h2>
-<p>Colbert seemed to be OK, so we decided to go back to spectating the fights. A B rank adventurer named Abarb was currently fighting a student of the Dimitris school.</p>
 
-<p>Abarb was apparently a magical swordsman who made use of scimitars in close combat, and water and poison magic at long range.</p>
+Colbert seemed to be OK, so we decided to go back to spectating the fights. A B rank adventurer named Abarb was currently fighting a student of the Dimitris school.
 
-<p>According to the commentators, he was a disciple of Eiworth. I see, his fighting style is particularly nasty and he has a personality to match.</p>
+Abarb was apparently a magical swordsman who made use of scimitars in close combat, and water and poison magic at long range.
 
-<p>His opponent is unable to move thanks to his poison, and he's chipping away at him with weak attacks. He's formidable, that's for sure.</p>
+According to the commentators, he was a disciple of Eiworth. I see, his fighting style is particularly nasty and he has a personality to match.
 
-<p>『He has a terrible character, but his moves are refined. Besides, if he's Eiworth's disciple……』</p>
-<p>（He might use poison bombs.）</p>
-<p>『Yeah, we have to be careful there too. I can think of a few countermeasures, like keeping up the pressure to prevent him from opening his item bag.』</p>
-<p>（I won't fail this time.）</p>
+His opponent is unable to move thanks to his poison, and he's chipping away at him with weak attacks. He's formidable, that's for sure.
 
-<p>Mordred had been able to block our prevention by using the warding stone and other such strategies, and Fran has been thinking of various ways to stop that from happening.</p>
+『He has a terrible character, but his moves are refined. Besides, if he's Eiworth's disciple……』
 
-<p>「Fran, you were brilliant.」</p>
-<p>「Mordred? Should you be up?」</p>
-<p>「Yeah, it's not too bad.」</p>
+（He might use poison bombs.）
 
-<p>Mordred, who had been in a fierce battle with Fran until a little while ago, called out to us after the match was over.</p>
+『Yeah, we have to be careful there too. I can think of a few countermeasures, like keeping up the pressure to prevent him from opening his item bag.』
 
-<p>His gait was a little unsteady, but he seemed to be able to move.</p>
+（I won't fail this time.）
 
-<p>There was no frustration or anger on his face. All that was there was a plain smile.</p>
+Mordred had been able to block our prevention by using the warding stone and other such strategies, and Fran has been thinking of various ways to stop that from happening.
 
-<p>「I'm sorry about that last part.」</p>
-<p>「The lava? But you would be fine, right?」</p>
+「Fran, you were brilliant.」
+
+「Mordred? Should you be up?」
+
+「Yeah, it's not too bad.」
+
+Mordred, who had been in a fierce battle with Fran until a little while ago, called out to us after the match was over.
+
+His gait was a little unsteady, but he seemed to be able to move.
+
+There was no frustration or anger on his face. All that was there was a plain smile.
+
+「I'm sorry about that last part.」
+
+「The lava? But you would be fine, right?」
+
 <p>「Yeah, because I used a spell to increase my molten resistance before the match. 
   Even if was unconscious, the spell would last for the duration of the spell, but it was like I was continuing to attack you even after the match was decided. 
   It was a breach of etiquette.」</p>
 
-<p>While saying that, he bowed his head deeply. A true man of honor.</p>
+While saying that, he bowed his head deeply. A true man of honor.
 
-<p>「Okay. I accept your apology.」</p>
-<p>「Thank you.」</p>
-<p>「In exchange, I have a few questions.」</p>
-<p>「All right. Anything you want to know?」</p>
-<p>「About that fight. First of all…」</p>
+「Okay. I accept your apology.」
 
-<p>Fran asked Mordred a bunch of questions about how the match was played. Mordred gave a straight answer to each of them.</p>
+「Thank you.」
 
-<p>He seemed to enjoy teaching Fran. What a helpful guy.</p>
+「In exchange, I have a few questions.」
 
-<p>It's not every day that you get to talk to a veteran, so this is a great opportunity.</p>
+「All right. Anything you want to know?」
 
-<p>He showed us up close what a skilled fighter looks like and reflected on the match with us. It really was a great experience for Fran to have fought Mordred here.</p>
+「About that fight. First of all…」
 
-<p>After a few minutes of reflection on the match they had together, the conversation now became an analysis on the other contestants' battles.</p>
+Fran asked Mordred a bunch of questions about how the match was played. Mordred gave a straight answer to each of them.
 
-<p>「How would you fight Abarb?」</p>
-<p>「If he's an opponent I have little information on, I'll first keep my distance. I would mainly use molten magic and look out for an opening.」</p>
-<p>「I see.」</p>
-<p>「Or, if you're confident, you can bring him into close range. In your case, you'd have an advantage in a sword fight. So getting close before he can pull off any tricks is a decent idea too.」</p>
+He seemed to enjoy teaching Fran. What a helpful guy.
 
-<p>Mordred's words have weight behind them, since he was able to catch Fran with his tricks.</p>
+It's not every day that you get to talk to a veteran, so this is a great opportunity.
 
-<p>「I think he can actually cast that poison spell with a shorter chant.」</p>
-<p>「How do you know?」</p>
-<p>「One time, he fired off a poison spell faster than usual. He must have panicked when his opponent rushed forward. It doesn't make sense that someone can cast faster only once on accident.」</p>
-<p>「Is he trying to make the other fighters think that he is bad at using chant shortening?」</p>
-<p>「I think so.」</p>
+He showed us up close what a skilled fighter looks like and reflected on the match with us. It really was a great experience for Fran to have fought Mordred here.
 
-<p>It was interesting to hear Mordred's analysis of the situation.</p>
+After a few minutes of reflection on the match they had together, the conversation now became an analysis on the other contestants' battles.
 
-<p>While all this was going on, one of Mordred's men came to him. Fran had completely forgotten his face, but they had met before back when they were asked to escort a ship.</p>
+「How would you fight Abarb?」
 
-<p>I could see that he was respectful to Fran, even after she defeated Mordred. That must be a sign of Mordred's good leadership.</p>
+「If he's an opponent I have little information on, I'll first keep my distance. I would mainly use molten magic and look out for an opening.」
 
-<p>Apparently, he had something to do.</p>
+「I see.」
 
-<p>「Is it that time already?」</p>
-<p>「Yes.」</p>
-<p>「Well, I'm going. It was a good time. We'll talk about the monster den next time.」</p>
-<p>「Thanks. I had a good time too.」</p>
-<p>「Yeah.」</p>
+「Or, if you're confident, you can bring him into close range. In your case, you'd have an advantage in a sword fight. So getting close before he can pull off any tricks is a decent idea too.」
 
-<p>Fran was left alone and started to fluff Urushi until someone else came up to her again.</p>
+Mordred's words have weight behind them, since he was able to catch Fran with his tricks.
 
-<p>「Um, Fran-oneesama.」</p>
-<p>「Nn? Kaitly, Nilfe, too.」</p>
-<p>「H-Hello……」</p>
-<p>「Woof!」</p>
+「I think he can actually cast that poison spell with a shorter chant.」
 
-<p>Kaitly and Nilfe were a pair of children. They were in the VIP section where the nobles sat, but they must have found Fran and came to the special viewing area.</p>
+「How do you know?」
 
-<p>They had been aware of Fran's presence for a few minutes beforehand, but did not speak to her out of respect for Mordred. Or was it simply because they were afraid of him?</p>
+「One time, he fired off a poison spell faster than usual. He must have panicked when his opponent rushed forward. It doesn't make sense that someone can cast faster only once on accident.」
 
-<p>Incidentally, the people who are related to or have invested in the contestants are allowed to enter into the special viewing seats</p>
+「Is he trying to make the other fighters think that he is bad at using chant shortening?」
 
-<p>The general spectators are in the unreserved seats, the special viewing seats are for related parties and the VIP seats are for invited guests. That's how they're divided. The people in the VIP seats are treated specially, so they are allowed to come here, too.</p>
+「I think so.」
 
-<p>「You were talking earlier to Mordred-sama, weren't you?」</p>
-<p>「Nn.」</p>
-<p>「You seemed to be very friendly with him……」</p>
-<p>「Nn… fellow adventurers?」</p>
+It was interesting to hear Mordred's analysis of the situation.
 
-<p>Fran tilts her head questioningly. Indeed, it's a bit hard to describe our relationship with Mordred.</p>
+While all this was going on, one of Mordred's men came to him. Fran had completely forgotten his face, but they had met before back when they were asked to escort a ship.
 
-<p>They haven't known each other long enough or are close enough in age to be called friends. I guess it's not the same as being rivals either, so the most comfortable way to describe him is as a fellow adventurer.</p>
+I could see that he was respectful to Fran, even after she defeated Mordred. That must be a sign of Mordred's good leadership.
 
-<p>「You were fighting earlier, and you're okay with it? I mean, both of you.」</p>
-<p>「Why?」</p>
-<p>「No hard feelings, no anger, no……」</p>
-<p>「It's just a match.」</p>
+Apparently, he had something to do.
 
-<p>No, you can only say that because the two of you are both the open-hearted type, right? Some people might hold a grudge over a win or a loss.</p>
+「Is it that time already?」
 
-<p>But Kaitly, who has a lot of respect for Fran, thought it was normal. Nilfe was impressed and convinced as well.</p>
+「Yes.」
 
-<p>「I-I see. It's just a match……」</p>
-<p>「You're amazing!」</p>
-<p>「Nn… win or lose, no hard feelings.」</p>
+「Well, I'm going. It was a good time. We'll talk about the monster den next time.」
 
-<p>Fran's words must have reminded them of why they had come this far, for they both congratulated Fran on her victory.</p>
+「Thanks. I had a good time too.」
 
-<p>「Congratulations on your victory, Onee-sama!」</p>
-<p>「Congratulations!」</p>
-<p>「Thank you.」</p>
-<p>「You were truly great!」</p>
+「Yeah.」
 
-<p>Kaitly and Nilfe excitedly describe the battle between Fran and Mordred.</p>
+Fran was left alone and started to fluff Urushi until someone else came up to her again.
 
-<p>「Well, I didn't really understand what was going on in the middle of the fight……」</p>
-<p>「But it was great!」</p>
-<p>「Yes, it truly was!」</p>
+「Um, Fran-oneesama.」
 
-<p>After the lava from Mordred had covered the inside of the barrier, it seemed that nothing could be spectated from the outside.</p>
+「Nn? Kaitly, Nilfe, too.」
 
-<p>However, the audience seemed to surprisingly enjoy it despite that.</p>
+「H-Hello……」
 
-<p>「It was like a glass cup filled with orange-coloured lava, a sight I had never seen before. Lava is such a beautiful thing.」</p>
-<p>「It was pretty.」</p>
+「Woof!」
 
-<p>Indeed, it was an unusual sight. The heat was blocked by the barrier, so the only thing that remained was the beauty.</p>
+Kaitly and Nilfe were a pair of children. They were in the VIP section where the nobles sat, but they must have found Fran and came to the special viewing area.
 
-<p>It was also a good thing that the show ended before the audience got bored. It was only a few minutes at most.</p>
+They had been aware of Fran's presence for a few minutes beforehand, but did not speak to her out of respect for Mordred. Or was it simply because they were afraid of him?
 
-<p>「Are you okay with those injuries?」</p>
-<p>「That always happens.」</p>
-<p>「Oh, I see…… I'll have to prepare myself if I'm going to be an adventurer.」</p>
-<p>「Good luck.」</p>
-<p>「Thanks!」</p>
+Incidentally, the people who are related to or have invested in the contestants are allowed to enter into the special viewing seats
 
-<p>Kaitly didn't seem to be afraid, in fact, she was even more motivated. Maybe it was the 'Fran effect', or maybe it was her original nature… Perhaps she'll become a famous adventurer in the future.</p>
+The general spectators are in the unreserved seats, the special viewing seats are for related parties and the VIP seats are for invited guests. That's how they're divided. The people in the VIP seats are treated specially, so they are allowed to come here, too.
 
-<p>Later, Fran was invited to watch the match with the two. The little ones listened to Fran's commentary with serious looking faces.</p>
+「You were talking earlier to Mordred-sama, weren't you?」
 
-<p>Nilfe also seemed to be interested in the match and nodded his head from time to time. Fran wasn't amazing at giving good explanations, but they seemed to have learned a lot.</p>
+「Nn.」
 
-<p>「It's unfortunate what happened to your friend, Charlotte-san.」</p>
-<p>「Nn. But she put up a better fight than last year.」</p>
+「You seemed to be very friendly with him……」
 
-<p>The highlight of the tournament was the match between Elsa and Charlotte. It was the same card as last year and the flow of the fight was similar to last year as well.</p>
+「Nn… fellow adventurers?」
 
-<p>The main difference was that Charlotte fought longer and her moves were much better. However, it seemed like she hasn't yet acquired enough offensive power to break through Elsa's defense, and in the end, she was thrown out of the ring and lost.</p>
+Fran tilts her head questioningly. Indeed, it's a bit hard to describe our relationship with Mordred.
 
-<p>「Onee-sama, please do your best in the next match, too. I'll be rooting for you! After all, the next guy is one from that pair we saw in the dungeon!」</p>
-<p>「Nn… I'll win.」</p>
-<p>「Yeah!」</p>
+They haven't known each other long enough or are close enough in age to be called friends. I guess it's not the same as being rivals either, so the most comfortable way to describe him is as a fellow adventurer.
 
-<p>Next up is Biscot.</p>
+「You were fighting earlier, and you're okay with it? I mean, both of you.」
+
+「Why?」
+
+「No hard feelings, no anger, no……」
+
+「It's just a match.」
+
+No, you can only say that because the two of you are both the open-hearted type, right? Some people might hold a grudge over a win or a loss.
+
+But Kaitly, who has a lot of respect for Fran, thought it was normal. Nilfe was impressed and convinced as well.
+
+「I-I see. It's just a match……」
+
+「You're amazing!」
+
+「Nn… win or lose, no hard feelings.」
+
+Fran's words must have reminded them of why they had come this far, for they both congratulated Fran on her victory.
+
+「Congratulations on your victory, Onee-sama!」
+
+「Congratulations!」
+
+「Thank you.」
+
+「You were truly great!」
+
+Kaitly and Nilfe excitedly describe the battle between Fran and Mordred.
+
+「Well, I didn't really understand what was going on in the middle of the fight……」
+
+「But it was great!」
+
+「Yes, it truly was!」
+
+After the lava from Mordred had covered the inside of the barrier, it seemed that nothing could be spectated from the outside.
+
+However, the audience seemed to surprisingly enjoy it despite that.
+
+「It was like a glass cup filled with orange-coloured lava, a sight I had never seen before. Lava is such a beautiful thing.」
+
+「It was pretty.」
+
+Indeed, it was an unusual sight. The heat was blocked by the barrier, so the only thing that remained was the beauty.
+
+It was also a good thing that the show ended before the audience got bored. It was only a few minutes at most.
+
+「Are you okay with those injuries?」
+
+「That always happens.」
+
+「Oh, I see…… I'll have to prepare myself if I'm going to be an adventurer.」
+
+「Good luck.」
+
+「Thanks!」
+
+Kaitly didn't seem to be afraid, in fact, she was even more motivated. Maybe it was the 'Fran effect', or maybe it was her original nature… Perhaps she'll become a famous adventurer in the future.
+
+Later, Fran was invited to watch the match with the two. The little ones listened to Fran's commentary with serious looking faces.
+
+Nilfe also seemed to be interested in the match and nodded his head from time to time. Fran wasn't amazing at giving good explanations, but they seemed to have learned a lot.
+
+「It's unfortunate what happened to your friend, Charlotte-san.」
+
+「Nn. But she put up a better fight than last year.」
+
+The highlight of the tournament was the match between Elsa and Charlotte. It was the same card as last year and the flow of the fight was similar to last year as well.
+
+The main difference was that Charlotte fought longer and her moves were much better. However, it seemed like she hasn't yet acquired enough offensive power to break through Elsa's defense, and in the end, she was thrown out of the ring and lost.
+
+「Onee-sama, please do your best in the next match, too. I'll be rooting for you! After all, the next guy is one from that pair we saw in the dungeon!」
+
+「Nn… I'll win.」
+
+「Yeah!」
+
+Next up is Biscot.
 
 
 

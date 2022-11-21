@@ -10,118 +10,155 @@ editor:
 ---
 <h2 id="ch763">763: Muscled Elf</h2>
 
-<p>Administrative Council, Western Branch. I had expected to see a more formal organization, but the atmosphere inside was surprisingly relaxed.</p>
+Administrative Council, Western Branch. I had expected to see a more formal organization, but the atmosphere inside was surprisingly relaxed.
 
-<p>The security guards near the entrance were smiling and helpful, and the lady at the reception desk even offered us tea and snacks. It reminded me of the time when I went to a homey medium-small sized company office for a sales presentation.</p>
+The security guards near the entrance were smiling and helpful, and the lady at the reception desk even offered us tea and snacks. It reminded me of the time when I went to a homey medium-small sized company office for a sales presentation.
 
-<p>Moreover, when we told her that we wanted to know which branch office the consultant William was in, we were shown into his room after about thirty minutes.</p>
+Moreover, when we told her that we wanted to know which branch office the consultant William was in, we were shown into his room after about thirty minutes.
 
-<p>I was kinda stunned because I thought we were just going to find out where he was today. What surprised me even more was that we could meet him right away just because he was in this branch.</p>
+I was kinda stunned because I thought we were just going to find out where he was today. What surprised me even more was that we could meet him right away just because he was in this branch.
 
-<p>The adventurer's card with Rank B and the letter with Weena Rhyn's name on it seemed to have done the trick.</p>
+The adventurer's card with Rank B and the letter with Weena Rhyn's name on it seemed to have done the trick.
 
-<p>Still, the attitude of the staff did not change, indicating that they were accustomed to dealing with these sorts of big shots. It was not just a matter of being lax.</p>
+Still, the attitude of the staff did not change, indicating that they were accustomed to dealing with these sorts of big shots. It was not just a matter of being lax.
 
-<p>「Welcome. I'm William.」</p>
-<p>「Nn. Fran, the adventurer.」</p>
+「Welcome. I'm William.」
 
-<p>I was also surprised by William's appearance. The guide told me that the consultant we were looking for was an elf magician, so I had imagined a handsome elf in a robe……</p>
+「Nn. Fran, the adventurer.」
 
-<p>「You're an elf magician?」</p>
-<p>「Bwahahaha! To survive on this continent, you can't just sit back and shoot sorcery! Even magicians must train their bodies!」</p>
+I was also surprised by William's appearance. The guide told me that the consultant we were looking for was an elf magician, so I had imagined a handsome elf in a robe……
 
-<p>William had a very masculine face and a completely ripped body. He was probably only a little over 170 cm tall, but he must have weighed over 100 kilograms.</p>
+「You're an elf magician?」
 
-<p>He was wearing leather armor covered with scratches, with a huge mace propped up on the wall of his room. This was clearly the room of a veteran warrior.</p>
+「Bwahahaha! To survive on this continent, you can't just sit back and shoot sorcery! Even magicians must train their bodies!」
 
-<p>The only elvish part about him was the long ears and blond hair. I have to say this is my first time seeing an elf less elvish than Freon.</p>
+William had a very masculine face and a completely ripped body. He was probably only a little over 170 cm tall, but he must have weighed over 100 kilograms.
 
-<p>「And if you're going comment on my strange appearance, you're kind of the same way, no?」</p>
-<p>「Me?」</p>
-<p>「Of course. Rank B at your age? Either your strength is the real dead, or you are very talented at fraud.」</p>
+He was wearing leather armor covered with scratches, with a huge mace propped up on the wall of his room. This was clearly the room of a veteran warrior.
 
-<p>Although I don't want to hear that from a race-fraud muscular elf, it is true that Fran's appearance is misleading.</p>
+The only elvish part about him was the long ears and blond hair. I have to say this is my first time seeing an elf less elvish than Freon.
 
-<p>「So I heard you brought me a letter from my master…」</p>
-<p>「Nn. Here. I don't know what's in it. I was just told to give it to William the consultant.」</p>
-<p>「I see. I'll take a look inside.」</p>
+「And if you're going comment on my strange appearance, you're kind of the same way, no?」
 
-<p>William opened the envelope handed to him by Fran and began to read it. He looked concerned at first, but when he reached the end of the envelope, his face relaxed.</p>
+「Me?」
 
-<p>「Phew……」</p>
-<p>「What's wrong?」</p>
-<p>「Hmm, my master has taken a liking to you it seems. She went out of her way to write at the end that she owes you a debt of gratitude, and that I should assist you if you were in any trouble.」</p>
+「Of course. Rank B at your age? Either your strength is the real dead, or you are very talented at fraud.」
 
-<p>Weena, this is what you put in the letter? Despite her appearances, it seems she really did feel a great debt to us.</p>
+Although I don't want to hear that from a race-fraud muscular elf, it is true that Fran's appearance is misleading.
 
-<p>「My mentor, who was always seemingly kind and yet completely uninterested in everyone… I never thought she would care so much about another person like this……」</p>
+「So I heard you brought me a letter from my master…」
 
-<p>That's a very apt description. It perfectly described Weena Rhyn―― especially Weena who was only interested in Rhyn.</p>
+「Nn. Here. I don't know what's in it. I was just told to give it to William the consultant.」
 
-<p>「Now I have to treat you well! So, is there anything I can help you with? This is the perfect opportunity for me to indirectly put my master in my debt, so I'll spare no pains.」</p>
+「I see. I'll take a look inside.」
 
-<p>T-That's really blunt! But it is helpful too, since there is some information we need to know.</p>
+William opened the envelope handed to him by Fran and began to read it. He looked concerned at first, but when he reached the end of the envelope, his face relaxed.
 
-<p>「I need to know something.」</p>
-<p>「Oh? What kind of things are we talking about?」</p>
-<p>「First, the location of Trismegistus.」</p>
-<p>「What?」</p>
-<p>「I want to meet the legendary alchemist. I also need directions to a village called Castel and the locations of two Rank S――」</p>
-<p>「H-Hold your horses there! One at a time! So what was that about Trismegistus?」</p>
+「Phew……」
 
-<p>William interrupted Fran with a puzzled look.</p>
+「What's wrong?」
 
-<p>「You really want to see Trismegistus?」</p>
-<p>「Nn. Weena Rhyn said he is still deep in this continent, continuing to fight.」</p>
-<p>「That's why she sent this letter……」</p>
-<p>「If I go deep into the continent, will I be able to see him?」</p>
-<p>「Hmm……」</p>
+「Hmm, my master has taken a liking to you it seems. She went out of her way to write at the end that she owes you a debt of gratitude, and that I should assist you if you were in any trouble.」
 
-<p>William was clearly hesitating to speak. Come to think of it, we're dealing with the worst criminal in the history of mankind. Maybe he's not the kind of person you can just go and see.</p>
+Weena, this is what you put in the letter? Despite her appearances, it seems she really did feel a great debt to us.
 
-<p>「Why do you want to see him?」</p>
-<p>「I can't tell you.」</p>
-<p>「You mean to say that it's a personal reason?」</p>
-<p>「Nn.」</p>
-<p>「I see…… First of all, he's located in the middle of this continent, living in the former royal castle of the Dragonkin Kingdom. He should be there, constantly fighting daily with the Abyss Eater.」</p>
-<p>「Got it, the castle in the center.」</p>
-<p>「However, just going there doesn't mean you will be able to meet him. Trismegistus' castle has a barrier surrounding it, so no one without permission is allowed to enter or leave.」</p>
-<p>「How can I get permission?」</p>
-<p>「Let's see…… Even if you have a recommendation from my master, you will need to earn a little more trust. If you hunt antidemons on this continent and accumulate enough achievements, then perhaps you will get permission.」</p>
+「My mentor, who was always seemingly kind and yet completely uninterested in everyone… I never thought she would care so much about another person like this……」
 
-<p>William said that in order to enter the castle of Trismegistus, we would need permission from the heads of each branch.</p>
+That's a very apt description. It perfectly described Weena Rhyn―― especially Weena who was only interested in Rhyn.
 
-<p>It seems that only those with outstanding achievements are allowed to enter the castle, although there are exceptions in the case of direct visits by another country's king.</p>
+「Now I have to treat you well! So, is there anything I can help you with? This is the perfect opportunity for me to indirectly put my master in my debt, so I'll spare no pains.」
 
-<p>「In other words, I should just do my best in Gordicia?」</p>
-<p>「Well, yes I suppose you can put it that way. It would be best if you take it as a request from the Adventurers Guild, so your accomplishments will be more visible. The main goal is to be able to prove you have made a significant contribution to the continent.」</p>
-<p>「Okay. I'll do my best.」</p>
-<p>「Please do, and good luck. All we can give you is permission to enter the castle, so we can't guarantee that you'll be able to meet Trismegistus in one piece.」</p>
-<p>「What do you mean?」</p>
-<p>「Many historians, playwrights, and what-not have come wanting to see him. Some of them were backed by major powers, so we had no choice but to grant them permission. However……」</p>
+T-That's really blunt! But it is helpful too, since there is some information we need to know.
 
-<p>William shrugged with a bitter expression.</p>
+「I need to know something.」
 
-<p>「Every time there are people who get killed for pissing off Trismegistus.」</p>
-<p>「Is that allowed?」</p>
-<p>「It can't be helped. Just because the gods declared him a sinner doesn't mean he's in our custody. It's not like we can give him any orders.」</p>
+「Oh? What kind of things are we talking about?」
 
-<p>I had imagined Trismegistus to be more like a prisoner, a man who is bound and controlled. But surprisingly, he seems to have a lot of freedom.</p>
+「First, the location of Trismegistus.」
 
-<p>「We do officially mark them as "missing". ……Anyways, we are always the ones receiving complaints from the various countries, so it's very frustrating. If you wanted to meet him to satisfy your curiosity, just stop.」</p>
-<p>「Okay. I'll be careful.」</p>
-<p>「Please do. There was something else you wanted to ask me? The location of a village?」</p>
-<p>「The village of Castel. I have a map. Here.」</p>
+「What?」
 
-<p>Fran took out the map that Amanda had given her and showed it to William.</p>
+「I want to meet the legendary alchemist. I also need directions to a village called Castel and the locations of two Rank S――」
 
-<p>「It does indeed say Castel…… Wait just a minute.」</p>
+「H-Hold your horses there! One at a time! So what was that about Trismegistus?」
 
-<p>William took out a thin book from his bookshelf and started to flip through it. It seemed to be a map book of this continent.</p>
+William interrupted Fran with a puzzled look.
 
-<p>「It's not listed here…… Must be an illegal village then……」</p>
-<p>「Illegal village?」</p>
-<p>「Right. There are several villages and towns in the interior of Gordicia that were created by criminals, hermits, runaway slaves and the like. Castel is most likely one of them.」</p>
+「You really want to see Trismegistus?」
+
+「Nn. Weena Rhyn said he is still deep in this continent, continuing to fight.」
+
+「That's why she sent this letter……」
+
+「If I go deep into the continent, will I be able to see him?」
+
+「Hmm……」
+
+William was clearly hesitating to speak. Come to think of it, we're dealing with the worst criminal in the history of mankind. Maybe he's not the kind of person you can just go and see.
+
+「Why do you want to see him?」
+
+「I can't tell you.」
+
+「You mean to say that it's a personal reason?」
+
+「Nn.」
+
+「I see…… First of all, he's located in the middle of this continent, living in the former royal castle of the Dragonkin Kingdom. He should be there, constantly fighting daily with the Abyss Eater.」
+
+「Got it, the castle in the center.」
+
+「However, just going there doesn't mean you will be able to meet him. Trismegistus' castle has a barrier surrounding it, so no one without permission is allowed to enter or leave.」
+
+「How can I get permission?」
+
+「Let's see…… Even if you have a recommendation from my master, you will need to earn a little more trust. If you hunt antidemons on this continent and accumulate enough achievements, then perhaps you will get permission.」
+
+William said that in order to enter the castle of Trismegistus, we would need permission from the heads of each branch.
+
+It seems that only those with outstanding achievements are allowed to enter the castle, although there are exceptions in the case of direct visits by another country's king.
+
+「In other words, I should just do my best in Gordicia?」
+
+「Well, yes I suppose you can put it that way. It would be best if you take it as a request from the Adventurers Guild, so your accomplishments will be more visible. The main goal is to be able to prove you have made a significant contribution to the continent.」
+
+「Okay. I'll do my best.」
+
+「Please do, and good luck. All we can give you is permission to enter the castle, so we can't guarantee that you'll be able to meet Trismegistus in one piece.」
+
+「What do you mean?」
+
+「Many historians, playwrights, and what-not have come wanting to see him. Some of them were backed by major powers, so we had no choice but to grant them permission. However……」
+
+William shrugged with a bitter expression.
+
+「Every time there are people who get killed for pissing off Trismegistus.」
+
+「Is that allowed?」
+
+「It can't be helped. Just because the gods declared him a sinner doesn't mean he's in our custody. It's not like we can give him any orders.」
+
+I had imagined Trismegistus to be more like a prisoner, a man who is bound and controlled. But surprisingly, he seems to have a lot of freedom.
+
+「We do officially mark them as "missing". ……Anyways, we are always the ones receiving complaints from the various countries, so it's very frustrating. If you wanted to meet him to satisfy your curiosity, just stop.」
+
+「Okay. I'll be careful.」
+
+「Please do. There was something else you wanted to ask me? The location of a village?」
+
+「The village of Castel. I have a map. Here.」
+
+Fran took out the map that Amanda had given her and showed it to William.
+
+「It does indeed say Castel…… Wait just a minute.」
+
+William took out a thin book from his bookshelf and started to flip through it. It seemed to be a map book of this continent.
+
+「It's not listed here…… Must be an illegal village then……」
+
+「Illegal village?」
+
+「Right. There are several villages and towns in the interior of Gordicia that were created by criminals, hermits, runaway slaves and the like. Castel is most likely one of them.」
 
 
 

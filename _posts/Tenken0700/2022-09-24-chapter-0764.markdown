@@ -10,120 +10,142 @@ editor:
 ---
 <h2 id="ch764">764: Illegal Villages</h2>
 
-<p>Many different kinds of people come to the continent of Gordicia.</p>
+Many different kinds of people come to the continent of Gordicia.
 
-<p>Soldiers dispatched from various countries, and criminal slaves who serve as meatshields. Adventurers looking for a place to train, and criminals escaping the law.</p>
+Soldiers dispatched from various countries, and criminal slaves who serve as meatshields. Adventurers looking for a place to train, and criminals escaping the law.
 
-<p>On the continent of Gordicia, where there is always a need for troops, any human being is welcome. Well, I'm sure criminals can't walk around in broad daylight… except for those at Ashwrath's level, of course.</p>
+On the continent of Gordicia, where there is always a need for troops, any human being is welcome. Well, I'm sure criminals can't walk around in broad daylight… except for those at Ashwrath's level, of course.
 
-<p>If they change their names and work hard, no one would give a damn about their past.</p>
+If they change their names and work hard, no one would give a damn about their past.
 
-<p>That's why many criminals come to this continent. There are even brokers on the other continents who transport criminals here on a daily basis.</p>
+That's why many criminals come to this continent. There are even brokers on the other continents who transport criminals here on a daily basis.
 
-<p>But even here, criminals will be easily caught if they try to commit crimes. They are, after all, surrounded by knights and soldiers.</p>
+But even here, criminals will be easily caught if they try to commit crimes. They are, after all, surrounded by knights and soldiers.
 
-<p>In that sense, you could say the ports of Gordicia were the most difficult places in the world to get away with a crime.</p>
+In that sense, you could say the ports of Gordicia were the most difficult places in the world to get away with a crime.
 
-<p>「But all of that only applies to the outside of the barrier. Once inside, you are in the belly of the beast, where the law is meaningless.」</p>
-<p>「……Criminals can do what they want?」</p>
-<p>「In some regions, yes. There are criminals who go into the barrier and squat down wherever they want, never coming back out.」</p>
-<p>「You can live inside the barrier?」</p>
-<p>「It's not impossible.」</p>
+「But all of that only applies to the outside of the barrier. Once inside, you are in the belly of the beast, where the law is meaningless.」
 
-<p>The inside of the barrier is filled to the brim with the body of the Abyss Eater. However, since the body is demi-spiritual in nature, it is invisible to the naked eye and has no physical presence.</p>
+「……Criminals can do what they want?」
 
-<p>The air from outside the barrier flows in, allowing for humans to survive. Moreover, the inside still has land, plants, and creatures. It even has rivers and lakes.</p>
+「In some regions, yes. There are criminals who go into the barrier and squat down wherever they want, never coming back out.」
 
-<p>「Didn't the Abyss Eater eat everything? Yet there's still plants and animals?」</p>
-<p>「That's correct. It does eat everything, but it all depends on the efficiency.」</p>
+「You can live inside the barrier?」
 
-<p>Though the Abyss Eater is said to devour everything, it has a special way of eating. It creates monsters called "antidemons"<sup>[<a href="#ref1">1</a>]</sup> and absorbs the energy that the antidemons eat.</p>
+「It's not impossible.」
 
-<p>Antidemons can eat anything. Soil, living creatures, mana, and even evil energy. However, they seem to have a preference, or rather, a priority.</p>
+The inside of the barrier is filled to the brim with the body of the Abyss Eater. However, since the body is demi-spiritual in nature, it is invisible to the naked eye and has no physical presence.
 
-<p>They focus on things with more mana. The more mana you have, the more delicious you are to the antidemons.</p>
+The air from outside the barrier flows in, allowing for humans to survive. Moreover, the inside still has land, plants, and creatures. It even has rivers and lakes.
 
-<p>That's why every single magical beast disappeared from the continent immediately after the birth of the Abyss Eater. There must have been dragons and other high-ranking monsters before, but they could do little when swarmed by an endless flood of antidemons.</p>
+「Didn't the Abyss Eater eat everything? Yet there's still plants and animals?」
 
-<p>After devouring all the magical beasts, the antidemons next targeted magical trees and spirit plants packed with mana. And after that, humanity.</p>
+「That's correct. It does eat everything, but it all depends on the efficiency.」
 
-<p>「If all the humans disappear, that's when they may begin eating the earth and grass. But as long as we continue to fight on this land, the antidemons will scour the entire area inside the barrier in search of humans, without so much as a glance for anything else.」</p>
+Though the Abyss Eater is said to devour everything, it has a special way of eating. It creates monsters called "antidemons"[^1] and absorbs the energy that the antidemons eat.
 
-<p>So as long as human forces are stationed within the barrier, the antidemons will continue to target them. It seems what we call the Gordician Duty is actually the battle to protect the continent itself from the appetites of the antidemons.</p>
+Antidemons can eat anything. Soil, living creatures, mana, and even evil energy. However, they seem to have a preference, or rather, a priority.
 
-<p>「Let's go back to talking about the villages. Antidemons show up within the Abyss Eater. In other words, they can spring up anywhere on this continent.」</p>
-<p>「They spring up……?」</p>
+They focus on things with more mana. The more mana you have, the more delicious you are to the antidemons.
 
-<p>You said they "spring up", but come to think of it, exactly how antidemons are created?</p>
+That's why every single magical beast disappeared from the continent immediately after the birth of the Abyss Eater. There must have been dragons and other high-ranking monsters before, but they could do little when swarmed by an endless flood of antidemons.
 
-<p>「Indeed. From our point of view, they seem to appear out of nowhere. But there are certain patterns in how they appear.」</p>
+After devouring all the magical beasts, the antidemons next targeted magical trees and spirit plants packed with mana. And after that, humanity.
 
-<p>Apparently the closer to the center of the continent you are, the more powerful antidemons are born.</p>
+「If all the humans disappear, that's when they may begin eating the earth and grass. But as long as we continue to fight on this land, the antidemons will scour the entire area inside the barrier in search of humans, without so much as a glance for anything else.」
 
-<p>「But not only that, the number of antidemons produced also depends on the location. For some reason, there are places where antidemons do not spring up at all. That's where we build towns.」</p>
+So as long as human forces are stationed within the barrier, the antidemons will continue to target them. It seems what we call the Gordician Duty is actually the battle to protect the continent itself from the appetites of the antidemons.
 
-<p>Makes sense. If antidemons do not appear and agriculture is possible, it may not be impossible to make a living. Assuming you are capable of fighting off the antidemons invading from outside, that is.</p>
+「Let's go back to talking about the villages. Antidemons show up within the Abyss Eater. In other words, they can spring up anywhere on this continent.」
 
-<p>「But there are also towns and villages that are outside the control of the administrative council. In some areas where antidemons are less likely to appear, criminals and fugitives created towns and villages of their own.」</p>
-<p>「Less likely, so still a few?」</p>
-<p>「Exactly. The people that live within those towns need to be able to defeat the antidemons that sometimes appear within their walls. Towns and villages like these are created and sometimes even destroyed without our knowledge. We just can't keep track of all of them.」</p>
+「They spring up……?」
 
-<p>So that's what he meant by the illegal villages and towns, outlaws just made them without official permission.</p>
+You said they "spring up", but come to think of it, exactly how antidemons are created?
 
-<p>「Castel must be one of those illegal villages.」</p>
-<p>「I see…… Is it a crime to go there?」</p>
-<p>「No, it is not. In the first place, illegal villages are generally tolerated, since they are required for adventurers to operate in the area. Besides, those that live there have no choice but to continue to hunt antidemons. They are a necessary evil that no one wants to touch upon.」</p>
+「Indeed. From our point of view, they seem to appear out of nowhere. But there are certain patterns in how they appear.」
 
-<p>So in conclusion, there are still some problems with them, but they are tolerated because the benefits are greater. Adventurers in Gordicia often used them as temporary bases of operation.</p>
+Apparently the closer to the center of the continent you are, the more powerful antidemons are born.
 
-<p>「So adventurers can go and enter illegal villages?」</p>
-<p>「Indeed, they are a good source of information and a place to exchange goods. There are even inns in some villages. Besides, they would just become a target of elimination if they caused too much trouble.</p>
+「But not only that, the number of antidemons produced also depends on the location. For some reason, there are places where antidemons do not spring up at all. That's where we build towns.」
 
-<p>It might be better to think of them as recluse hideouts rather than dangerous villages filled with criminals.</p>
+Makes sense. If antidemons do not appear and agriculture is possible, it may not be impossible to make a living. Assuming you are capable of fighting off the antidemons invading from outside, that is.
 
-<p>Then why were Fran's parents in such a village? I never heard of them committing any crimes……</p>
+「But there are also towns and villages that are outside the control of the administrative council. In some areas where antidemons are less likely to appear, criminals and fugitives created towns and villages of their own.」
 
-<p>「Hey, is anyone ever taken as an illegal slave and sold to other continents?」</p>
-<p>「……Why would you ask that?」</p>
+「Less likely, so still a few?」
 
-<p>William gave Fran a probing look. He might have been on his guard for the first time since we arrived, but Fran readily answered his question.</p>
+「Exactly. The people that live within those towns need to be able to defeat the antidemons that sometimes appear within their walls. Towns and villages like these are created and sometimes even destroyed without our knowledge. We just can't keep track of all of them.」
 
-<p>「Because I was one. I lived in a village on this continent, and after Mom and Dad were killed, I was captured as an illegal slave and taken to Kranzel.」</p>
+So that's what he meant by the illegal villages and towns, outlaws just made them without official permission.
 
-<p>It is not something to be spoken of lightly, but Fran herself did not commit any crimes. Her time as a slave was unpleasant to say the least, but it does not diminish her value.</p>
+「Castel must be one of those illegal villages.」
 
-<p>Fran herself knew that too. She spoke of her past as a slave plainly, without any self-deprecation.</p>
+「I see…… Is it a crime to go there?」
 
-<p>「That's…… I see, so that's why you want to go to Castel.」</p>
-<p>「To visit their graves.」</p>
-<p>「Got it, then I will give you as much assistance as I can. I'll write a letter of introduction to the Adventurers Guild, which should let them show you the latest maps and other information. But about the slave traders……」</p>
+「No, it is not. In the first place, illegal villages are generally tolerated, since they are required for adventurers to operate in the area. Besides, those that live there have no choice but to continue to hunt antidemons. They are a necessary evil that no one wants to touch upon.」
 
-<p>William's voice faltered slightly. But then, as if he had resolved himself, he opened his mouth.</p>
+So in conclusion, there are still some problems with them, but they are tolerated because the benefits are greater. Adventurers in Gordicia often used them as temporary bases of operation.
 
-<p>「We have learned that a large slave trafficking ring has infiltrated the continent. There are apparently several countries working together to transport illegal slaves off the continent.」</p>
-<p>「Can't you check the ships?」</p>
-<p>「We don't have the authority to do that. There's hardly anything of value worth the risk to export in the first place.」</p>
+「So adventurers can go and enter illegal villages?」
 
-<p>The magical metals had been consumed by the antidemons. There were no magical beasts or spirit plants. The antidemons themselves also couldn't pass through the barrier.</p>
+「Indeed, they are a good source of information and a place to exchange goods. There are even inns in some villages. Besides, they would just become a target of elimination if they caused too much trouble.
 
-<p>Since there were no goods worth smuggling off the continent of Gordicia, there was no one on the lookout for smuggling and no laws to control it.</p>
+It might be better to think of them as recluse hideouts rather than dangerous villages filled with criminals.
 
-<p>In addition, the people who squat within the barrier are still considered illegal aliens, even if they are tolerated. No country would ensure the human rights of such people, and it was not worth the trouble of the administrative council to protect them.</p>
+Then why were Fran's parents in such a village? I never heard of them committing any crimes……
 
-<p>The smuggling of illegal slaves apparently exploited all those factors.</p>
+「Hey, is anyone ever taken as an illegal slave and sold to other continents?」
 
-<p>「Watch out for the blue cats.」</p>
-<p>「……They are the ones smuggling illegal slaves?」</p>
-<p>「I can't say any more than that because I have no proof. The Adventurers Guild should have more information.」</p>
-<p>「Got it.」</p>
+「……Why would you ask that?」
 
-<p>I could see the motivation flaring up inside her.</p>
+William gave Fran a probing look. He might have been on his guard for the first time since we arrived, but Fran readily answered his question.
 
-<p>『Fran… Just so you know, safety first, okay?』</p>
-<p>（I know.）</p>
+「Because I was one. I lived in a village on this continent, and after Mom and Dad were killed, I was captured as an illegal slave and taken to Kranzel.」
 
-<p>This is not going to be just a simple grave visit, is it?</p>
+It is not something to be spoken of lightly, but Fran herself did not commit any crimes. Her time as a slave was unpleasant to say the least, but it does not diminish her value.
 
-<br>
-<p>===== (Translation notes)</p>
-<p id="ref1"> [1] antidemon (抗魔) - A monster created by the Abyss Eater to deal with foreign beings inside of it, similar to how humans have antibodies.</p>
+Fran herself knew that too. She spoke of her past as a slave plainly, without any self-deprecation.
+
+「That's…… I see, so that's why you want to go to Castel.」
+
+「To visit their graves.」
+
+「Got it, then I will give you as much assistance as I can. I'll write a letter of introduction to the Adventurers Guild, which should let them show you the latest maps and other information. But about the slave traders……」
+
+William's voice faltered slightly. But then, as if he had resolved himself, he opened his mouth.
+
+「We have learned that a large slave trafficking ring has infiltrated the continent. There are apparently several countries working together to transport illegal slaves off the continent.」
+
+「Can't you check the ships?」
+
+「We don't have the authority to do that. There's hardly anything of value worth the risk to export in the first place.」
+
+The magical metals had been consumed by the antidemons. There were no magical beasts or spirit plants. The antidemons themselves also couldn't pass through the barrier.
+
+Since there were no goods worth smuggling off the continent of Gordicia, there was no one on the lookout for smuggling and no laws to control it.
+
+In addition, the people who squat within the barrier are still considered illegal aliens, even if they are tolerated. No country would ensure the human rights of such people, and it was not worth the trouble of the administrative council to protect them.
+
+The smuggling of illegal slaves apparently exploited all those factors.
+
+「Watch out for the blue cats.」
+
+「……They are the ones smuggling illegal slaves?」
+
+「I can't say any more than that because I have no proof. The Adventurers Guild should have more information.」
+
+「Got it.」
+
+I could see the motivation flaring up inside her.
+
+『Fran… Just so you know, safety first, okay?』
+
+（I know.）
+
+This is not going to be just a simple grave visit, is it?
+
+---
+
+Translation Notes
+
+[^1]: antidemon (抗魔) - A monster created by the Abyss Eater to deal with foreign beings inside of it, similar to how humans have antibodies.

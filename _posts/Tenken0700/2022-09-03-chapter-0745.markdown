@@ -9,245 +9,306 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch745">745: Side - Black Skeleton Corps</h2>
-<p>「Damn! They still aren't answering my summons! Not only the Mummy King, but also the ghouls!」</p>
 
-<p>I found it strange that I hadn't heard from them since last night, but have they really vanished on me?</p>
+「Damn! They still aren't answering my summons! Not only the Mummy King, but also the ghouls!」
 
-<p>「There was a request from the guild to exterminate the undead you know. Perhaps they were defeated?」</p>
-<p>「Those incompetent buffoons! How could they be so easily defeated by mere adventurers!」</p>
+I found it strange that I hadn't heard from them since last night, but have they really vanished on me?
 
-<p>They were supposed to accompany me to the closing ceremony! Our plans have gone awry! Besides, we've got to get that little black cat brat too……</p>
+「There was a request from the guild to exterminate the undead you know. Perhaps they were defeated?」
 
-<p>「It can't be helped. Abarb, you capture the black cat. I'm sure she'll be easy to get now.」</p>
-<p>「Oh? Wasn't my work all done when I administered the stimulant to the Shallus Kingdom's men? Besides, I'm still recovering from when I got caught up in your indiscriminate attacks, you know?」</p>
-<p>「I was covering for you because you were about to be defeated the girl's escort.」</p>
-<p>「But that doesn't mean you should use large scale magic in the middle of the city. Now all hell's breaking loose. You almost killed the girl you were trying to kidnap too.」</p>
-<p>「It matters little as long as she is still alive. Besides, what's the big deal about giving them a little bit of additional trouble?」</p>
-<p>「Hee-hee-hee…… How scary.」</p>
-<p>「Anyways, you secure the black cat. It should be child's play taking someone who is already half-dead. Do it, and I'll give you the toxin material you've been wanting! Understood?」</p>
-<p>「Well yes I suppose…」</p>
+「Those incompetent buffoons! How could they be so easily defeated by mere adventurers!」
 
-<p>That black cat is of great interest to our Lord. He will be very pleased if we can acquire her, so I must secure her at all costs.</p>
+They were supposed to accompany me to the closing ceremony! Our plans have gone awry! Besides, we've got to get that little black cat brat too……
 
-<p>「I'll take my leave then, but are you sure you can handle it with your forces so depleted?」</p>
-<p>「Of course. Who do you think I am? I am Acidman, the seventh seat of the Black Skeleton Corps!」</p>
-<p>「Hee-hee. I see. Then I'll kidnap the black cat and escape on my own, okay?」</p>
-<p>「Very well.」</p>
+「It can't be helped. Abarb, you capture the black cat. I'm sure she'll be easy to get now.」
 
-<p>Hmph. I know that in your heart you look down on us undead! You're the kind of scum who would sell out your own country for a stupid reason like trying to show up your own teacher!</p>
+「Oh? Wasn't my work all done when I administered the stimulant to the Shallus Kingdom's men? Besides, I'm still recovering from when I got caught up in your indiscriminate attacks, you know?」
 
-<p>No matter, you'll be turned into an undead too after this job is done. You were of some use in the invasion of this town, but that ends when the plan is completed.</p>
+「I was covering for you because you were about to be defeated the girl's escort.」
 
-<p>「Now then, I should get going too.」</p>
+「But that doesn't mean you should use large scale magic in the middle of the city. Now all hell's breaking loose. You almost killed the girl you were trying to kidnap too.」
 
-<p>I put on a mask to hide my identity, then call out to the girl in the corner of the room, who is hugging her knees.</p>
+「It matters little as long as she is still alive. Besides, what's the big deal about giving them a little bit of additional trouble?」
 
-<p>「Girl, come here.」</p>
-<p>「……」</p>
-<p>「The same attitude as before, huh……? Come here already!」</p>
-<p>「Kya!」</p>
-<p>「Kukuku. When this is over, maybe I'll use you as a ritual sacrifice? The blood of a child will certainly make for quality material.」</p>
-<p>「……」</p>
+「Hee-hee-hee…… How scary.」
 
-<p>She doesn't cry out or even look frightened when I threaten her. Detestable.</p>
+「Anyways, you secure the black cat. It should be child's play taking someone who is already half-dead. Do it, and I'll give you the toxin material you've been wanting! Understood?」
 
-<p>「Fine…… Let's see if you can keep that attitude when your grandfather Aurel falls into our hands!」</p>
-<p>「……」</p>
-<p>「Damn brat…… Stop with those eyes!」</p>
-<p>「……」</p>
+「Well yes I suppose…」
 
-<p>Why don't you despair in this situation! You have been captured by someone of overwhelming power and are about to be used as a hostage against your own grandfather!</p>
+That black cat is of great interest to our Lord. He will be very pleased if we can acquire her, so I must secure her at all costs.
 
-<p>「The more defiant you are, the more time is wasted. I hope that half-dead girl Nilfe can cling onto life in the meanwhile!」</p>
-<p>「……!」</p>
-<p>「Kukuku. Yes, you should have made that kind of face in the beginning! Shadowbind.」</p>
-<p>「……Kya!」</p>
+「I'll take my leave then, but are you sure you can handle it with your forces so depleted?」
 
-<p>I bind the little bitch Kaitly with my spell and pick her up.</p>
+「Of course. Who do you think I am? I am Acidman, the seventh seat of the Black Skeleton Corps!」
 
-<p>Kaitly is an important part of our plan to get Dimitris and Aurel at the closing ceremony, which has already begun. The plan is to use this girl as a hostage to have Dimitris and Aurel put slave collars on their necks.</p>
+「Hee-hee. I see. Then I'll kidnap the black cat and escape on my own, okay?」
 
-<p>Kaitly is not only the hostage either. Dimitris' granddaughter, Nilfe, is being held captive in a different place. Kaitly will be my shield, as well as the witness to prove that Nilfe has been captured.</p>
+「Very well.」
 
-<p>No matter how extraordinary this Dimitris guy is, he can't help his granddaughter when he doesn't even know where she is.</p>
+Hmph. I know that in your heart you look down on us undead! You're the kind of scum who would sell out your own country for a stupid reason like trying to show up your own teacher!
 
-<p>「Oi, you're coming with me too.」</p>
-<p>「Urgh.」</p>
-<p>「……!」</p>
+No matter, you'll be turned into an undead too after this job is done. You were of some use in the invasion of this town, but that ends when the plan is completed.
 
-<p>The man who used to guard the girl now serves me. Well, the acid and poison had melted him so much that he's lost all of his abilities. At best he can be used as a meatshield or to threaten Dimitris.</p>
+「Now then, I should get going too.」
 
-<p>Besides, unlike my Lord, I am not particularly skilled at necromancy……</p>
+I put on a mask to hide my identity, then call out to the girl in the corner of the room, who is hugging her knees.
 
-<p>I specialize in dark magic instead. Since I casted presence cloaking magic, I will not be found so easily. In fact, many of the people we passed were so distracted that they did not notice us at all.</p>
+「Girl, come here.」
 
-<p>As I walk into the arena, I summon my underlings and give them orders to run amok. I had originally planned to unleash the ghouls, but I suppose I will have to do without them.</p>
+「……」
 
-<p>I had to reduce the number of underlings I released into the town, and instead use them as a diversion in the arena. Our forces are about half of what I had planned so it was only a matter of time before they were subdued.</p>
+「The same attitude as before, huh……? Come here already!」
 
-<p>Well the plan was originally made to suit the Mummy King, who is poor at stealth. If I had decided to go by myself in the first place, perhaps causing such a commotion might not have been necessary.</p>
+「Kya!」
 
-<p>Absolutely nothing is going to plan. How irritating.</p>
+「Kukuku. When this is over, maybe I'll use you as a ritual sacrifice? The blood of a child will certainly make for quality material.」
 
-<p>「No, everything is fine as long as we get Dimitris and Aurel in the end. Kukuku.」</p>
+「……」
 
-<p>As I walk down the path to the stage, about 10 guards arrive from the front. The security is very tight in this place since many nobles are gathered.</p>
+She doesn't cry out or even look frightened when I threaten her. Detestable.
 
-<p>The man in the front must be skilled enough to see through my stealth. Well, that's all he was able to do.</p>
+「Fine…… Let's see if you can keep that attitude when your grandfather Aurel falls into our hands!」
 
-<p>「H-Hey, you! Stop!」</p>
-<p>「Who are――」</p>
-<p>「Acid Mist.」</p>
-<p>「Gyaaah!」</p>
+「……」
 
-<p>I don't have time to waste on you small fry. The acid mist created by my death poison magic engulfed the guards, killing them instantly.</p>
+「Damn brat…… Stop with those eyes!」
 
-<p>Though they had many soldiers, their quality was poor, likely because they were short handed due to the commotion. Considering that all of them except the commander were young, they must have been new recruits.</p>
+「……」
 
-<p>I step over the bodies of the incompetents I melted and walk out through the aisle to the side of the arena.</p>
+Why don't you despair in this situation! You have been captured by someone of overwhelming power and are about to be used as a hostage against your own grandfather!
 
-<p>The closing ceremony was still going on, as expected. A ceremony with political significance cannot be stopped so easily just because a commotion was going on outside.</p>
+「The more defiant you are, the more time is wasted. I hope that half-dead girl Nilfe can cling onto life in the meanwhile!」
 
-<p>Several people are staring at me after I appeared out of nowhere. And gradually, I could feel the number of eyes increasing.</p>
+「……!」
 
-<p>「W-What the hell! Guards――」</p>
-<p>「Shut up, you little worm!」</p>
-<p>「Gyaah!」</p>
+「Kukuku. Yes, you should have made that kind of face in the beginning! Shadowbind.」
 
-<p>I went up to the noble-looking man who was speaking on the stage, and kicked him off. I had intended to kill him, but he's still barely alive. A lucky man.</p>
+「……Kya!」
 
-<p>But everyone seems to have understood by that action that I was an uninvited guest. They all recognized me as an enemy.</p>
+I bind the little bitch Kaitly with my spell and pick her up.
 
-<p>Well that is not enough to make me tremble, although Kaitly began to shiver.</p>
+Kaitly is an important part of our plan to get Dimitris and Aurel at the closing ceremony, which has already begun. The plan is to use this girl as a hostage to have Dimitris and Aurel put slave collars on their necks.
 
-<p>The guards have me surrounded, but I do not care. I take Kaitly from under my arm and place her down in front, releasing the dark restraints that cover her body.</p>
+Kaitly is not only the hostage either. Dimitris' granddaughter, Nilfe, is being held captive in a different place. Kaitly will be my shield, as well as the witness to prove that Nilfe has been captured.
 
-<p>Seeing the girl suddenly appear, the guards lower their weapons. Kukuku, how very kind.</p>
+No matter how extraordinary this Dimitris guy is, he can't help his granddaughter when he doesn't even know where she is.
 
-<p>「I don't have any time to waste, so let's get down to business. My name is Acidman, and I am a member of the glorious Black Skeleton Corps of the Kingdom of Raydoss!」</p>
+「Oi, you're coming with me too.」
 
-<p>The name Raydoss causes a great commotion. I could see the hostility in many of the eyes focused on me. These inferior beings from a lowly nation do not know their place!</p>
+「Urgh.」
 
-<p>「Kukukuku. As you can see, I have a hostage. Oh, and she's not the only hostage, is she? We have another one somewhere else, a little girl named Nilfe.」</p>
+「……!」
 
-<p>My words echo through the arena, still dominated by the clamor of the humans. Then a voice came from one of the prize winners on the stage.</p>
+The man who used to guard the girl now serves me. Well, the acid and poison had melted him so much that he's lost all of his abilities. At best he can be used as a meatshield or to threaten Dimitris.
 
-<p>「Nilfe is your hostage?! That's why I hadn't seen her this morning……!」</p>
+Besides, unlike my Lord, I am not particularly skilled at necromancy……
 
-<p>Is that Hiltoria, Dimitris' successor? I'd love to get my hands on such a valuable material, but we are short on special slave collars. I guess I'll have to pass on it this time.</p>
+I specialize in dark magic instead. Since I casted presence cloaking magic, I will not be found so easily. In fact, many of the people we passed were so distracted that they did not notice us at all.
 
-<p>「I'm not lying, am I? Well, Kaitly?」</p>
-<p>「Y-Yes…… really. Nilfe is…… she's hurt, you have to help her!」</p>
-<p>「If you don't believe the word of this child, then look at this too.」</p>
+As I walk into the arena, I summon my underlings and give them orders to run amok. I had originally planned to unleash the ghouls, but I suppose I will have to do without them.
 
-<p>I take off the hood of the man standing behind me, who used to be Nilfe's bodyguard. Even though he is undead and half-burned by acid, his face is still recognizable.</p>
+I had to reduce the number of underlings I released into the town, and instead use them as a diversion in the arena. Our forces are about half of what I had planned so it was only a matter of time before they were subdued.
 
-<p>「Michael!」</p>
-<p>「Yes, yes. I believe that was his name. He was quite strong, but not very good at fighting magicians I suppose?」</p>
-<p>「You little……!」</p>
-<p>「You might be able to destroy me if everyone here attacked me…… But that would kill Nilfe, wouldn't it?」</p>
-<p>「……Damn you!」</p>
+Well the plan was originally made to suit the Mummy King, who is poor at stealth. If I had decided to go by myself in the first place, perhaps causing such a commotion might not have been necessary.
 
-<p>Fuhahaha! I knew it! You adventurers are nothing more than a disorderly mob! They can do nothing if I have a hostage!</p>
+Absolutely nothing is going to plan. How irritating.
 
-<p>「Our demands are simple. The Rank S adventurer Dimitris and Wijat Aurel, the two of you must obey me!」</p>
+「No, everything is fine as long as we get Dimitris and Aurel in the end. Kukuku.」
 
-<p>The arena is filled with screams at the mention of these famous names.</p>
+As I walk down the path to the stage, about 10 guards arrive from the front. The security is very tight in this place since many nobles are gathered.
 
-<p>Though these inferior beings are an annoyance, I need to have them bear witness. They shall see the moment when the great Raydoss Black Skeleton Corps spits in the face of the Kingdom of Kranzel!</p>
+The man in the front must be skilled enough to see through my stealth. Well, that's all he was able to do.
 
-<p>「And as a symbol of your obedience, you will wear this collar!」</p>
+「H-Hey, you! Stop!」
 
-<p>I take out the slave's collar and hold it aloft.</p>
+「Who are――」
 
-<p>「Come now! Put this collar around your neck, Dimitris!」</p>
+「Acid Mist.」
 
-<p>This is a specially made slave collar. It has a short life span, but its binding power is so strong that even a Rank S would be enslaved without issue.</p>
+「Gyaaah!」
 
-<p>「What's wrong? Hurry up! Don't you want to save this girl's life?」</p>
-<p>「Ugh!」</p>
+I don't have time to waste on you small fry. The acid mist created by my death poison magic engulfed the guards, killing them instantly.
 
-<p>The darkness tightens around the girl's body, making her scream in agony.</p>
+Though they had many soldiers, their quality was poor, likely because they were short handed due to the commotion. Considering that all of them except the commander were young, they must have been new recruits.
 
-<p>「I have another hostage, so don't think I will hesitate. Or do you want to see if you can defeat me before I take the girl's life? It's no use! I have a curse binding the girls to me! If I die, then the girls shall fall as well!」</p>
+I step over the bodies of the incompetents I melted and walk out through the aisle to the side of the arena.
 
-<p>This is no lie. By connecting my existence with the lives of the girls, I have put a curse on them so that they will die if I perish.</p>
+The closing ceremony was still going on, as expected. A ceremony with political significance cannot be stopped so easily just because a commotion was going on outside.
 
-<p>For us undead, cursing is one of the most compatible forms of magic. Even a high level magician cannot cleanse this easily.</p>
+Several people are staring at me after I appeared out of nowhere. And gradually, I could feel the number of eyes increasing.
 
-<p>The adventurers cannot move because they know that my words are true. They are staring at me through clenched teeth.</p>
+「W-What the hell! Guards――」
 
-<p>「……If I put the slave collar on, will it save that girl and my granddaughter's life?」</p>
-<p>「Grandfather!」</p>
-<p>「Silence, Hilt. So, what is it?」</p>
-<p>「Exactly. Dimitris and Aurel… if you two become our slaves, I will free your grandchildren. With you two at my command, it would be child's play to leave this place without any hostages, am I wrong?」</p>
+「Shut up, you little worm!」
 
-<p>If someone with lie detection found me lying, then the plan may go awry. Therefore, I speak the truth when I say I will free the girls. That's why we kept Nilfe alive in the first place.</p>
+「Gyaah!」
 
-<p>「……I suppose there is no other option.」</p>
-<p>「Grandfather! But…!」</p>
-<p>「The man in the mask is not lying. Consider the lives of these old men and the lives of those young girls. I don't think I need to tell you which is more valuable.」</p>
+I went up to the noble-looking man who was speaking on the stage, and kicked him off. I had intended to kill him, but he's still barely alive. A lucky man.
 
-<p>Dimitris makes his statement and tries to step forward. But he is interrupted by a man, apparently a noble.</p>
+But everyone seems to have understood by that action that I was an uninvited guest. They all recognized me as an enemy.
 
-<p>「P-Please wait! You underestimate your power! If that power goes to Raydoss, it would be a national security crisis! Please reconsider!」</p>
-<p>「You're the former military chief, correct?」</p>
-<p>「That's right! As a nobleman of the Kingdom of Kranzel, I cannot allow you to benefit Raydoss! I'm sorry about your granddaughter, but you have to make a hard―― Guhwa…!」</p>
-<p>「I am not from this country, so I do not need your permission. Don't be mistaken. My granddaughter's life is at stake, so I won't allow anyone to stand in my way. Are we clear?」</p>
+Well that is not enough to make me tremble, although Kaitly began to shiver.
 
-<p>The noble struck by Dimitris flies through the air, and the intimidation that follows pales the faces of those around him. I see. He has a intense aura. Even to an immortal like me, he is a monster. If I were to confront him, I would be slain in an instant.</p>
+The guards have me surrounded, but I do not care. I take Kaitly from under my arm and place her down in front, releasing the dark restraints that cover her body.
 
-<p>I had thought that adventurers were merely idiots who were good at doing odd jobs, but I suppose the highest ranks are a cut above.</p>
+Seeing the girl suddenly appear, the guards lower their weapons. Kukuku, how very kind.
 
-<p>Kukuku, that power will soon be ours! I can't stop laughing!</p>
+「I don't have any time to waste, so let's get down to business. My name is Acidman, and I am a member of the glorious Black Skeleton Corps of the Kingdom of Raydoss!」
 
-<p>「You want me huh? ……Guess I've got no choice.」</p>
-<p>「Boss!」</p>
+The name Raydoss causes a great commotion. I could see the hostility in many of the eyes focused on me. These inferior beings from a lowly nation do not know their place!
 
-<p>Aurel, who was in a VIP seat, stands up as well. If I can enslave both of them, I will have achieved my goal!</p>
+「Kukukuku. As you can see, I have a hostage. Oh, and she's not the only hostage, is she? We have another one somewhere else, a little girl named Nilfe.」
 
-<p>Meanwhile, I saw someone approaching through the passageway I had passed through. I had braced myself for reinforcements from the adventurers, but I was mistaken. It was a familiar presence.</p>
+My words echo through the arena, still dominated by the clamor of the humans. Then a voice came from one of the prize winners on the stage.
 
-<p>「The captain of the Knights of the Red Sword?」</p>
-<p>「And you're the rotting undead from the Black Skeletons, huh?」</p>
+「Nilfe is your hostage?! That's why I hadn't seen her this morning……!」
 
-<p>It was Sibylla of the Red Sword. She's as obnoxious as ever, but she is still a force to be reckoned with. With Dimitris in the mix as well, our escape just became even easier.</p>
+Is that Hiltoria, Dimitris' successor? I'd love to get my hands on such a valuable material, but we are short on special slave collars. I guess I'll have to pass on it this time.
 
-<p>「Fuhahaha! More reinforcements for me! This puts us at an even greater advantage! Dimitris! Aurel! Put the collar on now! Sibylla! You hand these over to them!」</p>
-<p>「You have no authority to command me.」</p>
-<p>「It's not the time for――」</p>
-<p>「In the first place, I owe that kid a little debt.」</p>
-<p>「A… debt?」</p>
-<p>「Yeah, she opened my eyes a bit. So――」</p>
+「I'm not lying, am I? Well, Kaitly?」
 
-<p>What is this woman talking about? A debt? What's the matter with you? This is no time for…</p>
+「Y-Yes…… really. Nilfe is…… she's hurt, you have to help her!」
 
-<p>「This is what I think about your filthy curses!」</p>
-<p>「Gugwah!」</p>
+「If you don't believe the word of this child, then look at this too.」
 
-<p>Bitch! What have you done?! Did she just remove my curse?!</p>
+I take off the hood of the man standing behind me, who used to be Nilfe's bodyguard. Even though he is undead and half-burned by acid, his face is still recognizable.
 
-<p>The curse flows back into me, tormenting my body. I'm sure of it, she's severed the cursed connection between me and the girl!</p>
+「Michael!」
 
-<p>「You bitch! Sibylla! Tra-Traitor……!」</p>
-<p>「Nom nom……! I thought the curses of a rotten bastard would taste like shit, but…… this ain't bad.」</p>
-<p>「I-Impossible…… Are you telling me you ate my curse……?」</p>
-<p>「Heheh. I'm not picky, there's nothing I can't eat.」</p>
-<p>「Why are you……」</p>
-<p>「I never liked you assholes in the first place.」</p>
-<p>「What?」</p>
+「Yes, yes. I believe that was his name. He was quite strong, but not very good at fighting magicians I suppose?」
 
-<p>What are you talking about? Your likes and dislikes? A-All this for such a stupid reason…</p>
+「You little……!」
 
-<p>「Like how you kidnapped a child to use as a tool!」</p>
-<p>「Gigyaah!」</p>
+「You might be able to destroy me if everyone here attacked me…… But that would kill Nilfe, wouldn't it?」
 
-<p>You bitch! S-She just slashed at me!</p>
+「……Damn you!」
 
-<p>「We're in the middle of enemy territory! H-Have you lost your mind?!」</p>
-<p>「Shut your stinking mouth, you rotten bastard!」</p>
+Fuhahaha! I knew it! You adventurers are nothing more than a disorderly mob! They can do nothing if I have a hostage!
 
-<p>No! Cease this―― <b>WHHYYY!?</b></p>
+「Our demands are simple. The Rank S adventurer Dimitris and Wijat Aurel, the two of you must obey me!」
+
+The arena is filled with screams at the mention of these famous names.
+
+Though these inferior beings are an annoyance, I need to have them bear witness. They shall see the moment when the great Raydoss Black Skeleton Corps spits in the face of the Kingdom of Kranzel!
+
+「And as a symbol of your obedience, you will wear this collar!」
+
+I take out the slave's collar and hold it aloft.
+
+「Come now! Put this collar around your neck, Dimitris!」
+
+This is a specially made slave collar. It has a short life span, but its binding power is so strong that even a Rank S would be enslaved without issue.
+
+「What's wrong? Hurry up! Don't you want to save this girl's life?」
+
+「Ugh!」
+
+The darkness tightens around the girl's body, making her scream in agony.
+
+「I have another hostage, so don't think I will hesitate. Or do you want to see if you can defeat me before I take the girl's life? It's no use! I have a curse binding the girls to me! If I die, then the girls shall fall as well!」
+
+This is no lie. By connecting my existence with the lives of the girls, I have put a curse on them so that they will die if I perish.
+
+For us undead, cursing is one of the most compatible forms of magic. Even a high level magician cannot cleanse this easily.
+
+The adventurers cannot move because they know that my words are true. They are staring at me through clenched teeth.
+
+「……If I put the slave collar on, will it save that girl and my granddaughter's life?」
+
+「Grandfather!」
+
+「Silence, Hilt. So, what is it?」
+
+「Exactly. Dimitris and Aurel… if you two become our slaves, I will free your grandchildren. With you two at my command, it would be child's play to leave this place without any hostages, am I wrong?」
+
+If someone with lie detection found me lying, then the plan may go awry. Therefore, I speak the truth when I say I will free the girls. That's why we kept Nilfe alive in the first place.
+
+「……I suppose there is no other option.」
+
+「Grandfather! But…!」
+
+「The man in the mask is not lying. Consider the lives of these old men and the lives of those young girls. I don't think I need to tell you which is more valuable.」
+
+Dimitris makes his statement and tries to step forward. But he is interrupted by a man, apparently a noble.
+
+「P-Please wait! You underestimate your power! If that power goes to Raydoss, it would be a national security crisis! Please reconsider!」
+
+「You're the former military chief, correct?」
+
+「That's right! As a nobleman of the Kingdom of Kranzel, I cannot allow you to benefit Raydoss! I'm sorry about your granddaughter, but you have to make a hard―― Guhwa…!」
+
+「I am not from this country, so I do not need your permission. Don't be mistaken. My granddaughter's life is at stake, so I won't allow anyone to stand in my way. Are we clear?」
+
+The noble struck by Dimitris flies through the air, and the intimidation that follows pales the faces of those around him. I see. He has a intense aura. Even to an immortal like me, he is a monster. If I were to confront him, I would be slain in an instant.
+
+I had thought that adventurers were merely idiots who were good at doing odd jobs, but I suppose the highest ranks are a cut above.
+
+Kukuku, that power will soon be ours! I can't stop laughing!
+
+「You want me huh? ……Guess I've got no choice.」
+
+「Boss!」
+
+Aurel, who was in a VIP seat, stands up as well. If I can enslave both of them, I will have achieved my goal!
+
+Meanwhile, I saw someone approaching through the passageway I had passed through. I had braced myself for reinforcements from the adventurers, but I was mistaken. It was a familiar presence.
+
+「The captain of the Knights of the Red Sword?」
+
+「And you're the rotting undead from the Black Skeletons, huh?」
+
+It was Sibylla of the Red Sword. She's as obnoxious as ever, but she is still a force to be reckoned with. With Dimitris in the mix as well, our escape just became even easier.
+
+「Fuhahaha! More reinforcements for me! This puts us at an even greater advantage! Dimitris! Aurel! Put the collar on now! Sibylla! You hand these over to them!」
+
+「You have no authority to command me.」
+
+「It's not the time for――」
+
+「In the first place, I owe that kid a little debt.」
+
+「A… debt?」
+
+「Yeah, she opened my eyes a bit. So――」
+
+What is this woman talking about? A debt? What's the matter with you? This is no time for…
+
+「This is what I think about your filthy curses!」
+
+「Gugwah!」
+
+Bitch! What have you done?! Did she just remove my curse?!
+
+The curse flows back into me, tormenting my body. I'm sure of it, she's severed the cursed connection between me and the girl!
+
+「You bitch! Sibylla! Tra-Traitor……!」
+
+「Nom nom……! I thought the curses of a rotten bastard would taste like shit, but…… this ain't bad.」
+
+「I-Impossible…… Are you telling me you ate my curse……?」
+
+「Heheh. I'm not picky, there's nothing I can't eat.」
+
+「Why are you……」
+
+「I never liked you assholes in the first place.」
+
+「What?」
+
+What are you talking about? Your likes and dislikes? A-All this for such a stupid reason…
+
+「Like how you kidnapped a child to use as a tool!」
+
+「Gigyaah!」
+
+You bitch! S-She just slashed at me!
+
+「We're in the middle of enemy territory! H-Have you lost your mind?!」
+
+「Shut your stinking mouth, you rotten bastard!」
+
+No! Cease this―― <b>WHHYYY!?</b>
 
 
 

@@ -10,108 +10,145 @@ editor:
 ---
 <h2 id="ch805">805: The Silver Lady, the Golden Blade</h2>
 
-<p>『Are you saying you're mistaken for an antidemon?』</p>
-<p>「All the towns have magic tools to detect antidemons and wards to keep them out. I get caught by those too, so I can't get in.」</p>
-<p>「Can't you just explain it to them?」</p>
-<p>「That won't work. A hundred years ago, there was a unique antidemon that transformed into a human and brought down a whole city from the inside. That's why they won't let in anyone suspected of being an antidemon.」</p>
-<p>『But didn't they let you into Nocta before?』</p>
-<p>「That's because the erosion wasn't so bad until recently.」</p>
+『Are you saying you're mistaken for an antidemon?』
 
-<p>This failed divine sword makes you stronger as you slay antidemons, but also turns you into one. And Nadia said that it was only recently that the erosion began to progress this rapidly.</p>
+「All the towns have magic tools to detect antidemons and wards to keep them out. I get caught by those too, so I can't get in.」
 
-<p>That's all I needed to know.</p>
+「Can't you just explain it to them?」
 
-<p>She greatly regretted not being able to protect Castel and desired power as a result. After years of hunting antidemons, this was the power and body that she had obtained for herself.</p>
+「That won't work. A hundred years ago, there was a unique antidemon that transformed into a human and brought down a whole city from the inside. That's why they won't let in anyone suspected of being an antidemon.」
 
-<p>And I realized one more important thing.</p>
+『But didn't they let you into Nocta before?』
 
-<p>『I've heard that antidemons can't escape the barrier that the gods made, so……』</p>
-<p>「You realized it, huh? Yeah, that's right. The holder of the Overgrowth can't cross the barrier.」</p>
-<p>『Damn……』</p>
+「That's because the erosion wasn't so bad until recently.」
 
-<p>It really does turn you into an antidemon.</p>
+This failed divine sword makes you stronger as you slay antidemons, but also turns you into one. And Nadia said that it was only recently that the erosion began to progress this rapidly.
 
-<p>「Have you tried it? You're sure you can't get through?」</p>
-<p>「I haven't tried it personally, but…… This sword has been on this continent for thousands of years and it has passed through many hands. I heard it all from the Silver Lady.」</p>
-<p>『The Silver Lady?』</p>
+That's all I needed to know.
 
-<p>It's apparently something of an urban legend on this continent.</p>
+She greatly regretted not being able to protect Castel and desired power as a result. After years of hunting antidemons, this was the power and body that she had obtained for herself.
 
-<p>The Silver Lady was said to wander around Gordicia in search of a worthy wielder of her cursed sword. When she finds someone suitable, she hands the sword over and disappears.</p>
+And I realized one more important thing.
 
-<p>Only after the current wielder dies does she appear again. She shows up out of nowhere, retrieves the sword, and resumes her journey in search of the next wielder.</p>
+『I've heard that antidemons can't escape the barrier that the gods made, so……』
 
-<p>This urban legend seemed like the ghost stories you would hear while drinking out, except this legend was true.</p>
+「You realized it, huh? Yeah, that's right. The holder of the Overgrowth can't cross the barrier.」
 
-<p>「The Silver Lady is a special golem created by the divine blacksmith Zechs.」</p>
+『Damn……』
 
-<p>In order to empower Overgrowth, the Silver Lady was constantly searching for people qualified to handle the magic sword and giving it to them.</p>
+It really does turn you into an antidemon.
 
-<p>Overgrowth's terrifying power was the result of successive generations of wielders who have continued to slay antidemons and absorb them.</p>
+「Have you tried it? You're sure you can't get through?」
 
-<p>「The Silver Lady told me plenty. About Zechs, the divine blacksmith, and about the fate of this sword's wielder…」</p>
-<p>『Fate?』</p>
+「I haven't tried it personally, but…… This sword has been on this continent for thousands of years and it has passed through many hands. I heard it all from the Silver Lady.」
 
-<p>That's an ominous word. I can't imagine a happy ending at least.</p>
+『The Silver Lady?』
 
-<p>「There are only three possible ways for the wielder of the Overgrowth to die. Either they are defeated by a powerful antidemon, they are defeated by humans after failing to control their inner antidemon, or they off themselves to prevent a complete loss of sanity. Just those three.」</p>
-<p>『If you know how dangerous it is, why can't you just let go of the sword?』</p>
-<p>「Fufufu. The thing that qualifies you to use Overgrowth is your strong desire for revenge against the antidemons. Such a person would never willingly give up this sword.」</p>
+It's apparently something of an urban legend on this continent.
 
-<p>The wielder can't enter a city, nor can they leave the continent. And they always have a strong desire for revenge against the antidemons. It's as if their end was already in the cards.</p>
+The Silver Lady was said to wander around Gordicia in search of a worthy wielder of her cursed sword. When she finds someone suitable, she hands the sword over and disappears.
 
-<p>「From the moment you become the owner of this sword, you are destined to hunt antidemons on this continent until the day you die.」</p>
+Only after the current wielder dies does she appear again. She shows up out of nowhere, retrieves the sword, and resumes her journey in search of the next wielder.
 
-<p>There was no trace of regret in Nadia's voice. In fact, it sounded as if she was waiting for such an ending.</p>
+This urban legend seemed like the ghost stories you would hear while drinking out, except this legend was true.
 
-<p>「……Auntie.」</p>
-<p>「Don't cry. I've never regretted becoming the wielder of this sword, not one bit. It's the only reason I can still fight.」</p>
+「The Silver Lady is a special golem created by the divine blacksmith Zechs.」
 
-<p>The fact that Nadia was as powerful as a Rank A adventurer despite being unevolved, was most likely due to her continued absorption of antidemons.</p>
+In order to empower Overgrowth, the Silver Lady was constantly searching for people qualified to handle the magic sword and giving it to them.
 
-<p>「Fran, you need to leave this village as soon as possible.」</p>
-<p>「Why?」</p>
-<p>「Because there's no sign of antidemons around the village.」</p>
-<p>『What's wrong with that?』</p>
-<p>「That means there's a powerful commander in the area, and he's been gathering them all up. This is the calm before the storm. In a few days, the antidemon invasion will begin.」</p>
-<p>『I hate to say it, but Castel is like an abandoned village now that you're the only one left. Are they really going to invade a place like this?』</p>
-<p>「We failed to slay the commander who attacked here last time. And if he's still alive, he'll come again. That's the way the occupier-types are.」</p>
-<p>「Then I'll fight――」</p>
-<p>「No! Even if you want to protect your memories, this is an abandoned village. Unlike me, you have a future. This rubble isn't worth you throwing away your future to protect it.」</p>
-<p>「I can fight! I can save this village!」</p>
-<p>「No.」</p>
+Overgrowth's terrifying power was the result of successive generations of wielders who have continued to slay antidemons and absorb them.
 
-<p>Nadia's resolve was firm. She stared at Fran with a stern face I had never seen before. But Fran did not avert her gaze either.</p>
+「The Silver Lady told me plenty. About Zechs, the divine blacksmith, and about the fate of this sword's wielder…」
 
-<p>The two continued to glare at each other.</p>
+『Fate?』
 
-<p>But soon Nadia's expression softened.</p>
+That's an ominous word. I can't imagine a happy ending at least.
 
-<p>「Sigh…… You're a stubborn one, huh?」</p>
-<p>「Nn.」</p>
-<p>「Actually, I wanted you to take on a few jobs for me.」</p>
-<p>「Jobs?」</p>
-<p>「Yeah, for starters. Could you deliver this to the Adventurers Guild in Nocta?」</p>
-<p>「Is this a…… guild card?」</p>
-<p>「Yeah, call it my last will or something. I want my friends to know what happened to me since this could be my last battle. Please, I'm begging you.」</p>
-<p>「……」</p>
-<p>「Also, I'd like you to take a letter to my friends in Nocta, okay?」</p>
+「There are only three possible ways for the wielder of the Overgrowth to die. Either they are defeated by a powerful antidemon, they are defeated by humans after failing to control their inner antidemon, or they off themselves to prevent a complete loss of sanity. Just those three.」
 
-<p>Nadia shoved her guild card against Fran and bowed her head deeply. Fran could not say anything in return.</p>
+『If you know how dangerous it is, why can't you just let go of the sword?』
 
-<p>It was thanks to the tradition of depositing the guild cards at the guild, that she had inherited her parents' guild cards. She knew the significance behind this action.</p>
+「Fufufu. The thing that qualifies you to use Overgrowth is your strong desire for revenge against the antidemons. Such a person would never willingly give up this sword.」
 
-<p>「……Okay. I'll deliver these and be right back.」</p>
-<p>「Wait, I also need you to do one more thing for me. Can you put out a request to the Adventurers Guild in Nocta and get some people together?」</p>
-<p>「To protect Castel?」</p>
-<p>「Exactly. I need at least a hundred capable men. Can I count on you to do that?」</p>
-<p>「Leave it to me!」</p>
-<p>「Thanks.」</p>
+The wielder can't enter a city, nor can they leave the continent. And they always have a strong desire for revenge against the antidemons. It's as if their end was already in the cards.
 
-<p>Nadia smiled, a look of relief on her face.</p>
+「From the moment you become the owner of this sword, you are destined to hunt antidemons on this continent until the day you die.」
 
-<p>「Master, take care of Fran, will you?」</p>
-<p>『……Of course.』</p>
+There was no trace of regret in Nadia's voice. In fact, it sounded as if she was waiting for such an ending.
+
+「……Auntie.」
+
+「Don't cry. I've never regretted becoming the wielder of this sword, not one bit. It's the only reason I can still fight.」
+
+The fact that Nadia was as powerful as a Rank A adventurer despite being unevolved, was most likely due to her continued absorption of antidemons.
+
+「Fran, you need to leave this village as soon as possible.」
+
+「Why?」
+
+「Because there's no sign of antidemons around the village.」
+
+『What's wrong with that?』
+
+「That means there's a powerful commander in the area, and he's been gathering them all up. This is the calm before the storm. In a few days, the antidemon invasion will begin.」
+
+『I hate to say it, but Castel is like an abandoned village now that you're the only one left. Are they really going to invade a place like this?』
+
+「We failed to slay the commander who attacked here last time. And if he's still alive, he'll come again. That's the way the occupier-types are.」
+
+「Then I'll fight――」
+
+「No! Even if you want to protect your memories, this is an abandoned village. Unlike me, you have a future. This rubble isn't worth you throwing away your future to protect it.」
+
+「I can fight! I can save this village!」
+
+「No.」
+
+Nadia's resolve was firm. She stared at Fran with a stern face I had never seen before. But Fran did not avert her gaze either.
+
+The two continued to glare at each other.
+
+But soon Nadia's expression softened.
+
+「Sigh…… You're a stubborn one, huh?」
+
+「Nn.」
+
+「Actually, I wanted you to take on a few jobs for me.」
+
+「Jobs?」
+
+「Yeah, for starters. Could you deliver this to the Adventurers Guild in Nocta?」
+
+「Is this a…… guild card?」
+
+「Yeah, call it my last will or something. I want my friends to know what happened to me since this could be my last battle. Please, I'm begging you.」
+
+「……」
+
+「Also, I'd like you to take a letter to my friends in Nocta, okay?」
+
+Nadia shoved her guild card against Fran and bowed her head deeply. Fran could not say anything in return.
+
+It was thanks to the tradition of depositing the guild cards at the guild, that she had inherited her parents' guild cards. She knew the significance behind this action.
+
+「……Okay. I'll deliver these and be right back.」
+
+「Wait, I also need you to do one more thing for me. Can you put out a request to the Adventurers Guild in Nocta and get some people together?」
+
+「To protect Castel?」
+
+「Exactly. I need at least a hundred capable men. Can I count on you to do that?」
+
+「Leave it to me!」
+
+「Thanks.」
+
+Nadia smiled, a look of relief on her face.
+
+「Master, take care of Fran, will you?」
+
+『……Of course.』
 
 
 

@@ -10,169 +10,221 @@ editor:
 ---
 <h2 id="ch752">752: Regarding Gordicia</h2>
 
-<p>The closing ceremony, which had been marred by the plots of the Raydoss Kingdom and Dimitris' hijinks, had finally come to an end.</p>
+The closing ceremony, which had been marred by the plots of the Raydoss Kingdom and Dimitris' hijinks, had finally come to an end.
 
-<p>The Adventurers Guild took the lead in bringing the event to a quick conclusion.</p>
+The Adventurers Guild took the lead in bringing the event to a quick conclusion.
 
-<p>I expected to hear complaints from the spectators and guests being escorted out of the arena, but they were surprisingly unperturbed.</p>
+I expected to hear complaints from the spectators and guests being escorted out of the arena, but they were surprisingly unperturbed.
 
-<p>I guess the excitement of being a witness to a historical event was more important than their complaints. The majority of them seemed to be talking about how impactful the event was.</p>
+I guess the excitement of being a witness to a historical event was more important than their complaints. The majority of them seemed to be talking about how impactful the event was.
 
-<p>Fran and I had already left the arena and moved to the Adventurers Guild.</p>
+Fran and I had already left the arena and moved to the Adventurers Guild.
 
-<p>「Well, I know it's probably too late to say this, but congratulations on your victory.」</p>
-<p>「Thank you.」</p>
-<p>「Man, I guess you really are the youngest winner ever.」</p>
+「Well, I know it's probably too late to say this, but congratulations on your victory.」
 
-<p>Diaz said that as he took out a small medal. Next to it, he placed a leather bag with the clinking of metal inside.</p>
+「Thank you.」
 
-<p>It was a gold Ulmutt medal for the champion and the prize money of 200,000 gold.</p>
+「Man, I guess you really are the youngest winner ever.」
 
-<p>『That's even more impressive than last year's third place medal!』</p>
-<p>「Nn… this one is more shiny.」</p>
+Diaz said that as he took out a small medal. Next to it, he placed a leather bag with the clinking of metal inside.
 
-<p>As one would expect from a first prize medal, it's gold plated with intricate engravings.</p>
+It was a gold Ulmutt medal for the champion and the prize money of 200,000 gold.
 
-<p>「Well, I really wanted to award it at the closing ceremony, but the nobles were so upset. The ministers, in particular, were in a real tizzy.」</p>
-<p>「Because a Rank S went to the enemy?」</p>
-<p>「Dimitris is not just a military asset. Despite his usual behavior, he is very popular among the people since he's been hunting high-ranking magical beasts in various places for over 50 years.」</p>
-<p>「I see.」</p>
-<p>「He also treats the ordinary people very well. Since he does whatever he wants, he always follows his conscience. That often has him protecting the weak and powerless from the nobility.」</p>
+『That's even more impressive than last year's third place medal!』
 
-<p>Since it is often the nobles and adventurers who take the brunt of Dimitris' problems, the normal citizens only saw the best in him.</p>
+「Nn… this one is more shiny.」
 
-<p>「Since he went to an enemy country, there might be dissatisfaction from the people. And as for us at the guild, we were very grateful to anyone willing to take on extremely difficult requests……」</p>
-<p>『Well yeah, not many adventurers would willingly place themselves in such danger.』</p>
-<p>「And now the higher ups keep telling me fix everything. What the heck am I supposed to do?」</p>
-<p>「Nn. Not possible.」</p>
-<p>『That's not happening.』</p>
+As one would expect from a first prize medal, it's gold plated with intricate engravings.
 
-<p>No one can control that old man's behavior.</p>
+「Well, I really wanted to award it at the closing ceremony, but the nobles were so upset. The ministers, in particular, were in a real tizzy.」
 
-<p>「I know right? Well, enough about that subject, what are you going to do? I heard you talking to Hilt-kun about crossing over to Gordicia.」</p>
-<p>「Nn……」</p>
-<p>「Oh? You seem to be having some hesitation.」</p>
-<p>「Nn. Is Raydoss going to war with Kranzel?」</p>
-<p>「What, are you planning to join in?」</p>
+「Because a Rank S went to the enemy?」
 
-<p>Diaz was looking at Fran probingly. I've been wondering about that too. To be honest, I don't want her to participate in any wars.</p>
+「Dimitris is not just a military asset. Despite his usual behavior, he is very popular among the people since he's been hunting high-ranking magical beasts in various places for over 50 years.」
 
-<p>With all eyes on her, Fran spoke up with a somewhat troubled look on her face.</p>
+「I see.」
 
-<p>「……I don't know. I don't like Raydoss, but I don't think war will help. But I can still defend against them, at least in Alessa.」</p>
-<p>「War is not something a girl your age should be involved in. Well, I don't think you'll see anything too bad if you're defending Alessa…… Besides, we won't be at war for a while.」</p>
-<p>「Really?」</p>
+「He also treats the ordinary people very well. Since he does whatever he wants, he always follows his conscience. That often has him protecting the weak and powerless from the nobility.」
 
-<p>This incident was kinda like a national insult. I think it's only natural for the country to want to retaliate against Raydoss……</p>
+Since it is often the nobles and adventurers who take the brunt of Dimitris' problems, the normal citizens only saw the best in him.
 
-<p>「War is nothing like a fight between adventurers. If we want to go to war with Raydoss, we'd have to get the support of the surrounding countries. That would take months of diplomacy and preparation alone, right? Well we'll get something done, eventually.」</p>
-<p>「I see…… Then it's fine. I'll go to Gordicia as Weena Rhyn's substitute.」</p>
-<p>「I think that's a good idea, since winning the tournament will increase the number of noisy recruiters visiting you. You'll be able to avoid them if you go to Gordicia. Besides, this is good timing.」</p>
-<p>「?」</p>
-<p>「About your rank up.」</p>
-<p>「Rank up! Can I become Rank A?」</p>
-<p>「No, I'm afraid it won't be immediately.」</p>
+「Since he went to an enemy country, there might be dissatisfaction from the people. And as for us at the guild, we were very grateful to anyone willing to take on extremely difficult requests……」
 
-<p>That's about expected. To become Rank A, you must have a lot of experience in other areas in addition to your fighting ability.</p>
+『Well yeah, not many adventurers would willingly place themselves in such danger.』
 
-<p>As we were told before, various factors are taken into account. Ability to negotiate with nobles, experience as a commander, knowledge and achievement as an adventurer, mentoring of the younger generation.</p>
+「And now the higher ups keep telling me fix everything. What the heck am I supposed to do?」
 
-<p>In fact, it is the factors other than fighting ability that were more important.</p>
+「Nn. Not possible.」
 
-<p>In this respect, Fran is in a situation where she lacks almost everything except for her fighting ability.</p>
+『That's not happening.』
 
-<p>Even if she has defeated other Rank A adventurers, that would not be enough to win the approval of other guildmasters.</p>
+No one can control that old man's behavior.
 
-<p>「In your case, your fighting ability is unquestionable, but you do not have enough achievements. Well, I'm sure you've had this exact same conversation before.」</p>
-<p>「Nn.」</p>
-<p>「That said, there are a few requests that are highly rated by the Adventurers Guild. These are things like defeating monsters with a threat level of A or higher, or gathering materials for rare elixirs. One such highly rated requests is activity in Gordicia.」</p>
+「I know right? Well, enough about that subject, what are you going to do? I heard you talking to Hilt-kun about crossing over to Gordicia.」
 
-<p>Requests that contribute to the benefit of the world will also raise the reputation of the Adventurers Guild. Such requests are highly valued, and the battle in Gordicia is one of them.</p>
+「Nn……」
 
-<p>「It won't help if you just go to Gordicia for a little while, but if you have achieved a certain level of success, the guild will have no choice but to evaluate you. That alone won't get you to Rank A, but it's worth doing if that's your goal.」</p>
-<p>「Okay. I'll do my best.」</p>
-<p>「Good luck. On that note, can I ask something of you?」</p>
-<p>「Ask?」</p>
-<p>「Uh huh. I think you'll have a lot of freedom of movement once you arrive in Gordicia. The adventurers in Belioth are pretty much treated the same as they've always been.」</p>
-<p>『Yeah, that's what Weena Rhyn told me as well. After arrival, we'd be mostly free to do whatever we want.』</p>
+「Oh? You seem to be having some hesitation.」
 
-<p>With Weena Rhyn's support, the other countries would not be able to force Fran to do anything.</p>
+「Nn. Is Raydoss going to war with Kranzel?」
 
-<p>「If possible, I'd like you to accept requests from the guilds on the Gordicia continent, apart from defeating the antidemons.」</p>
-<p>「There is an Adventurers Guild in Gordicia?」</p>
-<p>「Of course. Where there are adventurers, there will be adventurers guilds.」</p>
+「What, are you planning to join in?」
 
-<p>It would be more efficient to have a guild to manage the adventurers, than to have a large number of adventurers fighting in a disorganized and disjointed manner. It's only natural there would be a branch of the Adventurers Guild there.</p>
+Diaz was looking at Fran probingly. I've been wondering about that too. To be honest, I don't want her to participate in any wars.
 
-<p>「Why do you want me to accept requests in Gordicia?」</p>
-<p>「To be honest, this is just a way for the Ulmutt Adventurers Guild to score some points.」</p>
-<p>「?」</p>
-<p>「This fiasco has damaged not only my career, but also the reputation of my guild. You understand that, right?」</p>
-<p>「Nn.」</p>
+With all eyes on her, Fran spoke up with a somewhat troubled look on her face.
 
-<p>The operatives of the Raydoss Kingdom played them for fools and caused a huge incident. The blame will fall on Ulmutt's guild.</p>
+「……I don't know. I don't like Raydoss, but I don't think war will help. But I can still defend against them, at least in Alessa.」
 
-<p>「If Fran-kun, the winner of the Ulmutt martial arts tournament, is now active in Gordicia, maybe we'll get a little good publicity. Could you let me use you to our benefit?」</p>
-<p>『Y-You're certainly being very blunt with us, Diaz.』</p>
-<p>「I thought it was best to be honest with you guys.」</p>
+「War is not something a girl your age should be involved in. Well, I don't think you'll see anything too bad if you're defending Alessa…… Besides, we won't be at war for a while.」
 
-<p>Well, I guess it's because we're friends.</p>
+「Really?」
 
-<p>If there is an Adventurers Guild on the Gordicia continent, I'm sure we'll be taking requests there anyways. I have no problem dropping the name of the Ulmutt Adventurers Guild if that's all we need to do……</p>
+This incident was kinda like a national insult. I think it's only natural for the country to want to retaliate against Raydoss……
 
-<p>『Fran, what do you think?』</p>
-<p>「Nn… I'd be willing to be used, depending on the reward.」</p>
-<p>「Hahaha, you're starting to sound like a real adventurer now! So, Fran-kun, I'll give you this letter of introduction.」</p>
-<p>「Who is this?」</p>
-<p>『Isario?』</p>
+「War is nothing like a fight between adventurers. If we want to go to war with Raydoss, we'd have to get the support of the surrounding countries. That would take months of diplomacy and preparation alone, right? Well we'll get something done, eventually.」
 
-<p>The recipient of the letter was written as "Isario the Adventurer". Maybe one of the guildmasters in Gordicia?</p>
+「I see…… Then it's fine. I'll go to Gordicia as Weena Rhyn's substitute.」
 
-<p>「What? You don't know him?」</p>
+「I think that's a good idea, since winning the tournament will increase the number of noisy recruiters visiting you. You'll be able to avoid them if you go to Gordicia. Besides, this is good timing.」
 
-<p>Diaz being surprised meant Isario must be rather famous. That's what I was thinking, but after Diaz explained it, "famous" didn't even begin to describe him.</p>
+「?」
 
-<p>「Rank S adventurer, Isario of the 'Flaming Sword', possessor of the divine sword Ignis and one of the strongest men in the world.」</p>
-<p>「Divine sword!」</p>
-<p>『Rank S!?』</p>
+「About your rank up.」
 
-<p>Okay, I can admit it's our fault for not knowing him while being an adventurer.</p>
+「Rank up! Can I become Rank A?」
 
-<p>「If Dimitris is the problem child of the Rank S adventurers, then Isario would be the honors student, I suppose? You might call him the Rank S with the most common sense. He's just as peculiar as the others though.」</p>
+「No, I'm afraid it won't be immediately.」
 
-<p>Well, he is a Rank S adventurer. I'd be surprised if he didn't have a few quirks.</p>
+That's about expected. To become Rank A, you must have a lot of experience in other areas in addition to your fighting ability.
 
-<p>「Do you know him?」</p>
-<p>「Yeah, he was active in Ulmutt a long time ago. If you bring him my letter of introduction, I'm sure he'll talk to you.」</p>
+As we were told before, various factors are taken into account. Ability to negotiate with nobles, experience as a commander, knowledge and achievement as an adventurer, mentoring of the younger generation.
 
-<p>As expected from someone that has been a guildmaster for many years. He has a very wide range of contacts.</p>
+In fact, it is the factors other than fighting ability that were more important.
 
-<p>「You can ask him to train you, or just chat if you want. Besides, many call him the master of Gordicia, so I think it will make it easier for you to operate on that continent just by knowing him. Oh yeah, you can take this too.」</p>
-<p>「What's this? Wine?」</p>
-<p>『Oh man, seriously? What the hell!?』</p>
+In this respect, Fran is in a situation where she lacks almost everything except for her fighting ability.
 
-<p>It's just a wine, yes, but when I appraised it, I found it was 300 years old. Could only find wine this extraordinary in a fantasy world!</p>
+Even if she has defeated other Rank A adventurers, that would not be enough to win the approval of other guildmasters.
 
-<p>「This is my treasured elvish wine.」</p>
+「In your case, your fighting ability is unquestionable, but you do not have enough achievements. Well, I'm sure you've had this exact same conversation before.」
 
-<p>He told us that in the land of the elves, they used the fruit of the sacred tree, which only they could grow, to make a small amount of this special wine. This is an old batch of that brew, which was accidentally discovered in the ruins of an ancient city that was destroyed by volcanic activity.</p>
+「Nn.」
 
-<p>「Miraculously, the wine storage was intact. The magic circle to control the temperature was still working, so the wine inside was safe. This isn't something you can pay money to get. It would have cost no less than 1 million gold if I had sold it on the market.」</p>
+「That said, there are a few requests that are highly rated by the Adventurers Guild. These are things like defeating monsters with a threat level of A or higher, or gathering materials for rare elixirs. One such highly rated requests is activity in Gordicia.」
 
-<p>That's a lot of money! But I have heard similar stories on Earth. Old wine found in a salvaged sunken ship was sold for millions of yen, or something like that.</p>
+Requests that contribute to the benefit of the world will also raise the reputation of the Adventurers Guild. Such requests are highly valued, and the battle in Gordicia is one of them.
 
-<p>「Wine…… Is it good?」</p>
-<p>「Fran-kun, is it too early for you? Well, you can give this to the guildmaster in Gordicia, since he's a dwarf.」</p>
-<p>『I see. This would be much more effective than a plain old letter of introduction.』</p>
-<p>「What do you think? Is this a appropriate reward?」</p>
+「It won't help if you just go to Gordicia for a little while, but if you have achieved a certain level of success, the guild will have no choice but to evaluate you. That alone won't get you to Rank A, but it's worth doing if that's your goal.」
 
-<p>Diaz smiled mischievously at Fran, who nodded back at him with a twinkle in her eye.</p>
+「Okay. I'll do my best.」
 
-<p>「Plenty. You okay too, Master?」</p>
-<p>『Sure. Fine wine that a dwarf would drool over, and a pipeline to a Rank S adventurer. These are things that I would have no clue how to get myself.』</p>
-<p>「Thanks. I owe you one.」</p>
+「Good luck. On that note, can I ask something of you?」
 
-<p>Well, next stop is the continent of Gordicia, as planned.</p>
+「Ask?」
+
+「Uh huh. I think you'll have a lot of freedom of movement once you arrive in Gordicia. The adventurers in Belioth are pretty much treated the same as they've always been.」
+
+『Yeah, that's what Weena Rhyn told me as well. After arrival, we'd be mostly free to do whatever we want.』
+
+With Weena Rhyn's support, the other countries would not be able to force Fran to do anything.
+
+「If possible, I'd like you to accept requests from the guilds on the Gordicia continent, apart from defeating the antidemons.」
+
+「There is an Adventurers Guild in Gordicia?」
+
+「Of course. Where there are adventurers, there will be adventurers guilds.」
+
+It would be more efficient to have a guild to manage the adventurers, than to have a large number of adventurers fighting in a disorganized and disjointed manner. It's only natural there would be a branch of the Adventurers Guild there.
+
+「Why do you want me to accept requests in Gordicia?」
+
+「To be honest, this is just a way for the Ulmutt Adventurers Guild to score some points.」
+
+「?」
+
+「This fiasco has damaged not only my career, but also the reputation of my guild. You understand that, right?」
+
+「Nn.」
+
+The operatives of the Raydoss Kingdom played them for fools and caused a huge incident. The blame will fall on Ulmutt's guild.
+
+「If Fran-kun, the winner of the Ulmutt martial arts tournament, is now active in Gordicia, maybe we'll get a little good publicity. Could you let me use you to our benefit?」
+
+『Y-You're certainly being very blunt with us, Diaz.』
+
+「I thought it was best to be honest with you guys.」
+
+Well, I guess it's because we're friends.
+
+If there is an Adventurers Guild on the Gordicia continent, I'm sure we'll be taking requests there anyways. I have no problem dropping the name of the Ulmutt Adventurers Guild if that's all we need to do……
+
+『Fran, what do you think?』
+
+「Nn… I'd be willing to be used, depending on the reward.」
+
+「Hahaha, you're starting to sound like a real adventurer now! So, Fran-kun, I'll give you this letter of introduction.」
+
+「Who is this?」
+
+『Isario?』
+
+The recipient of the letter was written as "Isario the Adventurer". Maybe one of the guildmasters in Gordicia?
+
+「What? You don't know him?」
+
+Diaz being surprised meant Isario must be rather famous. That's what I was thinking, but after Diaz explained it, "famous" didn't even begin to describe him.
+
+「Rank S adventurer, Isario of the 'Flaming Sword', possessor of the divine sword Ignis and one of the strongest men in the world.」
+
+「Divine sword!」
+
+『Rank S!?』
+
+Okay, I can admit it's our fault for not knowing him while being an adventurer.
+
+「If Dimitris is the problem child of the Rank S adventurers, then Isario would be the honors student, I suppose? You might call him the Rank S with the most common sense. He's just as peculiar as the others though.」
+
+Well, he is a Rank S adventurer. I'd be surprised if he didn't have a few quirks.
+
+「Do you know him?」
+
+「Yeah, he was active in Ulmutt a long time ago. If you bring him my letter of introduction, I'm sure he'll talk to you.」
+
+As expected from someone that has been a guildmaster for many years. He has a very wide range of contacts.
+
+「You can ask him to train you, or just chat if you want. Besides, many call him the master of Gordicia, so I think it will make it easier for you to operate on that continent just by knowing him. Oh yeah, you can take this too.」
+
+「What's this? Wine?」
+
+『Oh man, seriously? What the hell!?』
+
+It's just a wine, yes, but when I appraised it, I found it was 300 years old. Could only find wine this extraordinary in a fantasy world!
+
+「This is my treasured elvish wine.」
+
+He told us that in the land of the elves, they used the fruit of the sacred tree, which only they could grow, to make a small amount of this special wine. This is an old batch of that brew, which was accidentally discovered in the ruins of an ancient city that was destroyed by volcanic activity.
+
+「Miraculously, the wine storage was intact. The magic circle to control the temperature was still working, so the wine inside was safe. This isn't something you can pay money to get. It would have cost no less than 1 million gold if I had sold it on the market.」
+
+That's a lot of money! But I have heard similar stories on Earth. Old wine found in a salvaged sunken ship was sold for millions of yen, or something like that.
+
+「Wine…… Is it good?」
+
+「Fran-kun, is it too early for you? Well, you can give this to the guildmaster in Gordicia, since he's a dwarf.」
+
+『I see. This would be much more effective than a plain old letter of introduction.』
+
+「What do you think? Is this a appropriate reward?」
+
+Diaz smiled mischievously at Fran, who nodded back at him with a twinkle in her eye.
+
+「Plenty. You okay too, Master?」
+
+『Sure. Fine wine that a dwarf would drool over, and a pipeline to a Rank S adventurer. These are things that I would have no clue how to get myself.』
+
+「Thanks. I owe you one.」
+
+Well, next stop is the continent of Gordicia, as planned.
 
 
 

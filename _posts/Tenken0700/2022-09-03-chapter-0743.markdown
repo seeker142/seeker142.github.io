@@ -10,144 +10,177 @@ editor:
 ---
 <h2 id="ch743">743: To The Rescue</h2>
 
-<p>「Curry Master! H-How…? I-I had heard you were dead……!」</p>
+「Curry Master! H-How…? I-I had heard you were dead……!」
 
-<p>I-I never thought I would see Colbert here! But I don't have time to clear up the misunderstanding now. Let's just go with the brute force approach.</p>
+I-I never thought I would see Colbert here! But I don't have time to clear up the misunderstanding now. Let's just go with the brute force approach.
 
-<p>「Uh no, I never died.」</p>
-<p>「Eh? B-But… Then…」</p>
-<p>「Hey Colbert-san! What's with the scream!? What's going on!?」</p>
+「Uh no, I never died.」
 
-<p>A young woman came into the room after Colbert. I recognized her.</p>
+「Eh? B-But… Then…」
 
-<p>「Judith?」</p>
+「Hey Colbert-san! What's with the scream!? What's going on!?」
 
-<p>It was Judith, the leader of the Scarlet Maidens. I called her name without thinking, but she looked a little puzzled.</p>
+A young woman came into the room after Colbert. I recognized her.
 
-<p>「What? Oh, Fran-san's master!」</p>
+「Judith?」
 
-<p>Crap, I was still in a bit of a panic because of the impromptu encounter with Colbert. We had met her many times at Bulbola and Ulmutt, but I was in a sword state then.</p>
+It was Judith, the leader of the Scarlet Maidens. I called her name without thinking, but she looked a little puzzled.
 
-<p>To her, I must have looked like a weirdo she wasn't familiar with. Thankfully, she was able to remember me quickly.</p>
+「What? Oh, Fran-san's master!」
 
-<p>「Anyway, I'm in a bit of a hurry right now, can I ask you what happened outside?」</p>
-<p>「Oh, yes!」</p>
+Crap, I was still in a bit of a panic because of the impromptu encounter with Colbert. We had met her many times at Bulbola and Ulmutt, but I was in a sword state then.
 
-<p>Judith and a recovered Colbert gave us a brief description.</p>
+To her, I must have looked like a weirdo she wasn't familiar with. Thankfully, she was able to remember me quickly.
 
-<p>It seemed that undead and thugs appeared out of nowhere and suddenly started randomly attacking people. They were few in number and very weak, but they were still causing a lot of chaos.</p>
+「Anyway, I'm in a bit of a hurry right now, can I ask you what happened outside?」
 
-<p>They also said similar things were happening right outside the arena. Adventurers and guards were dealing with the situation, but there had been considerable damage.</p>
+「Oh, yes!」
 
-<p>I gave Colbert and Judith a quick rundown of what had happened on our side.</p>
+Judith and a recovered Colbert gave us a brief description.
 
-<p>「They took Miss Nilfe hostage! Despicable!」</p>
-<p>「Hee-hee. We accidentally injured her a little during her capture you see. I gave her first aid, but with that injury… she might already be dead by now.」</p>
-<p>「You son of a bitch!」</p>
+It seemed that undead and thugs appeared out of nowhere and suddenly started randomly attacking people. They were few in number and very weak, but they were still causing a lot of chaos.
 
-<p>Colbert was about to lose his temper, but I quickly held him down. It was true that she was injured, but it was a lie that she was dead. At the very least, she wouldn't be left in a situation where she would die soon.</p>
+They also said similar things were happening right outside the arena. Adventurers and guards were dealing with the situation, but there had been considerable damage.
 
-<p>He was trying to take away Colbert's sound judgment. Maybe he was still trying to cover his comrades, or maybe it was just in retaliation for being caught.</p>
+I gave Colbert and Judith a quick rundown of what had happened on our side.
 
-<p>「A hostage is worth nothing if she isn't alive. They won't let them die.」</p>
-<p>「Y-Yes, you're right. I'm sorry.」</p>
-<p>「Anyway, we have to rescue the hostages. I need your help.」</p>
-<p>「Of course!」</p>
-<p>「I need Judith's party to bring this man in.」</p>
-<p>「O-Okay.」</p>
+「They took Miss Nilfe hostage! Despicable!」
 
-<p>Outside the room, Lydia and Maia were looking in while maintaining caution towards the surroundings. As long as we render Abarb harmless, it should be safe to leave him to them.</p>
+「Hee-hee. We accidentally injured her a little during her capture you see. I gave her first aid, but with that injury… she might already be dead by now.」
 
-<p>I knocked Abarb unconscious, disarmed him, and wrapped his whole body with rope. That should do the trick.</p>
+「You son of a bitch!」
 
-<p>「Colbert, I want you to go with Fran to rescue the girls.」</p>
-<p>「Understood! But the way you say that means you're going to……?」</p>
-<p>「I've got some work to do on my own. We part here.」</p>
+Colbert was about to lose his temper, but I quickly held him down. It was true that she was injured, but it was a lie that she was dead. At the very least, she wouldn't be left in a situation where she would die soon.
 
-<p>To tell you the truth, the time limit on my body double is running out. It's easier to move if I disappear here.</p>
+He was trying to take away Colbert's sound judgment. Maybe he was still trying to cover his comrades, or maybe it was just in retaliation for being caught.
 
-<p>「I-I see! You're going to crush another one of their plans!」</p>
-<p>「Uh, yeah, something like that.」</p>
-<p>「Please leave Fran to me! I won't let anyone lay a finger on her!」</p>
-<p>「I-I'll be counting on you! See you later.」</p>
+「A hostage is worth nothing if she isn't alive. They won't let them die.」
 
-<p>I make it look like I've casted a teleport, and then erased my body double.</p>
+「Y-Yes, you're right. I'm sorry.」
 
-<p>『Phew. Fran, even if you're with Colbert, don't do anything rash, okay?』</p>
-<p>（I know.）</p>
+「Anyway, we have to rescue the hostages. I need your help.」
 
-<p>We left the infirmary with Fran riding Urushi leading the way. As we were exiting the arena, we could definitely hear the sounds of fighting.</p>
+「Of course!」
 
-<p>However, the commotion around here seemed to have mostly settled down by now.</p>
+「I need Judith's party to bring this man in.」
 
-<p>「Not really the time for this, but congratulations on your victory, Fran-san!」</p>
+「O-Okay.」
 
-<p>Lydia, perhaps unable to bear the silence during the run, congratulated her, although Colbert had a complicated expression on his face.</p>
+Outside the room, Lydia and Maia were looking in while maintaining caution towards the surroundings. As long as we render Abarb harmless, it should be safe to leave him to them.
 
-<p>Fran, however, tilted her head slightly.</p>
+I knocked Abarb unconscious, disarmed him, and wrapped his whole body with rope. That should do the trick.
 
-<p>「……Did I win?」</p>
-<p>「Eh?」</p>
-<p>「I don't remember the last part.」</p>
-<p>「Y-You don't remember……?」</p>
-<p>「I cut Hilt…… I think. But it's fuzzy.」</p>
+「Colbert, I want you to go with Fran to rescue the girls.」
 
-<p>So she didn't remember clearly. Actually, I was thinking that might be the case. Towards the end of the match, I couldn't be sure if she was actually conscious.</p>
+「Understood! But the way you say that means you're going to……?」
 
-<p>「T-That must mean you were really pushed to the edge.」</p>
+「I've got some work to do on my own. We part here.」
 
-<p>Lydia muttered with a horrified look on her face.</p>
+To tell you the truth, the time limit on my body double is running out. It's easier to move if I disappear here.
 
-<p>Come to think of it, Lydia has the blessing of the Knowledge God. Is that a different god from my Wisdom God? But they have similar names……</p>
+「I-I see! You're going to crush another one of their plans!」
 
-<p>『Announcer-san, what is the difference between the blessings of the Wisdom God and those of the Knowledge God?』</p>
-<p>《Gods have many faces. For example, consider the Beast Bug God, who is said to be the ancestor of beastmen. He is both the Beast God and the Bug God.》</p>
-<p>『So you're saying that one person, or I guess one god, takes multiple roles?』</p>
-<p>《Affirmative. There are cases in which he grants blessings as the Beast Bug God, and other cases in which he grants blessings as only the Beast God, or only the Bug God. The name with greater authority is considered to be of higher rank.》</p>
-<p>『So you're saying the Beast God is lower in rank than the Beast Bug God.』</p>
-<p>《Affirmative.》</p>
-<p>『In other words, the Wisdom God and the Knowledge God are the same god, but they are slightly different. Is the blessing of the Wisdom God higher in rank?』</p>
-<p>《That impression is correct.》</p>
+「Uh, yeah, something like that.」
 
-<p>While Announcer-san was teaching me about the blessings, Colbert paused.</p>
+「Please leave Fran to me! I won't let anyone lay a finger on her!」
 
-<p>「Is that Rashid?」</p>
-<p>「Colbert, you know him?」</p>
-<p>「Yeah, he's a pretty well known guy in Bulbola. But why is he fighting other adventurers?」</p>
+「I-I'll be counting on you! See you later.」
 
-<p>Colbert was right. Near the entrance to the arena, Rashid and a few others were engaged in a fierce battle against the adventurers.</p>
+I make it look like I've casted a teleport, and then erased my body double.
 
-<p>Fran had completely forgotten him, but we have met before; he was one of the rookies who, along with Naria and her friends, was beaten by Fran in a mock battle in Bulbola. We did not see each other this time, but he must have been in Ulmutt with Naria.</p>
+『Phew. Fran, even if you're with Colbert, don't do anything rash, okay?』
 
-<p>I recognized a few other faces too. Two of them were other victims of that mock battle along with Rashid.</p>
+（I know.）
 
-<p>It's not like they were drunk or anything. They had lost their sanity.</p>
+We left the infirmary with Fran riding Urushi leading the way. As we were exiting the arena, we could definitely hear the sounds of fighting.
 
-<p>「They've clearly turned into undead…… Even these guys got caught up in it……」</p>
+However, the commotion around here seemed to have mostly settled down by now.
 
-<p>Colbert looked at Rashid and the others with a pained stare, and then he took up a fighting stance.</p>
+「Not really the time for this, but congratulations on your victory, Fran-san!」
 
-<p>「As their forerunner, the least I can do is put them to rest. Wait just a bit.」</p>
-<p>「Nn.」</p>
+Lydia, perhaps unable to bear the silence during the run, congratulated her, although Colbert had a complicated expression on his face.
 
-<p>Colbert rushed out to join the adventurers.</p>
+Fran, however, tilted her head slightly.
 
-<p>「Aaagrhhhh.」</p>
-<p>「Rashid, I'm going to put you out of your misery.」</p>
-<p>「Aaaaah!」</p>
+「……Did I win?」
 
-<p>Rashid was a decently strong man, and his undead body has been physically enhanced by his transformation.</p>
+「Eh?」
 
-<p>However, he was no match for Colbert. In less than a minute, Rashid's undead body was destroyed.</p>
+「I don't remember the last part.」
 
-<p>Colbert stood over the corpse, pausing to pay his respects.</p>
+「Y-You don't remember……?」
 
-<p>「……I'll make sure the ones who started this mess won't get away with it……!」</p>
+「I cut Hilt…… I think. But it's fuzzy.」
 
-<p>He clenched his teeth as he looked at his younger colleague's changed form.</p>
+So she didn't remember clearly. Actually, I was thinking that might be the case. Towards the end of the match, I couldn't be sure if she was actually conscious.
 
-<p>「Now let's go rescue Miss Nilfe.」</p>
-<p>「Nn.」</p>
+「T-That must mean you were really pushed to the edge.」
+
+Lydia muttered with a horrified look on her face.
+
+Come to think of it, Lydia has the blessing of the Knowledge God. Is that a different god from my Wisdom God? But they have similar names……
+
+『Announcer-san, what is the difference between the blessings of the Wisdom God and those of the Knowledge God?』
+
+《Gods have many faces. For example, consider the Beast Bug God, who is said to be the ancestor of beastmen. He is both the Beast God and the Bug God.》
+
+『So you're saying that one person, or I guess one god, takes multiple roles?』
+
+《Affirmative. There are cases in which he grants blessings as the Beast Bug God, and other cases in which he grants blessings as only the Beast God, or only the Bug God. The name with greater authority is considered to be of higher rank.》
+
+『So you're saying the Beast God is lower in rank than the Beast Bug God.』
+
+《Affirmative.》
+
+『In other words, the Wisdom God and the Knowledge God are the same god, but they are slightly different. Is the blessing of the Wisdom God higher in rank?』
+
+《That impression is correct.》
+
+While Announcer-san was teaching me about the blessings, Colbert paused.
+
+「Is that Rashid?」
+
+「Colbert, you know him?」
+
+「Yeah, he's a pretty well known guy in Bulbola. But why is he fighting other adventurers?」
+
+Colbert was right. Near the entrance to the arena, Rashid and a few others were engaged in a fierce battle against the adventurers.
+
+Fran had completely forgotten him, but we have met before; he was one of the rookies who, along with Naria and her friends, was beaten by Fran in a mock battle in Bulbola. We did not see each other this time, but he must have been in Ulmutt with Naria.
+
+I recognized a few other faces too. Two of them were other victims of that mock battle along with Rashid.
+
+It's not like they were drunk or anything. They had lost their sanity.
+
+「They've clearly turned into undead…… Even these guys got caught up in it……」
+
+Colbert looked at Rashid and the others with a pained stare, and then he took up a fighting stance.
+
+「As their forerunner, the least I can do is put them to rest. Wait just a bit.」
+
+「Nn.」
+
+Colbert rushed out to join the adventurers.
+
+「Aaagrhhhh.」
+
+「Rashid, I'm going to put you out of your misery.」
+
+「Aaaaah!」
+
+Rashid was a decently strong man, and his undead body has been physically enhanced by his transformation.
+
+However, he was no match for Colbert. In less than a minute, Rashid's undead body was destroyed.
+
+Colbert stood over the corpse, pausing to pay his respects.
+
+「……I'll make sure the ones who started this mess won't get away with it……!」
+
+He clenched his teeth as he looked at his younger colleague's changed form.
+
+「Now let's go rescue Miss Nilfe.」
+
+「Nn.」
 
 
 

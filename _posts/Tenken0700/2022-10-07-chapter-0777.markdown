@@ -10,126 +10,165 @@ editor:
 ---
 <h2 id="ch777">777: Commander Fran</h2>
 
-<p>As we were heading south, going around the horde of antidemons, we heard some heavy metallic sounds behind us.</p>
+As we were heading south, going around the horde of antidemons, we heard some heavy metallic sounds behind us.
 
-<p>That's probably the dwarves beginning their assault. The antidemons had been aware of the dwarves for some time, and began to adjust their movements.</p>
+That's probably the dwarves beginning their assault. The antidemons had been aware of the dwarves for some time, and began to adjust their movements.
 
-<p>Their eyes, which had been looking east, now turned to the west behind them.</p>
+Their eyes, which had been looking east, now turned to the west behind them.
 
-<p>The commander must be responding by splitting the horde in half. The left and right flanks of the army were thinning out in the center of the field.</p>
+The commander must be responding by splitting the horde in half. The left and right flanks of the army were thinning out in the center of the field.
 
-<p>『And that thin part is where we should target.』</p>
-<p>「Nn. Guys, when we get a little further ahead, we'll move in on the center.」</p>
-<p>「Got it!」</p>
+『And that thin part is where we should target.』
 
-<p>Diggins replied in kind, but the other adventurers were apprehensive. The sight of a 20,000-strong army must have been terrifying for them.</p>
+「Nn. Guys, when we get a little further ahead, we'll move in on the center.」
 
-<p>「Don't worry. I'll save you if it gets dangerous.」</p>
-<p>「Hehe! If you say that, I'll be 100 times braver!」</p>
-<p>「Nn!」</p>
-<p>「……」</p>
+「Got it!」
 
-<p>Well, they understood that Fran was strong, but they couldn't be sure exactly how strong.</p>
+Diggins replied in kind, but the other adventurers were apprehensive. The sight of a 20,000-strong army must have been terrifying for them.
 
-<p>The other adventurers looked at Fran and Diggins with doubt in their eyes.</p>
+「Don't worry. I'll save you if it gets dangerous.」
 
-<p>Sorry, adventurers. I'll save you if it comes down to it! Not that I can say it out loud here, so it's impossible for me to dispel your fears.</p>
+「Hehe! If you say that, I'll be 100 times braver!」
 
-<p>Fran walked further in with the blue-faced adventurers in tow. Maybe I should tell Fran to give them some words of encouragement.</p>
+「Nn!」
 
-<p>She stopped and crouched behind a group of thick bushes. After making sure antidemons' attention was fully drawn to the dwarves, she pulled me out. Maybe I should bring up the subject now?</p>
+「……」
 
-<p>「Let's go.」</p>
-<p>「Yeah!」</p>
-<p>「……Yes.」</p>
+Well, they understood that Fran was strong, but they couldn't be sure exactly how strong.
 
-<p>Fran glanced back at the listless adventurers. Then she opened her mouth, before I had the chance to tell her anything.</p>
+The other adventurers looked at Fran and Diggins with doubt in their eyes.
 
-<p>「I can use healing magic. As long as you don't die instantly, you'll be fine. Even if you collapse, I will never leave you behind.」</p>
-<p>「……」</p>
-<p>「And Urushi is here too.」</p>
-<p>「Woof!」</p>
+Sorry, adventurers. I'll save you if it comes down to it! Not that I can say it out loud here, so it's impossible for me to dispel your fears.
 
-<p>Urushi emerged from the shadows. He had been hiding his presence the entire time, so not even Diggins noticed him. Everyone was astonished.</p>
+Fran walked further in with the blue-faced adventurers in tow. Maybe I should tell Fran to give them some words of encouragement.
 
-<p>「Uwah! W-What the heck is this puppy?」</p>
-<p>「Grrrr!」</p>
-<p>「Whoa!」</p>
-<p>「Urushi is not a dog. He's a wolf. If you get it wrong, you'll be in trouble.」</p>
-<p>「Woof!」</p>
-<p>「U-Urushi-san, the w-wolf. I'll never make that mistake again!」</p>
-<p>「Arf.」</p>
-<p>「He says he'll forgive you.」</p>
-<p>「Heh heh!」</p>
+She stopped and crouched behind a group of thick bushes. After making sure antidemons' attention was fully drawn to the dwarves, she pulled me out. Maybe I should bring up the subject now?
 
-<p>Urushi, I guess you still have enough wolfyness to get angry at being mistaken for a dog. Also Diggins treats Urushi as a superior too, huh?</p>
+「Let's go.」
 
-<p>And it was not only because he was Fran's servant, he had recognized Urushi's strength. How many adventurers would be able to notice that, seeing how he looks like a medium-sized dog and is concealing his mana?</p>
+「Yeah!」
 
-<p>Diggins looked like a muscle brain, but I guess he had a good eye and knew when to lower his head.</p>
+「……Yes.」
 
-<p>「Also, it would be amazing if we beat the commander with this many men. I'm sure they'll reward us handsomely.」</p>
-<p>「That's true!」</p>
-<p>「Don't worry, you just have to follow me.」</p>
+Fran glanced back at the listless adventurers. Then she opened her mouth, before I had the chance to tell her anything.
 
-<p>Fran smirked, while purposely activating her intimidation aura. Though I doubt anyone but me would be able to tell she was smiling.</p>
+「I can use healing magic. As long as you don't die instantly, you'll be fine. Even if you collapse, I will never leave you behind.」
 
-<p>I guess Fran was trying to encourage her temporary subordinates by showing off a portion of her strength.</p>
+「……」
 
-<p>「Urushi is also super strong… stronger than Diggins. We'll protect you all, right?」</p>
-<p>「Woof!」</p>
+「And Urushi is here too.」
 
-<p>The adventurers were feeling a little more energetic now, I guess? They were listening intently to Fran's words, their faces slightly less pale than before.</p>
+「Woof!」
 
-<p>Rather than getting encouraged, they probably felt embarrassed to have such a little girl worrying about them, but it doesn't change the fact that they were feeling better.</p>
+Urushi emerged from the shadows. He had been hiding his presence the entire time, so not even Diggins noticed him. Everyone was astonished.
 
-<p>『Fran, that's great! You look like a real commander!』</p>
-<p>（I was remembering guys like Donadrond.）</p>
-<p>『I see.』</p>
+「Uwah! W-What the heck is this puppy?」
 
-<p>That was back in the town of Alessa, where Fran and I had our first experience of participating in a large battle. Fran was thinking back to Donadrond, who was in command at that time.</p>
+「Grrrr!」
 
-<p>（And others too, like the Knight Commander in the capital and the Beast King.）</p>
+「Whoa!」
 
-<p>Fran had seen many different commanders in many different places and on many different battlefields. I guess that experience paid off.</p>
+「Urushi is not a dog. He's a wolf. If you get it wrong, you'll be in trouble.」
 
-<p>「Just follow me.」</p>
-<p>「Woof!」</p>
-<p>「Got it.」</p>
-<p>「That's a good face. We can do this, so have confidence.」</p>
-<p>「Yeah!」</p>
+「Woof!」
 
-<p>Diggins was yelling along with them. We shouldn't have any problems with morale now.</p>
+「U-Urushi-san, the w-wolf. I'll never make that mistake again!」
 
-<p>「Let's go!」</p>
-<p>「「「Yeah!」」」</p>
+「Arf.」
 
-<p>Fran held me up high in the air, then we ran toward the antidemons in the distance. The adventurers followed closely.</p>
+「He says he'll forgive you.」
 
-<p>『Time for a preemptive strike.』</p>
-<p>「Nn!」</p>
+「Heh heh!」
 
-<p>We first attacked the antidemons in front of us with the Fire Arrow spell. About 40 Fire Arrows from Fran and me rained down on the antidemon army.</p>
+Urushi, I guess you still have enough wolfyness to get angry at being mistaken for a dog. Also Diggins treats Urushi as a superior too, huh?
 
-<p>Then we repeated that for a second, third, and fourth wave. That alone had killed more than a hundred antidemons. The reason why the number of antidemons killed was less than the number of fire arrows was because there were many antidemons that Fran and I were both aiming at.</p>
+And it was not only because he was Fran's servant, he had recognized Urushi's strength. How many adventurers would be able to notice that, seeing how he looks like a medium-sized dog and is concealing his mana?
 
-<p>「Eh? Black Lightning Princess-san! It's not a good idea to attack such a wide area……!」</p>
-<p>「Don't worry, I only hit the antidemons.」</p>
-<p>「Huh? You used that many spells and only aimed at the antidemons?」</p>
-<p>「…? Yeah…?」</p>
-<p>「T-That's amazing!」</p>
-<p>「You mean to say that you have complete control over that much magic?」</p>
-<p>「S-So this is the power of the alias bearers!」</p>
+Diggins looked like a muscle brain, but I guess he had a good eye and knew when to lower his head.
 
-<p>The adventurers were amazed to see Fran's superior control of magic. Now I could see the smiles return to their faces. They must have been truly relieved to see Fran's abilities.</p>
+「Also, it would be amazing if we beat the commander with this many men. I'm sure they'll reward us handsomely.」
 
-<p>「We're going in.」</p>
-<p>「Hell yeah! Let's do this!」</p>
-<p>「We've come this far, might as well go all the way!」</p>
-<p>「Don't look down on a Rank C! We'll show them how it's done!」</p>
-<p>「Woooh!」</p>
+「That's true!」
 
-<p>Everyone, hang in there!</p>
+「Don't worry, you just have to follow me.」
+
+Fran smirked, while purposely activating her intimidation aura. Though I doubt anyone but me would be able to tell she was smiling.
+
+I guess Fran was trying to encourage her temporary subordinates by showing off a portion of her strength.
+
+「Urushi is also super strong… stronger than Diggins. We'll protect you all, right?」
+
+「Woof!」
+
+The adventurers were feeling a little more energetic now, I guess? They were listening intently to Fran's words, their faces slightly less pale than before.
+
+Rather than getting encouraged, they probably felt embarrassed to have such a little girl worrying about them, but it doesn't change the fact that they were feeling better.
+
+『Fran, that's great! You look like a real commander!』
+
+（I was remembering guys like Donadrond.）
+
+『I see.』
+
+That was back in the town of Alessa, where Fran and I had our first experience of participating in a large battle. Fran was thinking back to Donadrond, who was in command at that time.
+
+（And others too, like the Knight Commander in the capital and the Beast King.）
+
+Fran had seen many different commanders in many different places and on many different battlefields. I guess that experience paid off.
+
+「Just follow me.」
+
+「Woof!」
+
+「Got it.」
+
+「That's a good face. We can do this, so have confidence.」
+
+「Yeah!」
+
+Diggins was yelling along with them. We shouldn't have any problems with morale now.
+
+「Let's go!」
+
+「「「Yeah!」」」
+
+Fran held me up high in the air, then we ran toward the antidemons in the distance. The adventurers followed closely.
+
+『Time for a preemptive strike.』
+
+「Nn!」
+
+We first attacked the antidemons in front of us with the Fire Arrow spell. About 40 Fire Arrows from Fran and me rained down on the antidemon army.
+
+Then we repeated that for a second, third, and fourth wave. That alone had killed more than a hundred antidemons. The reason why the number of antidemons killed was less than the number of fire arrows was because there were many antidemons that Fran and I were both aiming at.
+
+「Eh? Black Lightning Princess-san! It's not a good idea to attack such a wide area……!」
+
+「Don't worry, I only hit the antidemons.」
+
+「Huh? You used that many spells and only aimed at the antidemons?」
+
+「…? Yeah…?」
+
+「T-That's amazing!」
+
+「You mean to say that you have complete control over that much magic?」
+
+「S-So this is the power of the alias bearers!」
+
+The adventurers were amazed to see Fran's superior control of magic. Now I could see the smiles return to their faces. They must have been truly relieved to see Fran's abilities.
+
+「We're going in.」
+
+「Hell yeah! Let's do this!」
+
+「We've come this far, might as well go all the way!」
+
+「Don't look down on a Rank C! We'll show them how it's done!」
+
+「Woooh!」
+
+Everyone, hang in there!
 
 
 

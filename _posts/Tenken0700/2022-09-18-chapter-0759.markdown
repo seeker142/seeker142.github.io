@@ -9,151 +9,187 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch759">759: Reunion at Belioth</h2>
-<p>「I see it.」</p>
-<p>『We're ahead of schedule.』</p>
-<p>「Nn.」</p>
 
-<p>We managed to escape from the capital with Hilt and the others, fending off Eliante's pursuit. Then a few days later, we arrived at Lady Blue, the city where the Academy of Magic was located.</p>
+「I see it.」
 
-<p>When we crossed the border between Kranzel and Belioth, the calendar had already entered into the month of June.</p>
+『We're ahead of schedule.』
 
-<p>Man, Eliante was really persistent.</p>
+「Nn.」
 
-<p>I felt like she would be better off working instead of chasing after Fran, but I guess her pent up frustration had exploded.</p>
+We managed to escape from the capital with Hilt and the others, fending off Eliante's pursuit. Then a few days later, we arrived at Lady Blue, the city where the Academy of Magic was located.
 
-<p>She was stressed about her job and lonely because her trusted friends had left her behind. And finally, she probably felt betrayed by Neidhart.</p>
+When we crossed the border between Kranzel and Belioth, the calendar had already entered into the month of June.
 
-<p>Well, I think the reason why Neidhart did not tell Eliante anything was to protect her. The less she knew, the less risk she would be implicated as one of his accomplices.</p>
+Man, Eliante was really persistent.
 
-<p>In this world, you can prove you really don't know anything because lie detection skills exist.</p>
+I felt like she would be better off working instead of chasing after Fran, but I guess her pent up frustration had exploded.
 
-<p>She's probably back to work in the capital by now, constantly mumbling her complaints.</p>
+She was stressed about her job and lonely because her trusted friends had left her behind. And finally, she probably felt betrayed by Neidhart.
 
-<p>It's her fault that we didn't even get to say hello to Garrus and our other friends. That may be a pity, but I can't blame her.</p>
+Well, I think the reason why Neidhart did not tell Eliante anything was to protect her. The less she knew, the less risk she would be implicated as one of his accomplices.
 
-<p>I can understand Eliante's feelings very well.</p>
+In this world, you can prove you really don't know anything because lie detection skills exist.
 
-<p>An incompetent boss who is constantly raising the workload…… Never-ending paperwork…… Overtime somehow not getting paid due to company regulations or slave-like contracts…… Assholes who push work onto you and then quickly run away……</p>
+She's probably back to work in the capital by now, constantly mumbling her complaints.
 
-<p>『Urgh! My head!』</p>
-<p>（Master?）</p>
-<p>『No, it's nothing.』</p>
+It's her fault that we didn't even get to say hello to Garrus and our other friends. That may be a pity, but I can't blame her.
 
-<p>That was close, I was about to fall to the dark side. Anyway, keep up the good work, Eliante! You can do it!</p>
+I can understand Eliante's feelings very well.
 
-<p>While I was silently cheering for Eliante, Hilt noticed the city too.</p>
+An incompetent boss who is constantly raising the workload…… Never-ending paperwork…… Overtime somehow not getting paid due to company regulations or slave-like contracts…… Assholes who push work onto you and then quickly run away……
 
-<p>「So that's the academy city.」</p>
+『Urgh! My head!』
 
-<p>Indeed, the outer wall I remembered was visible over the mountains.</p>
+（Master?）
 
-<p>「Hilt, is it your first time?」</p>
-<p>「I have been to the Kingdom of Belioth several times, but never to that city. The high elf already takes care of all the high-ranked requests I would normally accept.」</p>
-<p>「I see.」</p>
+『No, it's nothing.』
 
-<p>Hilt and the rest of the Dimitris group are with us, seven in total. You may think that's not many, but it's all about quality.</p>
+That was close, I was about to fall to the dark side. Anyway, keep up the good work, Eliante! You can do it!
 
-<p>「What about you, Colbert?」</p>
-<p>「I've been here a couple times. How about you, Phobos?」</p>
-<p>「I've never been here, sir!」</p>
-<p>「Now that I think about it, you haven't been out of Kranzel much, have you?」</p>
-<p>「No, sir!」</p>
+While I was silently cheering for Eliante, Hilt noticed the city too.
 
-<p>Hilt, who had ascended to head of the school, had somewhat forced Colbert into returning with her authority. Phobos was a young rising star, and the four others were veteran disciples.</p>
+「So that's the academy city.」
 
-<p>One Rank A, two Rank Bs, three Rank Cs, and one Rank D. You could call it quite a powerful group.</p>
+Indeed, the outer wall I remembered was visible over the mountains.
 
-<p>It was surprising that the weakest in the group was Phobos-kun, a Rank D, who would be considered a middle-level adventurer anywhere else.</p>
+「Hilt, is it your first time?」
 
-<p>If Phobos-kun could have run a little faster, we would have arrived a few days earlier.</p>
+「I have been to the Kingdom of Belioth several times, but never to that city. The high elf already takes care of all the high-ranked requests I would normally accept.」
 
-<p>In the first place, it was absurd to try following Urushi on foot, but such a feat was apparently expected from all of Dimitris' disciples.</p>
+「I see.」
 
-<p>I guess that is just another part of their training.</p>
+Hilt and the rest of the Dimitris group are with us, seven in total. You may think that's not many, but it's all about quality.
 
-<p>I felt nothing but pity for him when he was made to drink a potion and continue running every time he reached his limit.</p>
+「What about you, Colbert?」
 
-<p>And yet Fran showed interest in that? Maybe one day she will start running beside Urushi too.</p>
+「I've been here a couple times. How about you, Phobos?」
 
-<p>「Come on Phobos, we can take a short break when we get to town.」</p>
-<p>「Yes sir!」</p>
+「I've never been here, sir!」
 
-<p>Hang in there, Phobos-kun. You went so hard that we're ahead of schedule, so I can't let you ride Urushi. If we had been behind schedule though, we could have carried you……</p>
+「Now that I think about it, you haven't been out of Kranzel much, have you?」
+
+「No, sir!」
+
+Hilt, who had ascended to head of the school, had somewhat forced Colbert into returning with her authority. Phobos was a young rising star, and the four others were veteran disciples.
+
+One Rank A, two Rank Bs, three Rank Cs, and one Rank D. You could call it quite a powerful group.
+
+It was surprising that the weakest in the group was Phobos-kun, a Rank D, who would be considered a middle-level adventurer anywhere else.
+
+If Phobos-kun could have run a little faster, we would have arrived a few days earlier.
+
+In the first place, it was absurd to try following Urushi on foot, but such a feat was apparently expected from all of Dimitris' disciples.
+
+I guess that is just another part of their training.
+
+I felt nothing but pity for him when he was made to drink a potion and continue running every time he reached his limit.
+
+And yet Fran showed interest in that? Maybe one day she will start running beside Urushi too.
+
+「Come on Phobos, we can take a short break when we get to town.」
+
+「Yes sir!」
+
+Hang in there, Phobos-kun. You went so hard that we're ahead of schedule, so I can't let you ride Urushi. If we had been behind schedule though, we could have carried you……
 
  <br>
-<p>Two hours later.</p>
 
-<p>We arrived safely at Lady Blue and went to visit Weena. We were unaccompanied though, since the fact that Weena was weakened is top secret.</p>
+Two hours later.
 
-<p>I'm sure Hilt would love to enjoy her date with Colbert too. Of course, she hasn't confessed her feelings yet, so they were more like a lady and her baggage handler. Ugh, that sweet atmosphere was going to make me puke sugar!</p>
+We arrived safely at Lady Blue and went to visit Weena. We were unaccompanied though, since the fact that Weena was weakened is top secret.
 
-<p>「Long time no see, Fran, Master.」</p>
-<p>「Nn.」</p>
-<p>『You're… still not looking so good.』</p>
-<p>「Heh, it can't be helped.」</p>
+I'm sure Hilt would love to enjoy her date with Colbert too. Of course, she hasn't confessed her feelings yet, so they were more like a lady and her baggage handler. Ugh, that sweet atmosphere was going to make me puke sugar!
 
-<p>Weena was painful to look at, with bandages on the right half of her face and her right arm. As usual, she can't move her right arm.</p>
+「Long time no see, Fran, Master.」
 
-<p>The wavelength of her mana was disorderly and her life force felt weak. If you didn't know any better, you might think that she had some illness. These were the effects of her Advance Loan that still remained.</p>
+「Nn.」
 
-<p>「So your companions are from the Dimitris school?」</p>
-<p>「You knew?」</p>
-<p>『Did you use spirit magic?』</p>
-<p>「I guess you could call it spirit magic, but it was Rhyn. When I'm synced with her, we share the same senses.」</p>
-<p>『That's impressive.』</p>
+『You're… still not looking so good.』
 
-<p>A spirit caster can obtain information through the eyes and ears of the spirits they control.</p>
+「Heh, it can't be helped.」
 
-<p>Even though her powers are currently greatly reduced, Weena and Rhyn are so close that they are able to synchronize with each other even great distances apart.</p>
+Weena was painful to look at, with bandages on the right half of her face and her right arm. As usual, she can't move her right arm.
 
-<p>「Welcome back, Fran, Master. It's been a while.」</p>
-<p>「Rhyn. How are you?」</p>
-<p>「Well, I guess you could say I'm fine. That I can enjoy such peace and freedom is all thanks to you.」</p>
+The wavelength of her mana was disorderly and her life force felt weak. If you didn't know any better, you might think that she had some illness. These were the effects of her Advance Loan that still remained.
 
-<p>The spirit Rhyn smiled at us. Her radiant smile was perfectly fitting for the maiden of the lake.</p>
+「So your companions are from the Dimitris school?」
 
-<p>「I have heard what happened with Dimitris too. So those people are his replacements?」</p>
-<p>「Nn.」</p>
-<p>『One is the current head of the Dimitris school, though not as good as Dimitris himself……』</p>
+「You knew?」
 
-<p>From Weena's point of view, the Rank S adventurer who was said to be on par with her had been replaced by his granddaughter and other disciples, Rank A and lower. It would be understandable if felt the replacements were not sufficiently strong.</p>
+『Did you use spirit magic?』
 
-<p>That's what I was thinking, but Weena and Rhyn had a different opinion.</p>
+「I guess you could call it spirit magic, but it was Rhyn. When I'm synced with her, we share the same senses.」
 
-<p>「One Rank S who doesn't listen to you, or Rank A and B adventurers who do… Honestly, which would be more useful……?」</p>
-<p>『You mean to say the latter?』</p>
-<p>「Right. I may not be one to talk, but I'm sure the country would be happier with the latter.」</p>
-<p>『Well, I know how they feel, after seeing Dimitris personally.』</p>
+『That's impressive.』
 
-<p>It is hard to believe that the old man will fight obediently for any country. He is just as likely to achieve great things as he is to bring great troubles.</p>
+A spirit caster can obtain information through the eyes and ears of the spirits they control.
 
-<p>I'm scared he would just beat the crap out of random nobles without a care in the world, not to mention how many fights he would pick with foreign nobles and adventurers.</p>
+Even though her powers are currently greatly reduced, Weena and Rhyn are so close that they are able to synchronize with each other even great distances apart.
 
-<p>Hilt would definitely be easier to control. Perhaps it was because she had seen such a bad example up close, but she was very serious and earnest when dealing with requests.</p>
+「Welcome back, Fran, Master. It's been a while.」
 
-<p>This time too, she was very careful not to miss the deadline of the request even while focusing on Phobos's training.</p>
+「Rhyn. How are you?」
 
-<p>「I am certain both I and the country as a whole would agree with you.」</p>
-<p>『I hope so.』</p>
+「Well, I guess you could say I'm fine. That I can enjoy such peace and freedom is all thanks to you.」
 
-<p>After some small chat with Rhyn, we decided to leave.</p>
+The spirit Rhyn smiled at us. Her radiant smile was perfectly fitting for the maiden of the lake.
 
-<p>『We should get going now. There's plenty of room in the schedule still, but just in case something happens on the way there.』</p>
-<p>「Oh, wait a minute, I have a favor to ask you.」</p>
-<p>「A favor?」</p>
-<p>「I want you to take this to Gordicia.」</p>
+「I have heard what happened with Dimitris too. So those people are his replacements?」
 
-<p>Weena took out an envelope. It had a wax seal with the symbol of a tree on it, and the whole envelope was slightly enveloped in magic. I guess she prepared this while we were talking.</p>
+「Nn.」
 
-<p>「What's this? Who's William?」</p>
-<p>「William is a consultant magician working for the administrative council of Gordicia, as well as one of my apprentices. I want you to give him this letter and the reward for doing so is 100,000 gold. What do you say?」</p>
-<p>「I don't mind. Is that all right?」</p>
-<p>『Yeah. I'll just put the letter into my dimensional storage.』</p>
-<p>「Be careful not to open the wax seal.」</p>
-<p>「Nn, we know.」</p>
+『One is the current head of the Dimitris school, though not as good as Dimitris himself……』
 
-<p>More business in Gordicia.</p>
+From Weena's point of view, the Rank S adventurer who was said to be on par with her had been replaced by his granddaughter and other disciples, Rank A and lower. It would be understandable if felt the replacements were not sufficiently strong.
 
-<p>Visiting the grave of Fran's parents. Searching for Trismegistus. Meeting the bearer of the divine sword. Hunting antidemons. Not to mention that Ashwrath, Velmeria, and Frederick should be in Gordicia too.</p>
+That's what I was thinking, but Weena and Rhyn had a different opinion.
 
-<p>I'm both looking forward to it, and also a bit scared. I wonder what adventures await us in Gordicia?</p>
+「One Rank S who doesn't listen to you, or Rank A and B adventurers who do… Honestly, which would be more useful……?」
+
+『You mean to say the latter?』
+
+「Right. I may not be one to talk, but I'm sure the country would be happier with the latter.」
+
+『Well, I know how they feel, after seeing Dimitris personally.』
+
+It is hard to believe that the old man will fight obediently for any country. He is just as likely to achieve great things as he is to bring great troubles.
+
+I'm scared he would just beat the crap out of random nobles without a care in the world, not to mention how many fights he would pick with foreign nobles and adventurers.
+
+Hilt would definitely be easier to control. Perhaps it was because she had seen such a bad example up close, but she was very serious and earnest when dealing with requests.
+
+This time too, she was very careful not to miss the deadline of the request even while focusing on Phobos's training.
+
+「I am certain both I and the country as a whole would agree with you.」
+
+『I hope so.』
+
+After some small chat with Rhyn, we decided to leave.
+
+『We should get going now. There's plenty of room in the schedule still, but just in case something happens on the way there.』
+
+「Oh, wait a minute, I have a favor to ask you.」
+
+「A favor?」
+
+「I want you to take this to Gordicia.」
+
+Weena took out an envelope. It had a wax seal with the symbol of a tree on it, and the whole envelope was slightly enveloped in magic. I guess she prepared this while we were talking.
+
+「What's this? Who's William?」
+
+「William is a consultant magician working for the administrative council of Gordicia, as well as one of my apprentices. I want you to give him this letter and the reward for doing so is 100,000 gold. What do you say?」
+
+「I don't mind. Is that all right?」
+
+『Yeah. I'll just put the letter into my dimensional storage.』
+
+「Be careful not to open the wax seal.」
+
+「Nn, we know.」
+
+More business in Gordicia.
+
+Visiting the grave of Fran's parents. Searching for Trismegistus. Meeting the bearer of the divine sword. Hunting antidemons. Not to mention that Ashwrath, Velmeria, and Frederick should be in Gordicia too.
+
+I'm both looking forward to it, and also a bit scared. I wonder what adventures await us in Gordicia?

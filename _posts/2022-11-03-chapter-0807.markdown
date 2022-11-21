@@ -9,125 +9,142 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch807">807: Ladirua Trading Company</h2>
-<p>When Fran told him that she wanted to hire a hundred adventurers, the submaster denied her.</p>
 
-<p>He said not that it would be difficult, but "impossible".</p>
+When Fran told him that she wanted to hire a hundred adventurers, the submaster denied her.
 
-<p>「Very few adventurers would want to take a request with such a high probability of death.」</p>
+He said not that it would be difficult, but "impossible".
 
-<p>Well, that's fair.</p>
+「Very few adventurers would want to take a request with such a high probability of death.」
 
-<p>They would be fighting a horde of antidemons in Castel, a location without any defensive fortifications. Moreover, it was an abandoned village with little strategic value.</p>
+Well, that's fair.
 
-<p>The risk was too high, and it would be hard to motivate people to go.</p>
+They would be fighting a horde of antidemons in Castel, a location without any defensive fortifications. Moreover, it was an abandoned village with little strategic value.
 
-<p>Few adventurers would be willing to accept our request. Even if the payment was very high, that only matters if they could survive it.</p>
+The risk was too high, and it would be hard to motivate people to go.
 
-<p>In fact, a high reward further proved the danger of the request, and may make them more reluctant to accept it.</p>
+Few adventurers would be willing to accept our request. Even if the payment was very high, that only matters if they could survive it.
 
-<p>「……Even so, I want to make the request.」</p>
-<p>「Very well. But…… Please don't get your hopes up. I'm terribly sorry.」</p>
-<p>「……」</p>
+In fact, a high reward further proved the danger of the request, and may make them more reluctant to accept it.
 
-<p>Fran lowered her head in frustration.</p>
+「……Even so, I want to make the request.」
 
-<p>However, this turn of events was exactly what Nadia wanted. She made sure that Fran would be stalled in Nocta by opening a request without any takers.</p>
+「Very well. But…… Please don't get your hopes up. I'm terribly sorry.」
 
-<p>She must have known that we would never be able to attract adventurers.</p>
+「……」
 
-<p>All of this because she wanted Fran to live.</p>
+Fran lowered her head in frustration.
 
-<p>『Fran. There's nothing more we can do here. Let's go deliver the letter.』</p>
-<p>「Nn…… I'll be back.」</p>
-<p>「Give me three days. It will take that long to get the word out.」</p>
-<p>「Okay.」</p>
+However, this turn of events was exactly what Nadia wanted. She made sure that Fran would be stalled in Nocta by opening a request without any takers.
 
-<p>He said it was impossible, but it looks like he's still willing to give it a shot. It's a good thing they owe us a favor for the meat.</p>
+She must have known that we would never be able to attract adventurers.
 
-<p>After asking them to post our request, we left the guild.</p>
+All of this because she wanted Fran to live.
 
-<p>Fran looked depressed and her steps were heavy.</p>
+『Fran. There's nothing more we can do here. Let's go deliver the letter.』
 
-<p>I wanted to comfort her, but no words came out. Besides, I wasn't qualified to say anything.</p>
+「Nn…… I'll be back.」
 
-<p>That's because I too had hoped that the adventurers would not join us.</p>
+「Give me three days. It will take that long to get the word out.」
 
-<p>We continued on our way without a word.</p>
+「Okay.」
 
-<p>After about ten minutes of walking, our destination came into view.</p>
+He said it was impossible, but it looks like he's still willing to give it a shot. It's a good thing they owe us a favor for the meat.
 
-<p>「Ladirua Trading Company. Is this it?」</p>
-<p>『Yeah, this is the place.』</p>
+After asking them to post our request, we left the guild.
 
-<p>After the short walk, Fran had calmed down a bit. She finally opened her mouth, and her face looked a little better than before.</p>
+Fran looked depressed and her steps were heavy.
 
-<p>As we had learned at the Adventurers Guild, this was a rather large building, apparently among the top-ranking merchant businesses in Nocta.</p>
+I wanted to comfort her, but no words came out. Besides, I wasn't qualified to say anything.
 
-<p>The chairman of this company was said to be one of Nadia's friends too…… Meaning Nadia's circle of friends was much wider than we imagined.</p>
+That's because I too had hoped that the adventurers would not join us.
 
-<p>Come to think of it, she was a Rank B adventurer that had been on this continent for many years. It shouldn't be surprising if she knew some important people.</p>
+We continued on our way without a word.
 
-<p>She had mentioned before that an influential person in Nocta designated her for an escort request too.</p>
+After about ten minutes of walking, our destination came into view.
 
-<p>「Excuse me.」</p>
-<p>「Welcome.」</p>
-<p>「Welcome to the Ladirua Trading Company.」</p>
+「Ladirua Trading Company. Is this it?」
 
-<p>I was surprised to see that the ladies at the reception desk were no ordinary civilians. I guess even the receptionists of a big trading company needed both beauty and strength. Maybe that was common sense on the ruined continent of Gordicia.</p>
+『Yeah, this is the place.』
 
-<p>「Here's a letter for the chairman.」</p>
-<p>「May I see it?」</p>
-<p>「Nn.」</p>
+After the short walk, Fran had calmed down a bit. She finally opened her mouth, and her face looked a little better than before.
 
-<p>The receptionist glanced over the letter Fran handed her. The envelope of the letter has only Nadia's name written on it. Is this gonna work?</p>
+As we had learned at the Adventurers Guild, this was a rather large building, apparently among the top-ranking merchant businesses in Nocta.
 
-<p>Nadia said we just had to give it to the receptionist, but……</p>
+The chairman of this company was said to be one of Nadia's friends too…… Meaning Nadia's circle of friends was much wider than we imagined.
 
-<p>Now the receptionist dashed off into the back after looking at the letter. Should I be getting worried?</p>
+Come to think of it, she was a Rank B adventurer that had been on this continent for many years. It shouldn't be surprising if she knew some important people.
 
-<p>Despite my concerns, it seemed they accepted it. The receptionist returned and invited Fran to the back with a smile.</p>
+She had mentioned before that an influential person in Nocta designated her for an escort request too.
 
-<p>「The chairman will see you now. Please come this way.」</p>
-<p>「Okay.」</p>
+「Excuse me.」
 
-<p>Well, I don't sense any malice. I guess the guy just wanted to hear more details about Nadia directly.</p>
+「Welcome.」
 
-<p>I don't know what the contents of the letter were. But even I, who barely knew Nadia for a day, could tell that she was not the type to give detailed explanations.</p>
+「Welcome to the Ladirua Trading Company.」
 
-<p>The room we were shown was rather modest. Not to say it was shabby, but rather that it had a calm atmosphere.</p>
+I was surprised to see that the ladies at the reception desk were no ordinary civilians. I guess even the receptionists of a big trading company needed both beauty and strength. Maybe that was common sense on the ruined continent of Gordicia.
 
-<p>Illuminated by a warm lamp with a rather low intensity, there was a heavy table made of a material similar to ebony, and an austere leather sofa.</p>
+「Here's a letter for the chairman.」
 
-<p>A man was sitting there.</p>
+「May I see it?」
 
-<p>He had dark brown skin and short, permed hair, looking like a man of African descent from Earth. I'd say he was about forty years old.</p>
+「Nn.」
 
-<p>「Thank you for visiting me today… Fran-chan.」</p>
-<p>「……?」</p>
-<p>「Haha. You don't remember me? I've played with you a few times.」</p>
-<p>「……Oh! You're the merchant guy?」</p>
-<p>「Yes. It's been a long time, so let me reintroduce myself. I am Mulsani of the Ladirua Trading Company.」</p>
+The receptionist glanced over the letter Fran handed her. The envelope of the letter has only Nadia's name written on it. Is this gonna work?
 
-<p>Wasn't Mulsani the traveling merchant in Nadia's story? And now he is the head of a big trading company? What happened?</p>
+Nadia said we just had to give it to the receptionist, but……
 
-<p>But before we could ask that, Mulsani got up from the sofa and approached Fran. He dropped to one knee and made eye contact with her.</p>
+Now the receptionist dashed off into the back after looking at the letter. Should I be getting worried?
 
-<p>「You, you really are Fran-chan……」</p>
+Despite my concerns, it seemed they accepted it. The receptionist returned and invited Fran to the back with a smile.
 
-<p>He muttered in a voice filled with emotion. Tears were in the corners of his eyes.</p>
+「The chairman will see you now. Please come this way.」
 
-<p>「At that time, I……」</p>
+「Okay.」
 
-<p>Just as Nadia had said, he felt a deep regret about being unable to save Fran. Mulsani choked on his words, his strong feelings of guilt clearly visible on his face.</p>
+Well, I don't sense any malice. I guess the guy just wanted to hear more details about Nadia directly.
 
-<p>「I…… I……」</p>
+I don't know what the contents of the letter were. But even I, who barely knew Nadia for a day, could tell that she was not the type to give detailed explanations.
 
-<p>Fran put her hand on Mulsani's shoulder and spoke in her usual tone.</p>
+The room we were shown was rather modest. Not to say it was shabby, but rather that it had a calm atmosphere.
 
-<p>「It's not your fault. You couldn't help it. So you don't have to apologize.」</p>
-<p>「U-Urgh………」</p>
+Illuminated by a warm lamp with a rather low intensity, there was a heavy table made of a material similar to ebony, and an austere leather sofa.
 
-<p>Upon hearing Fran's words, Mulsani covered his face with his hands and sobbed deeply and quietly.</p>
+A man was sitting there.
+
+He had dark brown skin and short, permed hair, looking like a man of African descent from Earth. I'd say he was about forty years old.
+
+「Thank you for visiting me today… Fran-chan.」
+
+「……?」
+
+「Haha. You don't remember me? I've played with you a few times.」
+
+「……Oh! You're the merchant guy?」
+
+「Yes. It's been a long time, so let me reintroduce myself. I am Mulsani of the Ladirua Trading Company.」
+
+Wasn't Mulsani the traveling merchant in Nadia's story? And now he is the head of a big trading company? What happened?
+
+But before we could ask that, Mulsani got up from the sofa and approached Fran. He dropped to one knee and made eye contact with her.
+
+「You, you really are Fran-chan……」
+
+He muttered in a voice filled with emotion. Tears were in the corners of his eyes.
+
+「At that time, I……」
+
+Just as Nadia had said, he felt a deep regret about being unable to save Fran. Mulsani choked on his words, his strong feelings of guilt clearly visible on his face.
+
+「I…… I……」
+
+Fran put her hand on Mulsani's shoulder and spoke in her usual tone.
+
+「It's not your fault. You couldn't help it. So you don't have to apologize.」
+
+「U-Urgh………」
+
+Upon hearing Fran's words, Mulsani covered his face with his hands and sobbed deeply and quietly.
 
 
 

@@ -10,125 +10,151 @@ editor:
 ---
 <h2 id="ch740">740: In the Infirmary</h2>
 
-<p>Immediately after the declaration of victory, Fran collapsed on the spot and was taken to the infirmary.</p>
+Immediately after the declaration of victory, Fran collapsed on the spot and was taken to the infirmary.
 
-<p>The three healers were doing their best to heal her, but her recovery was very slow.</p>
+The three healers were doing their best to heal her, but her recovery was very slow.
 
-<p>「Damn! Greater Heal doesn't work at all!」</p>
-<p>「Life magic doesn't work either!」</p>
-<p>「What the hell is this?! Anyway, we have no choice but to keep on healing her while drinking mana potions! It's not completely ineffective!」</p>
-<p>「「Yes sir!」」</p>
+「Damn! Greater Heal doesn't work at all!」
 
-<p>Even the experienced leader of the group, an old man, seemed to have never encountered damage caused by the divine attribute before.</p>
+「Life magic doesn't work either!」
 
-<p>He performed various techniques on her, including countermeasures to poisons and curses, but Fran's wounds were slow to heal.</p>
+「What the hell is this?! Anyway, we have no choice but to keep on healing her while drinking mana potions! It's not completely ineffective!」
 
-<p>Still, the three top magicians were doing their best to heal her. I can at least be relieved that her life is not in danger.</p>
+「「Yes sir!」」
 
-<p>『Urushi, are you okay?』</p>
-<p>（Kuhn……）</p>
+Even the experienced leader of the group, an old man, seemed to have never encountered damage caused by the divine attribute before.
 
-<p>I decided to leave Fran temporarily in the hands of the treatment team and concentrated on Urushi's recovery.</p>
+He performed various techniques on her, including countermeasures to poisons and curses, but Fran's wounds were slow to heal.
 
-<p>I casted a healing spell on Urushi while he was in the shadows.</p>
+Still, the three top magicians were doing their best to heal her. I can at least be relieved that her life is not in danger.
 
-<p>『You really saved us as the end there. Great job.』</p>
-<p>（Woof…… Arf.）</p>
-<p>『Don't get excited yet! Your entire body is still a mess!』</p>
-<p>（Arf……）</p>
-<p>『I'll give you a good meal later.』</p>
-<p>（Woof!）</p>
+『Urushi, are you okay?』
 
-<p>Just then, the door to the infirmary opens and a familiar figure comes in.</p>
+（Kuhn……）
 
-<p>「How is Fran-chan?」</p>
-<p>「Elsa-san… It's not good, she's showing no signs of waking up.」</p>
-<p>「I see… It was such a fierce competition so there's no helping it. I guess the winner won't be in the closing ceremony this year.」</p>
+I decided to leave Fran temporarily in the hands of the treatment team and concentrated on Urushi's recovery.
 
-<p>Apparently that's something that happens once every few years in this tournament, since the winner is usually heavily injured. The finals are always a brutal fight so it's not that surprising.</p>
+I casted a healing spell on Urushi while he was in the shadows.
 
-<p>It's too difficult to delay the start of the closing ceremony, because many of the VIPs have to leave on schedule. Also, holding the awarding ceremony after they have left might be considered as mocking them.</p>
+『You really saved us as the end there. Great job.』
 
-<p>If the champion has no proxy, the lord or a representative from the Adventurers Guild will hold on to the prize money for them. Not that the prize money in this tournament is that high, since the prestige is the main goal.</p>
+（Woof…… Arf.）
 
-<p>「If she wakes up and is able to attend the award ceremony, can you bring her?」</p>
-<p>「Yes, I will.」</p>
+『Don't get excited yet! Your entire body is still a mess!』
 
-<p>Elsa leaves after saying that, but even if Fran wakes up, it will be difficult for her to attend the ceremony. She will have a hard time moving properly for a few days, let alone fighting.</p>
+（Arf……）
 
-<p>Then a new visitor arrived. To my surprise, I didn't sense his presence at all.</p>
+『I'll give you a good meal later.』
 
-<p>「D-Dimitris-sama?」</p>
+（Woof!）
 
-<p>The healer called out his name. Yes, it was Dimitris, the Rank S adventurer, who opened the door.</p>
+Just then, the door to the infirmary opens and a familiar figure comes in.
 
-<p>He approached slowly. For a moment, the word "retaliation" crossed my mind, but Dimitris showed no signs of intending harm.</p>
+「How is Fran-chan?」
 
-<p>「Like I thought, the recovery is not up to par…… Shall I help you?」</p>
-<p>「What? B-But……」</p>
-<p>「Those injured by the dragon ki will not recover properly for a while.」</p>
-<p>「Dragon ki?」</p>
-<p>「I named it as such because I saw it from a dragon monster I fought before…… It's one of the secret arts of our school.」</p>
+「Elsa-san… It's not good, she's showing no signs of waking up.」
 
-<p>You mean the divine attribute? I guess in the Dimitris style, they call it 'dragon ki' instead. That must be why the name of the secret art is called 'Dragon'.</p>
+「I see… It was such a fierce competition so there's no helping it. I guess the winner won't be in the closing ceremony this year.」
 
-<p>「Y-You can do something about it?」</p>
-<p>「It's far from perfect, but I can do a little.」</p>
+Apparently that's something that happens once every few years in this tournament, since the winner is usually heavily injured. The finals are always a brutal fight so it's not that surprising.
 
-<p>Dimitris was not lying, he seemed to have really only come to help Fran. There was no malice or hostility. On the contrary, there was even a hint of compassion in the way he looked at Fran.</p>
+It's too difficult to delay the start of the closing ceremony, because many of the VIPs have to leave on schedule. Also, holding the awarding ceremony after they have left might be considered as mocking them.
 
-<p>「B-But this girl defeated your successor and……」</p>
-<p>「Winning or losing a single battle is trivial. It would be a shame to lose such a talented one like this.」</p>
-<p>「A-As impressive as always…… Please give us your assistance.」</p>
-<p>「Very well.」</p>
+If the champion has no proxy, the lord or a representative from the Adventurers Guild will hold on to the prize money for them. Not that the prize money in this tournament is that high, since the prestige is the main goal.
 
-<p>I decided not to interfere with Dimitris. It's pretty clear he had no intention of harming Fran.</p>
+「If she wakes up and is able to attend the award ceremony, can you bring her?」
 
-<p>「Phew……… Haaah……」</p>
+「Yes, I will.」
 
-<p>Dimitris took a deep breath, and put his hands on Fran's abdomen and head. I could feel the ki slowly emanating from his hands and permeating Fran's body.</p>
+Elsa leaves after saying that, but even if Fran wakes up, it will be difficult for her to attend the ceremony. She will have a hard time moving properly for a few days, let alone fighting.
 
-<p>Not only that.</p>
+Then a new visitor arrived. To my surprise, I didn't sense his presence at all.
 
-<p>『Is this the divine attribute?』</p>
+「D-Dimitris-sama?」
 
-<p>Dimitris' ki had a slight divine attribute to it. However, there was no sign of aggression, and Fran's stern expression softened.</p>
+The healer called out his name. Yes, it was Dimitris, the Rank S adventurer, who opened the door.
 
-<p>A few minutes later, Dimitris finished his treatment. Even this Rank S adventurer is exhausted, showing how difficult it is for anyone to maintain the divine attribute.</p>
+He approached slowly. For a moment, the word "retaliation" crossed my mind, but Dimitris showed no signs of intending harm.
 
-<p>「Try to heal.」</p>
-<p>「Y-Yes, sir.」</p>
+「Like I thought, the recovery is not up to par…… Shall I help you?」
 
-<p>Surprisingly, when the recovery magic was applied to Fran after that, the effect was clearly improved. Of course, it was still lower than usual, but that was good enough considering the fact that she hardly recovered at all previously.</p>
+「What? B-But……」
 
-<p>If everyone keeps healing her, the wounds will be fully healed soon.</p>
+「Those injured by the dragon ki will not recover properly for a while.」
 
-<p>Can the damage caused by the divine attribute also be healed with the divine attribute? It seems there are still more ways to use it that we don't know about.</p>
+「Dragon ki?」
 
-<p>「I'm returning to the closing ceremony, so I leave the rest to you.」</p>
-<p>「Y-Yes sir! Thank you very much!」</p>
-<p>「Take care.」</p>
+「I named it as such because I saw it from a dragon monster I fought before…… It's one of the secret arts of our school.」
+
+You mean the divine attribute? I guess in the Dimitris style, they call it 'dragon ki' instead. That must be why the name of the secret art is called 'Dragon'.
+
+「Y-You can do something about it?」
+
+「It's far from perfect, but I can do a little.」
+
+Dimitris was not lying, he seemed to have really only come to help Fran. There was no malice or hostility. On the contrary, there was even a hint of compassion in the way he looked at Fran.
+
+「B-But this girl defeated your successor and……」
+
+「Winning or losing a single battle is trivial. It would be a shame to lose such a talented one like this.」
+
+「A-As impressive as always…… Please give us your assistance.」
+
+「Very well.」
+
+I decided not to interfere with Dimitris. It's pretty clear he had no intention of harming Fran.
+
+「Phew……… Haaah……」
+
+Dimitris took a deep breath, and put his hands on Fran's abdomen and head. I could feel the ki slowly emanating from his hands and permeating Fran's body.
+
+Not only that.
+
+『Is this the divine attribute?』
+
+Dimitris' ki had a slight divine attribute to it. However, there was no sign of aggression, and Fran's stern expression softened.
+
+A few minutes later, Dimitris finished his treatment. Even this Rank S adventurer is exhausted, showing how difficult it is for anyone to maintain the divine attribute.
+
+「Try to heal.」
+
+「Y-Yes, sir.」
+
+Surprisingly, when the recovery magic was applied to Fran after that, the effect was clearly improved. Of course, it was still lower than usual, but that was good enough considering the fact that she hardly recovered at all previously.
+
+If everyone keeps healing her, the wounds will be fully healed soon.
+
+Can the damage caused by the divine attribute also be healed with the divine attribute? It seems there are still more ways to use it that we don't know about.
+
+「I'm returning to the closing ceremony, so I leave the rest to you.」
+
+「Y-Yes sir! Thank you very much!」
+
+「Take care.」
 
 <br>
-<p>A few minutes later.</p>
 
-<p>Urushi's condition was now much better, so I secretly joined in with Fran's recovery. I felt a little sorry for the healers' joy, as they seemed to think that it was due to their healing magic becoming more effective.</p>
+A few minutes later.
 
-<p>It was then that someone came into the infirmary again.</p>
+Urushi's condition was now much better, so I secretly joined in with Fran's recovery. I felt a little sorry for the healers' joy, as they seemed to think that it was due to their healing magic becoming more effective.
 
-<p>「Oh? You really can't move, can you?」</p>
-<p>「W-Who are you?」</p>
-<p>「I'm just someone of little significance. Hee-hee-hee.」</p>
+It was then that someone came into the infirmary again.
 
-<p>The man who had just barged into the room smiled in a nasty way.</p>
+「Oh? You really can't move, can you?」
 
-<p>Why is this guy here? It was Abarb, the disciple of Eiworth and Rank B adventurer, who lost to Diaz in the quarterfinals.</p>
+「W-Who are you?」
 
-<p>He was smiling at Fran with his creepy, snake-like eyes.</p>
+「I'm just someone of little significance. Hee-hee-hee.」
 
-<p>「Hee-hee-hee!」</p>
+The man who had just barged into the room smiled in a nasty way.
 
-<p>It was not a friendly attitude by any stretch of the imagination.</p>
+Why is this guy here? It was Abarb, the disciple of Eiworth and Rank B adventurer, who lost to Diaz in the quarterfinals.
+
+He was smiling at Fran with his creepy, snake-like eyes.
+
+「Hee-hee-hee!」
+
+It was not a friendly attitude by any stretch of the imagination.
 
 
 

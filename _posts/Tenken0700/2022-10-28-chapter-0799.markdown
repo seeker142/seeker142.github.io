@@ -10,125 +10,155 @@ editor:
 ---
 <h2 id="ch799">799: Nadia</h2>
 
-<p>「Sorry about this mess…… You can use that chair.」</p>
-<p>「Nn. Okay.」</p>
+「Sorry about this mess…… You can use that chair.」
 
-<p>Like the woman said, the house was not clean by any means. She probably didn't care much for cleanliness.</p>
+「Nn. Okay.」
 
-<p>However, the room didn't appear cluttered either, due to the lack of furniture.</p>
+Like the woman said, the house was not clean by any means. She probably didn't care much for cleanliness.
 
-<p>There was only an old desk, a backless chair that appeared to be handmade, and a bed. It felt like a very bleak room.</p>
+However, the room didn't appear cluttered either, due to the lack of furniture.
 
-<p>I don't mean to say that it was impossible to live here. It just seemed to be a very rough place.</p>
+There was only an old desk, a backless chair that appeared to be handmade, and a bed. It felt like a very bleak room.
 
-<p>Has she really been living here ever since the village was destroyed?</p>
+I don't mean to say that it was impossible to live here. It just seemed to be a very rough place.
 
-<p>The woman offered Fran a chair and sat herself down on the bed.</p>
+Has she really been living here ever since the village was destroyed?
 
-<p>「I wish I could offer you a cup of tea, but I don't have anything on hand.」</p>
-<p>「It's okay, let's drink this.」</p>
-<p>「That's dimensional storage! Fran, what in the world happened?!」</p>
+The woman offered Fran a chair and sat herself down on the bed.
 
-<p>Fran took out two cups of tea and the woman stood up in surprise. To her, Fran must have still appeared as a child to be protected.</p>
+「I wish I could offer you a cup of tea, but I don't have anything on hand.」
 
-<p>After drinking the tea and calming down, the woman opened her mouth again.</p>
+「It's okay, let's drink this.」
 
-<p>「Sorry for all the questions. So about that day…… Can you tell me how you survived?」</p>
-<p>「Nn.」</p>
+「That's dimensional storage! Fran, what in the world happened?!」
 
-<p>Fran told the woman the story of what had happened to her.</p>
+Fran took out two cups of tea and the woman stood up in surprise. To her, Fran must have still appeared as a child to be protected.
 
-<p>A large number of antidemons attacked the village and killed her parents. After that, she was captured by the blue cats ransacking the village and made into an illegal slave. Then, a few years passed without any change.</p>
+After drinking the tea and calming down, the woman opened her mouth again.
 
-<p>Fran was forced to work somewhere on this continent, before being pushed onto a ship and transported to the continent of Jilbard.</p>
+「Sorry for all the questions. So about that day…… Can you tell me how you survived?」
 
-<p>That's where she met me.</p>
+「Nn.」
 
-<p>Fran said that she had never seen the sea before she went to Dars. But that was probably because she boarded and disembarked from the ship at night and was forced into the hold for the entire duration of the voyage.</p>
+Fran told the woman the story of what had happened to her.
 
-<p>「You did well to make it back all the way from Jilbard…… Is the guy you mentioned earlier, the one who saved you, still with you?」</p>
-<p>「Nn, my savior and partner. I'll introduce you.」</p>
+A large number of antidemons attacked the village and killed her parents. After that, she was captured by the blue cats ransacking the village and made into an illegal slave. Then, a few years passed without any change.
 
-<p>Finally, it's my turn!</p>
+Fran was forced to work somewhere on this continent, before being pushed onto a ship and transported to the continent of Jilbard.
 
-<p>『Hey. My name is Master, and I'm Fran's partner.』</p>
-<p>「…! W-Where is this coming from……?」</p>
-<p>「Master is this sword.」</p>
-<p>『I'm Master, the Intelligence Weapon. It's a pleasure to make your acquaintance.』</p>
-<p>「Intelligence Weapon……?」</p>
+That's where she met me.
 
-<p>The woman stood up from the bed with a start. Then she stared as I slipped out of the sheath on my own, floating in mid-air.</p>
+Fran said that she had never seen the sea before she went to Dars. But that was probably because she boarded and disembarked from the ship at night and was forced into the hold for the entire duration of the voyage.
 
-<p>Now that's a perfect shocked reaction. You get full points.</p>
+「You did well to make it back all the way from Jilbard…… Is the guy you mentioned earlier, the one who saved you, still with you?」
 
-<p>『Am I that unusual?』</p>
-<p>「D-Damn right you are!」</p>
+「Nn, my savior and partner. I'll introduce you.」
 
-<p>Trismegistus supposedly had an Intelligence Weapon too, but I guess it's not a common sight on this continent.</p>
+Finally, it's my turn!
 
-<p>「Phew…… Sorry, I got a little excited.」</p>
-<p>『I'm sorry for startling you too.』</p>
-<p>「I'm Nadia the black cat. Nothing more than a grave keeper. You can call me Auntie too if you'd like.」</p>
-<p>『……Nice to you meet you, Nadia-san.』</p>
-<p>「Heh. Pretty human for a sword. But I guess that's the way it should be.」</p>
+『Hey. My name is Master, and I'm Fran's partner.』
 
-<p>Nadia smirked. Like I thought, calling her Auntie would have been a mistake.</p>
+「…! W-Where is this coming from……?」
 
-<p>「So Master was the one?」</p>
-<p>「Nn. Master saved me.」</p>
+「Master is this sword.」
 
-<p>Fran explained how she met me. Well, I was stuck at the time too, so we ended up saving each other.</p>
+『I'm Master, the Intelligence Weapon. It's a pleasure to make your acquaintance.』
 
-<p>「So I went on adventures with Master and got stronger.」</p>
-<p>『The current Fran is pretty damn strong you know!』</p>
-<p>「I know that, but……」</p>
-<p>「Master is not the only friend I have. Urushi.」</p>
-<p>「Woof!」</p>
-<p>「Whoa! I didn't sense any sign of him……? I-Is this your beast servant?」</p>
-<p>「My friend Urushi.」</p>
-<p>「Woof!」</p>
+「Intelligence Weapon……?」
 
-<p>A puppy-sized Urushi appeared from Fran's shadow and barked in a devilishly cute manner. Seems like he plans to continue this charade in front of Nadia.</p>
+The woman stood up from the bed with a start. Then she stared as I slipped out of the sheath on my own, floating in mid-air.
 
-<p>「So you've become so ridiculously strong that you've got a beast this powerful serving you……」</p>
+Now that's a perfect shocked reaction. You get full points.
 
-<p>However, that had no effect on Nadia, since she saw right through his abilities.</p>
+『Am I that unusual?』
 
-<p>「And with a legendary Intelligence Weapon…… What kind of adventures did you have to go on to achieve this?」</p>
-<p>「Really great adventures!」</p>
-<p>『Well, a lot happened.』</p>
-<p>「Nn! A lot!」</p>
+「D-Damn right you are!」
 
-<p>Fran gave a brief summary of all the adventures she had been on so far, with me occasionally adding details.</p>
+Trismegistus supposedly had an Intelligence Weapon too, but I guess it's not a common sight on this continent.
 
-<p>Looking back, however, I realize that a lot really has happened in just a little over a year. I had intended to wrap up the summary in about ten minutes, but we weren't anywhere close to done and it's been over an hour.</p>
+「Phew…… Sorry, I got a little excited.」
 
-<p>Besides, Fran's "talk switch" had turned on, and she continued giving an impassioned speech with exaggerated gestures.</p>
+『I'm sorry for startling you too.』
 
-<p>Fran's childish side must have come out in front of Nadia, since they were as close as relatives.</p>
+「I'm Nadia the black cat. Nothing more than a grave keeper. You can call me Auntie too if you'd like.」
 
-<p>「So I then said to them, "All your schemes are done for!"」</p>
-<p>「Whoa! That's amazing, Fran!」</p>
-<p>「Nn!」</p>
+『……Nice to you meet you, Nadia-san.』
 
-<p>Uhh, did she ever say that? Well, I guess I can let a few exaggerations slide.</p>
+「Heh. Pretty human for a sword. But I guess that's the way it should be.」
 
-<p>Nadia was good enough of a listener to give the proper reactions to all of Fran's stories too.</p>
+Nadia smirked. Like I thought, calling her Auntie would have been a mistake.
 
-<p>Another 30 minutes later.</p>
+「So Master was the one?」
 
-<p>「And then, Master, Urushi, and I came to this continent.」</p>
-<p>「Makes sense. I've heard rumors of Trismegistus' sword.」</p>
+「Nn. Master saved me.」
 
-<p>Fran was satisfied with the tale of her great adventure, although she hid the parts that needed to be hidden. She sipped the now cold tea and took a breather.</p>
+Fran explained how she met me. Well, I was stuck at the time too, so we ended up saving each other.
 
-<p>『Do you know anything about the Intelligence Weapon that Trismegistus supposedly has?』</p>
-<p>「Nothing about the details. I've only heard he's been using it for millennia, and that it's a special enchanted sword.」</p>
+「So I went on adventures with Master and got stronger.」
 
-<p>As I thought, she didn't know much about it. However, this did back the claim that he was using a special sword.</p>
+『The current Fran is pretty damn strong you know!』
 
-<p>「Nn. We need to meet him in person.」</p>
-<p>『I guess so.』</p>
+「I know that, but……」
+
+「Master is not the only friend I have. Urushi.」
+
+「Woof!」
+
+「Whoa! I didn't sense any sign of him……? I-Is this your beast servant?」
+
+「My friend Urushi.」
+
+「Woof!」
+
+A puppy-sized Urushi appeared from Fran's shadow and barked in a devilishly cute manner. Seems like he plans to continue this charade in front of Nadia.
+
+「So you've become so ridiculously strong that you've got a beast this powerful serving you……」
+
+However, that had no effect on Nadia, since she saw right through his abilities.
+
+「And with a legendary Intelligence Weapon…… What kind of adventures did you have to go on to achieve this?」
+
+「Really great adventures!」
+
+『Well, a lot happened.』
+
+「Nn! A lot!」
+
+Fran gave a brief summary of all the adventures she had been on so far, with me occasionally adding details.
+
+Looking back, however, I realize that a lot really has happened in just a little over a year. I had intended to wrap up the summary in about ten minutes, but we weren't anywhere close to done and it's been over an hour.
+
+Besides, Fran's "talk switch" had turned on, and she continued giving an impassioned speech with exaggerated gestures.
+
+Fran's childish side must have come out in front of Nadia, since they were as close as relatives.
+
+「So I then said to them, "All your schemes are done for!"」
+
+「Whoa! That's amazing, Fran!」
+
+「Nn!」
+
+Uhh, did she ever say that? Well, I guess I can let a few exaggerations slide.
+
+Nadia was good enough of a listener to give the proper reactions to all of Fran's stories too.
+
+Another 30 minutes later.
+
+「And then, Master, Urushi, and I came to this continent.」
+
+「Makes sense. I've heard rumors of Trismegistus' sword.」
+
+Fran was satisfied with the tale of her great adventure, although she hid the parts that needed to be hidden. She sipped the now cold tea and took a breather.
+
+『Do you know anything about the Intelligence Weapon that Trismegistus supposedly has?』
+
+「Nothing about the details. I've only heard he's been using it for millennia, and that it's a special enchanted sword.」
+
+As I thought, she didn't know much about it. However, this did back the claim that he was using a special sword.
+
+「Nn. We need to meet him in person.」
+
+『I guess so.』
 
 
 

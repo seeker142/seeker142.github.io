@@ -10,117 +10,133 @@ editor:
 ---
 <h2 id="ch735">735: Mummy King</h2>
 
-<p>While we were looking for a opponent to test our skills, Urushi's detection abilities helped us to find a powerful monster.</p>
+While we were looking for a opponent to test our skills, Urushi's detection abilities helped us to find a powerful monster.
 
-<p>We proceeded through the mountains while concealing our presence.</p>
+We proceeded through the mountains while concealing our presence.
 
-<p>A few minutes later, we finally caught sight of the undead as we passed over a ridge in the mountain.</p>
+A few minutes later, we finally caught sight of the undead as we passed over a ridge in the mountain.
 
-<p>There was a swarm of several undead in a corner of the valley beyond the mountain.</p>
+There was a swarm of several undead in a corner of the valley beyond the mountain.
 
-<p>『That one undead in the center is pretty strong.』</p>
-<p>（Nn.）</p>
+『That one undead in the center is pretty strong.』
 
-<p>He's probably the boss of the undead. A wrinkled mummy-like figure wearing a sorcerer's robe was performing a vile ritual in the middle of the other undead.</p>
+（Nn.）
 
-<p>A small, fat man was lying on the altar in front of the boss. He clearly had no signs of life.</p>
+He's probably the boss of the undead. A wrinkled mummy-like figure wearing a sorcerer's robe was performing a vile ritual in the middle of the other undead.
 
-<p>His head had been cut off and placed on his stomach. The blood from the wounds had already stopped flowing, so it seemed that a great amount of time had passed since he was killed.</p>
+A small, fat man was lying on the altar in front of the boss. He clearly had no signs of life.
 
-<p>When the undead boss raised his staff, magic power was drained from the poor victim. Then, black magic power was released from the staff of the undead boss and flowed into the undead under his control.</p>
+His head had been cut off and placed on his stomach. The blood from the wounds had already stopped flowing, so it seemed that a great amount of time had passed since he was killed.
 
-<p>The undead except for the boss weren't moving at all. However, I could feel the power emanating from their bodies increasing.</p>
+When the undead boss raised his staff, magic power was drained from the poor victim. Then, black magic power was released from the staff of the undead boss and flowed into the undead under his control.
 
-<p>『It'd be pretty bad to let this continue, huh?』</p>
-<p>（Nn. Undead are getting stronger.）</p>
-<p>（Woof!）</p>
-<p>『Right.』</p>
+The undead except for the boss weren't moving at all. However, I could feel the power emanating from their bodies increasing.
 
-<p>He's most likely using some kind of magic to strengthen the undead under his control. Maybe he's the reason for the recent undead troubles.</p>
+『It'd be pretty bad to let this continue, huh?』
 
-<p>Now we have no longer have the choice to leave them alone.</p>
+（Nn. Undead are getting stronger.）
 
-<p>『We'll take him by surprise.』</p>
-<p>（Okay.）</p>
-<p>『Fran, you get the boss. Urushi, you handle the undead around him.』</p>
-<p>（Woof!）</p>
+（Woof!）
 
-<p>We move into action.</p>
+『Right.』
 
-<p>I used teleportation to immediately close the distance. Fran slashed at the undead boss, and Urushi went in with a shadow shift and chewed off the head of one of them.</p>
+He's most likely using some kind of magic to strengthen the undead under his control. Maybe he's the reason for the recent undead troubles.
 
-<p>After getting closer, we found out what we're dealing with. The result of appraisal showed that he was a Mummy King. It is just as strong as the Wight King we fought before.</p>
+Now we have no longer have the choice to leave them alone.
 
-<p>However, since it is far inferior than the Wight King in terms of summoning and leadership abilities, it would be considered a lower threat level.</p>
+『We'll take him by surprise.』
 
-<p>Fran had taken his rear after teleporting, and her slash struck the Mummy King directly in the back. However, the Mummy King was still standing, looking very healthy.</p>
+（Okay.）
 
-<p>「Adventurers?! Now that you have seen us, you must not be not allowed to return alive!」</p>
-<p>『That's the effect of his skill!』</p>
+『Fran, you get the boss. Urushi, you handle the undead around him.』
 
-<p>The Mummy King possesses a skill called 'Shield of the Dead'. This is a skill that transfers the damage inflicted on him to the other undead under his control. There is a shield art similar to this.</p>
+（Woof!）
 
-<p>The advantage of this skill is that it is always active and can be used even if the user is not ready for combat. However, that is also a weakness. The damage will continuously be transferred to the undead under his control each time he is attacked, regardless of his intention.</p>
+We move into action.
 
-<p>「Kill them!」</p>
+I used teleportation to immediately close the distance. Fran slashed at the undead boss, and Urushi went in with a shadow shift and chewed off the head of one of them.
 
-<p>The undead start to move at the order of the Mummy King. These guys are pretty strong too, maybe Threat Level E.</p>
+After getting closer, we found out what we're dealing with. The result of appraisal showed that he was a Mummy King. It is just as strong as the Wight King we fought before.
 
-<p>No wait, they are ghoul-type undead, with races like 'High Ghoul Soldier' or 'High Ghoul Magician'.</p>
+However, since it is far inferior than the Wight King in terms of summoning and leadership abilities, it would be considered a lower threat level.
 
-<p>With their 'Pollution' skill, even one of them is quite dangerous, so it wouldn't surprise me if they were given a threat level of D. This is a skill that constantly sprays a deadly long-lasting poison, contaminating living creatures and food.</p>
+Fran had taken his rear after teleporting, and her slash struck the Mummy King directly in the back. However, the Mummy King was still standing, looking very healthy.
 
-<p>The area of contamination for a high-ranked ghoul supposedly exceeds a radius of 20 meters, so a village could collapse from a ghoul walking through it.</p>
+「Adventurers?! Now that you have seen us, you must not be not allowed to return alive!」
 
-<p>We were fine since we had immunity to the poison, but it was too dangerous to let them escape.</p>
+『That's the effect of his skill!』
 
-<p>Fran slashes at the Mummy King some more, but the ghouls also showed no sign of damage transferred to them. He must have more undead under his control in other locations.</p>
+The Mummy King possesses a skill called 'Shield of the Dead'. This is a skill that transfers the damage inflicted on him to the other undead under his control. There is a shield art similar to this.
 
-<p>But he certainly does not have an infinite number of them. In order for the Shield of the Dead to be activated, the undead to which the damage is transferred must have been created by him and under his control.</p>
+The advantage of this skill is that it is always active and can be used even if the user is not ready for combat. However, that is also a weakness. The damage will continuously be transferred to the undead under his control each time he is attacked, regardless of his intention.
 
-<p>This "under control" part is important. For magic like summoning and necromancy, the number of servants that can be controlled is determined by the power of the caster. A single powerful monster can exceed the caster's capacity, even if they can control over a hundred weaklings.</p>
+「Kill them!」
 
-<p>This is also the reason why I cannot summon any other magical beasts besides Urushi. He just takes up all my summoning capacity.</p>
+The undead start to move at the order of the Mummy King. These guys are pretty strong too, maybe Threat Level E.
 
-<p>Also, it's different if he were to create a servant and let it loose. He has to first make a proper contract with it in order for it to be considered under his control.</p>
+No wait, they are ghoul-type undead, with races like 'High Ghoul Soldier' or 'High Ghoul Magician'.
 
-<p>He had powerful ghouls nearby, so even this Mummy King could not be expected to have hundreds of other undead.</p>
+With their 'Pollution' skill, even one of them is quite dangerous, so it wouldn't surprise me if they were given a threat level of D. This is a skill that constantly sprays a deadly long-lasting poison, contaminating living creatures and food.
 
-<p>『Continue as planned, Fran gets the boss! Urushi, clear the surrounding ghouls!』</p>
-<p>（Got it.）</p>
-<p>「Woof!」</p>
+The area of contamination for a high-ranked ghoul supposedly exceeds a radius of 20 meters, so a village could collapse from a ghoul walking through it.
 
-<p>With that said, an area attack with light magic would be very effective, but Fran fights only with her sword.</p>
+We were fine since we had immunity to the poison, but it was too dangerous to let them escape.
 
-<p>『Fran, I'll test the power of the blessing, okay?』</p>
-<p>（Okay.）</p>
+Fran slashes at the Mummy King some more, but the ghouls also showed no sign of damage transferred to them. He must have more undead under his control in other locations.
 
-<p>The Mummy King is strong, but not as strong as Fran in a one-on-one fight. He is slashed in rapid succession, and calls out to the ghouls around him for help, but they are blocked by Urushi and cannot come to his aid.</p>
+But he certainly does not have an infinite number of them. In order for the Shield of the Dead to be activated, the undead to which the damage is transferred must have been created by him and under his control.
+
+This "under control" part is important. For magic like summoning and necromancy, the number of servants that can be controlled is determined by the power of the caster. A single powerful monster can exceed the caster's capacity, even if they can control over a hundred weaklings.
+
+This is also the reason why I cannot summon any other magical beasts besides Urushi. He just takes up all my summoning capacity.
+
+Also, it's different if he were to create a servant and let it loose. He has to first make a proper contract with it in order for it to be considered under his control.
+
+He had powerful ghouls nearby, so even this Mummy King could not be expected to have hundreds of other undead.
+
+『Continue as planned, Fran gets the boss! Urushi, clear the surrounding ghouls!』
+
+（Got it.）
+
+「Woof!」
+
+With that said, an area attack with light magic would be very effective, but Fran fights only with her sword.
+
+『Fran, I'll test the power of the blessing, okay?』
+
+（Okay.）
+
+The Mummy King is strong, but not as strong as Fran in a one-on-one fight. He is slashed in rapid succession, and calls out to the ghouls around him for help, but they are blocked by Urushi and cannot come to his aid.
 
 <br>
-<p>Ten minutes after our surprise attack.</p>
 
-<p>「Damn it all! In a place like this! My apologies…… Gwaaah!」</p>
+Ten minutes after our surprise attack.
 
-<p>Finally, the effect of the Shield of the Dead was no longer in effect, and the Mummy King was defeated by Fran's swordsmanship.</p>
+「Damn it all! In a place like this! My apologies…… Gwaaah!」
 
-<p>Cut in half, he crumbled to dust, leaving no magic stone behind. Considering that fact combined with his last words, he was likely created by a necromancer.</p>
+Finally, the effect of the Shield of the Dead was no longer in effect, and the Mummy King was defeated by Fran's swordsmanship.
 
-<p>『The creator of this thing might be nearby. Let's explore a little.』</p>
-<p>（Nn.）</p>
-<p>『So how'd it go?』</p>
-<p>（So-so?）</p>
+Cut in half, he crumbled to dust, leaving no magic stone behind. Considering that fact combined with his last words, he was likely created by a necromancer.
 
-<p>According to Fran, she became somewhat proficient in using Physical Manipulation while cutting up the Mummy King. At the very least, she could keep up with Hilt better than before.</p>
+『The creator of this thing might be nearby. Let's explore a little.』
 
-<p>This was a reasonably strong opponent who could take quite a few slashes. I can say he was pretty much perfect for practicing our skills.</p>
+（Nn.）
 
-<p>（What about you?）</p>
-<p>『I tried to use the blessing of the Wisdom God. Apparently, it gives me more control over magic and skills, but it also doubles my magic consumption.』</p>
+『So how'd it go?』
 
-<p>It's dangerous to use it all the time, but it's a useful blessing if I can put it to proper use.</p>
+（So-so?）
 
-<p>（I see.）</p>
+According to Fran, she became somewhat proficient in using Physical Manipulation while cutting up the Mummy King. At the very least, she could keep up with Hilt better than before.
+
+This was a reasonably strong opponent who could take quite a few slashes. I can say he was pretty much perfect for practicing our skills.
+
+（What about you?）
+
+『I tried to use the blessing of the Wisdom God. Apparently, it gives me more control over magic and skills, but it also doubles my magic consumption.』
+
+It's dangerous to use it all the time, but it's a useful blessing if I can put it to proper use.
+
+（I see.）
 
 
 

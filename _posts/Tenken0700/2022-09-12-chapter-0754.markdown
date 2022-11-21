@@ -10,150 +10,181 @@ editor:
 ---
 <h2 id="ch754">754: Reunion with Jean</h2>
 
-<p>『Wow, that's a lot of people.』</p>
-<p>「Nn. Surprising.」</p>
-<p>「Woof.」</p>
+『Wow, that's a lot of people.』
 
-<p>Two days after the tournament.</p>
+「Nn. Surprising.」
 
-<p>We decided to leave Ulmutt since more and more people started to gather around the inn.</p>
+「Woof.」
 
-<p>Since we had already greeted our acquaintances, we should have been able to leave without issue, but……</p>
+Two days after the tournament.
 
-<p>I never expected so many people would ambush us at the town gate. It was a bit scary to see the number of people around the area swell up as we were waiting in line.</p>
+We decided to leave Ulmutt since more and more people started to gather around the inn.
 
-<p>It seems that it was not only merchants and nobles who wanted to connect with Fran, but also residents who wanted to see off the winner. The social network of residents was not to be underestimated.</p>
+Since we had already greeted our acquaintances, we should have been able to leave without issue, but……
 
-<p>In the end, the guards at the gate let Fran through with special treatment, which saved the day. But……</p>
+I never expected so many people would ambush us at the town gate. It was a bit scary to see the number of people around the area swell up as we were waiting in line.
 
-<p>If it had been just a little later, she might have been jostled by onlookers reaching the end of their patience.</p>
+It seems that it was not only merchants and nobles who wanted to connect with Fran, but also residents who wanted to see off the winner. The social network of residents was not to be underestimated.
 
-<p>Good job, gatekeeper!</p>
+In the end, the guards at the gate let Fran through with special treatment, which saved the day. But……
 
-<p>『Where do we go from here? We still have about half a month before our appointment with Belioth. If we hurry back, we can afford to take some detours.』</p>
-<p>「What about Bulbola?」</p>
-<p>『It's in the opposite direction, so probably not a great idea.』</p>
-<p>「Hmm. Then Alessa, since we didn't see Amanda yet. I'll meet her this time.」</p>
-<p>『Okay, let's go to Alessa first.』</p>
-<p>「Nn! Urushi, go!」</p>
-<p>「Woof woof!」</p>
+If it had been just a little later, she might have been jostled by onlookers reaching the end of their patience.
+
+Good job, gatekeeper!
+
+『Where do we go from here? We still have about half a month before our appointment with Belioth. If we hurry back, we can afford to take some detours.』
+
+「What about Bulbola?」
+
+『It's in the opposite direction, so probably not a great idea.』
+
+「Hmm. Then Alessa, since we didn't see Amanda yet. I'll meet her this time.」
+
+『Okay, let's go to Alessa first.』
+
+「Nn! Urushi, go!」
+
+「Woof woof!」
 
 <br>
-<p>The journey was very pleasant. There were no strong monsters, and Urushi and Fran could dash straight through mountains and valleys alike.</p>
 
-<p>We reached Alessa in 10 days, even though we made many stops along the way. Anyone would go to a village with hot springs if they heard it was nearby.</p>
+The journey was very pleasant. There were no strong monsters, and Urushi and Fran could dash straight through mountains and valleys alike.
 
-<p>「There's something weird.」</p>
-<p>『Uwah. What's with that evil-looking skeleton carriage?』</p>
+We reached Alessa in 10 days, even though we made many stops along the way. Anyone would go to a village with hot springs if they heard it was nearby.
 
-<p>In front of the main gate of Alessa, a carriage with a ridiculous aura was parked.</p>
+「There's something weird.」
 
-<p>It was made entirely of bones. The wheels, the body, and the horses were all made of bone. The driver was also bones, aka a skeleton.</p>
+『Uwah. What's with that evil-looking skeleton carriage?』
 
-<p>The skeleton, wearing a tattered robe, held a bridle made of bones that extended from the skeletal horse. However, the fact that the gatekeeper was not taking a battle stance suggested that the skeleton was not an enemy. Even though it's clearly evil no matter how you look at it……</p>
+In front of the main gate of Alessa, a carriage with a ridiculous aura was parked.
 
-<p>As we cautiously approach the wagon, the skeleton reacted.</p>
+It was made entirely of bones. The wheels, the body, and the horses were all made of bone. The driver was also bones, aka a skeleton.
 
-<p>「Oh? Is that you, Fran-san?」</p>
+The skeleton, wearing a tattered robe, held a bridle made of bones that extended from the skeletal horse. However, the fact that the gatekeeper was not taking a battle stance suggested that the skeleton was not an enemy. Even though it's clearly evil no matter how you look at it……
 
-<p>Normally we would have been surprised, but we had a hunch.</p>
+As we cautiously approach the wagon, the skeleton reacted.
 
-<p>「Could you be Jean's skeleton?」</p>
-<p>「Yes. It is I, Bernard.」</p>
+「Oh? Is that you, Fran-san?」
 
-<p>It was Bernard, the skeleton who was Jean's servant. We had talked with him a bit during the floating island incident.</p>
+Normally we would have been surprised, but we had a hunch.
 
-<p>To be honest, I don't know how to tell skeletons apart, so I could not recognize him at all.</p>
+「Could you be Jean's skeleton?」
 
-<p>「I have heard rumors of your achievements. It seems you have been quite busy.」</p>
-<p>「Thanks.」</p>
-<p>『Is Jean here?』</p>
-<p>「He is right there though?」</p>
-<p>「?」</p>
+「Yes. It is I, Bernard.」
 
-<p>I can't see any sign of――</p>
+It was Bernard, the skeleton who was Jean's servant. We had talked with him a bit during the floating island incident.
 
-<p>「Fuhahaha! Long time no see! Fran-kun! Urushi-kun!」</p>
-<p>「!」</p>
-<p>「Grr!」</p>
+To be honest, I don't know how to tell skeletons apart, so I could not recognize him at all.
 
-<p>Suddenly, a loud laugh erupted behind us, causing Fran to shake. She turned around to see a weirdo wearing a tattered robe.</p>
+「I have heard rumors of your achievements. It seems you have been quite busy.」
 
-<p>「Jean.」</p>
-<p>「The one and only! I am glad to see you in good health! That you are still great undead material fills me with glee!」</p>
+「Thanks.」
 
-<p>That we can't sense his presence at all means he's still making full use of his 'Perfect Presence Blocking' skill! It's crazy how you can wear so many skull accessories and not give off a single sound.</p>
+『Is Jean here?』
 
-<p>「Master-kun, good to see you too.」</p>
-<p>『Yeah, nice to see you again.』</p>
+「He is right there though?」
 
-<p>He greeted me in a whisper. How is it that he can be capable of such consideration, while he can't fix his eccentric attitude?</p>
+「?」
 
-<p>「My thanks for the information about the assailants from Raydoss. Due to that, I have been able to prepare the proper countermeasures!」</p>
+I can't see any sign of――
 
-<p>It seems that our information about Nameless had been passed on to Jean.</p>
+「Fuhahaha! Long time no see! Fran-kun! Urushi-kun!」
 
-<p>I had been worried about Jean's safety since we found out that a powerful undead was targeting him.</p>
+「!」
 
-<p>Jean was an talented necromancer, and had been given the nickname of 'The Slaughterer' for leading a horde of undead on the battlefield.</p>
+「Grr!」
 
-<p>His experience and knowledge as an adventurer, his talent as a necromancer, and his genius for concealing his presence, are what make up Jean's combat power. But those are more like a bonus to him.</p>
+Suddenly, a loud laugh erupted behind us, causing Fran to shake. She turned around to see a weirdo wearing a tattered robe.
 
-<p>Jean was essentially a researcher.</p>
+「Jean.」
 
-<p>He didn’t seem to do any combat training, and probably considered combat as just one of his many tools.</p>
+「The one and only! I am glad to see you in good health! That you are still great undead material fills me with glee!」
 
-<p>Standing in front of Jean, you would not feel the aura of a warrior. Even without an appraisal, I could see that his martial arts skills were not that great by the way he moved his feet. His physical stats were probably low as well.</p>
+That we can't sense his presence at all means he's still making full use of his 'Perfect Presence Blocking' skill! It's crazy how you can wear so many skull accessories and not give off a single sound.
 
-<p>However, Nameless was an undead specialized in melee and also proficient in necromancy. This was exactly the kind of undead that could defeat Jean.</p>
+「Master-kun, good to see you too.」
 
-<p>「I'll give you a special demonstration of my newest servant! Awaken, Mark!」</p>
-<p>「Uuurghh.」</p>
-<p>『Whoa!』</p>
-<p>「!」</p>
-<p>「Arf!」</p>
+『Yeah, nice to see you again.』
 
-<p>It was Jean's robe that moved in response to his voice. No wait, it was the bone armor he wears underneath that robe that began to move.</p>
+He greeted me in a whisper. How is it that he can be capable of such consideration, while he can't fix his eccentric attitude?
 
-<p>「Fuhahaha, are you surprised?」</p>
-<p>「Amazing.」</p>
-<p>「This is a new special undead created using materials from the skeleton knights obtained on the floating island. His name is Mark!」</p>
+「My thanks for the information about the assailants from Raydoss. Due to that, I have been able to prepare the proper countermeasures!」
 
-<p>Mark's abilities were very interesting. First of all, he had high performance as an armor, since he was originally made of tough material. He also had defensive skills such as physical resistance.</p>
+It seems that our information about Nameless had been passed on to Jean.
 
-<p>An ordinary sword would not be able to inflict even a scratch on it. It also had resistance to necromancy, and should be able to interfere with the opponent's necromancy magic.</p>
+I had been worried about Jean's safety since we found out that a powerful undead was targeting him.
 
-<p>Another remarkable feature of this armor was its high melee ability. It had four arms growing out of its back.</p>
+Jean was an talented necromancer, and had been given the nickname of 'The Slaughterer' for leading a horde of undead on the battlefield.
 
-<p>The arms were thicker and longer than human arms, though their shape was similar to that of a human. They could be over two meters long when extended. When unused, they seemed to be folded with their elbows pointing downward.</p>
+His experience and knowledge as an adventurer, his talent as a necromancer, and his genius for concealing his presence, are what make up Jean's combat power. But those are more like a bonus to him.
 
-<p>The true value of these arms was not their high strength, but their ability to fight with a weapon in each arm. Moreover, they have a high level of combat skills, such as Holy Sword Mastery.</p>
+Jean was essentially a researcher.
 
-<p>That must be the power of the Legendary Skeleton we fought on the floating island. This was perfect for covering Jean's weak points.</p>
+He didn’t seem to do any combat training, and probably considered combat as just one of his many tools.
 
-<p>That's some pretty amazing performance, as expected from Jean.</p>
+Standing in front of Jean, you would not feel the aura of a warrior. Even without an appraisal, I could see that his martial arts skills were not that great by the way he moved his feet. His physical stats were probably low as well.
 
-<p>「Oops, I have get going!」</p>
-<p>「A request?」</p>
-<p>「Indeed. An urgent one too!」</p>
+However, Nameless was an undead specialized in melee and also proficient in necromancy. This was exactly the kind of undead that could defeat Jean.
 
-<p>Apparently he had to leave immediately for an emergency request. Jean jumped into the carriage.</p>
+「I'll give you a special demonstration of my newest servant! Awaken, Mark!」
 
-<p>「Well, I'm off! I look forward to seeing you again! Later! Fuhahaha!」</p>
-<p>「Bye bye!」</p>
-<p>「Woof woof!」</p>
-<p>「I bid you farewell!」</p>
+「Uuurghh.」
 
-<p>The skeleton carriage carrying Jean flew off at a tremendous speed down the street.</p>
+『Whoa!』
 
-<p>An eerie skeletal carriage rushing through the streets, driven by a skeleton. Passersby are sure to be horrified.</p>
+「!」
 
-<p>I wonder if that's going to be a new horror story to be passed down the ages? "Skeletal Carriage Monster Rampages!", or something like that.</p>
+「Arf!」
 
-<p>『That's a man that comes and goes as fast as a tornado.』</p>
-<p>「Nn. I wish we could talk more.」</p>
+It was Jean's robe that moved in response to his voice. No wait, it was the bone armor he wears underneath that robe that began to move.
 
-<p>Fran looked disappointed, but I think I've had plenty. A few minutes was more than enough.</p>
+「Fuhahaha, are you surprised?」
+
+「Amazing.」
+
+「This is a new special undead created using materials from the skeleton knights obtained on the floating island. His name is Mark!」
+
+Mark's abilities were very interesting. First of all, he had high performance as an armor, since he was originally made of tough material. He also had defensive skills such as physical resistance.
+
+An ordinary sword would not be able to inflict even a scratch on it. It also had resistance to necromancy, and should be able to interfere with the opponent's necromancy magic.
+
+Another remarkable feature of this armor was its high melee ability. It had four arms growing out of its back.
+
+The arms were thicker and longer than human arms, though their shape was similar to that of a human. They could be over two meters long when extended. When unused, they seemed to be folded with their elbows pointing downward.
+
+The true value of these arms was not their high strength, but their ability to fight with a weapon in each arm. Moreover, they have a high level of combat skills, such as Holy Sword Mastery.
+
+That must be the power of the Legendary Skeleton we fought on the floating island. This was perfect for covering Jean's weak points.
+
+That's some pretty amazing performance, as expected from Jean.
+
+「Oops, I have get going!」
+
+「A request?」
+
+「Indeed. An urgent one too!」
+
+Apparently he had to leave immediately for an emergency request. Jean jumped into the carriage.
+
+「Well, I'm off! I look forward to seeing you again! Later! Fuhahaha!」
+
+「Bye bye!」
+
+「Woof woof!」
+
+「I bid you farewell!」
+
+The skeleton carriage carrying Jean flew off at a tremendous speed down the street.
+
+An eerie skeletal carriage rushing through the streets, driven by a skeleton. Passersby are sure to be horrified.
+
+I wonder if that's going to be a new horror story to be passed down the ages? "Skeletal Carriage Monster Rampages!", or something like that.
+
+『That's a man that comes and goes as fast as a tornado.』
+
+「Nn. I wish we could talk more.」
+
+Fran looked disappointed, but I think I've had plenty. A few minutes was more than enough.
 
 
 

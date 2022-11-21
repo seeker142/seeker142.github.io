@@ -9,146 +9,172 @@ translator: Seeker
 editor: 
 ---
 <h2 id="ch787">787: Commander Defeated</h2>
-<p>The giant knight-type had been standing still the entire time, but it suddenly moved into action immediately after Fran tried to escape with the decoy soldiers.</p>
 
-<p>「Roooooooorgh!」</p>
-<p>『Tch! It's aiming at the soldiers……!』</p>
+The giant knight-type had been standing still the entire time, but it suddenly moved into action immediately after Fran tried to escape with the decoy soldiers.
 
-<p>The giant knight-type thrust the lance in its hand, shooting out a blast of mana in the shape of an arrow. Looks to pack quite a punch.</p>
+「Roooooooorgh!」
 
-<p>Moreover, it was not aimed at Fran. The target was the soldiers following behind her.</p>
+『Tch! It's aiming at the soldiers……!』
 
-<p>Fran quickly cut the arrow down, but then the antidemons around us began to strike again. All of them were aiming at the soldiers.</p>
+The giant knight-type thrust the lance in its hand, shooting out a blast of mana in the shape of an arrow. Looks to pack quite a punch.
 
-<p>This action meant they knew that we wouldn't abandon the soldiers. Can they actually understand human emotions?</p>
+Moreover, it was not aimed at Fran. The target was the soldiers following behind her.
 
-<p>Or maybe they are just going after the weakest first……?</p>
+Fran quickly cut the arrow down, but then the antidemons around us began to strike again. All of them were aiming at the soldiers.
 
-<p>No, these attacks were far too vicious for that.</p>
+This action meant they knew that we wouldn't abandon the soldiers. Can they actually understand human emotions?
 
-<p>Again the commander fired a magic shot, but it was an attack that Fran could just barely block.</p>
+Or maybe they are just going after the weakest first……?
 
-<p>The commander was obviously trying to wear us down into making a mistake.</p>
+No, these attacks were far too vicious for that.
 
-<p>「So annoying.」</p>
-<p>『What should we do……?』</p>
+Again the commander fired a magic shot, but it was an attack that Fran could just barely block.
 
-<p>Maybe we could blast our way through using magic? Or do we continue as we are, knowing we'll get hit eventually?</p>
+The commander was obviously trying to wear us down into making a mistake.
 
-<p>If Fran and I keep casting recovery magic, the soldiers should be able to get through this alive. Not the safest rescue we've ever done, but it seems doable……</p>
+「So annoying.」
 
-<p>Actually, we'll be fine. After all, we've got man's best friend on our side.</p>
+『What should we do……?』
 
-<p>「Grrrl!」</p>
-<p>「Ruough!」</p>
+Maybe we could blast our way through using magic? Or do we continue as we are, knowing we'll get hit eventually?
 
-<p>Urushi, who had defeated the cannon-type, now began his assault on the giant knight-type.</p>
+If Fran and I keep casting recovery magic, the soldiers should be able to get through this alive. Not the safest rescue we've ever done, but it seems doable……
 
-<p>He jumped out of the shadows, instantly transformed into a giant, and attempted to subdue the commander. However, the giant knight-type easily repelled him.</p>
+Actually, we'll be fine. After all, we've got man's best friend on our side.
 
-<p>Its entire body was covered with a transparent membrane-like substance, which appeared to be a barrier made of evil energy.</p>
+「Grrrl!」
 
-<p>「Grrrl!」</p>
-<p>「Ruogh!」</p>
+「Ruough!」
 
-<p>It didn't waver even when hit by Urushi's black magic. That means its pretty damn tough, although the barrier was visibly thinning.</p>
+Urushi, who had defeated the cannon-type, now began his assault on the giant knight-type.
 
-<p>Maybe it was a type of barrier that didn't need to be maintained after being cast, but only lasts for a few hits.</p>
+He jumped out of the shadows, instantly transformed into a giant, and attempted to subdue the commander. However, the giant knight-type easily repelled him.
 
-<p>At any rate, Urushi was able to attract the attention of the giant knight-type. Without that annoying guy, it should be much easier for the decoy soldiers to escape.</p>
+Its entire body was covered with a transparent membrane-like substance, which appeared to be a barrier made of evil energy.
 
-<p>The other antidemons have changed their strategy too. They had switched to brute-force application of numbers after the giant knight-type started getting suppressed by Urushi.</p>
+「Grrrl!」
 
-<p>「Gather around!」</p>
-<p>「O-Okay!」</p>
+「Ruogh!」
 
-<p>Fran gave the order, and the soldiers rushed over to her. Immediately after, the ground quickly rose to a height of about 10 meters with Fran at the center.</p>
+It didn't waver even when hit by Urushi's black magic. That means its pretty damn tough, although the barrier was visibly thinning.
 
-<p>I had cast Great Wall while putting ourselves on top of the wall. After a series of land spells, a long and narrow wall appeared as a road in front of us.</p>
+Maybe it was a type of barrier that didn't need to be maintained after being cast, but only lasts for a few hits.
 
-<p>We were not the only ones atop the wall. Naturally, the antidemons standing on the rising ground were lifted up as well.</p>
+At any rate, Urushi was able to attract the attention of the giant knight-type. Without that annoying guy, it should be much easier for the decoy soldiers to escape.
 
-<p>But Fran's magic made quick work of them. She knocked the antidemons down the wall with wind and thunder magic, so our escape route was completed.</p>
+The other antidemons have changed their strategy too. They had switched to brute-force application of numbers after the giant knight-type started getting suppressed by Urushi.
 
-<p>「Hurry! If the antidemons attack, it'll collapse!」</p>
-<p>「U-Understood! Let's go!」</p>
-<p>「Got it!」</p>
+「Gather around!」
 
-<p>They were very fast runners, as expected from talented scouts. Also, they were able to dodge the shots from the archer-types without a hitch.</p>
+「O-Okay!」
 
-<p>After continuing our dash on top of the Great Wall, we succeeded in escaping the horde.</p>
+Fran gave the order, and the soldiers rushed over to her. Immediately after, the ground quickly rose to a height of about 10 meters with Fran at the center.
 
-<p>I activated Great Wall again to create the steps of a staircase for our descent.</p>
+I had cast Great Wall while putting ourselves on top of the wall. After a series of land spells, a long and narrow wall appeared as a road in front of us.
 
-<p>Considering their abilities, each step being about 5 meters would be no problem at all.</p>
+We were not the only ones atop the wall. Naturally, the antidemons standing on the rising ground were lifted up as well.
 
-<p>「Keep going back to your friends.」</p>
-<p>「What are you going to do?」</p>
-<p>「I'll take them down.」</p>
-<p>「……Don't die on us!」</p>
-<p>「Nn.」</p>
+But Fran's magic made quick work of them. She knocked the antidemons down the wall with wind and thunder magic, so our escape route was completed.
 
-<p>They hesitated to leave Fran as bait, but someone has to stop them or the antidemons will catch up with the main force of the knights.</p>
+「Hurry! If the antidemons attack, it'll collapse!」
 
-<p>Fran, who was by far the strongest here, was the best suited for the job. The soldiers gave her a stern salute, and then retreated to their comrades.</p>
+「U-Understood! Let's go!」
 
-<p>『Now we can do this without any worries.』</p>
-<p>「Nn! Let's go!」</p>
-<p>『Urushi! Run to the shadows!』</p>
-<p>（Woof!）</p>
+「Got it!」
 
-<p>After confirming Urushi's retreat, we activated our spells in rapid succession. Fran and I both casted Ekato Keranos, calling down countless thunderbolts.</p>
+They were very fast runners, as expected from talented scouts. Also, they were able to dodge the shots from the archer-types without a hitch.
 
-<p>Lightning filled the sky, and the roar shook the air itself. It was so powerful that even we, the casters, had to put up barriers to defend ourselves.</p>
+After continuing our dash on top of the Great Wall, we succeeded in escaping the horde.
 
-<p>When the aftermath of the lightning subsided, the scene in front of us had been completely transformed.</p>
+I activated Great Wall again to create the steps of a staircase for our descent.
 
-<p>What had been a flat wilderness with spots of plants and trees had turned into a rocky area covered in craters.</p>
+Considering their abilities, each step being about 5 meters would be no problem at all.
 
-<p>The number of antidemons managing to survive could be counted on two hands.</p>
+「Keep going back to your friends.」
 
-<p>And then there was the commander.</p>
+「What are you going to do?」
 
-<p>Though its entire body was covered with smoke, it was still standing. Considering how surprisingly little damage that dealt, maybe it had high resistance to magic?</p>
+「I'll take them down.」
 
-<p>「Rooooooooogh……!」</p>
-<p>『They're still rearing for a fight!』</p>
-<p>「I'm looking forward to it.」</p>
-<p>『Urushi, clean up the mooks.』</p>
-<p>「Woof!」</p>
-<p>『Now then, our job is to――』</p>
-<p>「Cut them down!」</p>
-<p>『Yeah!』</p>
+「……Don't die on us!」
 
-<p>Fran charged at the commander with me at the ready.</p>
+「Nn.」
 
-<p>I guess she wanted to know the power of the higher tier antidemons. Fran chose to take it head on without using teleportation or other fancy techniques.</p>
+They hesitated to leave Fran as bait, but someone has to stop them or the antidemons will catch up with the main force of the knights.
 
-<p>However, Fran's face immediately started showing her disappointment.</p>
+Fran, who was by far the strongest here, was the best suited for the job. The soldiers gave her a stern salute, and then retreated to their comrades.
 
-<p>「It's weak.」</p>
-<p>『I'd say it's too obvious rather than being too weak.』</p>
+『Now we can do this without any worries.』
 
-<p>It had high stats and the level of swordsmanship wasn't bad. However, its swordplay seemed to be completely optimized for killing its opponent. For someone on Fran's level, such moves could be easily anticipated.</p>
+「Nn! Let's go!」
 
-<p>This could certainly become a fearsome foe against an opponent below a certain level…… But after a few clashes, Fran was able to avoid the blade perfectly.</p>
+『Urushi! Run to the shadows!』
 
-<p>And all of our counterattacks landed as well.</p>
+（Woof!）
 
-<p>In the end, the commander was taken down in less than three minutes. It only took this long because we were taking it easy and scanning it for any weaknesses. If we had really gone all out, we probably could have killed it in an instant.</p>
+After confirming Urushi's retreat, we activated our spells in rapid succession. Fran and I both casted Ekato Keranos, calling down countless thunderbolts.
 
-<p>『They had some nasty ranged attacks and decent command skills. Also, the rather strong barrier was a nuisance and their magical defense was noteworthy too.』</p>
-<p>「But not so good with swords.」</p>
-<p>『I guess so.』</p>
+Lightning filled the sky, and the roar shook the air itself. It was so powerful that even we, the casters, had to put up barriers to defend ourselves.
 
-<p>Maybe they were simply specialized as a commander, not meant to fight on the front lines? Or maybe all the other commanders like this too?</p>
+When the aftermath of the lightning subsided, the scene in front of us had been completely transformed.
 
-<p>I'd be happy if that was the case, though Fran would be disappointed.</p>
+What had been a flat wilderness with spots of plants and trees had turned into a rocky area covered in craters.
 
-<p>But that means a combat-specialized antidemon could be very tough if we ever see one.</p>
+The number of antidemons managing to survive could be counted on two hands.
 
-<p>『Let's go back to the knights for now.』</p>
-<p>「Nn.」</p>
+And then there was the commander.
+
+Though its entire body was covered with smoke, it was still standing. Considering how surprisingly little damage that dealt, maybe it had high resistance to magic?
+
+「Rooooooooogh……!」
+
+『They're still rearing for a fight!』
+
+「I'm looking forward to it.」
+
+『Urushi, clean up the mooks.』
+
+「Woof!」
+
+『Now then, our job is to――』
+
+「Cut them down!」
+
+『Yeah!』
+
+Fran charged at the commander with me at the ready.
+
+I guess she wanted to know the power of the higher tier antidemons. Fran chose to take it head on without using teleportation or other fancy techniques.
+
+However, Fran's face immediately started showing her disappointment.
+
+「It's weak.」
+
+『I'd say it's too obvious rather than being too weak.』
+
+It had high stats and the level of swordsmanship wasn't bad. However, its swordplay seemed to be completely optimized for killing its opponent. For someone on Fran's level, such moves could be easily anticipated.
+
+This could certainly become a fearsome foe against an opponent below a certain level…… But after a few clashes, Fran was able to avoid the blade perfectly.
+
+And all of our counterattacks landed as well.
+
+In the end, the commander was taken down in less than three minutes. It only took this long because we were taking it easy and scanning it for any weaknesses. If we had really gone all out, we probably could have killed it in an instant.
+
+『They had some nasty ranged attacks and decent command skills. Also, the rather strong barrier was a nuisance and their magical defense was noteworthy too.』
+
+「But not so good with swords.」
+
+『I guess so.』
+
+Maybe they were simply specialized as a commander, not meant to fight on the front lines? Or maybe all the other commanders like this too?
+
+I'd be happy if that was the case, though Fran would be disappointed.
+
+But that means a combat-specialized antidemon could be very tough if we ever see one.
+
+『Let's go back to the knights for now.』
+
+「Nn.」
 
 
 

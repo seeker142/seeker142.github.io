@@ -10,124 +10,150 @@ editor:
 ---
 <h2 id="ch788">788: Arrival at Nocta</h2>
 
-<p>On the way back to the knights, we checked our antidemon card.</p>
+On the way back to the knights, we checked our antidemon card.
 
-<p>『It increased by almost 2,500 points from that.』</p>
-<p>「Nn.」</p>
+『It increased by almost 2,500 points from that.』
 
-<p>When we fought near the harbor, we found that two lesser antidemons were worth 1 point, and a knight-type was worth about 50 points each.</p>
+「Nn.」
 
-<p>However, the strength of each antidemon varies even between two of the same type, so the point value could be slightly different too. That made it hard to calculate exactly how many points would be awarded for killing a group of antidemons.</p>
+When we fought near the harbor, we found that two lesser antidemons were worth 1 point, and a knight-type was worth about 50 points each.
 
-<p>If we make an estimate based on the points we obtained thus far, 2,000 lesser antidemons should be worth 1,000 points. Five knight-type antidemons should be worth about 250 points.</p>
+However, the strength of each antidemon varies even between two of the same type, so the point value could be slightly different too. That made it hard to calculate exactly how many points would be awarded for killing a group of antidemons.
 
-<p>So in other words, the remaining 1,250 points were for defeating one cannon-type and one commander.</p>
+If we make an estimate based on the points we obtained thus far, 2,000 lesser antidemons should be worth 1,000 points. Five knight-type antidemons should be worth about 250 points.
 
-<p>That means the point gain for the higher antidemons is pretty insane.</p>
+So in other words, the remaining 1,250 points were for defeating one cannon-type and one commander.
 
-<p>When we joined up with the knights, they all greeted us with a sincere expression of happiness.</p>
+That means the point gain for the higher antidemons is pretty insane.
 
-<p>「Oh! You are unharmed!」</p>
-<p>「Nn.」</p>
-<p>「You have truly saved all of us. We cannot thank you enough.」</p>
-<p>「Defeating antidemons is just my job.」</p>
+When we joined up with the knights, they all greeted us with a sincere expression of happiness.
 
-<p>Fran spoke with a slightly troubled look. Tsundere comment!</p>
+「Oh! You are unharmed!」
 
-<p>「Still, that does not change the fact that you saved us. Please allow us to express our gratitude.」</p>
-<p>「Suit yourself.」</p>
-<p>「Thank you very much.」</p>
+「Nn.」
 
-<p>The commander bowed, and at the same time, the other knights and soldiers bowed as well.</p>
+「You have truly saved all of us. We cannot thank you enough.」
 
-<p>There were still many wounded, and a lot of them needed to lean on each other, so their gestures were not consistent. But I could sense that this display of gratitude was from the bottom of their hearts.</p>
+「Defeating antidemons is just my job.」
+
+Fran spoke with a slightly troubled look. Tsundere comment!
+
+「Still, that does not change the fact that you saved us. Please allow us to express our gratitude.」
+
+「Suit yourself.」
+
+「Thank you very much.」
+
+The commander bowed, and at the same time, the other knights and soldiers bowed as well.
+
+There were still many wounded, and a lot of them needed to lean on each other, so their gestures were not consistent. But I could sense that this display of gratitude was from the bottom of their hearts.
  
-<p>Fran looked somewhat bewildered.</p>
+Fran looked somewhat bewildered.
 
-<p>This may be because they treated her completely differently from how adventurers acted to their friends or superiors. She was not accustomed to receiving this kind of treatment from such noble-looking people.</p>
+This may be because they treated her completely differently from how adventurers acted to their friends or superiors. She was not accustomed to receiving this kind of treatment from such noble-looking people.
 
-<p>Moreover, all of them were incredibly polite and not a trace of malice could be felt. Any adventurer would feel out of place, not just Fran.</p>
+Moreover, all of them were incredibly polite and not a trace of malice could be felt. Any adventurer would feel out of place, not just Fran.
 
-<p>「Now then, where are you headed after?」</p>
-<p>「Nocta.」</p>
-<p>「Oh! What a coincidence! We are based in Nocta too!」</p>
+「Now then, where are you headed after?」
 
-<p>From what we've heard, Nocta was a city in a perfect safe zone, and controlled by the council. Many of the people active in this area were probably based in Nocta.</p>
+「Nocta.」
 
-<p>「How about you accompany us――or rather, guard us on the way back to Nocta? Naturally, we will pay you an escort fee in addition to the reward for rescuing us. What do you say?」</p>
+「Oh! What a coincidence! We are based in Nocta too!」
 
-<p>Being able to admit that you wanted her services is a sign of a nice guy. I like him now too.</p>
+From what we've heard, Nocta was a city in a perfect safe zone, and controlled by the council. Many of the people active in this area were probably based in Nocta.
 
-<p>（Master, can we?）</p>
-<p>『Yeah, I don't mind. We're both going to the same spot either way.』</p>
-<p>「Nn. I don't mind.」</p>
-<p>「That is very reassuring. Well then, thank you in advance for your assistance along the way.」</p>
-<p>「Nn. I'll introduce you to my friend.」</p>
-<p>「Friend?」</p>
+「How about you accompany us――or rather, guard us on the way back to Nocta? Naturally, we will pay you an escort fee in addition to the reward for rescuing us. What do you say?」
 
-<p>The commander glanced at the surroundings, but of course there was no one to be seen. Then Urushi appeared, his face sticking out of the shadows.</p>
+Being able to admit that you wanted her services is a sign of a nice guy. I like him now too.
 
-<p>「Woof!」</p>
-<p>「Woooah? Out of the shadows!」</p>
-<p>「My friend Urushi. Say hi.」</p>
-<p>「Woof!」</p>
-<p>「It's nice to meet you too.」</p>
+（Master, can we?）
 
-<p>The commander spoke politely to Urushi as well.</p>
+『Yeah, I don't mind. We're both going to the same spot either way.』
 
-<p>No offense intended, but isn't this guy a bit lacking in dignity for a knight? I'm not saying that all knights should be arrogant, but aren't they usually at least a bit more pushy?</p>
+「Nn. I don't mind.」
 
-<p>I guess his subordinates treated Fran in such a polite manner because they had this kind of man as their commander. But it wasn't just the commander, his men were also good-natured people by heart.</p>
+「That is very reassuring. Well then, thank you in advance for your assistance along the way.」
 
-<p>I could tell how well they got along with each other when I saw them tearfully rejoicing over the return of the scouts attempting to sacrifice themselves as decoys.</p>
+「Nn. I'll introduce you to my friend.」
 
-<p>Our journey together went very smoothly.</p>
+「Friend?」
 
-<p>Fran's healing magic had restored everyone's health, which increased the speed of the march. The few antidemons along the way were also wiped out in an instant.</p>
+The commander glanced at the surroundings, but of course there was no one to be seen. Then Urushi appeared, his face sticking out of the shadows.
 
-<p>These knights were more skilled than I had expected. They must have been put in charge of the front line because of their abilities, and that's probably why they were so badly wounded in the first place.</p>
+「Woof!」
 
-<p>If we put a bit more effort into healing them, they might have been able to destroy the antidemons without our assistance. Well, in that case, I'm sure there would have been at least a few casualties.</p>
+「Woooah? Out of the shadows!」
+
+「My friend Urushi. Say hi.」
+
+「Woof!」
+
+「It's nice to meet you too.」
+
+The commander spoke politely to Urushi as well.
+
+No offense intended, but isn't this guy a bit lacking in dignity for a knight? I'm not saying that all knights should be arrogant, but aren't they usually at least a bit more pushy?
+
+I guess his subordinates treated Fran in such a polite manner because they had this kind of man as their commander. But it wasn't just the commander, his men were also good-natured people by heart.
+
+I could tell how well they got along with each other when I saw them tearfully rejoicing over the return of the scouts attempting to sacrifice themselves as decoys.
+
+Our journey together went very smoothly.
+
+Fran's healing magic had restored everyone's health, which increased the speed of the march. The few antidemons along the way were also wiped out in an instant.
+
+These knights were more skilled than I had expected. They must have been put in charge of the front line because of their abilities, and that's probably why they were so badly wounded in the first place.
+
+If we put a bit more effort into healing them, they might have been able to destroy the antidemons without our assistance. Well, in that case, I'm sure there would have been at least a few casualties.
 
 
 <br>
-<p>An hour after our departure.</p>
 
-<p>「I see it! Nocta!」</p>
-<p>「That's Nocta?」</p>
-<p>「Yes! That's it!」</p>
+An hour after our departure.
 
-<p>The commander's happy voice ringed out, and everyone cheered. Many of them had thought for a moment that they would never be able to return here. Just making it back must have filled their hearts with emotion.</p>
+「I see it! Nocta!」
 
-<p>「It's huge.」</p>
-<p>「Woof.」</p>
+「That's Nocta?」
 
-<p>Nocta was a much bigger city than we had imagined, maybe even bigger than Alessa.</p>
+「Yes! That's it!」
 
-<p>It was amazing that a city of this size could be built in a land of constant antidemon raids…… I can only imagine the hardships of their ancestors.</p>
+The commander's happy voice ringed out, and everyone cheered. Many of them had thought for a moment that they would never be able to return here. Just making it back must have filled their hearts with emotion.
 
-<p>After reaching the town, we were let in incredibly easily. In Gordicia, you were practically as good as dead if you can't enter a city.</p>
+「It's huge.」
 
-<p>What's more, many of the adventurers that perform in small groups have nasty histories. Several of them had bounties on their heads in other continents.</p>
+「Woof.」
 
-<p>If the city refused all of those kinds of people, they wouldn't be able to stay afloat.</p>
+Nocta was a much bigger city than we had imagined, maybe even bigger than Alessa.
 
-<p>Just let them in the cities and if they do something stupid, remove them or make them criminal slaves to use as meat shields. That seemed to be the logic behind the decision to allow everyone in.</p>
+It was amazing that a city of this size could be built in a land of constant antidemon raids…… I can only imagine the hardships of their ancestors.
 
-<p>「Fran-dono, thank you for your assistance.」</p>
-<p>「I'm getting paid for it.」</p>
-<p>「That is no reason for us not give thanks. Ah, the Adventurers Guild is just down that street.」</p>
-<p>「Okay.」</p>
-<p>「We are the Third Knight Order of the Kingdom of Segilusel. If you ever need anything, we will surely come to your aid.」</p>
+After reaching the town, we were let in incredibly easily. In Gordicia, you were practically as good as dead if you can't enter a city.
 
-<p>They were so nice to us all the way to the end. Well, maybe that's why they got sent to Gordicia in the first place.</p>
+What's more, many of the adventurers that perform in small groups have nasty histories. Several of them had bounties on their heads in other continents.
 
-<p>Everyone here acted as the face of their nation. If they did not behave like men of good character and ability, it would only tarnish the name of their country.</p>
+If the city refused all of those kinds of people, they wouldn't be able to stay afloat.
 
-<p>In that sense, it would be hard to find someone more suitable for Gordicia than them. Considering what we saw in the port as well, the knights and soldiers on this continent seemed to be highly trustworthy.</p>
+Just let them in the cities and if they do something stupid, remove them or make them criminal slaves to use as meat shields. That seemed to be the logic behind the decision to allow everyone in.
 
-<p>『Let's head over to the guild then.』</p>
-<p>「Nn.」</p>
+「Fran-dono, thank you for your assistance.」
+
+「I'm getting paid for it.」
+
+「That is no reason for us not give thanks. Ah, the Adventurers Guild is just down that street.」
+
+「Okay.」
+
+「We are the Third Knight Order of the Kingdom of Segilusel. If you ever need anything, we will surely come to your aid.」
+
+They were so nice to us all the way to the end. Well, maybe that's why they got sent to Gordicia in the first place.
+
+Everyone here acted as the face of their nation. If they did not behave like men of good character and ability, it would only tarnish the name of their country.
+
+In that sense, it would be hard to find someone more suitable for Gordicia than them. Considering what we saw in the port as well, the knights and soldiers on this continent seemed to be highly trustworthy.
+
+『Let's head over to the guild then.』
+
+「Nn.」
 
 
 

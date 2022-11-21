@@ -10,110 +10,135 @@ editor:
 ---
 <h2 id="ch776">776: Gordician Adventurers</h2>
 
-<p>About an hour had passed after we heard the report that the Bashar Kingdom had suffered a crushing defeat, causing antidemons to gather in large numbers.</p>
+About an hour had passed after we heard the report that the Bashar Kingdom had suffered a crushing defeat, causing antidemons to gather in large numbers.
 
-<p>The Belioth army arrived at the scene to clear the area, and was met by a tremendous number of antidemons. Oh yeah, since the dwarves were not very fast, the Belioth forces moved ahead of them, though by only about 300 meters.</p>
+The Belioth army arrived at the scene to clear the area, and was met by a tremendous number of antidemons. Oh yeah, since the dwarves were not very fast, the Belioth forces moved ahead of them, though by only about 300 meters.
 
-<p>The report said 20,000, right? There must be at least that many.</p>
+The report said 20,000, right? There must be at least that many.
 
-<p>But it seemed that the battle had already begun. A separate rescue division apparently arrived earlier on the opposite side of the horde, so almost all the antidemons had their backs to us.</p>
+But it seemed that the battle had already begun. A separate rescue division apparently arrived earlier on the opposite side of the horde, so almost all the antidemons had their backs to us.
 
-<p>We were also joined by yet another rescue group coming in.</p>
+We were also joined by yet another rescue group coming in.
 
-<p>They were a group of about 30 adventurers, a joint party consisting of several parties rather than being all members of the same clan.</p>
+They were a group of about 30 adventurers, a joint party consisting of several parties rather than being all members of the same clan.
 
-<p>However, all of them had been active in Gordicia for years, and had experience working together from time to time. They seemed to know each other well, so there was no need to worry about them quarreling with each other.</p>
+However, all of them had been active in Gordicia for years, and had experience working together from time to time. They seemed to know each other well, so there was no need to worry about them quarreling with each other.
 
-<p>In terms of strength, there was one Rank B and five Rank Cs. The rest were all Rank D, so the average level of the group was rather high. Moreover, all of them were skilled in melee combat as well.</p>
+In terms of strength, there was one Rank B and five Rank Cs. The rest were all Rank D, so the average level of the group was rather high. Moreover, all of them were skilled in melee combat as well.
 
-<p>Many of them were magicians, but they still had skills for using swords or spears. As William mentioned before, they must be able to perform in close combat if they are to operate on this continent.</p>
+Many of them were magicians, but they still had skills for using swords or spears. As William mentioned before, they must be able to perform in close combat if they are to operate on this continent.
 
-<p>Some of the Rank Ds would be Rank C if they went to any other continent. We'd consider them very dependable if we didn't already have the group of dwarven warriors or Dimitris style disciples at us. They apparently realized that too.</p>
+Some of the Rank Ds would be Rank C if they went to any other continent. We'd consider them very dependable if we didn't already have the group of dwarven warriors or Dimitris style disciples at us. They apparently realized that too.
 
-<p>In fact, they were a bit snippy at first. Not so much rude, but they were trying to take the reins from us.</p>
+In fact, they were a bit snippy at first. Not so much rude, but they were trying to take the reins from us.
 
-<p>「Oh, yeah. Are you those guys from Belioth? I'm Diggins, a somewhat well-known adventurer around here.」</p>
-<p>「I see. I'm Brunen, and I'm in charge of this army. That's Snorabbit's army coming up behind us. They're in a different chain of command than we are, so I'll introduce you later.」</p>
-<p>「Okay, that's fine. So… what are we gonna do? This area is kinda like my backyard, so how about I give out the orders?」</p>
+「Oh, yeah. Are you those guys from Belioth? I'm Diggins, a somewhat well-known adventurer around here.」
 
-<p>They must have been worried that these newcomers would disrespect them. Their stares had a slightly thorny aura to them.</p>
+「I see. I'm Brunen, and I'm in charge of this army. That's Snorabbit's army coming up behind us. They're in a different chain of command than we are, so I'll introduce you later.」
 
-<p>But that only lasted until they met Hilt and Fran. The single Rank B adventurer in particular had a discerning eye so he sensed the power difference instantly.</p>
+「Okay, that's fine. So… what are we gonna do? This area is kinda like my backyard, so how about I give out the orders?」
 
-<p>「Diggins, got it. I'm the Rank A adventurer Hiltoria.」</p>
-<p>「Eh? Rank A? Hiltoria-san, you mean the 'Piercing Fist', right? D-Damn, you really are strong!」</p>
-<p>「That's what they call me. And that's the Black Lightning Princess Fran. She's Rank B, but is as strong as any Rank A.」</p>
-<p>「Nn. Nice to meet you.」</p>
-<p>「Geez! B-Black Lightning Princess-san! I-I, uh, hear you've evolved……! H-Heh… hehe!」</p>
+They must have been worried that these newcomers would disrespect them. Their stares had a slightly thorny aura to them.
 
-<p>This Diggins is actually an evolved bear beastman himself. Moreover, he's one with a beast-type face rather than a human one, so his entire head looks like he took it off a bear's.</p>
+But that only lasted until they met Hilt and Fran. The single Rank B adventurer in particular had a discerning eye so he sensed the power difference instantly.
 
-<p>His race is "Yellow Bear". Wait, he won't turn into that one bear when he Awakens, right? Okay, he isn't wearing red clothes, so we should be safe there!</p>
+「Diggins, got it. I'm the Rank A adventurer Hiltoria.」
 
-<p>Well, maybe it's a good thing he doesn't have a human-type face. We didn't have to look at the hellish image of a grumpy old man with cute bear ears on his head.</p>
+「Eh? Rank A? Hiltoria-san, you mean the 'Piercing Fist', right? D-Damn, you really are strong!」
 
-<p>Naturally, he immediately guessed Fran's identity. It took less than ten seconds for him to change his attitude from a smug superior to that of an underling.</p>
+「That's what they call me. And that's the Black Lightning Princess Fran. She's Rank B, but is as strong as any Rank A.」
 
-<p>Not that I mind such a quick shift.</p>
+「Nn. Nice to meet you.」
 
-<p>And when the strongest one lowers his head, the other adventurers follow.</p>
+「Geez! B-Black Lightning Princess-san! I-I, uh, hear you've evolved……! H-Heh… hehe!」
 
-<p>In the end, the new adventurers joining us were also incorporated into our chain of command.</p>
+This Diggins is actually an evolved bear beastman himself. Moreover, he's one with a beast-type face rather than a human one, so his entire head looks like he took it off a bear's.
 
-<p>Brunen then discussed the plan with the dwarves after they caught up with us, but it was not really detailed enough to call it a plan.</p>
+His race is "Yellow Bear". Wait, he won't turn into that one bear when he Awakens, right? Okay, he isn't wearing red clothes, so we should be safe there!
 
-<p>「We don't know the current condition of the allied dragonkin and Bashar forces, but the area is surrounded by antidemons. Refrain from wide range attacks, just in case they get caught up.」</p>
-<p>「Okay.」</p>
-<p>「We and the Snorabbit warriors will continue to push up the front. The adventurers will divert to the north and south sides to flank the antidemon army.」</p>
-<p>「So we're to act as a small raid force?」</p>
-<p>「Yes. It's a dangerous mission, but can you handle it?」</p>
-<p>「Of course.」</p>
-<p>「Nn. I'm on it.」</p>
+Well, maybe it's a good thing he doesn't have a human-type face. We didn't have to look at the hellish image of a grumpy old man with cute bear ears on his head.
 
-<p>After Hilt and Fran nodded, it's a done deal. No one else could possibly voice their disagreement.</p>
+Naturally, he immediately guessed Fran's identity. It took less than ten seconds for him to change his attitude from a smug superior to that of an underling.
 
-<p>Phobos-kun was the only one who seemed to be opposed, but the rest of the Dimitris school were more than happy with this job. The Gordician adventurers had some worry on their faces, but none of them dared to voice their dissent.</p>
+Not that I mind such a quick shift.
 
-<p>「Will you be fine if we don't leave anyone with the Belioth army?」</p>
-<p>「We'll remain with the dwarves, so don't worry about us.」</p>
-<p>「Very well, then we'll depart immediately.」</p>
-<p>「I doubt it'll be necessary, but I'll pray for your safety.」</p>
+And when the strongest one lowers his head, the other adventurers follow.
 
-<p>Our task is very simple. The antidemon horde is currently engaged with the army posted in the east. The dwarves and Brunen will cover them from the west, and the two groups of adventurers will strike from the north and south.</p>
+In the end, the new adventurers joining us were also incorporated into our chain of command.
 
-<p>The role of the adventurers is to rush in small numbers and rescue anyone left behind in the antidemon horde. Also they are to kill the commander and weaken the swarm. Our chances of finding any survivors seem abysmal, but we must still try to save them.</p>
+Brunen then discussed the plan with the dwarves after they caught up with us, but it was not really detailed enough to call it a plan.
 
-<p>The dwarves offered to lend some warriors, but the adventurers refused. Part of it was just stubbornness, but they also wanted to maximize their speed. The only drawback of dwarves is their slowness.</p>
+「We don't know the current condition of the allied dragonkin and Bashar forces, but the area is surrounded by antidemons. Refrain from wide range attacks, just in case they get caught up.」
 
-<p>But if you ask me, the dwarves here could move quite quickly. Their strength was off the charts, and they had powerful physical enhancement abilities.</p>
+「Okay.」
 
-<p>They were pretty slow marching all this way, but that's only because they didn't want to waste their energy on the way to the fight. This might be why people mistakenly thought they were slow.</p>
+「We and the Snorabbit warriors will continue to push up the front. The adventurers will divert to the north and south sides to flank the antidemon army.」
 
-<p>「So how about we take the north, and you take the south?」</p>
-<p>「Nn. That's fine.」</p>
-<p>「Then we'll meet up later. There are other adventurers here, so don't be too reckless, okay?」</p>
-<p>「Nn. I know.」</p>
-<p>「……I hope so.」</p>
+「So we're to act as a small raid force?」
 
-<p>With that, Hilt took her group and moved north.</p>
+「Yes. It's a dangerous mission, but can you handle it?」
 
-<p>『Let's get going.』</p>
-<p>「Nn. Guys, follow me.」</p>
-<p>「Yeah! Got it, boss!」</p>
+「Of course.」
 
-<p>The 30 local adventurers were divided into two groups, one under Hilt and the other under Fran. 18 people from three parties, including Diggins, were following behind Fran.</p>
+「Nn. I'm on it.」
 
-<p>Fran first tried to go alone, but then she changed her mind. Apparently, she remembered being told that she needed to have command experience in order to move up to Rank A.</p>
+After Hilt and Fran nodded, it's a done deal. No one else could possibly voice their disagreement.
 
-<p>「I'll lead. Dickens will follow behind me.」</p>
-<p>「Name's Diggins, Black Lightning Princess-san.」</p>
-<p>「Nn, Diggins. And let me know when you find the commander.」</p>
-<p>「Got it! Did you guys hear that?」</p>
-<p>「「「Yes!」」」</p>
+Phobos-kun was the only one who seemed to be opposed, but the rest of the Dimitris school were more than happy with this job. The Gordician adventurers had some worry on their faces, but none of them dared to voice their dissent.
 
-<p>Well, these guys are pretty strong and there aren't too many of them. It should be a good learning experience.</p>
+「Will you be fine if we don't leave anyone with the Belioth army?」
 
-<p>I'll just pray we don't push them too hard and get any casualties!</p>
+「We'll remain with the dwarves, so don't worry about us.」
+
+「Very well, then we'll depart immediately.」
+
+「I doubt it'll be necessary, but I'll pray for your safety.」
+
+Our task is very simple. The antidemon horde is currently engaged with the army posted in the east. The dwarves and Brunen will cover them from the west, and the two groups of adventurers will strike from the north and south.
+
+The role of the adventurers is to rush in small numbers and rescue anyone left behind in the antidemon horde. Also they are to kill the commander and weaken the swarm. Our chances of finding any survivors seem abysmal, but we must still try to save them.
+
+The dwarves offered to lend some warriors, but the adventurers refused. Part of it was just stubbornness, but they also wanted to maximize their speed. The only drawback of dwarves is their slowness.
+
+But if you ask me, the dwarves here could move quite quickly. Their strength was off the charts, and they had powerful physical enhancement abilities.
+
+They were pretty slow marching all this way, but that's only because they didn't want to waste their energy on the way to the fight. This might be why people mistakenly thought they were slow.
+
+「So how about we take the north, and you take the south?」
+
+「Nn. That's fine.」
+
+「Then we'll meet up later. There are other adventurers here, so don't be too reckless, okay?」
+
+「Nn. I know.」
+
+「……I hope so.」
+
+With that, Hilt took her group and moved north.
+
+『Let's get going.』
+
+「Nn. Guys, follow me.」
+
+「Yeah! Got it, boss!」
+
+The 30 local adventurers were divided into two groups, one under Hilt and the other under Fran. 18 people from three parties, including Diggins, were following behind Fran.
+
+Fran first tried to go alone, but then she changed her mind. Apparently, she remembered being told that she needed to have command experience in order to move up to Rank A.
+
+「I'll lead. Dickens will follow behind me.」
+
+「Name's Diggins, Black Lightning Princess-san.」
+
+「Nn, Diggins. And let me know when you find the commander.」
+
+「Got it! Did you guys hear that?」
+
+「「「Yes!」」」
+
+Well, these guys are pretty strong and there aren't too many of them. It should be a good learning experience.
+
+I'll just pray we don't push them too hard and get any casualties!
 
 
 
