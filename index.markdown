@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /
 ---
 
 <h2><a href="Tenken/0704.html">First Chapter (Ch704)</a></h2>

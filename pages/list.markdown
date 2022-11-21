@@ -5,7 +5,7 @@ permalink: /Tenken/
 ---
 
 <p>
-{% for post in site.posts reversed %}
+{% for post in site.categories.TenKen reversed %}
   {% assign mod = post.chapter | modulo: 10 %}
   {% if mod == 0 %}
     <br>

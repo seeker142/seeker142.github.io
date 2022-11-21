@@ -2,13 +2,12 @@
 <script>		
 function localize() {
   console.log(localStorage.getItem("localize"));
+  var element = document.getElementsByClassName("post-content e-content")[0];
   if (localStorage.getItem("localize") === "true") {
-    var element = document.getElementsByClassName("post-content e-content")[0];
     element.innerHTML = element.innerHTML.replace(/Urushi\b/g, 'Jet');
     element.innerHTML = element.innerHTML.replace(/Master\b/g, 'Teacher');
   }
   else {
-    var element = document.getElementsByClassName("post-content e-content")[0];
     element.innerHTML = element.innerHTML.replace(/Jet\b/g, 'Urushi');
     element.innerHTML = element.innerHTML.replace(/Teacher\b/g, 'Master');
   }

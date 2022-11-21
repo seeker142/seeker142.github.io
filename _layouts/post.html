@@ -2,6 +2,34 @@
 layout: default
 comments: true
 ---
+
+{%- capture pcategory -%}{{page.categories | first}}{%- endcapture -%}
+{%- assign sorted_posts = site.categories[pcategory] | reverse -%}
+
+{%- for post in sorted_posts -%}
+    {%- if post.url == page.url -%}
+		{%- assign currIndex = forloop.index0 -%}
+		{%- assign prevIndex = currIndex | minus: 1 -%}
+		{%- assign nextIndex = currIndex | plus: 1 -%}
+		{%- assign articleIndexLength = forloop.length | minus: 1 -%}
+
+		{%- if currIndex == articleIndexLength -%}
+			{%- assign prev_post = sorted_posts[prevIndex] -%}
+		{%- endif -%}
+
+		{%- if currIndex < articleIndexLength and currIndex != 0 -%}
+			{%- assign prev_post = sorted_posts[prevIndex] -%}
+			{%- assign next_post = sorted_posts[nextIndex] -%}
+		{%- endif -%}
+
+		{%- if currIndex == 0 -%}
+			{%- assign next_post = sorted_posts[nextIndex] -%}
+		{%- endif -%}
+
+    {%- endif -%}
+{%- endfor -%}
+
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -34,11 +62,11 @@ comments: true
   </header>
 
   <div class="navbar">
-    {% if page.previous.url %}
-      <a style="float:left;" class="prev" href="{{page.previous.url}}">Prev Chapter</a>
+    {% if prev_post.url %}
+      <a style="float:left;" class="prev" href="{{prev_post.url}}">Prev Chapter</a>
     {% endif %}
-    {% if page.next.url %}
-      <a style="float:right;" class="next" href="{{page.next.url}}">Next Chapter</a>
+    {% if next_post.url %}
+      <a style="float:right;" class="next" href="{{next_post.url}}">Next Chapter</a>
     {% endif %}
   </div><br>
 
@@ -48,11 +76,11 @@ comments: true
   </div>
 
   <div class="navbar">
-    {% if page.previous.url %}
-      <a style="float:left;" class="prev" href="{{page.previous.url}}">Prev Chapter</a>
+    {% if prev_post.url %}
+      <a style="float:left;" class="prev" href="{{prev_post.url}}">Prev Chapter</a>
     {% endif %}
-    {% if page.next.url %}
-      <a style="float:right;" class="next" href="{{page.next.url}}">Next Chapter</a>
+    {% if next_post.url %}
+      <a style="float:right;" class="next" href="{{next_post.url}}">Next Chapter</a>
     {% endif %}
   </div>
 
@@ -61,6 +89,10 @@ comments: true
   {%- endif -%}
 
   {%- include localize.html -%}
+  
+  {%- if page.protected -%}
+    {%- include protected.html -%}
+  {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

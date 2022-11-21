@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Translation for the web novel of Tensei Shitara Ken Deshita (Tenken), aka "Reincarnated as a Sword".
+Translation for the web novel of Tensei Shitara Ken Deshita (TenKen), aka "Reincarnated as a Sword".
 
 Translator: Seeker<br>
 Editor: PinkR<br>
