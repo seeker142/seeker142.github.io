@@ -58,7 +58,7 @@ Side - A Certain Group of Three (4)<br>
 
 「You'll have to put up with drinking with me while you're in town. So, Klikka, where did you get this information?」
 
-「From <em>him</em>. And since there's no reason for him to betray us at this point, I believe there is no mistake.」
+「From *him*. And since there's no reason for him to betray us at this point, I believe there is no mistake.」
 
 「I see, so the information came from him. Then we can trust it…… But depending on his movements, the timing of our escape may change.」
 

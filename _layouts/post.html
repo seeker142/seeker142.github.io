@@ -5,6 +5,7 @@ comments: true
 
 {%- capture pcategory -%}{{page.categories | first}}{%- endcapture -%}
 {%- assign sorted_posts = site.categories[pcategory] | reverse -%}
+{%- assign listpost = sorted_posts | first -%}
 
 {%- for post in sorted_posts -%}
     {%- if post.url == page.url -%}
@@ -61,9 +62,12 @@ comments: true
       {%- endif -%}</p>	  
   </header>
 
-  <div class="navbar">
+  <div class="navbar" style="text-align:center;">
     {% if prev_post.url %}
       <a style="float:left;" class="prev" href="{{prev_post.url}}">Prev Chapter</a>
+    {% endif %}
+    {% if pcategory != "TenKen" %}
+      <a class="list" href="{{ listpost.url }}">List</a>
     {% endif %}
     {% if next_post.url %}
       <a style="float:right;" class="next" href="{{next_post.url}}">Next Chapter</a>
@@ -75,9 +79,12 @@ comments: true
 	<p style="color:rgb(24, 24, 24);">View the latest chapters at seeker142.github.io</p>
   </div>
 
-  <div class="navbar">
+  <div class="navbar" style="text-align:center;">
     {% if prev_post.url %}
       <a style="float:left;" class="prev" href="{{prev_post.url}}">Prev Chapter</a>
+    {% endif %}
+    {% if pcategory != "TenKen" %}
+      <a class="list" href="{{ listpost.url }}">List</a>
     {% endif %}
     {% if next_post.url %}
       <a style="float:right;" class="next" href="{{next_post.url}}">Next Chapter</a>
