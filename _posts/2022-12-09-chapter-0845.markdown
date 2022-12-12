@@ -22,7 +22,7 @@ editor:
 
 「Anything. Any info you have.」
 
-「Hmm…… We don't have much connection to the slave trader, even the ones operating legally.」
+「Hmm…… We don't have much connection to the slave traders, even the ones operating legally.」
 
 「Really?」
 
@@ -36,7 +36,7 @@ editor:
 
  And when they see someone lower themselves by using a slave, they're like "Haha, is that guy seriously using a slave? What a loser!"
 
- Moreover, the pure-blooded dragonkin were not allowed to leave Gordicia, so they had no way to export slaves even if they managed to caught any on the continent.
+ Moreover, the pure-blooded dragonkin were not allowed to leave Gordicia, so they had no way to export slaves even if they managed to catch any on the continent.
 
  As a result, few dragonkin ever involved themselves in the slave trade.
 
