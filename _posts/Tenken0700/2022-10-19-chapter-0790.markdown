@@ -104,41 +104,47 @@ But now that I have mastered the handling of mana, I managed to control this pre
 
 <br>
 
-Name: Sophilia Age: 19
+<div class="appraisal" markdown="1">
+<p style="text-align: center;"><strong>Appraisal Information</strong></p>
 
-Race: Human
+**Name:** Sophilia<br/>
+**Age:** 19<br/>
+**Race:** Human<br/>
+**Occupation:** Divine Musician<br/>
 
-Occupation: Divine Musician
+<p>
+<div class="stats">
+<strong>Stats</strong><br/>
+<div class="property">Level:</div><div class="value"> 50/99</div><br/>
+<div class="property">HP:   </div><div class="value"> 202  </div><br/>
+<div class="property">MP:   </div><div class="value"> 1597 </div><br/>
+<div class="property">STR:  </div><div class="value"> 49   </div><br/>
+<div class="property">VIT:  </div><div class="value"> 69   </div><br/>
+<div class="property">AGI:  </div><div class="value"> 168  </div><br/>
+<div class="property">INT:  </div><div class="value"> 712  </div><br/>
+<div class="property">MAG:  </div><div class="value"> 608  </div><br/>
+<div class="property">DEX:  </div><div class="value"> 819  </div><br/>
+</div></p>
 
-Stats
-
-Level: 50/99
-
-HP: 202 MP: 1597 STR: 49 VIT: 69 AGI: 168 INT: 712 MAG: 608 DEX: 819
-
-Skills
-
+**Skills**<br/>
 Communication: Lv 8, Performance (String): Lv Max, Performance (Keyboard): Lv Max, Performance (Percussion): Lv 8, Performance (Woodwind): Lv 8, Evasion: Lv 6, Recovery Magic: Lv Max, Songwriting: Lv 8, Singing: Lv Max, Wind Magic: Lv 6, Observation: Lv 4, Crisis Sense: Lv 2, Empathy: Lv 7, Hide Presence: Lv 3, Flaunt Presence: Lv 7, Thread Arts: Lv 2, Thread Mastery: Lv 3, Blink: Lv 2, Vibration Perception: Lv Max, Vibration Impulse: Lv 8, Mental Resistance: Lv 9, Restoration Magic: Lv 3, Simultaneous Performance: Lv 8, Echolocation: Lv 8, Dance: Lv 5, Rod Mastery: Lv 4, Magic Song: Lv Max, Magic Performance: Lv Max, Magic Thread Production: Lv 2, Magic Resistance: Lv 7, Magic Sense: Lv 3, Magic Barrier: Lv 5, Magic Release: Lv 3, Voice Amplifier, Pitch Sense, Energy Manipulation, Enhanced Hearing, Fortitude, Sleepless, Parallel Thinking
 
-Unique Skills
-
+**Unique Skills**<br/>
 Blessing of the Music God, Magic Voice, Magic Control
 
-Extra Skills
-
+**Extra Skills**<br/>
 ■■■■, Truth in Music
 
-Innate Skills
-
+**Innate Skills**<br/>
 Ensemble Singing, Lore Performance
 
-Title
-
+**Titles**<br/>
 Singer, Healer, Player, Diva of Despair, Performer of Sorrows, One Who Overcame Death, Performer of Myths, Creator of Songs
 
-Equipment
-
+**Equipment**<br/>
 Enchanted Harp Lauda, Robe of Seclusion, Garments of Seclusion, Earring of Silence, Bracelet of Concealment
+
+</div>
 
 <br>
 

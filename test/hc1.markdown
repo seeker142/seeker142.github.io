@@ -15,6 +15,8 @@ exclude: true
 <button onclick="location.href='#ref1'" type="button">
 	Start</button>	
 
+<a id="note1" onClick="(function(){ document.getElementById('note1').innerHTML = 'Test'; return false;})();return false;">#</a>
+
 <div style="line-height:10000%;"><br></div>
 
 

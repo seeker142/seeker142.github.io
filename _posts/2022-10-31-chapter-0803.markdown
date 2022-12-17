@@ -58,15 +58,20 @@ Next I tried appraising the sword the same way I appraised Sophilia. A terrible 
 
 <br>
 
-Name: Overgrowth, the Golden Devourer[^1] Sword
+<div class="appraisal" markdown="1">
+<p style="text-align: center;"><strong>Appraisal Information</strong></p>
 
-Attack: 4417, Magic: 10631, Durability: 6697
+**Name:** Overgrowth, the Golden Devourer[^1] Sword<br/>
 
-Mana Conductivity: S
+**Attack:** 4417<br/>
+**Magic:** 10631<br/>
+**Durability:** 6697<br/>
+**Mana Conductivity:** S<br/>
 
-Skills
-
+**Skills**<br/>
 Shapeshift, Sword Mastery Boost, Automatic Repair, Abyssal Slayer, Wielder Stat Boost (High), Wielder Recovery Boost (High), Magic Concealment, Mana Recovery (High), Magic Absorption, Magic Control
+
+</div>
 
 <br>
 
@@ -92,43 +97,45 @@ This time I was able to appraise her with only a little bit of resistance. It wa
 
 <br>
 
-Name: Nadia Age: 41
+<div class="appraisal" markdown="1">
+<p style="text-align: center;"><strong>Appraisal Information</strong></p>
 
-Race: Black Cat/Unknown
+**Name:** Nadia<br/>
+**Age:** 41<br/>
+**Race:** Black Cat / Unknown<br/>
+**Occupation:** Striker Swordsman<br/>
+**Status:** Erosion<br/>
 
-Occupation: Striker Swordsman
+<p>
+<div class="stats">
+<strong>Stats</strong><br/>
+<div class="property">Level:</div><div class="value"> 52/99</div><br/>
+<div class="property">HP:   </div><div class="value"> 641  </div><br/>
+<div class="property">MP:   </div><div class="value"> 301  </div><br/>
+<div class="property">STR:  </div><div class="value"> 689  </div><br/>
+<div class="property">VIT:  </div><div class="value"> 469  </div><br/>
+<div class="property">AGI:  </div><div class="value"> 431  </div><br/>
+<div class="property">INT:  </div><div class="value"> 108  </div><br/>
+<div class="property">MAG:  </div><div class="value"> 407  </div><br/>
+<div class="property">DEX:  </div><div class="value"> 123  </div><br/>
+</div></p>
 
-Status: Erosion
-
-Stats
-
-Level: 52/99
-
-HP: 641 MP: 301
-
-STR: 689 VIT: 469 AGI: 431
-
-INT: 108 MAG: 407 DEX: 123
-
-Skills
-
+**Skills**<br/>
 Intimidation: Lv 4, Covert: Lv 9, Covert Action: Lv 6, Wind Magic: Lv 6, Sword Arts: Lv Max, Sword Mastery: Lv Max, Holy Sword Arts: Lv 3, Holy Sword Mastery: Lv 5, Fist Arts: Lv 2, Fist Mastery: Lv 4, Crisis Sense: Lv 7, Super Strength: Lv 6, Hard Power: Lv Max, Regeneration: Lv 6, Blink: Lv 3, Silent Action: Lv 8, Convenience Magic: Lv 6, Cleaning: Lv 2, Elemental Sword: Lv 3, Throwing: Lv 2, Rushing: Lv 4, Fire Magic: Lv 3, Physical Barrier: Lv 4, Cooking: Lv 4, Energy Control, Intuition, Pain Reduction, Sleepless, Magic Manipulation, Ambidextrous
 
-Extra Skills
-
+**Extra Skills**<br/>
 Golden Devourer
 
-Innate Skills
-
+**Innate Skills**<br/>
 Strength Enhancement
 
-Title
-
+**Titles**<br/>
 Transcender of the Ordinary, Avenger, Sleepless Fighter, Match for Thousands
 
-Equipment
-
+**Equipment**<br/>
 Overgrowth the Golden Devourer Sword, Sea Dragon Leather Breastplate, Stealth Spider Battlegarments, Magisteel Gauntlets, Cloak of Silence, Earring of Enhanced Hearing, Ring of Protection
+
+</div>
 
 <br>
 

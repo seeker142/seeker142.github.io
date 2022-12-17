@@ -6,3 +6,22 @@
   "minima/initialize";
 
 a:visited { color: #aa66aa; }
+
+.appraisal {
+  border-style: dashed;
+  padding: 10px 10px 10px 10px
+}
+
+.stats .property{
+  width:50px;
+  display:inline-block;
+  box-sizing:border-box;
+  text-align:right;
+  }
+
+.stats .value{
+  text-align:left;
+  padding-left:10px;
+  display:inline-block;
+  box-sizing:border-box;
+  }
