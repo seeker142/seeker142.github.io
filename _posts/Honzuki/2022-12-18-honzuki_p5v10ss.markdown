@@ -2,20 +2,20 @@
 layout: post
 title:  "Honzuki P5V10 SS"
 permalink: honzuki/p5v10ss
-categories:
+categories: HonzukiSS
 chapter: 1
 exclude: true
 translator: Seeker (+DeepL)
 editor: 
 draft: true
 noheader: true
-comments: false
+comments: true
 ---
 <h2>My Sister, Vanished and Returned</h2>
 
 「Cornelius, let the knights of Dunkelfelger who have joined us take care of the enemy, and we will go to guard our master.」
 
-Leonore said, indicating Rozemyne on the altar. With a Waschen that seemed to wash over the entire auditorium, we were separated from Rozemyne, our master. I want to join her as soon as possible. Nodding to Leonore's suggestion, we both rode our highbeast down to the bleachers.
+Leonore said, indicating Rozemyne on the altar. With a Waschen that seemed to wash over the entire auditorium, we were separated from Rozemyne, our master. I want to join her as soon as possible. Nodding to Leonore's suggestion, we both rode our highbeasts down to the spectator seats.
 
 However, as we were running toward the altar, something unusual happened. Rozemyne's wind shield, Ferdinand-sama's mana attack, and Gervasio's mana attack. As if in response to the mana of the three, a pillar of light shot out from the statues' divine instruments.
 
@@ -29,7 +29,7 @@ The light was so strong that I held my hand holding the cloak in front of my fac
 
 「This is beyond our control. Let's get back to the others for now. We can't risk them shooting at us here.」
 
-I nodded at Leonore's pragmatic decision. Prince Anastasius is heading for the altar at Highbeast, blocked by an invisible wall and targeted by the silver-cloaked men. The prince's guard knights and the knights of Dunkerger are struggling to protect him.  Looking down from the bleachers, we can see the Dunkelfelger knights capturing the men of the central order one after another. Matthias and Laurenz seem to be helping them. We strengthened ourselves and searched below to see if we could use Highbeast to get down.
+I nodded at Leonore's pragmatic decision. Prince Anastasius is heading for the altar at Highbeast, blocked by an invisible wall and targeted by the silver-cloaked men. The prince's guard knights and the knights of Dunkelfelger are struggling to protect him.  Looking down from the spectator seats, we can see the Dunkelfelger knights capturing the men of the central order one after another. Matthias and Laurenz seem to be helping them. We strengthened ourselves and searched below to see if we could use Highbeast to get down.
 
 「…The enemy looks strange…」
 
@@ -43,13 +43,13 @@ The enemy, who had been attacking us with great vigor, suddenly lost its will to
 
 「Ah, now that all eyes are on the royalty, we can get off at Highbeast.」
 
-Prince Anastasius is in front of the altar, and Magdalena-sama and Aub Dunkelfelger are in the center of the auditorium in front of the dedication dance stage, where the knights are attracted by the sight of Magdalena-sama and Aub Dunkelfelger hunting down the central knight commander.
+Prince Anastasius is in front of the altar, and Magdalena-sama and Aub Dunkelfelger are in the center of the auditorium in front of the dedication dance stage. There, the knights are distracted by the sight of Magdalena-sama and Aub Dunkelfelger hunting down the central knight commander.
 
 Leonore and I went down by Highbeast and joined Matthias and the others to help them capture the enemy. Unlike before, we outnumbered them. No matter how many silver weapons and armor the enemy has, someone can exploit an opening and attack them before they can use them. We can hunt them down without allowing them to recover.
 
 Some of them even come to get captured themselves. It was not so difficult to catch them all.
 
-「Leave the rest to Dunkelfelger and rest. Only a knight of Dunkelfelger who has permission to enter and leave can take prisoners to the palace.」
+「Leave them to Dunkelfelger and rest. Only a knight of Dunkelfelger who has permission to enter and leave can take prisoners to the palace.」
 
 Grateful for Heisshitze-sama's kindness, the knights of Ehrenfest and Ahrensbach take a rest.
 
@@ -63,9 +63,9 @@ Hartmut smiled and offered me a restorative medicine. I was impressed by the fac
 
 「Can you give us some too?」
 
-「Not enough for the knights of Ahrensbach……」
+「There won't be enough for the knights of Ahrensbach……」
 
-「They are gathered over there, don't worry about them.」
+「They are gathered over there, so don't worry about them.」
 
 Ahrensbach's cloaks are gathering in the direction Justus-sama points. They are supposed to be our allies for the time being, but now that we have captured our common enemy and our masters Rozemyne and Ferdinand-sama are gone, we can't help but be cautious. It is more comfortable to keep this much distance.
 
@@ -89,7 +89,7 @@ Hartmut, kneeling on the floor, breathing hard and shaking, begins to weep. Hart
 
 「What's wrong! What happened to Rozemyne!」
 
-……No way.
+*……No way.*
 
 I had a bad feeling. It is said that those who offer their names will share life with the Lord. Something must have happened to Rozemyne beyond our control.
 
@@ -105,7 +105,7 @@ Clarissa seemed to understand the words, even though I didn't understand them at
 
 The pain of the entourage seemed to last only about thirty seconds, and Matthias and Laurenz slowly stood up as well.
 
-They said things such as "It hurts" or "I'm surprised", but no one seems to be in critical condition. I gave up questioning the praying Hartmut and the others.
+They said things such as "It hurts" or "I'm surprised", but no one seems to be in critical condition. I gave up questioning the praying Hartmut and Clarissa.
 
 「Matthias, Laurenz, what are these two saying?」
 
@@ -115,17 +115,25 @@ They said things such as "It hurts" or "I'm surprised", but no one seems to be i
 
 I don't understand what is happening to Rozemyne, but it doesn't sound like there is any imminent danger. I let out a sigh of relief when I hear Angelica's bouncing voice behind me, "Well done!" I turned around to see Magdalena-sama with a dagger in the flank of the leader of the Central Order and Aub Dunkelfelger with a sword in his shoulder.
 
-……The battle is won.
+*……The battle is won.*
 
 Someone quickly tied Hartmut up with a band of light and rolled him into the corner of the auditorium. Everyone looks at Leonore in surprise, and she warns them in a whisper.
 
-「Magdalena-sama is paying attention to us. We don't want her to take Hartmut's words the wrong way, and that could hinder future negotiations with Rozemyne.」
+「Magdalena-sama is paying attention to us. We don't want her to take Hartmut's words the wrong way, as that could hinder future negotiations regarding Rozemyne.」
 
-At that moment, Hartmut and Clarissa became quiet. Isn't my fiancée too good? Simply wonderful.
+At that moment, Hartmut and Clarissa became quiet. 
+
+「……We will have to report to Ferdinand-sama that the Dunkelfelger knights took silver weapons from the palace. They had them since before entering the auditorium, yes?」[^1]
+
+Leonore calmly pointed out the silver weapon impaling Raublut. All the dangerous silver weapons and tools brought in from Lanzenave should have been gathered in a corner of the Adalgisa Palace. Some of us were given silver weapons for the upcoming battle, but only under Ferdinand-sama's watchful eye. They were to be returned after the battle's end.
+
+The same could not be said for Aub Dunkelfelger, who had already left before we finished organizing the weapons. Therefore, he must have obtained those weapons without Ferdinand-sama's knowledge. Since he and his men had dived immediately at Raublut upon entering the auditorium, they could not have obtained them from the enemy side during the battle.
+
+Isn't my fiance too good? Simply wonderful.
 
 <br>
 
-With Laobrut captured, the battle was over. The atmosphere in the auditorium suddenly relaxes, and Prince Anastasius demands that his guard knights, who had been tied up from all sides by the Dunkelfelger knights, be released. Magdalena-sama is arranging to take the prisoners to the palace.
+With Raublut captured, the battle was over. The atmosphere in the auditorium suddenly relaxes, and Prince Anastasius demands that his guard knights, who had been tied up from all sides by the Dunkelfelger knights, be released. Magdalena-sama is arranging to take the prisoners to the palace.
 
 「What do we do now?」
 
@@ -133,7 +141,7 @@ Strahl comes to ask for instructions. Normally, we, the new Aub's entourage, sho
 
 「Ahrensbach's knights will return to the detached palace in shifts, leaving one group behind, and rest to confirm the testimonies we have extracted from the prisoners of war. We will wait for Ferdinand-sama's return while watching the royal family and Dunkelfelger in the auditorium.」
 
-「The return of Ferdinand-sama? What about Rozemyne-sama......?」
+「The return of Ferdinand-sama? What about Rozemyne-sama……?」
 
 I interrupted Strahl, saying, "It is our job to wait for Rozemyne-sama." There was no way Eckhart cared about anyone but Ferdinand-sama.
 
@@ -211,7 +219,7 @@ Then Hartmut's voice stopped and his orange eyes flashed.
 
 It is natural that Hartmut, who does not want to give the central temple control over the ritual, gives priority to the preparation of the ritual over the preparation of the medicine. Hartmut, who became quiet when Ferdinand-sama made it clear that he would comply, was soon released.
 
-……Everything was as Ferdinand-sama wanted it.
+*……Everything was as Ferdinand-sama wanted it.*
 
 「That's all. Go.」
 
@@ -259,7 +267,7 @@ Arriving at the dormitory, Leonore apologizes and removes the silver cloth. The 
 
 However, the intimidating and divine light was coming out from inside of her body, and Rozemyne was talking less than usual probably because of her tiredness and poor physical condition, and her facial expression did not change at all. She looked like a different person. I had thought that I could not trust the coming of the goddess, but seeing her like this, I could not doubt her power. I feel like distancing myself from her, since I don't deserve to be this close.
 
-......No, I'm her brother.
+*……No, I'm her brother.*
 
 When Rozemyne grew rapidly, she forced me to pat her head as if she did not want me to keep my distance. I'm not going to let her give me that look twice.
 
@@ -314,3 +322,7 @@ I did not expect such words from Matthias. I compared him to Hartmut to make him
 「Stop it!」
 
 I desperately try to stop them from praying. I had a horrible feeling that the whole entourage would turn into Hartmuts. My face grimaced at the frightening prospect.
+
+---
+
+[^1]: Line cut from original SS due to text limits.
