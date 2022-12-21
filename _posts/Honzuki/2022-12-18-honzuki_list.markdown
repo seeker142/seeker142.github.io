@@ -11,7 +11,7 @@ noheader: true
 comments: true
 ---
 
-<h2>Honzuki SS List</h2>
+<h2>Honzuki Part 5 SS List</h2>
 
 {% for post in site.categories.HonzukiSS reversed %}
 {% unless post.url == page.url %}
