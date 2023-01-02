@@ -35,4 +35,34 @@ comments: true
 {% endunless %}
 {% endfor %}
 
+---
+
+Click this if you are allergic to honorifics: <button onclick="localizeToggle()">Localize Toggle</button>
+
+<div id="result"></div>
+<script>
+if (typeof(Storage) === "undefined") {
+  document.getElementById("result").innerHTML = "Sorry, your browser does not support web storage.";
+}
+</script>
+
+<script>
+function localizeToggle()
+{
+  if (localStorage.getItem("localize") &&
+  	localStorage.getItem("localize") === "true")
+  {
+    localStorage.setItem("localize", "false")
+	document.getElementById("result").innerHTML = "Localization OFF";
+  }
+  else
+  {
+    localStorage.setItem("localize", "true")
+	document.getElementById("result").innerHTML = "Localization ON";
+  }
+  
+  localize();
+}
+</script>
+
 

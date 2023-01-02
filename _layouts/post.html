@@ -96,7 +96,11 @@ comments: true
   {%- endif -%}
 
   {%- include localize.html -%}
-  
+
+  {% if page.categories contains "TenKen" %}
+    {%- include tenkenReplacer.html -%}
+  {%- endif -%}
+
   {%- if page.protected -%}
     {%- include protected.html -%}
   {%- endif -%}

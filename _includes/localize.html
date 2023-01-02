@@ -4,12 +4,30 @@ function localize() {
   console.log(localStorage.getItem("localize"));
   var element = document.getElementsByClassName("post-content e-content")[0];
   if (localStorage.getItem("localize") === "true") {
-    element.innerHTML = element.innerHTML.replace(/Urushi\b/g, 'Jet');
-    element.innerHTML = element.innerHTML.replace(/Master\b/g, 'Teacher');
-  }
-  else {
-    element.innerHTML = element.innerHTML.replace(/Jet\b/g, 'Urushi');
-    element.innerHTML = element.innerHTML.replace(/Teacher\b/g, 'Master');
+    element.innerHTML = element.innerHTML.replace(/Onii-sama\b/g, 'Brother');
+    element.innerHTML = element.innerHTML.replace(/Onii-san\b/g, 'Brother');
+    element.innerHTML = element.innerHTML.replace(/Onii-chan\b/g, 'Brother');
+    element.innerHTML = element.innerHTML.replace(/Onee-sama\b/g, 'Sister');
+    element.innerHTML = element.innerHTML.replace(/Onee-san\b/g, 'Sister');
+    element.innerHTML = element.innerHTML.replace(/Onee-chan\b/g, 'Sister');
+    element.innerHTML = element.innerHTML.replace(/-sama\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-san\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-chan\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-kun\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-dono\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-sensei\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-oniisama\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-oniisan\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-oniichan\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-niisama\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-niisan\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-niichan\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-oneesama\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-oneesan\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-oneechan\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-neesama\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-neesan\b/g, '');
+    element.innerHTML = element.innerHTML.replace(/-neechan\b/g, '');
   }
 }
 </script>

@@ -1,0 +1,59 @@
+
+<script>
+let choiceList = [0, 0, 0, 0, 0];
+
+let nameTable = [
+	["Master", "Teacher"],
+	["Urushi", "Jet"],
+];
+
+let tableVersion = 1;
+
+function changeName() {
+	choiceId = arguments[0];
+	prevNameId = choiceList[choiceId];
+	newNameId = (prevNameId + 1) % nameTable[choiceId].length;
+	choiceList[arguments[0]] = newNameId;
+	localStorage.setItem("choiceList", JSON.stringify(choiceList))
+
+	var element = document.getElementsByClassName("post-content e-content")[0];
+	var re = new RegExp(nameTable[choiceId][prevNameId] + "\\b", "g");
+	element.innerHTML = element.innerHTML.replace(re, nameTable[choiceId][newNameId]);
+}
+
+function init() {
+	prevTableVersion = localStorage.getItem("tableVersion");
+	if (prevTableVersion && (prevTableVersion != tableVersion)) {
+		localStorage.removeItem("choiceList");
+	}
+	localStorage.setItem("tableVersion", tableVersion);
+
+	savedList = localStorage.getItem("choiceList");
+	if (savedList) {
+		savedChoiceList = JSON.parse(savedList);
+		for (const [choiceId, nameId] of savedChoiceList.entries())
+		{
+			choiceList[choiceId] = nameId;
+		}
+	}
+
+	var element = document.getElementsByClassName("post-content e-content")[0];
+
+	for (const [choiceId, nameList] of nameTable.entries())
+	{
+		if (choiceId >= choiceList.length) {
+			continue;
+		}
+
+		if (choiceList[choiceId] >= nameList.length) {
+			continue;
+		}
+		
+		var re = new RegExp(nameList[0] + "\\b", "g");
+		element.innerHTML = element.innerHTML.replace(re, '<span onclick="changeName(' + choiceId + ')">' + nameList[0] + '</span>');
+		element.innerHTML = element.innerHTML.replace(re, nameList[choiceList[choiceId]]);
+	}
+}
+</script>
+
+<script> init(); </script>
