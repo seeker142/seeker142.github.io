@@ -1,4 +1,8 @@
 
+<div class="overlay" id="overlay">
+  <div class="text" id="overlaytext">Overlay Text</div>
+</div>
+
 <script>
 let choiceList = [0, 0, 0, 0, 0];
 
@@ -19,6 +23,9 @@ function changeName() {
 	var element = document.getElementsByClassName("post-content e-content")[0];
 	var re = new RegExp(nameTable[choiceId][prevNameId] + "\\b", "g");
 	element.innerHTML = element.innerHTML.replace(re, nameTable[choiceId][newNameId]);
+
+	document.getElementById("overlaytext").innerHTML = "Changed " + nameTable[choiceId][prevNameId] + " to " + nameTable[choiceId][newNameId] + ".";
+	overlayOn();
 }
 
 function init() {
@@ -53,6 +60,17 @@ function init() {
 		element.innerHTML = element.innerHTML.replace(re, '<span onclick="changeName(' + choiceId + ')">' + nameList[0] + '</span>');
 		element.innerHTML = element.innerHTML.replace(re, nameList[choiceList[choiceId]]);
 	}
+}
+
+function overlayOn() {
+	document.getElementById("overlay").style.opacity = 1;
+	document.getElementById("overlay").style.zIndex = 2;
+	setTimeout(overlayOff, 3000);
+}
+
+function overlayOff() {
+	document.getElementById("overlay").style.opacity = 0;
+	document.getElementById("overlay").style.zIndex = -1;
 }
 </script>
 
