@@ -64,7 +64,7 @@ Next I tried appraising the sword the same way I appraised Sophilia. A terrible 
 **Name:** Overgrowth, the Golden Devourer[^1] Sword<br/>
 
 **Attack:** 4417<br/>
-**Magic:** 10631<br/>
+**Mana:** 10631<br/>
 **Durability:** 6697<br/>
 **Mana Conductivity:** S<br/>
 
