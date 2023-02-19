@@ -115,15 +115,15 @@ But now that I have mastered the handling of mana, I managed to control this pre
 <p>
 <div class="stats">
 <strong>Stats</strong><br/>
-<div class="property">Level:</div><div class="value"> 50/99</div><br/>
-<div class="property">HP:   </div><div class="value"> 202  </div><br/>
-<div class="property">MP:   </div><div class="value"> 1597 </div><br/>
-<div class="property">STR:  </div><div class="value"> 49   </div><br/>
-<div class="property">VIT:  </div><div class="value"> 69   </div><br/>
-<div class="property">AGI:  </div><div class="value"> 168  </div><br/>
-<div class="property">INT:  </div><div class="value"> 712  </div><br/>
-<div class="property">MAG:  </div><div class="value"> 608  </div><br/>
-<div class="property">DEX:  </div><div class="value"> 819  </div><br/>
+<div class="property">&#160;LV:</div><div class="value"> 50/99</div><br/>
+<div class="property">&#160;HP:</div><div class="value"> 202  </div><br/>
+<div class="property">&#160;MP:</div><div class="value"> 1597 </div><br/>
+<div class="property">STR:     </div><div class="value"> 49   </div><br/>
+<div class="property">VIT:     </div><div class="value"> 69   </div><br/>
+<div class="property">AGI:     </div><div class="value"> 168  </div><br/>
+<div class="property">INT:     </div><div class="value"> 712  </div><br/>
+<div class="property">MAG:     </div><div class="value"> 608  </div><br/>
+<div class="property">DEX:     </div><div class="value"> 819  </div><br/>
 </div></p>
 
 **Skills**<br/>

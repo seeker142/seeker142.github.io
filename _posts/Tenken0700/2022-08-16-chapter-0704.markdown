@@ -39,15 +39,15 @@ I appraised Hilt, as she entered into the arena. She was strong as we expected.
 <p>
 <div class="stats">
 <strong>Stats</strong><br/>
-<div class="property">Level:</div><div class="value"> 61/99</div><br/>
-<div class="property">HP:   </div><div class="value"> 682  </div><br/>
-<div class="property">MP:   </div><div class="value"> 582  </div><br/>
-<div class="property">STR:  </div><div class="value"> 410  </div><br/>
-<div class="property">VIT:  </div><div class="value"> 262  </div><br/>
-<div class="property">AGI:  </div><div class="value"> 589  </div><br/>
-<div class="property">INT:  </div><div class="value"> 197  </div><br/>
-<div class="property">MAG:  </div><div class="value"> 366  </div><br/>
-<div class="property">DEX:  </div><div class="value"> 314  </div><br/>
+<div class="property">&#160;LV:</div><div class="value"> 61/99</div><br/>
+<div class="property">&#160;HP:</div><div class="value"> 682  </div><br/>
+<div class="property">&#160;MP:</div><div class="value"> 582  </div><br/>
+<div class="property">STR:     </div><div class="value"> 410  </div><br/>
+<div class="property">VIT:     </div><div class="value"> 262  </div><br/>
+<div class="property">AGI:     </div><div class="value"> 589  </div><br/>
+<div class="property">INT:     </div><div class="value"> 197  </div><br/>
+<div class="property">MAG:     </div><div class="value"> 366  </div><br/>
+<div class="property">DEX:     </div><div class="value"> 314  </div><br/>
 </div></p>
 
 **Skills**<br/>
@@ -157,15 +157,15 @@ Both of them were strong, but the impact of the next person was no less impressi
 <p>
 <div class="stats">
 <strong>Stats</strong><br/>
-<div class="property">Level:</div><div class="value"> 66/99</div><br/>
-<div class="property">HP:   </div><div class="value"> 897  </div><br/>
-<div class="property">MP:   </div><div class="value"> 214  </div><br/>
-<div class="property">STR:  </div><div class="value"> 588  </div><br/>
-<div class="property">VIT:  </div><div class="value"> 317  </div><br/>
-<div class="property">AGI:  </div><div class="value"> 612  </div><br/>
-<div class="property">INT:  </div><div class="value"> 138  </div><br/>
-<div class="property">MAG:  </div><div class="value"> 167  </div><br/>
-<div class="property">DEX:  </div><div class="value"> 433  </div><br/>
+<div class="property">&#160;LV:</div><div class="value"> 66/99</div><br/>
+<div class="property">&#160;HP:</div><div class="value"> 897  </div><br/>
+<div class="property">&#160;MP:</div><div class="value"> 214  </div><br/>
+<div class="property">STR:     </div><div class="value"> 588  </div><br/>
+<div class="property">VIT:     </div><div class="value"> 317  </div><br/>
+<div class="property">AGI:     </div><div class="value"> 612  </div><br/>
+<div class="property">INT:     </div><div class="value"> 138  </div><br/>
+<div class="property">MAG:     </div><div class="value"> 167  </div><br/>
+<div class="property">DEX:     </div><div class="value"> 433  </div><br/>
 </div></p>
 
 **Skills**<br/>

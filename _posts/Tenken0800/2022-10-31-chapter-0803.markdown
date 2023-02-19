@@ -109,15 +109,15 @@ This time I was able to appraise her with only a little bit of resistance. It wa
 <p>
 <div class="stats">
 <strong>Stats</strong><br/>
-<div class="property">Level:</div><div class="value"> 52/99</div><br/>
-<div class="property">HP:   </div><div class="value"> 641  </div><br/>
-<div class="property">MP:   </div><div class="value"> 301  </div><br/>
-<div class="property">STR:  </div><div class="value"> 689  </div><br/>
-<div class="property">VIT:  </div><div class="value"> 469  </div><br/>
-<div class="property">AGI:  </div><div class="value"> 431  </div><br/>
-<div class="property">INT:  </div><div class="value"> 108  </div><br/>
-<div class="property">MAG:  </div><div class="value"> 407  </div><br/>
-<div class="property">DEX:  </div><div class="value"> 123  </div><br/>
+<div class="property">&#160;LV:</div><div class="value"> 52/99</div><br/>
+<div class="property">&#160;HP:</div><div class="value"> 641  </div><br/>
+<div class="property">&#160;MP:</div><div class="value"> 301  </div><br/>
+<div class="property">STR:     </div><div class="value"> 689  </div><br/>
+<div class="property">VIT:     </div><div class="value"> 469  </div><br/>
+<div class="property">AGI:     </div><div class="value"> 431  </div><br/>
+<div class="property">INT:     </div><div class="value"> 108  </div><br/>
+<div class="property">MAG:     </div><div class="value"> 407  </div><br/>
+<div class="property">DEX:     </div><div class="value"> 123  </div><br/>
 </div></p>
 
 **Skills**<br/>

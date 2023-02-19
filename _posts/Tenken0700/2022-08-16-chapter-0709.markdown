@@ -247,15 +247,15 @@ Here are Colbert's current stats:
 <p>
 <div class="stats">
 <strong>Stats</strong><br/>
-<div class="property">Level:</div><div class="value"> 43/99</div><br/>
-<div class="property">HP:   </div><div class="value"> 516  </div><br/>
-<div class="property">MP:   </div><div class="value"> 458  </div><br/>
-<div class="property">STR:  </div><div class="value"> 311  </div><br/>
-<div class="property">VIT:  </div><div class="value"> 208  </div><br/>
-<div class="property">AGI:  </div><div class="value"> 266  </div><br/>
-<div class="property">INT:  </div><div class="value"> 146  </div><br/>
-<div class="property">MAG:  </div><div class="value"> 209  </div><br/>
-<div class="property">DEX:  </div><div class="value"> 242  </div><br/>
+<div class="property">&#160;LV:</div><div class="value"> 43/99</div><br/>
+<div class="property">&#160;HP:</div><div class="value"> 516  </div><br/>
+<div class="property">&#160;MP:</div><div class="value"> 458  </div><br/>
+<div class="property">STR:     </div><div class="value"> 311  </div><br/>
+<div class="property">VIT:     </div><div class="value"> 208  </div><br/>
+<div class="property">AGI:     </div><div class="value"> 266  </div><br/>
+<div class="property">INT:     </div><div class="value"> 146  </div><br/>
+<div class="property">MAG:     </div><div class="value"> 209  </div><br/>
+<div class="property">DEX:     </div><div class="value"> 242  </div><br/>
 </div></p>
 
 **Skills**<br/>
