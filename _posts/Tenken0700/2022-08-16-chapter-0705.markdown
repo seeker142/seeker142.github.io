@@ -47,18 +47,17 @@ Fran was right. Mordred had become much stronger. It is not so much that he has 
 **Occupation:** Skilled Magic Spearman<br/>
 
 <p>
-<div class="stats">
 <strong>Stats</strong><br/>
-<div class="property">Level:</div><div class="value"> 47/99</div><br/>
-<div class="property">HP:   </div><div class="value"> 423  </div><br/>
-<div class="property">MP:   </div><div class="value"> 418  </div><br/>
-<div class="property">STR:  </div><div class="value"> 217  </div><br/>
-<div class="property">VIT:  </div><div class="value"> 111  </div><br/>
-<div class="property">AGI:  </div><div class="value"> 237  </div><br/>
-<div class="property">INT:  </div><div class="value"> 218  </div><br/>
-<div class="property">MAG:  </div><div class="value"> 222  </div><br/>
-<div class="property">DEX:  </div><div class="value"> 249  </div><br/>
-</div></p>
+&#160;LV: 47/99<br/>
+&#160;HP: 423<br/>
+&#160;MP: 418<br/>
+STR: 217<br/>
+VIT: 111<br/>
+AGI: 237<br/>
+INT: 218<br/>
+MAG: 222<br/>
+DEX: 249<br/>
+</p>
 
 **Skills**<br/>
 Concealment: Lv 5, Chant Shortening: Lv 5, Stealth: Lv 3, Evasion: Lv 3, Inferno Magic: Lv 2, Brawling: Lv 2, Crisis Sense: Lv 4, Fear Resistance: Lv 4, Collecting: Lv 3, Leadership: Lv 4, Shooting: Lv 4, Blink: Lv 7, Swimming: Lv 2, Petrification Resistance: Lv 2, Spear Arts: Lv Max, Spear Mastery: Lv Max, Holy Spear Arts: Lv3, Holy Spear Mastery: Lv4, Elemental Sword: Lv5, Heat Resistance: Lv6, Tracking: Lv2, Earth Magic: Lv8, Throwing: Lv3, Poison Resistance: Lv5, Fire Magic: Lv Max, Magic Sense: Lv5, Paralysis Resistance: Lv1, Molten Magic: Lv6, Trap Setting: Lv5, Energy Manipulation, Sahagin Killer, Hawk Eye, Sense of Direction, Split Thinking, Magic Manipulation
@@ -72,9 +71,7 @@ Sahagin Killer, One who Overcame Death, Giant Killer, Pyromancer, Transcender of
 **Equipment**<br/>
 Adamantite Alloy Spear, Mithril Alloy Light Armor, Hard Magisteel Gauntlets, Water Demidragon Cloak, Cannon Tortoise Greaves, Bracelet of Abnormal Status Immunity, Magic Staff Ring, Warding Stone
 
-</div>
-
-<br>
+</div><br/>
 
 「Well yeah, I can't let myself stay defeated by someone younger than me. I took a vacation for the first time in a long while and went to a monster den.」
 

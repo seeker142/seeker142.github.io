@@ -69,12 +69,12 @@ It was an unexpected windfall, but much appreciated given our circumstances.
 <br>
 
 <div class="appraisal" markdown="1">
+
 **March of the Valkyrie:** A title given to Valkyries who meet the requirements.<br/>
 
 **Effect:** When leading an army of one hundred or greater, the effects of the Valkyrie's stealth-type and movement-type skills are extended to the whole army. If the Valkyrie is not in direct command, the effect is greatly reduced.<br/>
-</div>
 
-<br>
+</div><br/>
 
 The speed of our army increased dramatically, also raising our chances of saving Nadia.
 

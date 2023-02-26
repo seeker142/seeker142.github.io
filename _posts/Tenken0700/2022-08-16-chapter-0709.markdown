@@ -245,18 +245,17 @@ Here are Colbert's current stats:
 **Occupation:** Steel Brawler<br/>
 
 <p>
-<div class="stats">
 <strong>Stats</strong><br/>
-<div class="property">&#160;LV:</div><div class="value"> 43/99</div><br/>
-<div class="property">&#160;HP:</div><div class="value"> 516  </div><br/>
-<div class="property">&#160;MP:</div><div class="value"> 458  </div><br/>
-<div class="property">STR:     </div><div class="value"> 311  </div><br/>
-<div class="property">VIT:     </div><div class="value"> 208  </div><br/>
-<div class="property">AGI:     </div><div class="value"> 266  </div><br/>
-<div class="property">INT:     </div><div class="value"> 146  </div><br/>
-<div class="property">MAG:     </div><div class="value"> 209  </div><br/>
-<div class="property">DEX:     </div><div class="value"> 242  </div><br/>
-</div></p>
+&#160;LV: 43/99<br/>
+&#160;HP: 516<br/>
+&#160;MP: 458<br/>
+STR: 311<br/>
+VIT: 208<br/>
+AGI: 266<br/>
+INT: 146<br/>
+MAG: 209<br/>
+DEX: 242<br/>
+</p>
 
 **Skills**<br/>
 Covert: Lv 1, Brawling Arts: Lv 6, Brawling: Lv 7, Crisis Sense: Lv 4, Presence Blocking: Lv 1, Holy Fist Mastery: Lv 3, 
@@ -267,4 +266,4 @@ Drowsiness Resistance: Lv3, Paralysis Resistance: Lv4, Cooking: Lv3, Eagle Eye, 
 **Unique Skills**<br/>
 Steel Fist
 
-</div>
+</div><br/>
