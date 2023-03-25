@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch721">721: Side - Sibylla (1)</h2>
+<h2>721: Side - Sibylla (1)</h2>
 
 I don't mean to boast about my misfortune, but I think there are not so many people who lead a life as full of oddities as mine.
 

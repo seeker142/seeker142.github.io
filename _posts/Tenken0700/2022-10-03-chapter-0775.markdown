@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch775">775: An Unexpected Name</h2>
+<h2>775: An Unexpected Name</h2>
 
 After we and the dwarves repelled the first and second waves of antidemons, there was nothing major left.
 

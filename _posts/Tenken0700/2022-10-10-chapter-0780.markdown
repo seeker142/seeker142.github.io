@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch780">780: Before the Rescue of the East</h2>
+<h2>780: Before the Rescue of the East</h2>
 
 With the loss of the knight-type, the antidemons were no longer able to move in an organized manner and began to fight separately.
 

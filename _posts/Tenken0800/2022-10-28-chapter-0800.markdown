@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch800">800: Fran's Prank</h2>
+<h2>800: Fran's Prank</h2>
 
 Fran had finished telling the story of what happened to her, but there was something important she left unsaid.
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch717">717: Beyond Heavenly Judgment</h2>
+<h2>717: Beyond Heavenly Judgment</h2>
 
 「I'm just about warmed up, let's get this party going!」
 

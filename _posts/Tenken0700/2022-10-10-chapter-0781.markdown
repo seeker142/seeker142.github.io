@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch781">781: Forgotten Arts and Training</h2>
+<h2>781: Forgotten Arts and Training</h2>
 
 The fighting style of the dragonkin was very simple. They lined up the strongest individuals in the front and let them fight as they pleased. The antidemons who came forward through the gaps between them were slain by the troops in the rear with long-range attacks.
 

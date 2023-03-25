@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch806">806: Nocta Again</h2>
+<h2>806: Nocta Again</h2>
 
 「Urushi! Faster!」
 

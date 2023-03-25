@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch793">793: The Importance of Meat</h2>
+<h2>793: The Importance of Meat</h2>
 
 「I'm truly sorry about the guildmaster's behavior.」
 

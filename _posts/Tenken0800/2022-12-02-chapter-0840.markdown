@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch840">840: Back Alley Bar</h2>
+<h2>840: Back Alley Bar</h2>
 
  The day after our reunion with Ashwrath.
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch728">728: Diaz Battle Ends</h2>
+<h2>728: Diaz Battle Ends</h2>
 
 The rampaging white lightning stormed the inside of the barrier with tremendous flashes of light.
 

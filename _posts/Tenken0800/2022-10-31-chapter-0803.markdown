@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch803">803: Nadia's Magic Sword</h2>
+<h2>803: Nadia's Magic Sword</h2>
 
 Nadia had emitted the presence of an antidemon for a brief moment. It vanished quickly, but this couldn't be overlooked.
 

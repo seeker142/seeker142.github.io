@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch768">768: The Barrier</h2>
+<h2>768: The Barrier</h2>
 
 After Dalho the guildmaster gave us the information we wanted to know, we departed the guild. He mainly told us the locations of the big illegal towns, and who to watch out for.
 

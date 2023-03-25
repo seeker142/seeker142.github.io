@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch754">754: Reunion with Jean</h2>
+<h2>754: Reunion with Jean</h2>
 
 『Wow, that's a lot of people.』
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch716">716: Sibylla Battle, Initial Test</h2>
+<h2>716: Sibylla Battle, Initial Test</h2>
 
 『Well, here we are! The quarterfinals! The hero of the Black Cats has achieved victory after victory up to this point! Here's Fran the Black Lightning Princess! She is as small as ever! But everyone knows just how strong she really is!』
 

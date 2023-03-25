@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch751">751: Hilt's Apology</h2>
+<h2>751: Hilt's Apology</h2>
 
 Fran had made a bet with Dimitris.
 

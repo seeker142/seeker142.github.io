@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch734">734: Trial Slice</h2>
+<h2>734: Trial Slice</h2>
 
 After the match between Hilt and Neidhart, we had come to visit Neidhart.
 

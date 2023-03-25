@@ -13,3 +13,5 @@ permalink: /Tenken/
   <a href="{{ post.url }}">{{ post.chapter }}</a>
 {% endfor %}
 </p>
+
+[Expanded List](/Tenken/list)

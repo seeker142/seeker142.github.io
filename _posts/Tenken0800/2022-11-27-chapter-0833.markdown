@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch833">833: Antidemon Eradication Complete</h2>
+<h2>833: Antidemon Eradication Complete</h2>
 
  Even after rescuing Nadia, we were still up against a massive horde of antidemons.
 

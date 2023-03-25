@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor:
 ---
-<h2 id="ch825">825: More Reinforcements</h2>
+<h2>825: More Reinforcements</h2>
 
 Atop a small hill about 100 meters away from our current location, an army of 1,000 dwarves suddenly appeared.
 

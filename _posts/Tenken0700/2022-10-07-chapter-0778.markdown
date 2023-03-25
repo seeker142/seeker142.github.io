@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch778">778: South Team's Charge</h2>
+<h2>778: South Team's Charge</h2>
 
 Fran and the other adventurers of the South Team charged into the antidemon swarm, while shouting to pump themselves up.
 

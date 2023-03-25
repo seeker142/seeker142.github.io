@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch823">823: Twisted Horn's End</h2>
+<h2>823: Twisted Horn's End</h2>
 
 Fran's eyes widened at the sight of me, cloaked in both divine and evil energy.
 

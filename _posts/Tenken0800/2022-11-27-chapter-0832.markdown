@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch832">832: Saving Nadia</h2>
+<h2>832: Saving Nadia</h2>
 
  After my Cannibalism triggered, the power of Overgrowth came flowing into me. A terrifying rush of power.
 

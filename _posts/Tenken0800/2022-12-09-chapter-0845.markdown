@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch845">845: Info on the Blue Cats</h2>
+<h2>845: Info on the Blue Cats</h2>
 
  Well now that the source has come to us, let's get to the interrogation.
 

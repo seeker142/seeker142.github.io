@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch766">766: Antidemon Card</h2>
+<h2>766: Antidemon Card</h2>
 
 After leaving the administration council branch office, we went to the Adventurers Guild.
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch834">834: Return to Nocta</h2>
+<h2>834: Return to Nocta</h2>
 
  After successfully saving Nadia and Castel, we arrived safely at Nocta.
 

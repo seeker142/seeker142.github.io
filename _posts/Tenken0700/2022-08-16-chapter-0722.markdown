@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch722">722: Side - Sibylla (2)</h2>
+<h2>722: Side - Sibylla (2)</h2>
 
 Several years have passed since I was thrown into the lair of the bugs. Well, I don't know exactly how long it's been, since I didn't pay any attention to such things back then. But there was no way it was just a few years.
 

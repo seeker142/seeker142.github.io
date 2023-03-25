@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch708">708: Victory and Reflection</h2>
+<h2>708: Victory and Reflection</h2>
 
 Fran, the victor the match, walked down the aisle to the special spectator seats.
 

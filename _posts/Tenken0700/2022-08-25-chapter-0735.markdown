@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch735">735: Mummy King</h2>
+<h2>735: Mummy King</h2>
 
 While we were looking for a opponent to test our skills, Urushi's detection abilities helped us to find a powerful monster.
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch704">704: Powerful Opponents</h2>
+<h2>704: Powerful Opponents</h2>
 
 Today is the second day of the first round with the C and D blocks having their matches.
 

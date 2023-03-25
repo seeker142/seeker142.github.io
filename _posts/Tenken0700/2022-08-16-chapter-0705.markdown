@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch705">705: Mordred Match Begins</h2>
+<h2>705: Mordred Match Begins</h2>
 
 <p>『Well, here we are! The second round of the tournament with a hot card ready from the first match! Our fighter is the B rank adventurer, 
   Mordred! A seasoned fighter who is skilled in the use of spears and molten magic!』</p>

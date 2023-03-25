@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch790">790: Yeah, Dine and Dash</h2>
+<h2>790: Yeah, Dine and Dash</h2>
 
 （Master, what's wrong?）
 

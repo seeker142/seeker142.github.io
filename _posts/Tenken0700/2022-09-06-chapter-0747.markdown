@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch747">747: Sibylla's Reasons</h2>
+<h2>747: Sibylla's Reasons</h2>
 
 「W-Why? Why are you helping me……?」
 

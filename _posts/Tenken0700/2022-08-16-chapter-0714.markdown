@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch714">714: Warriors Climbing up the Ranks</h2>
+<h2>714: Warriors Climbing up the Ranks</h2>
 
 『Fran, you did a great job!』
 

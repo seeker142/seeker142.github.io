@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch796">796: A Distant Memory of Warmth</h2>
+<h2>796: A Distant Memory of Warmth</h2>
 
 『I see it! That's gotta be Castel!』
 

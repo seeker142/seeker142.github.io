@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch752">752: Regarding Gordicia</h2>
+<h2>752: Regarding Gordicia</h2>
 
 The closing ceremony, which had been marred by the plots of the Raydoss Kingdom and Dimitris' hijinks, had finally come to an end.
 

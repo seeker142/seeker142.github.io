@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch718">718: She who Devours</h2>
+<h2>718: She who Devours</h2>
 
 「Taaaaah!」
 

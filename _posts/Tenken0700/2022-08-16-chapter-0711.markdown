@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch711">711: Spectating the match with Mordred</h2>
+<h2>711: Spectating the match with Mordred</h2>
 
 Colbert seemed to be OK, so we decided to go back to spectating the fights. A B rank adventurer named Abarb was currently fighting a student of the Dimitris school.
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch787">787: Commander Defeated</h2>
+<h2>787: Commander Defeated</h2>
 
 The giant knight-type had been standing still the entire time, but it suddenly moved into action immediately after Fran tried to escape with the decoy soldiers.
 

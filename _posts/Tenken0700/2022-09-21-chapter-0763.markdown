@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch763">763: Muscled Elf</h2>
+<h2>763: Muscled Elf</h2>
 
 Administrative Council, Western Branch. I had expected to see a more formal organization, but the atmosphere inside was surprisingly relaxed.
 

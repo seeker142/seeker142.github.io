@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch810">810: Assembled Bonds</h2>
+<h2>810: Assembled Bonds</h2>
 
 「……I suppose we can't keep silent after they call us cowards.」
 

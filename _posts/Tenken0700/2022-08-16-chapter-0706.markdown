@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch706">706: Experienced Matchup</h2>
+<h2>706: Experienced Matchup</h2>
 
 「This is the new trump card I've been preparing!」
 

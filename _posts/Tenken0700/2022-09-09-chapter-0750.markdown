@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch750">750: The Unbound</h2>
+<h2>750: The Unbound</h2>
 
 「It's as you heard. Sorry, but can you let us off the hook here?」
 

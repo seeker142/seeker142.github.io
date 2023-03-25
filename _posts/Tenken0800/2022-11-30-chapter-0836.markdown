@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch836">836: Silver Lady</h2>
+<h2>836: Silver Lady</h2>
 
  We were on our way to the illegal city of Sendia, but we paused in the sky in front of it.
 

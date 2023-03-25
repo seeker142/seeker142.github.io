@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch723">723: Quarterfinals</h2>
+<h2>723: Quarterfinals</h2>
 
 After her victory, Fran was walking slowly down the aisle back to the waiting room, but her movements were sluggish.
 

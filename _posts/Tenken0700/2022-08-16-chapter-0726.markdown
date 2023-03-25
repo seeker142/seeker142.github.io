@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch726">726: Initial Exchange of Blows</h2>
+<h2>726: Initial Exchange of Blows</h2>
 
 『The day of the semi-finals has finally arrived! We have a great lineup of contestants again this year! For the first match, both contestants are already on the stage!』
 

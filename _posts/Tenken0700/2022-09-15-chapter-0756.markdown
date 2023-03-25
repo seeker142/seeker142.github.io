@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch756">756: Amanda's Confession</h2>
+<h2>756: Amanda's Confession</h2>
 
 「Shhh!」
 

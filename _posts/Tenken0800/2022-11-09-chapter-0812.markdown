@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch812">812: On the March</h2>
+<h2>812: On the March</h2>
 
 It was the night after our departure from Nocta.
 

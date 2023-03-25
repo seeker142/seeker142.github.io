@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch762">762: A Beautiful and Boring Port</h2>
+<h2>762: A Beautiful and Boring Port</h2>
 
 On the way to our assigned quarters, we tried asking him about the administrative council. We needed to deliver a letter to the consultant William, but we didn't know where he was.
 

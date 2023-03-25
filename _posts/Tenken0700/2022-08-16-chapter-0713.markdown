@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch713">713: Biscot Match Concludes</h2>
+<h2>713: Biscot Match Concludes</h2>
 
 Fran moves up a gear and attacks Biscot with the intention of finishing the match. Although she hasn't used Brilliant Lightning Rush yet, she has achieved a tremendous amount speed by using Awakening, Body Manipulation, and various other spells.
 

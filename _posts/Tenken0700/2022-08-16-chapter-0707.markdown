@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch707">707: Mordred Match Concludes</h2>
+<h2>707: Mordred Match Concludes</h2>
 
 Waves of raging lava surrounded us and not only that, but a bright red wall emitting tremendous heat was approaching from below.
 

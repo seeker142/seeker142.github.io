@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch727">727: A Serious Diaz</h2>
+<h2>727: A Serious Diaz</h2>
 
 In addition to her original sluggishness, Fran's movements were visibly deteriorating due to the recoil from the forced removal of her awakening.
 

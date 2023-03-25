@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch784">784: Onwards to Nocta</h2>
+<h2>784: Onwards to Nocta</h2>
 
 Fran returned to the west port and found herself in the training hall of the Adventurers Guild. Diggins the bear beastman had asked her to participate in a mock battle.
 

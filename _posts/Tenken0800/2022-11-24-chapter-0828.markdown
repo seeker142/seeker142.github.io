@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch828">828: Jayne's Cooperation</h2>
+<h2>828: Jayne's Cooperation</h2>
 
  Jayne said that she would ask for our help in a pinch, but such a scene had yet to occur.
 

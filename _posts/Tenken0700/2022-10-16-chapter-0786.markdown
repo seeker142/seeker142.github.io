@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch786">786: Antidemon Leadership</h2>
+<h2>786: Antidemon Leadership</h2>
 
 Fran leapt into the antidemon swarm, cutting down the swordsman-types one after the other. These lower class antidemons were still rather weak.
 

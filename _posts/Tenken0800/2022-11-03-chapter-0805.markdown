@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch805">805: The Silver Lady, the Golden Blade</h2>
+<h2>805: The Silver Lady, the Golden Blade</h2>
 
 『Are you saying you're mistaken for an antidemon?』
 

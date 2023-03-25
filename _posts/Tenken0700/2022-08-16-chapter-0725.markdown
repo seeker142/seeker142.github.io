@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch725">725: Effects of Labor Shortage</h2>
+<h2>725: Effects of Labor Shortage</h2>
 
 「What the hell!」
 

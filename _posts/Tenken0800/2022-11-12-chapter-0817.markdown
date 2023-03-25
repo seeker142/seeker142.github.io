@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch817">817: Red Dragon</h2>
+<h2>817: Red Dragon</h2>
 
 『Just die already, you fake dragon!』
 

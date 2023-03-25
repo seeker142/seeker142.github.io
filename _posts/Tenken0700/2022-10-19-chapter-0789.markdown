@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch789">789: Dine and Dash?</h2>
+<h2>789: Dine and Dash?</h2>
 
 While on our way to the Adventurers Guild in the town of Nocta, Fran stopped in front of one building.
 

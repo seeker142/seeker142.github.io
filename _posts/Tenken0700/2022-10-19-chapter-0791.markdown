@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch791">791: Blue Cats Will Be Blue Cats</h2>
+<h2>791: Blue Cats Will Be Blue Cats</h2>
 
 A few minutes after parting ways with Sophilia.
 

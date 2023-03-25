@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch776">776: Gordician Adventurers</h2>
+<h2>776: Gordician Adventurers</h2>
 
 About an hour had passed after we heard the report that the Bashar Kingdom had suffered a crushing defeat, causing antidemons to gather in large numbers.
 

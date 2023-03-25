@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch774">774: Brave March's Power</h2>
+<h2>774: Brave March's Power</h2>
 
 The dwarves, led by the queen in the center of the line, move through the wasteland.
 

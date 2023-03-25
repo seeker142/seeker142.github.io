@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch755">755: Amanda After Jean</h2>
+<h2>755: Amanda After Jean</h2>
 
 『Well, it's been a while since we were in Alessa. Let's head to the Adventurers Guild first.』
 

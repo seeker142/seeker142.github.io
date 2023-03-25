@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch758">758: An Act in the Royal Capital</h2>
+<h2>758: An Act in the Royal Capital</h2>
 
 The day after we heard from Amanda about Fran's parents.
 

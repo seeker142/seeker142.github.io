@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch712">712: Biscot Match Begins</h2>
+<h2>712: Biscot Match Begins</h2>
 
 Fran is on her merry way to the venue this morning. Her hands equipped with roasted meat skewers from a food stall, as just like every other morning.
 

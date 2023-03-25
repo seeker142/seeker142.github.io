@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch792">792: Replare</h2>
+<h2>792: Replare</h2>
 
 She knocked the two blue cats unconscious and threw them into a bag with their tails cut off, before handing them over to the Adventurers Guild.
 

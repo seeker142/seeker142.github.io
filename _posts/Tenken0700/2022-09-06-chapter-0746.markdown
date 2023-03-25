@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch746">746: Hostages Released?</h2>
+<h2>746: Hostages Released?</h2>
 
 I scouted out the arena with my extended string, where I see a masked man threatening Dimitris and Aurel.
 

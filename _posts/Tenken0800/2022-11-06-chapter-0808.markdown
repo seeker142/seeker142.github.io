@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch808">808: Ruthless Reality</h2>
+<h2>808: Ruthless Reality</h2>
 
 「I'm sorry for that pathetic display.」
 

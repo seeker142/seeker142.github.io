@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch742">742: Their Goal</h2>
+<h2>742: Their Goal</h2>
 
 The captured Abarb must have realized that he can't escape from me and Urushi. He looked up at me with an air of resignation.
 

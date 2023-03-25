@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch730">730: Diaz's Smile</h2>
+<h2>730: Diaz's Smile</h2>
 
 「Diaz.」
 

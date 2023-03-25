@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch772">772: Favor of the Drink God</h2>
+<h2>772: Favor of the Drink God</h2>
 
 After exchanging greetings with Colbert and the others, Queen Orfalve turned to Fran once again.
 

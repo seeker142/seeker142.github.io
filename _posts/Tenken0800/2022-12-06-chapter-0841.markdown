@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch841">841: Fran's Impatience</h2>
+<h2>841: Fran's Impatience</h2>
 
  Fran smiled like a predator. No doubt she planned to beat the information out of the thugs picking a fight with her.
 

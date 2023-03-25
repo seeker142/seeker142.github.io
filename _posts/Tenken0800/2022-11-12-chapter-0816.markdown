@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch816">816: Diva</h2>
+<h2>816: Diva</h2>
 
 We were up against red horned knights and black antidemons, probably the enemy's main army. The red horned knights were equivalent to Threat Level C, while the black antidemons had a threat level on the lower side of D.
 

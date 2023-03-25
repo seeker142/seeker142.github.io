@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch759">759: Reunion at Belioth</h2>
+<h2>759: Reunion at Belioth</h2>
 
 「I see it.」
 

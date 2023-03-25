@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch842">842: Gathering Info at the Bar</h2>
+<h2>842: Gathering Info at the Bar</h2>
 
  The dog beastman kept staring at me.
 

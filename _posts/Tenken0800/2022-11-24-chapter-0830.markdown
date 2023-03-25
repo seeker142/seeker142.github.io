@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch830">830: Tort</h2>
+<h2>830: Tort</h2>
 
 「Sophie, can you play the song one more time?」
 

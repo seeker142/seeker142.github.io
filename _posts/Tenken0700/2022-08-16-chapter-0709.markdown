@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch709">709: Sibylla vs Colbert</h2>
+<h2>709: Sibylla vs Colbert</h2>
 
 The battle between Colbert and Sibylla has begun.
 

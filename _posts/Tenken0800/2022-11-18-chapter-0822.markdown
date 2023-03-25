@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch822">822: Divine Energy Manipulation</h2>
+<h2>822: Divine Energy Manipulation</h2>
 
 「Sword God Transformation!」
 

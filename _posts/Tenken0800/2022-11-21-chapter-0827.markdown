@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor:
 ---
-<h2 id="ch827">827: The Demon Lord</h2>
+<h2>827: The Demon Lord</h2>
 
 While Jayne was busy laughing about how much she loved Fran, we were questioning the Tort the skull.
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch732">732: Dimitris Style Arts</h2>
+<h2>732: Dimitris Style Arts</h2>
 
 「Shah!」
 

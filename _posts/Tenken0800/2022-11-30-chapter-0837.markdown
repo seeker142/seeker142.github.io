@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch837">837: Sendia's Darkness</h2>
+<h2>837: Sendia's Darkness</h2>
 
  We easily entered the illegal city of Sendia. After all, it was always easy to enter cities on this continent.
 

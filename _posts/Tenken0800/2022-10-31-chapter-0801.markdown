@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch801">801: Nadia's Situation</h2>
+<h2>801: Nadia's Situation</h2>
 
 After finishing her surprise, Fran started drinking her tea with a satisfied look on her face. Meanwhile, I decided to ask Nadia what I was curious to know.
 

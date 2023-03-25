@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch764">764: Illegal Villages</h2>
+<h2>764: Illegal Villages</h2>
 
 Many different kinds of people come to the continent of Gordicia.
 

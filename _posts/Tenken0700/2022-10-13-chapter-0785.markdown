@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch785">785: Wounded Knights</h2>
+<h2>785: Wounded Knights</h2>
 
 As we approached the unit ahead of the antidemons, I realized why the unit did not seem to be fleeing. They were actually trying to get away.
 

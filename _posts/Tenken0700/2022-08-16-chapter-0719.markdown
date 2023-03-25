@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch719">719: A Portion of Sibylla's Power</h2>
+<h2>719: A Portion of Sibylla's Power</h2>
 
 《Analysis complete on individual named Sibylla.》
 

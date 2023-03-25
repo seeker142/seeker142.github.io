@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch824">824: A Faint Possibility</h2>
+<h2>824: A Faint Possibility</h2>
 
 「……Ah……」
 

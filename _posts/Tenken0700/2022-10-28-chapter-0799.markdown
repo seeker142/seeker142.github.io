@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch799">799: Nadia</h2>
+<h2>799: Nadia</h2>
 
 「Sorry about this mess…… You can use that chair.」
 

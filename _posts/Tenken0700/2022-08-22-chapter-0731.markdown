@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch731">731: Hilt vs Neidhart</h2>
+<h2>731: Hilt vs Neidhart</h2>
 
 As soon as Fran sat down in the audience, the commentator's voice rang out.
 

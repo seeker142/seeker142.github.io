@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch807">807: Ladirua Trading Company</h2>
+<h2>807: Ladirua Trading Company</h2>
 
 When Fran told him that she wanted to hire a hundred adventurers, the submaster denied her.
 

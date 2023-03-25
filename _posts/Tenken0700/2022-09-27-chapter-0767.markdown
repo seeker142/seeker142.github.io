@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch767">767: Castel's Current Situation</h2>
+<h2>767: Castel's Current Situation</h2>
 
 After intervening in a fight that was about to break out, the guildmaster brought Fran into his office.
 

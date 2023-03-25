@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch757">757: Amanda and Her Children</h2>
+<h2>757: Amanda and Her Children</h2>
 
 「Their names were Kinan and Framea, and the child's name was Fran.」
 

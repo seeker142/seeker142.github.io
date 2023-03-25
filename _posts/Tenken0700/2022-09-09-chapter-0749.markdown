@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch749">749: Dimitris' Reasons</h2>
+<h2>749: Dimitris' Reasons</h2>
 
 「How about I take you on??」
 

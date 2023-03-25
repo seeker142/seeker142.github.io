@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch720">720: Sibylla Battle Ends</h2>
+<h2>720: Sibylla Battle Ends</h2>
 
 （Master. Let's go）
 

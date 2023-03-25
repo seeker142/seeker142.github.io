@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch715">715: Neidhart and Elsa</h2>
+<h2>715: Neidhart and Elsa</h2>
 
 Hilt and Fran's gazes collide.
 

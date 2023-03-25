@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch744">744: Looking for Kaitly and Nilfe</h2>
+<h2>744: Looking for Kaitly and Nilfe</h2>
 
 We left the arena and separated from Judith and the other Scarlet Maidens to start a search for Kaitly and Nilfe, who were supposedly being held hostage somewhere.
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch819">819: Continued Erosion</h2>
+<h2>819: Continued Erosion</h2>
 
 After cutting our way through the swarm of antidemons, there was an even fiercer battle taking place in front of us.
 

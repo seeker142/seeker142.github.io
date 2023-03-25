@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch809">809: Gathered Bonds</h2>
+<h2>809: Gathered Bonds</h2>
 
 Yagilale bowed politely and then walked toward us. After reaching Fran, he opened his mouth in front of her.
 

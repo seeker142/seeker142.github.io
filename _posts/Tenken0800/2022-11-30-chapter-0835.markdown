@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch835">835: Mixed Slayer Verification</h2>
+<h2>835: Mixed Slayer Verification</h2>
 
 『Fran, listen to me here. Even if they're black market slave dealers, you can't just kill them in cold blood, okay?』
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: PinkR
 ---
-<h2 id="ch710">710: Colbert and Hilt</h2>
+<h2>710: Colbert and Hilt</h2>
 
 「Colbert, are you okay?」
 

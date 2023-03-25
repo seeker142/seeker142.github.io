@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2 id="ch839">839: The Illegal City and the Sanatorium</h2>
+<h2>839: The Illegal City and the Sanatorium</h2>
 
 「I could hardly believe it when I sensed your presence, but it really is you. You look like you're doing well too, Master――Not that I can really tell. Anyways, nice to see you guys again.」
 
