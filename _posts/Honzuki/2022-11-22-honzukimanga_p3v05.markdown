@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Honzuki Manga Part 3 Vol 6 SS"
-permalink: honzukimanga3/0006.html
+title:  "Honzuki Manga Part 3 Vol 5 SS"
+permalink: honzukimanga3/0005.html
 categories: HonzukiManga3
-chapter: 6
+chapter: 5
 exclude: true
 translator: "Seeker (+DeepL)"
 editor: 
