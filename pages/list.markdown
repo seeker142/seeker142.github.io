@@ -4,14 +4,21 @@ title: Chapter List
 permalink: /Tenken/
 ---
 
-<p>
+<table>
 {% for post in site.categories.TenKen reversed %}
   {% assign mod = post.chapter | modulo: 10 %}
-  {% if mod == 0 %}
-    <br>
+  {% if mod == 0 or forloop.first %}
+    <tr>
   {% endif %}
-  <a href="{{ post.url }}">{{ post.chapter }}</a>
+      <td><a href="{{ post.url }}">{{ post.chapter }}</a></td>
+  {% if mod == 9 or forloop.last %}
+    </tr>
+  {% endif %}
 {% endfor %}
-</p>
+</table>
+
+<br>
 
 [Expanded List](/Tenken/list)
+
+<br>
