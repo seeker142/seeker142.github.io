@@ -17,7 +17,7 @@ comments: true
 
 「Yeah, tell me when Ferdinand gets back.」
 
-I had teleported to the Royal Academy dormitory early in the morning to hear Justus's report, before hurriedly departing the meeting room for the archduke's office. Florenzia and Charlotte also left quickly with their entourages. The unscheduled meeting had pushed back my original schedule, not to mention all the events that would require my presence at the Royal Academy happening on a daily basis from now onward. It's not only the archducal family that is busy, but also their entourages.
+Justus had teleported from the Royal Academy dormitory early in the morning for this report, after which I hurriedly departed the meeting room for the archduke's office. Florenzia and Charlotte also left quickly with their entourages. The unscheduled meeting had pushed back my original schedule, not to mention all the events that would require my presence at the Royal Academy happening on a daily basis from now onward. It's not only the archducal family that is busy, but also their entourages.
 
 Upon my arrival at the archduke's office, a scholar piled up a stack of reports in front of me.
 
