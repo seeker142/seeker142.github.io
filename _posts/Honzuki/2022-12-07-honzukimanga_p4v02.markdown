@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Ferdinand POV"
 ---
 <h2>After the Sendoff</h2>
 

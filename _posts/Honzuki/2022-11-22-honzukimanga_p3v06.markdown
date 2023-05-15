@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Monica POV"
 ---
 <h2>For Rozemyne-sama</h2>
 

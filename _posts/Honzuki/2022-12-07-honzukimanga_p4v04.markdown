@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Hartmut POV"
 ---
 <h2>As a Member of Rozemyne-sama's Entourage</h2>
 

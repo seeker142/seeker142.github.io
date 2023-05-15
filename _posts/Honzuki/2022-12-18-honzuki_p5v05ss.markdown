@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: true
+notes: "Ferdinand POV"
 ---
 <h2>A Problematic Archduke Conference</h2>
 
@@ -200,7 +201,7 @@ Strahl's expression changes at my words. He did not expect a copy at the dormito
 
 「At once!」
 
-It started after lunch. Dietlinde went to change her clothes because "The morning meeting felt so cramped". No matter how many Ordonanz were sent saying it was time to return to the auditorium, Dietlinde never responded. Thus, Georgine-sama left by herself. Dietlinde's change of clothes was apparently an excuse to separate herself from Georgine-sama, after which she insisted on heading to the library.
+It started after lunch. Dietlinde went to change her clothes because "The morning meeting felt so cramped". No matter how many Ordonnanz were sent saying it was time to return to the auditorium, Dietlinde never responded. Thus, Georgine-sama left by herself. Dietlinde's change of clothes was apparently an excuse to separate herself from Georgine-sama, after which she insisted on heading to the library.
 
 「Dietlinde-sama is not registered to enter the library, so I planned on letting her confirm how the door would not open before taking her back to the meeting. But due to some terrible timing, we bumped into the librarian in the corridor as she was coming back from lunch.」
 
@@ -334,13 +335,13 @@ I smile and thank her, without forgetting to mix in a few compliments. Now I hav
 
 「Of course, make sure it finishes in time.」
 
-I now have permission to use the teleportation circle while Georgine-sama is away. Great results. I send an Ordonanz to Hirschur-sensei right in front of her entourage, to show that I have nothing to hide.
+I now have permission to use the teleportation circle while Georgine-sama is away. Great results. I send an Ordonnanz to Hirschur-sensei right in front of her entourage, to show that I have nothing to hide.
 
 「Hirschur-sensei, this is Ferdinand. I ask you to take in Raimund until winter. In exchange, I will send you the funds, materials, and documents for your research.」
 
 「I will decide when I see what you send.」
 
-The nobles of Ahrensbach frowned at the Ordonanz's return. Hirschur-sensei must have seemed very greedy to them. I turned my attention to my own entourage.
+The nobles of Ahrensbach frowned at the Ordonnanz's return. Hirschur-sensei must have seemed very greedy to them. I turned my attention to my own entourage.
 
 「Send a messenger to the castle, it doesn't matter who. I need the Velinur flowers that I found during the prayer ceremony, the recent research documents, and any other materials that might please Hirschur-sensei. Put it all in a locked magic tool box…」
 

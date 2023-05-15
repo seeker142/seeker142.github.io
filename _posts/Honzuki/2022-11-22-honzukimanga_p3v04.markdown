@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Lamprecht POV"
 ---
 <h2>Delicious Food and Troubles</h2>
 

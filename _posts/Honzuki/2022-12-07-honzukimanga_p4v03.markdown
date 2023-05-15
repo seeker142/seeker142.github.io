@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Leonore POV"
 ---
 <h2>A Side Unknown to the Master</h2>
 

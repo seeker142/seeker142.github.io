@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: true
+notes: "Sylvester POV"
 ---
 <h2>Headache-Inducing Request and Report</h2>
 
@@ -45,13 +46,13 @@ Personally, my only hope was to see him safe and sound. With a wry smile, I set 
 
 Norbert, who had apparently made arrangements to visit the dormitory ahead of me, led me to one of the conference rooms instead of the cafeteria. I was very relieved to be in a room with restricted access, since this was to be a confidential discussion.
 
-Ferdinand had already arrived and was writing something at the corner of the large table. Judging from the way he had Eckhart and Justus sending Ordonanz one after another, it seems he was giving instructions to various places.
+Ferdinand had already arrived and was writing something at the corner of the large table. Judging from the way he had Eckhart and Justus sending Ordonnanz one after another, it seems he was giving instructions to various places.
 
 「Ferdinand, so it seems the battle is over.」
 
 「Only the battle. Our discussions with the royal family will be the second critical moment.」
 
-Leaving Justus to clean up the paper and ink, Ferdinand moved to the other side of the table, where the attendants readied our meal. Ferdinand's side was prepared by Rutherfam, the attendant of his mansion. I saw Justus during the morning meeting, sending a Ordonanz containing the message "Please bring the things necessary for our master to rest in the dormitory as soon as possible", and it seems that he arrived in time.
+Leaving Justus to clean up the paper and ink, Ferdinand moved to the other side of the table, where the attendants readied our meal. Ferdinand's side was prepared by Lasfam, the attendant of his mansion. I saw Justus during the morning meeting, sending a Ordonnanz containing the message "Please bring the things necessary for our master to rest in the dormitory as soon as possible", and it seems that he arrived in time.
 
 「I heard you disappeared from the top of the altar, but what happened after that? What's all this about a goddess descending upon Rozemyne? And what of Lanzenave's king?」
 
@@ -225,7 +226,7 @@ But even so, Rozemyne was probably the original cause. That's usually the case w
 
 「How was your meeting with Ferdinand-sama?」
 
-「He was still sending Ordonanz everywhere after our meeting. According to Justus, he will be spending most of his time with the Ahrensbach knights at the villa. I guess they can't let up on their surveillance yet.」
+「He was still sending Ordonnanz everywhere after our meeting. According to Justus, he will be spending most of his time with the Ahrensbach knights at the villa. I guess they can't let up on their surveillance yet.」
 
 I explained to Rihyarda that our meeting with the royal family was set for the day after tomorrow, and that Florenzia and Charlotte will come to the dormitory in the afternoon. She was angry with Ferdinand for his lack of care for the attendants and skipping of the arrangements, but she understood the important parts: "Time is of the essence" and "our duchy must handle logistical support".
 

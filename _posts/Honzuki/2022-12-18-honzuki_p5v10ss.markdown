@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: true
+notes: "Cornelius POV"
 ---
 <h2>My Sister, Vanished and Returned</h2>
 
@@ -165,7 +166,7 @@ Eckhart's grim face changes when he sees that the Lord is safe. He went to Princ
 
 「I don't know exactly what is going on, but I have orders from the goddess of wisdom! Do not take the prisoners' lives! Contact the royal palace and the detached palace immediately!」
 
-Aub Dunkelfelger's voice echoed through the auditorium. Strahl sends Ordonanz to Adalgisa's detached palace, and the men of the Central Order send Ordonanz to the royal palace. The atmosphere, which had been relaxed after the battle, immediately became tense.
+Aub Dunkelfelger's voice echoed through the auditorium. Strahl sends Ordonnanz to Adalgisa's detached palace, and the men of the Central Order send Ordonnanz to the royal palace. The atmosphere, which had been relaxed after the battle, immediately became tense.
 
 「Ferdinand-sama!」
 

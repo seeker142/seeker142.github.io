@@ -59,7 +59,12 @@ comments: true
       {%- endif -%}</p>
       {%- if page.editor -%}
             <span><em>Edited by {{ page.editor }}</em></span>
-      {%- endif -%}</p>	  
+      {%- endif -%}</p>
+      {%- if page.notes -%}
+		{% for note in page.notes %}
+            <span><em>{{ note }}</em></span><br/>
+		{% endfor %}
+      {%- endif -%}</p>
   </header>
 
   <div class="navbar" style="text-align:center;">

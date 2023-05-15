@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: true
+notes: "Sylvester POV"
 ---
 <h2>The Resolute</h2>
 

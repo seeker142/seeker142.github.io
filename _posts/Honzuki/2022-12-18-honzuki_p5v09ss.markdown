@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: true
+notes: "Lutz POV"
 ---
 <h2>Still the Same Troublemaker</h2>
 

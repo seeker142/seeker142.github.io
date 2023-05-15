@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Marte POV"
 ---
 <h2>Night at the Small Temple</h2>
 

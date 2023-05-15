@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Karstedt POV"
 ---
 <h2>Changes in the Family</h2>
 
@@ -37,7 +38,7 @@ I asked the servant, guessing that she might be bedridden. The servant gently mo
 
 I looked at Elvira's whole body from top to bottom, her jet-black eyes twinkling, but there was no change that I could see at first glance. I blinked at her, too.
 
-「Karstedt-sama, if you have a sudden change of plans, you should send an Ordonanz.」
+「Karstedt-sama, if you have a sudden change of plans, you should send an Ordonnanz.」
 
 I looked at Elvira, who pointed out that I had forgotten to contact her, and I realized the state of affairs Florenzia-sama was worried about.
 

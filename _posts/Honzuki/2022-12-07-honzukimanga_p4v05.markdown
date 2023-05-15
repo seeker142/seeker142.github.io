@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Wilfried POV"
 ---
 <h2>Rozemyne's Classes Completed</h2>
 

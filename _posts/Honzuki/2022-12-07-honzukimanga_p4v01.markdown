@@ -10,6 +10,7 @@ editor:
 draft: true
 noheader: true
 comments: false
+notes: "Hugo POV"
 ---
 <h2>Pointless Vigilance</h2>
 

@@ -10,14 +10,15 @@ editor:
 draft: true
 noheader: true
 comments: true
+notes: "Heisshitze POV"
 ---
 <h2>Dunkelfelger's Conference Room</h2>
 
-It was around the time of the fifth bell when an Ordonanz flew into the third training area in the castle of Dunkelfelger.
+It was around the time of the fifth bell when an Ordonnanz flew into the third training area in the castle of Dunkelfelger.
 
 「Heisshitze, knights at the chief level and higher are being assembled urgently. Come to the meeting room of the archducal family in the main building.」
 
-The order was delivered via Ordonanz from the Deputy Knight Commander, and I left the knight's training hall. It is not so unusual in Dunkelfelger for the upper echelons of the knighthood to be summoned to the meeting room of the archducal family. If a feybeast is confirmed somewhere in the duchy and a request is made to the knighthood, a meeting is held to decide who will be sent to take it down.
+The order was delivered via Ordonnanz from the Deputy Knight Commander, and I left the knight's training hall. It is not so unusual in Dunkelfelger for the upper echelons of the knighthood to be summoned to the meeting room of the archducal family. If a feybeast is confirmed somewhere in the duchy and a request is made to the knighthood, a meeting is held to decide who will be sent to take it down.
 
 *……It seems we'll be sent out again.*
 
