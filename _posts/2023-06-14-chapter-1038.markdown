@@ -20,13 +20,13 @@ editor:
 
  When I think of a divine sword capable of controlling demons, that's the only one that comes to mind……
 
-「No, they were not. I am aware of Diabolos from Phyllius, but the blade's appearance was different.」
+「No, not that one. I am aware of Diabolos from Phyllius, but the appearance of the blade I saw was different.」
 
- Does this mean there's another demon-controlling divine sword besides the Diabolos?
+ Does this mean there's another demon-controlling divine sword besides Diabolos?
 
 「The wielder was a human male. As I stated before, I do not know his name. However, I did recognize the sword in his hands. The Nethergate Blade, Hell. A divine sword capable of manipulating a variety of poisons. In addition, it also seems to be capable of calling down demons into the user's body and harnessing their powers.」
 
- Poison and demons? There might be some similarities, but I don't quite understand the relationship. Judging from the name "Nethergate Blade", it's probably doing something like opening the gates of hell.
+ Poison and demons? Is there some kind of relationship between the two? I guess there's some similarities, but I don't really get it. Judging from the name "Nethergate Blade", the blade is probably doing something like opening the gates of hell.
 
  I don't know if "hell" is actually a thing in this world, but demons were supposed to live there from the myths back on Earth. In that case, it would make sense for the Nethergate Blade to access demonic powers.
 
@@ -44,7 +44,7 @@ editor:
 
 「I am sure of it! He is the poison master who destroyed our country!」
 
- As expected, she had found her target for revenge. A master of poisons with an army of illegal slaves. I have to admit my surprise that he wielded a divine sword though. No wonder the lorelei lost so easily.
+ I was thinking the same thing, but it seems she found her target for revenge. A master of poisons with an army of illegal slaves. I have to admit my surprise at him wielding a divine sword though. No wonder the lorelei lost so easily.
 
 「Do you have any clues? What was he after?」
 
