@@ -136,7 +136,7 @@ We just have to believe in our own strength and give it our all. Maybe they've g
 
 「Woof!」
 
-First, Urushi invoked his spell. They produced numerous jet-black spears, which promptly poured down on the Water Dragon Battleship. Any ordinary ship would have gotten turned into swiss cheese.
+First, Urushi invoked his spell. This produced numerous jet-black spears, which promptly poured down on the Water Dragon Battleship. Any ordinary ship would have gotten turned into swiss cheese.
 
 However, all the spears got blocked by a thin film of light. Rather than the water dragon's magic, this seems to be a normal ward. Like I had worried, its defenses were tougher than the original version.
 
@@ -152,7 +152,7 @@ We decided to use magic instead of a slash because it would have more potential.
 
 The problem is the area of effect. If we wanted to use a slash, we can only target either the Water Dragon Battleship or the water dragon itself.
 
-On the other hand, thunder magic has a wide range and can conduct through the water to reach other ships. Basically, it only makes sense to use I*nazun over Mer*zoma with this many enemies.
+On the other hand, thunder magic has a wide range and can conduct through the water to reach other ships. Basically, it only makes sense to use I_nazun over Mer_zoma with this many enemies.
 
 Bolts of white lightning descended from the heavens, intertwining in midair before striking the Water Dragon Battleship. In addition to synchronizing my timing with Fran, I also calculated the precise spot to strike in order to maximize the damage output.
 
@@ -160,7 +160,7 @@ This was a feat made possible by the Data Processing and Arch-Sorcerer skills I 
 
 It was worth every last point.
 
-The lightning storm writhed like a raging dragon, flashing as it collided with the Water Dragon Battleship's wards. I could see the wards beginning to collapse.
+Writhing like a raging dragon, the storm of thunder emit a bright flash as it collided with the Water Dragon Battleship's wards. I could see the wards beginning to collapse.
 
 Almost there!
 
