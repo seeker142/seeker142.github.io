@@ -1,0 +1,199 @@
+---
+layout: post
+title:  "TenKen Chapter 1049"
+permalink: Tenken/1049.html
+categories: TenKen
+chapter: 1049
+exclude: true
+translator: Seeker
+editor: 
+---
+<h2>1049: Shield and Spear of the Fleet</h2>
+
+The wards covering the Water Dragon Battleship began to bend under our synchronized blasts of Kanna Kamui.
+
+With this much power, we could proudly call our Kanna Kamui a supreme-tier spell. The fact that this ward managed to block us for so long was a feat in itself.
+
+This Water Dragon Battleship's durability was way higher than the one we fought before. There must be a synergistic effect between the water dragon's magic and the magical tools on board, which enhanced the power of the wards.
+
+But after all that growth in Gordicia, we'll break right through it!
+
+『Dyaaaaah!』
+
+Right as I put more mana into the spell, I heard the ward break with the high-pitched sound of shattering glass.
+
+The bolt of white lightning struck the Water Dragon Battleship and shattered it into...
+
+『Huh?』
+
+「?」
+
+Or not.
+
+For some reason, the Water Dragon Battleship didn't even take a scratch. Instead, one of the medium-sized ships located behind it exploded into flames. Even if the lightning had conducted through the sea water to reach the other ship, exploding like that doesn't make any sense.
+
+In the first place, all the ships aside from just one being completely unharmed is just plain impossible.
+
+『What happened?』
+
+「It's like that thing.」
+
+『That thing?』
+
+「Nn. The shield art.」
+
+『I see!』
+
+Now that you mention it, that's very true. This looked exactly like the shield art that transfers damage to an ally, which has gotten in our way so many times before.
+
+But is such an ability even possible in between ships? Was there some magical tool that made it possible?
+
+Either way, this makes it harder to target the Water Dragon Battleship directly.
+
+「They'll all disappear if we do it enough times.」
+
+『No, the ward has already repaired itself. Also, we don't have enough mana to keep going until we sink the entire fleet.』
+
+「Then we can just go in there and take everyone down in person.」
+
+『Hmmm. Getting trapped inside the ward seems kinda scary. It'll take some time, but destroying the other ships first is always an option, you know?』
+
+We sink the other ships acting as the damage substitutes, before finally taking down the Water Dragon Battleship. This strategy also reduces the number of ships capable of bombarding the city. It might seem inefficient, but this might be the most practical plan.
+
+「Okay, let's destroy the other ships!」
+
+『Yeah!』
+
+「Grrr!」
+
+We split up with Urushi and began our raid on the enemy fleet, purposely revealing ourselves in front of them to draw their attention, before sinking their ships one by one.
+
+This worked well first. Urushi showed off his huge body, as well as sometimes turning small and striking from underwater. Meanwhile Fran flew around raining lightning bolts.
+
+The enemy fleet was plunged into complete chaos. We succeeded in sinking a few ships, albeit small ones.
+
+However, that's when a surprising change occurred.
+
+The other vessels started getting protected by wards as well. Rather than covering the entire sea, there seemed to be some kind of mechanism for generating durable wards on others ship in response to our attacks.
+
+Moreover, even if we managed to get past the wards, the damage got transferred to a smaller ship by the same shield art phenomenon.
+
+Raydoss must have taken various measures to protect their key ships. They were clearly wary of a powerful opponent capable of taking an entire fleet down by themselves.
+
+And if their defensive countermeasures were so perfect...?
+
+「Hm? A person?」
+
+『They showed up out of nowhere!』
+
+Someone suddenly jumped up from the deck of the Water Dragon Battleship. Then, they fired a volley of ice bullets at us. All without a hint of killing intent or fighting spirit.
+
+We might have taken one of those bullets had we not experienced a similar phenomenon fighting Trismegistus.
+
+「A girl...? Her neck!」
+
+『She's been enslaved.』
+
+The person appearing before us was a girl dressed in a black military cap and uniform. A pretty girl of about the same age as Fran, with black hair, gold eyes, and tanned skin.
+
+Rather than flying, it seems she was jumping around by creating slabs of ice in the air as footholds. Wind magic was also used to assist her leaps.
+
+She chased after Fran with her black trench coat-like cloak fluttering in the wind. Are those horns growing out of her forehead? I think she might be an ogrekin, but the shape looks a bit off...
+
+The horned girl continued blasting Fran with magic, but for whatever reason, she still showed no killing intent or will to fight.
+
+『It seems that girl isn't in control of herself.』
+
+「Nn...!」
+
+Fran stared at the girl's neck with a look of disgust. A dull shiny metal ring covered her neck, almost tight enough to strangle her.
+
+A slave collar. Moreover, it seems she's been rendered unconscious, being controlled like a puppet somehow.
+
+She kept launching ice magic at us without saying a single word.
+
+<div class="appraisal" markdown="1">
+<p style="text-align: center;"><strong>Appraisal Information</strong></p>
+
+**Name:** Marle Seedran<br/>
+**Age:** 14<br/>
+**Race:** Demonoid Ogre<br/>
+**Occupation:** Stronghold Admiral<br/>
+**Status:** Puppet<br/>
+
+**Stats**<br/>
+&#160;LV: 41/99<br/>
+&#160;HP: 388<br/>
+&#160;MP: 3397<br/>
+STR: 269<br/>
+VIT: 366<br/>
+AGI: 131<br/>
+INT: 871<br/>
+MAG: 741<br/>
+DEX: 120<br/>
+
+**Skills**<br/>
+Chant Shortening: Lv5, Wind Magic: Lv5, Wind Reading: Lv5, Bow Arts: Lv2, Bow Mastery: Lv3, Court Etiquette: Lv6, Presence Detection: Lv3, Sword Arts: Lv3, Sword Mastery: Lv3, Super Strength: Lv4, Regeneration: Lv7, Command: Lv1, Blink: Lv4, Status Resistance: Lv8, Water Pressure Resistance: Lv7, Ship Repair: Lv3, Jumping: Lv3, Weather Prediction: Lv2, Farsight: Lv2, Ice Magic: Lv5, Magic Resistance: Lv3, Magic Detection: Lv5, Magic Barrier: Lv3, Magic Release: Lv6, Water Magic: Lv5, Swimming: Lv5, Night Vision, Sahagin Slayer, Water Breathing, Enhanced Hearing, Ice God's Blessing, Parallel Thinking, Magic Control
+
+**Unique Skills**<br/>
+Water Dragon's Bond, Frost Ogre
+
+**Innate Skills**<br/>
+Ship Protection, Stronghold
+
+**Titles**<br/>
+Sahagin Slayer
+
+**Equipment**<br/>
+Windmist Saber, Water Dragonscale Leather Armor, Cloak of Adaptation, Water Dragon Leather Gloves, Water Dragon Boots, Commander's Hat, Ring of Snowfall, Bracelet of Ice Creation
+
+</div><br/>
+
+Quite strong, but her stats did not match her level. Her mana stat was clearly way higher than it should be, with her strength and such being pretty impressive as well.
+
+Her status was "Puppet", so like I thought, she's not moving of her own accord.
+
+Also curious was her name. Seedran? So she's related to the Kingdom of Seedran? My first guess is her being a princess of the kingdom. She does have a skill called "Water Dragon's Bond" after all.
+
+The fact that she's being manipulated suggested that Raydoss had something to do with it. They've already targeted the royal family of Phyllius, so it's not like they have any respect for foreign royalty.
+
+However, the most eye-catching part was the race section.
+
+『Demonoid Ogre... Zelyse's research was about demonoids, right?』
+
+「Nn.」
+
+I believe it involved implanting magic stones into a human in an attempt to create superhumans.
+
+But, why "Demonoid Ogre" then? Did they put a magic stone in a girl who used to be an ogrekin?
+
+Wasn't Suarez, the girl's supposed brother, a normal human? There's also the issue with the horns being shaped strangely.
+
+Could they have implanted both a magic stone as well as ogre horns? Maybe that's the secret behind Marle's strength?
+
+Moreover, turning her into a puppet allowed them to prevent the usual loss of sanity and control that came with demonization.
+
+「...Ice Bullet.」
+
+「...! Hey you!」
+
+『It's no use, Fran. She's already a slave, as well as a demonoid.』
+
+「But...!」
+
+Fran dodged the ice spell without launching a counterattack. She was hesitating to attack this girl.
+
+「Freeze Shot.」
+
+『Fran, you need to fight back!』
+
+「No! But!」
+
+It seems Fran could not help but stare at the silver collar, which reminded herself of her past.
+
+The image of a girl wearing a slave collar must be much more potent than someone being manipulated via other means. Moreover, this girl was about the same age as herself.
+
+Perhaps ignoring such a resemblance was too much to ask...
+
+But if things continue this way, we will be subjecting ourselves to the girl's relentless assault.
+

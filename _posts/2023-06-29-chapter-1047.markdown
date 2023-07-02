@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2>1047 Anomaly in Jilbard</h2>
+<h2>1047: Anomaly in Jilbard</h2>
 
 「Hey, thank you so much for the hard work. We've filed your report and are very satisfied with your performance. With this, the request is officially complete. I'll make sure you get a bonus too.」
 

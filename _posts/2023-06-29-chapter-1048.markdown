@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2>1048 New-Type Water Dragon Battleship</h2>
+<h2>1048: New-Type Water Dragon Battleship</h2>
 
 Our ship changed course for the Kingdom of Kranzel after pursuit by the Raydoss navy.
 
