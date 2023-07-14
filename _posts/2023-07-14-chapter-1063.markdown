@@ -1,0 +1,207 @@
+---
+layout: post
+title:  "TenKen Chapter 1063"
+permalink: Tenken/1063.html
+categories: TenKen
+chapter: 1063
+exclude: true
+translator: Seeker
+editor: 
+---
+<h2>1063: Swordsman Valusa</h2>
+
+The swordsman spoke while holding his sword at the ready. There was an unmistakable hint of joy on his face.
+
+「My name is Valusa, currently employed by the Western Raydoss Knights.」
+
+「Fran. Rank B Adventurer.」
+
+「Uh-huh. The incident at the harbor was your doing, I take it?」
+
+「Nn.」
+
+Fran nodded, and Valusa suddenly burst into joyous laughter.
+
+「Fuhahaha! To think their precious fleet would be eliminated by the adventurers they underestimated so much! I can't wait to see their faces!」
+
+「...? Aren't you from Raydoss?」
+
+「The only one I serve is myself. I decided to work for Raydoss because doing so gives me more opportunities to slay stronger opponents.」
+
+A true combat maniac! He seems to be the type of person who doesn't care about anything else as long as he can satisfy his desire for battle.
+
+「Besides, cooperating with Raydoss gives me the opportunity to become even stronger. The alchemist said something about lifespan, but half of my life is a small price to pay for such strength.」
+
+『This guy's race is Demi-Demonoid. He might have undergone something similar to Marle...』
+
+No clue how that's different from Marle's "Demonoid Ogre" race, but it seems he willingly accepted Raydoss's body modification.
+
+<div class="appraisal" markdown="1">
+<p style="text-align: center;"><strong>Appraisal Information</strong></p>
+
+**Name:** Valusa<br/>
+**Age:** 42<br/>
+**Race:** Demi-Demonoid<br/>
+**Occupation:** Flash Swordsman<br/>
+
+**Stats**<br/>
+&#160;LV: 49/99<br/>
+&#160;HP: 669<br/>
+&#160;MP: 687<br/>
+STR: 458<br/>
+VIT: 400<br/>
+AGI: 678<br/>
+INT: 111<br/>
+MAG: 228<br/>
+DEX: 328<br/>
+
+**Skills**<br/>
+Evasion: Lv8, Bow Mastery: Lv2, Bow Arts: Lv4, Presence Detection: Lv7, Sword Mastery: LvMax, Sword Arts: LvMax, Holy Sword Mastery: Lv3, Holy Sword Arts: Lv4, Super Strength: Lv2, Regeneration: Lv7, Flexibility: Lv6, Blink: Lv9, Swimming: Lv6, Water Walking: Lv5, Swashbuckler: Lv7, Throwing: Lv5, Climbing: Lv5 Poison Resistance: Lv 9, Reaction Boost: Lv 9, Paralysis Resistance: Lv 7, Appraise Detection, Energy Control, Hawk Eye, Numb Pain, Reflexes, Magic Vision
+
+**Innate Skills**<br/>
+False Divider, Flash Sword
+
+**Titles**<br/>
+Murderer, Traitor
+
+**Equipment**<br/>
+Magic Sword Soul-Drain, Sea Dragon Leather Uniform, Sea Dragon Leather Warboots, Magic Whale Mantle, Choker of Water-Breathing, Hawk Eye Ring
+
+</div><br/>
+
+「Raydoss alchemists modified your body?」
+
+「You just used Appraisal, didn't you? That's right. They said it was a collaborative effort between the alchemists of the west and the east, or something like that. I hear I got implanted with a miniature magic stone and the heart of an ogrekin. Thanks to them, my body has become stronger than ever before.」
+
+But it cuts your lifespan in half, right? I have no idea how you can smile so happily.
+
+「What are you after?」
+
+「I'll tell you if you can beat me... is what I'd like to say, but whoever loses will be too dead to talk. Whatever, might as well spill what I know. In exchange, you gotta fight me to the death. Oh, and let me say something up front. I don't care if that girl is your only rescue target or no, but I'll slaughter everyone here if you try to run.」
+
+「...I'm not running.」
+
+「Good. I don't give a shit about the others as long as you fight me. They can escape for all I care.」
+
+He's trying to seal away Fran escaping with Charlotte by threatening the other hostages? It seems combat really is the only thing on his mind.
+
+「Raydoss's main goal with this town was to secure supply routes. Oh yeah, and act as a diversion.」
+
+「Supply routes and diversion?」
+
+「A small elite force has already deployed to secure a bridgehead to Phyllius.」
+
+He explained how they've already scouted out several villages further inland on the road to Phyllius. The plan was apparently to select the most suitable village and turn it into their base of operations.
+
+And Dars becomes a convenient supply route to that base.
+
+「However, supplying the inland bases is not difficult as long as we maintain control of the seas. The more important point is to attract Kranzel's attention. By luring reinforcements to Dars, we can disperse their forces.」
+
+「...But for such an important operation, you're the only one strong here.」
+
+「With the Kranzel fleet annihilated, we should've won even without the Water Dragon Battleship. Well, until your arrival put a damper on that plan.」
+
+「...I wiped out the fleet at Bulbora too.」
+
+「Fuhahaha! Is that so! You're practically Raydoss's worst nightmare!」
+
+Their operation probably only planned to deal with Rank B adventurers or lower. The Rank A adventurers should all be deployed to the border, so they assumed lesser adventurers would be sent to retake Dars.
+
+No, I suppose Raydoss tends to look down on adventurers in general. It's possible they attempted to plan for Rank A adventurers but ended up underestimating them.
+
+They thought they had no chance of losing as long as they could one-sidedly bombard the town from the seas.
+
+「I was originally gonna join the team for securing the bridgehead, but I thought it would be more fun to take on any adventurers coming to retake the town. It seems my hunch was right. It's too crowded to have a proper fight at the border either way.」
+
+「The border... Is Raydoss's army attacking Alessa or something?」
+
+「They should be. Well, I can only really say what the West Duke's up to. His final goal is to conquer Phyllius and get his hands on their divine sword.」
+
+Valusa readied his blade after finishing the explanation.
+
+「That's it, yeah? Come on, let's fight already!」
+
+「One last thing.」
+
+「What?」
+
+「What do they want Charlotte for?」
+
+「Charlotte? Oh, that dancer? Apparently people with her occupation have the ability to interfere with leylines. They were going to use her to strengthen the magic circle aimed at Phyllius.」
+
+「I see.」
+
+「If you manage to survive this, feel free to use my info for whatever you want.」
+
+「I will.」
+
+「Fuhahaha! Then let's begin!」
+
+Valusa raised his blade slowly before swinging it down on us. Fran saw this and frowned... before jumping to the side in a panic.
+
+「Not bad! You managed to dodge!」
+
+（That was...!）
+
+『I think it's his skill "False Divider"!』
+
+This skill can reproduce the sound of wind on the blade, as well as the killing intent behind it, creating the illusion that he is swinging a sword. But hidden behind this illusion was the true cleave with ridiculous speed.
+
+The initial slow-looking slash looked easy to dodge, but his opponent would quickly be caught off guard by an invisible blade separating their head from the torso. A pretty nasty combo.
+
+Valusa kept smiling even though Fran did not even take a scratch. He really seemed to be having a good time.
+
+「Kukuku! I've been bored to death ever since I got stronger, since no swordsman was capable of challenging me. You've finally come to rescue me from that boredom!」
+
+So he's not just a combat maniac, but one with a particular attachment to swordfighting.
+
+「Teyaaah!」
+
+「Fuhahaha! You're really amazing! Keep it up!」
+
+Valusa cackled as he parried Fran's blow.
+
+「You won't hit me!」
+
+「Shah!」
+
+Valusa's Holy Sword Mastery was at level 4, and his stats were inferior to Fran's. Yet he still managed to keep up with Fran. Like, on an even playing field.
+
+It's true that Fran had yet to activate her stat enhancement skills. I think she didn't want to win by overpowering him with the sheer difference in stats.
+
+Still, he shouldn't be able to keep up with Fran, someone on the level of Swordking Mastery. This man must have devoted his entire life to the blade.
+
+His vast experience gave him countless techniques, such as the masterful combination of False Divider and Flash Cutter to deliver superspeed slashes. That came pretty close to getting us. He never repeated the same attack pattern, and he dealt with all of Fran's attacks as if he had experienced them before.
+
+Fran was also impressive, since she managed to repel such an opponent. She too was using her skills masterfully.
+
+The clash continued for ten minutes, though neither lost their breath despite the heavy drain to stamina and mana. Both were maintaining multiple skills at the same time, as well as conducting mana on their blades.
+
+Regarding that, Valusa's sword had the ability to absorb our mana. I felt a bit of mana drained from me every time we crossed blades. Moreover, it sucked the mana deep inside me, including from Fenrir and the Evil God. My internal situation is pretty stable now, but who knows what might have happened if we fought him while I was unstable.
+
+Basically, Valusa's mana wasn't running out any time soon.
+
+「Yes! Yes! You're getting even better, aren't you?」
+
+「Heh!」
+
+It seems the intense clash with Valusa refined Fran's swordsmanship even further.
+
+Fran returned Valusa's slash with a smug look on her face, so it seems she was also enjoying the fight. However, such fun times were about to come to an end.
+
+We saw a black magic blast launched into the distant sky.
+
+『That's the signal from Urushi!』
+
+（...Got it.）
+
+Fran nodded lightly and readied me again. Perhaps sensing the change in her behavior, Valusa paused his movements to observe the situation.
+
+「...Done playing around?」
+
+「I'll finish you now.」
+
+「How unfortunate. But don't expect it to be that easy!」
+
+「...Time to get serious.」
+
