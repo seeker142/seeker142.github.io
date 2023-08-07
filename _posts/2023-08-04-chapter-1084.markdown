@@ -74,7 +74,7 @@ The other issue was some kind of black haze forming around us.
 
 『Fran, make sure you keep your barrier up at all times. This is a curse, and it's got evil energy mixed in.』
 
-It seems a vicious curse had been implanted in the magicite golem. Even if someone managed to destroy it, they then have to deal with the curse striking back at them. A two-step approach to ensure their enemies die, no doubt.
+It seems a vicious curse had been implanted in the magicite golem. Even if someone manages to destroy it, they then have to deal with the curse striking back at them. A two-step approach to ensure their enemies die, no doubt.
 
 The evil energy infused throughout the curse kept whittling away at our barriers, while also contaminating the nearby earth and staining it black.
 
@@ -92,7 +92,7 @@ It seems we've succeeded in completely dispelling the curse.
 
 After a vigorous nod, Fran leapt into the army of magicite golems. Ah, now I see what makes these golems so formidable.
 
-The incredibly durable vanguard golems moved to surrounded Fran, all constantly firing spells of various attributes. Despite not caring at all about hitting their fellow golems, each was tough enough to shrug off this level of friendly fire.
+The incredibly durable vanguard golems moved to surround Fran, all constantly firing spells of various attributes. Despite not caring at all about hitting their fellow golems, each was tough enough to shrug off this level of friendly fire.
 
 Meanwhile, I sensed an even greater surge of mana coming from the magicite golems in the rear. They were chanting more powerful magic.
 
@@ -104,7 +104,7 @@ Fran cut down the golems one after another, as I blocked all of their spells. Ev
 
 After we had consumed about 20 of the magicite golems, they changed their movement patterns again. All of them rushed in at the same time without any consideration for defense.
 
-However, they stood no chance against Fran in close combat, so I just kept on absorbing them. Our ability to make they vanish completely after absorption might have been unintentionally beneficial too.
+However, they stood no chance against Fran in close combat, so I just kept on absorbing them. Our ability to make them vanish completely after absorption might have been unintentionally beneficial too.
 
 The simultaneous rush strategy should have had the advantage of sealing Fran's movements with the accumulated pile of large golem bodies. Then, they could force Fran into a corner.
 
@@ -125,3 +125,6 @@ That's where Urushi comes in. He slammed the golems with his huge paws, sending 
 Finally, when Fran and Urushi had eliminated nearly 100 magicite golems...
 
 《The effect of Self-Evolution has been activated. Gained 100 self-evolution points.》
+
+
+
