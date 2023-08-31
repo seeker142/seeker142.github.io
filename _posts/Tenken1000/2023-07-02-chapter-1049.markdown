@@ -133,7 +133,7 @@ MAG: 741<br/>
 DEX: 120<br/>
 
 **Skills**<br/>
-Chant Shortening: Lv5, Wind Magic: Lv5, Wind Reading: Lv5, Bow Arts: Lv2, Bow Mastery: Lv3, Court Etiquette: Lv6, Presence Detection: Lv3, Sword Arts: Lv3, Sword Mastery: Lv3, Super Strength: Lv4, Regeneration: Lv7, Command: Lv1, Blink: Lv4, Status Resistance: Lv8, Water Pressure Resistance: Lv7, Ship Repair: Lv3, Jumping: Lv3, Weather Prediction: Lv2, Farsight: Lv2, Ice Magic: Lv5, Magic Resistance: Lv3, Magic Detection: Lv5, Magic Barrier: Lv3, Magic Release: Lv6, Water Magic: Lv5, Swimming: Lv5, Night Vision, Sahagin Slayer, Water Breathing, Enhanced Hearing, Ice God's Blessing, Parallel Thinking, Magic Control
+Chant Shortening: Lv5, Wind Magic: Lv5, Wind Reading: Lv5, Bow Arts: Lv2, Bow Mastery: Lv3, Court Etiquette: Lv6, Presence Detection: Lv3, Sword Arts: Lv3, Sword Mastery: Lv3, Hard Power: Lv4, Regeneration: Lv7, Command: Lv1, Blink: Lv4, Status Resistance: Lv8, Water Pressure Resistance: Lv7, Ship Repair: Lv3, Jumping: Lv3, Weather Prediction: Lv2, Farsight: Lv2, Ice Magic: Lv5, Magic Resistance: Lv3, Magic Detection: Lv5, Magic Barrier: Lv3, Magic Release: Lv6, Water Magic: Lv5, Swimming: Lv5, Night Vision, Sahagin Slayer, Water Breathing, Enhanced Hearing, Ice God's Blessing, Parallel Thinking, Magic Control
 
 **Unique Skills**<br/>
 Water Dragon's Bond, Frost Ogre
