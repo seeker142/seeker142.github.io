@@ -1,0 +1,162 @@
+---
+layout: post
+title:  "TenKen Chapter 1114"
+permalink: Tenken/1114.html
+categories: TenKen
+chapter: 1114
+exclude: true
+translator: Seeker
+editor: 
+---
+<h2>1114: Klimt Back</h2>
+
+We rushed over to the fallen Klimt, who was bleeding profusely from his right eye. There was a magic circle containing an intricate pattern covering his eye socket.
+
+I tried casting a healing spell, but it had no effect. This was different from the difficult to heal wounds caused by evil energy. It's as if Klimt's body didn't recognize his eye was injured. I attempted an appraisal, and it also confirmed that his condition was normal.
+
+「My eye... cannot be healed with magic...」
+
+When forming a contract with an ordinary spirit, the contracting parties share mana with each other in a relationship of equality. However, it appears the same does not apply to those on the level of Great Spirits.
+
+Previously, Klimt had used something like a temporary contract to forcibly seal away the raging spirit's powers. That's why the Great Spirit did not always obey his commands as summoner, and why such a huge burden was placed on him.
+
+He just now changed that contract to a normal one, but of course, he could not hope to stand on equal ground with a Great Spirit.
+
+Thus, it was only by offering his right eye that he managed to establish the contract.
+
+「Klimt, you okay?」
+
+「I suppose so... My eye is now proof of my contract with the Great Spirit.」
+
+Klimt muttered before smiling happily. He didn't seem to take losing his eye very hard.
+
+In addition, it seems Klimt's stats were restored to normal upon establishing a proper contract. Or rather, the spirit's blessing actually boosted them further.
+
+I appraised him to check his condition, and was very surprised by the huge change.
+
+<br>
+
+<div class="appraisal" markdown="1">
+<p style="text-align: center;"><strong>Appraisal Information</strong></p>
+
+**Name:** Klimt<br/>
+**Age:** 137<br/>
+**Race:** Wood Elf<br/>
+**Occupation:** Great Spirit Summoner<br/>
+**Condition:** Normal<br/>
+
+<p>
+<strong>Stats</strong><br/>
+&#160;LV: 67<br/>
+&#160;HP: 27/280<br/>
+&#160;MP: 1616<br/>
+STR: 137<br/>
+VIT: 139<br/>
+AGI: 188<br/>
+INT: 859<br/>
+MAG: 933<br/>
+DEX: 148<br/>
+</p>
+
+**Skills**<br/>
+Chant Shortening: Lv7, Appraisal: Lv5, Bow Mastery: Lv3, Gathering: Lv5, Tree Magic: Lv6, Presence Detection: Lv4, Presence Blocking: Lv4, Spirit Magic: Lv9, Land Magic: Lv6, Brewing: Lv5, Earth Magic: LvMax, Poison Resistance: Lv3, Paralysis Resistance: Lv4, Magic Detection: Lv6, Water Magic: Lv5, Herbology: Lv7, Cooking: Lv4, Enhanced Vision, Spirit Control, Favor of the Spirits, Enhanced Hearing, Parallel Thought, Child of the Forest
+
+**Unique Skills**<br/>
+Blessing of the Great Spirit of Wind, Magic Regulation
+
+**Titles**<br/>
+Guildmaster, Guardian of Alessa, Earth Mage, Friend of the Great Spirit
+
+**Equipment**<br/>
+Ancient Cherry Staff, Doppel Snake Robe, Wind Drake Wing Mantle, Lunar Hare Jump Boots, Bracelet of Substitution
+
+</div><br/>
+
+He's way stronger now.
+
+It seems he regained his mastery over spirit magic, as well as additional power, in exchange for his eye. Not to mention how many elves worship the Great Spirits, and he was now connected with one.
+
+To any spirit summoner, it seems giving up your right eye was a small price to pay.
+
+By the time we realized it, Klimt's right eye had stopped bleeding. Though the wound engraved onto his eye was now closed, he still lost his eyesight permanently.
+
+While I still found that pretty worrying, Klimt seemed more healthy than ever before. Relieved, Fran was about to begin the rescue operation for any survivors, when Klimt asked her a question.
+
+「Fran-san, is that sword safe?」
+
+He must have realized I wasn't a normal sword after seeing me use all that evil energy.
+
+「Nn. It's fine.」
+
+「...I see.」
+
+He decided to believe Fran for the time being, though not completely convinced. After giving Fran some instructions for the rescue operation, he began invoking spirit magic.
+
+『Let's call over Urushi too.』
+
+（Nn!）
+
+Fran handed the prisoners over to Urth and the knights, then asked about the mysterious object that flew out of the Great Spirit. We wanted to check if it was something important that should be retrieved.
+
+However, Klimt told us that he knew little about it. All he could say was that it was likely a magical tool used in the ritual to summon the spirit.
+
+Since it's apparently something related to the Great Spirit, he asked us to go retrieve it before doing anything else. 
+
+We headed in the direction the object fell and immediately found something suspicious, a faint mana signal moving north in a straight line. Way too obvious. We cloaked ourselves and followed the trail from the sky, finding an undead figure running across the land. In his hands was the rod-like object.
+
+（Hideman.）
+
+『I knew it, he had another clone nearby!』
+
+Hideman may have managed to recover the object before us, but that's also what exposed his trail. Though he successfully erased his own presence, he was powerless to hide the mana radiating from the object in his hands.
+
+We observed him for a little while, and saw him attempting to put the mysterious rod in an item bag. However, it seems he failed to store it.
+
+Did this magic tool have a property preventing it from being stored in item bags? Well, considering it was inside the Great Spirit, I wouldn't be surprised if it had some special powers.
+
+The very fact that Hideman wanted to retrieve the item was enough proof of its value. Perhaps this rod was even a more important goal than assassinating Klimt.
+
+（Let's take him down, and get the rod back.）
+
+『Roger.』
+
+I considered monitoring his actions for a bit longer, but he'd probably reach Raydoss at this rate. Besides, Klimt needs our help back at town.
+
+After thinking it through, we agreed that defeating him immediately was the best plan. Hideman was pretty weak and had yet to notice us. We simply teleported in and cut off his leg, and he was done for.
+
+Having lost his leg, Hideman collapsed to the ground.
+
+「Y-You bitch...!」
+
+「This is what you were after?」
+
+「Hmph, I don't even know what that is. I just thought to take back a souvenir after failing to kill the spirit summoner.」
+
+「So Klimt's assassination was an afterthought?」
+
+「Screw you! I don't need to play these games!」
+
+He promptly triggered his self-destruction tool, so we had no choice but to cut him down. That said, we actually learned quite a bit thanks to Principle of Falsehoods. It seems Hideman's main goal was actually this rod-like thing from the beginning. He must have been attempting to feed us false information after recognizing he had no chance to escape, but that won't work on us.
+
+I appraised the mysterious object on the ground, and it came up as "Antiquated Rod-Sword". I guess it's kind of like a sword with a cylindrical rod instead of a blade. It looked like a sheathed rapier at first glance, but there was no sharp edge anywhere to be found.
+
+Moreover, there were almost zero decorations, giving it a very functional appearance. The rod part was practically a smooth metal cylinder.
+
+Attack 100, Mana Conductivity D, and the Harden and Repair skills. This was clearly designed for durability... but it still doesn't sit right with me.
+
+We hit this thing with a thrust containing everything we had. Even if it wasn't the main target, it should have taken a huge portion of the damage. Not to mention how it crashed into the ground with a lot of momentum.
+
+There's no way a weapon like this could survive in one piece. In fact, I wouldn't be surprised if it got shattered beyond repair.
+
+Or perhaps the Harden and Repair skills were somehow enhanced by sacrificing functionality in other areas? Also, we couldn't put it into dimensional storage. No matter how hard we tried to shove it in, there was some strange force preventing us.
+
+There's definitely a big gap between the appraisal information and its actual performance. The secret behind why Hideman wanted it so much must be hidden inside too.
+
+「Let's deliver it to Klimt for now.」
+
+『Good idea.』
+
+
+
+
+
