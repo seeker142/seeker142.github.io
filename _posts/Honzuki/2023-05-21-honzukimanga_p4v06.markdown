@@ -36,7 +36,7 @@ In addition to teaching students, performing music during tea parties is also th
 
 「The tea party we were invited to is indeed special. The music teachers want to experience music from Ehrenfest.」
 
-Rather than Rozemyne-sama, her attendant apprentice Brunhilde-sama explained the background for the tea party with the music teachers. It is apparently a very important event that serves as a stepping stone for Ehrenfest to gain attention in the Central region.
+Rather than Rozemyne-sama, her attendant apprentice Brunhilde-sama explained the background for the tea party with the music teachers. It is apparently a very important event that serves as a stepping stone for Ehrenfest to gain attention in the Sovereignty.
 
 「Rosina, you will be playing songs from the scores being sold in Ehrenfest. Since composition is often done by personal musicians, much of their attention will be focused on you.」
 
@@ -84,7 +84,7 @@ Beyond the open door, the second prince was seated as one of the tea party's gue
 
 *……A member of the royal family showing up is far too unexpected!*
 
-The royal family must have grown up listening to the finest musicians, so I have no clue if my performance will be adequate. I regret not checking on the performances of the Central musicians in advance, especially before attending a tea party where royalty is present.
+The royal family must have grown up listening to the finest musicians, so I have no clue if my performance will be adequate. I regret not checking on the performances of the Sovereignty musicians in advance, especially before attending a tea party where royalty is present.
 
 *……Am I going to become a burden to Rozemyne-sama?*
 

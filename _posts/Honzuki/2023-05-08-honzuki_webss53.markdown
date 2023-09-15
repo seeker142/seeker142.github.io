@@ -38,11 +38,11 @@ The second bell may have rung, but most will have barely left their beds at this
 
 *……A significant change in mana? What does that mean?*
 
-Major changes in mana rarely happen in normal living conditions. Upon receiving unexpected news from Rozemyne's attendant, Florenzia and I exchanged glances. Rozemyne and Ferdinand should already have left for the Center right now, apparently in order to capture the enemies who headed there from Ahrensbach. Something must have happened to her there.
+Major changes in mana rarely happen in normal living conditions. Upon receiving unexpected news from Rozemyne's attendant, Florenzia and I exchanged glances. Rozemyne and Ferdinand should already have left for the Sovereignty right now, apparently in order to capture the enemies who headed there from Ahrensbach. Something must have happened to her there.
 
 「Should we go check the situation at the Royal Academy after finishing breakfast?」
 
-If we go to the Royal Academy, we should be able to contact Rozemyne or Ferdinand via Ordonnanz since we are both in the Center. Unexpected situations often arise around Rozemyne. That's not to say that we should accept everything that comes, rather that we often have no way to avoid it. However, Rozemyne is currently the only one who possesses Grutrissheit. Her life being threatened is directly correlated with a national crisis.
+If we go to the Royal Academy, we should be able to contact Rozemyne or Ferdinand via Ordonnanz since we are both in the Sovereignty. Unexpected situations often arise around Rozemyne. That's not to say that we should accept everything that comes, rather that we often have no way to avoid it. However, Rozemyne is currently the only one who possesses Grutrissheit. Her life being threatened is directly correlated with a national crisis.
 
 「Rozemyne is still a member of the Ehrenfest archducal family until officially appointed Aub at the Archduke Conference, or taken in by the royal family. I have responsibility for her actions and words as Aub Ehrenfest, so I need to know what's going on. Ferdinand won't explain everything in detail anyway.」
 
@@ -240,7 +240,7 @@ Justus seemed intrigued, but we don't have time for such side discussions.
 
 「...What? A goddess meddling in such matters? I've never heard of such a thing.」
 
-「Please take care not to offend the goddess. An order was immediately issued in Central to refrain from taking the lives of prisoners.」
+「Please take care not to offend the goddess. An order was immediately issued in the Sovereignty to refrain from taking the lives of prisoners.」
 
 The faces of a few nobles pass through my mind, who were likely to get noisy over the difference in treatment compared to the purge. Such an pain.
 
@@ -266,7 +266,7 @@ In response to Florenzia's words, Justus revealed the information obtained from 
 
 「By the way, when is the planned meeting with the royal family? How many are attending? And will Ehrenfest as the organizer decide the invited guests?」
 
-「I am only relaying the order to prepare the tea room, so I don't have the details. Especially since battle itself isn't completely over yet. That said, Ferdinand-sama mentioned that this support would show the other territories that Ehrenfest was involved in the Battle for Central. It will be a great advantage in the future. After all, the one who decides on the new Zent is the princess, having become the avatar of the goddess.」
+「I am only relaying the order to prepare the tea room, so I don't have the details. Especially since battle itself isn't completely over yet. That said, Ferdinand-sama mentioned that this support would show the other territories that Ehrenfest was involved in the Battle for the Sovereignty. It will be a great advantage in the future. After all, the one who decides on the new Zent is the princess, having become the avatar of the goddess.」
 
 「Surely you mean Ferdinand, since he's the one ordering Rozemyne around.」
 

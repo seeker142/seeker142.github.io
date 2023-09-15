@@ -50,11 +50,11 @@ As long as Rozemyne-sama is a frequent visitor to the library, it will not be go
 
 「Judithe, are you registered?」
 
-「Yes. I registered with a friend who told me it was a must if I ever go to Central.」
+「Yes. I registered with a friend who told me it was a must if I ever go to the Sovereignty.」
 
 The best knight graduates of the Royal Academy are sometimes scouted by the Central Order, and I remembered that the Central Order required access to the Royal Academy library. Since there were knights failing to enter after being ordered to the library for investigation and capture during the political upheaval, it is now obligatory to complete the registration as a student.
 
-「Oh my. Judithe wants to go to Central?」
+「Oh my. Judithe, you want to join the Central Order?」
 
 Brunhilde raised her voice in surprise, and Judithe looked flustered and shook her head in embarrassment.
 

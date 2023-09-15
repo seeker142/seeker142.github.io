@@ -28,7 +28,7 @@ editor:
 
 「Then is it about those pesky flies?」
 
-「Flies? Which ones? You mean the red knights?」
+「Flies? Which ones? You mean the Red Knights?」
 
 「Not them. The strangely powerful old man and his band of half-insectkin mercenaries. They've been running all over the place, shouting about freeing their peoples and sometimes even resorting to force.」
 
@@ -70,7 +70,7 @@ editor:
 
 「I'm sorry to hear that, but it was a jointly led project. What else was I to do?」
 
-「How would you enjoy being targeted by the red knights? Besides, the Knights of the Red Sword employed many survivors from those labs. You never know what they might try next.」
+「How would you enjoy being targeted by the Red Knights? Besides, the Knights of the Red Sword employed many survivors from those labs. You never know what they might try next.」
 
 「The Knights of the Red Sword are definitely one of the backers for those mercenaries. In that case, we may need to be prepared for the long haul.」
 
