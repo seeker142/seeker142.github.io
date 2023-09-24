@@ -1,0 +1,176 @@
+---
+layout: post
+title:  "TenKen Chapter 1135"
+permalink: Tenken/1135.html
+categories: TenKen
+chapter: 1135
+exclude: true
+translator: Seeker
+editor: 
+---
+<h2>1135: Guardian Ogre</h2>
+
+After decimating the Carmine Flame Knights, we entrusted the exhausted Forrund to Urushi and headed for the undead horde behind us.
+
+The adventurers managed to hang in there thanks to the white protective light enveloping them. Meanwhile, the noble division still seemed to be confused and disorganized.
+
+I thought this was due to only the adventurers getting a boost out of nowhere, but it seems that wasn't the only reason.
+
+「Why are they infighting?」
+
+「J-Just kill them all!」
+
+「A-Are you sure?」
+
+Woops, it's our fault for bringing Avenger with us! Watching the ghouls slaughter other undead must be pretty confusing.
+
+Still, the undead horde was losing a lot of ground.
+
+「Avenger! How dare you betray us!?」
+
+「Fuhahaha! I have received a divine revelation!」
+
+「I always knew you were crazy, but now you've gone completely insane! Where is the loyalty to your creators, to Raydoss!?」
+
+「I never had any love for Raydoss. That was merely the results of the chains binding me! In fact, I was born from grudges against Raydoss!」
+
+It seems Avenger was successfully handling Scavenger, the commander of the undead army.
+
+This Scavenger guy was apparently pretty weak combat-wise. In exchange, he had a talent for spawning undead, as well as the Multiple Body Manipulation skill, something apparently developed based on Hideman.
+
+Theoretically, he would be capable of multiplying himself infinitely, as well as expanding his undead army with the corpses of the fallen.
+
+While Scavenger and Avenger were inferior to the executives in terms of overall strength, they definitely had their own areas of expertise.
+
+However, Scavenger wasn't the only commander of the undead army. The real leader was a giant undead man who stood towering among the rest.
+
+An ogre with two horns growing out of his head. Not an ogrekin, but a full ogre turned undead. His skin was perfectly black like charcoal, and he wore nothing to cover it. At least he didn't have any genitals to show.
+
+Charredman the Blackened, fifth seat of the Black Skeleton Corps. His specialty is combat, and he has the ability to control explosive flames. Well, even if he's the actual commander, Scavenger probably handled the actual leading.
+
+Still, the undead hordes were clearly gaining momentum with Charredman on the front lines.
+
+We came here to eliminate him, but...
+
+「Nwooogh! Explosive Fist!」
+
+「Doraaaaah! Furious Whirlwind!」
+
+A clash of two ogres.
+
+Confronting the jet-black undead ogre was an ogrekin clad in white light.
+
+Charredman and Donadrond exchanged heavy blows with each other, one after another. This was no battle of skill. Neither employed graceful evasive maneuvers or parrying.
+
+They simply took turns striking the other, regenerating their wounds, and checking if their opponent was dead yet. A primitive struggle for life took place in a strange void that had formed in between the undead and adventurers.
+
+「Enough! Die already! I promise to make good use of your body!」
+
+「Never! This is for my friends! I will never lose!」
+
+Charredman seemed bigger and more powerful than what we heard from Avenger. Perhaps he had activated some ability that Avenger didn't know about.
+
+The undead ogre wore a cloak of fire over his body, and his punches literally exploded into flames upon impact. Furthermore, he triggered miniature explosions behind himself to boost the momentum behind his attacks.
+
+Though those fists were his only weapons, they contained enough power to easily demolish giant boulders.
+
+But Donad shrugged off a direct hit with only minor injuries. Just how strong did he get?
+
+It's a bit hard to work with people if you don't know what they're capable of. Or at least, that's my excuse for appraising Donadrond.
+
+<br>
+
+<div class="appraisal" markdown="1">
+<p style="text-align: center;"><strong>Appraisal Information</strong></p>
+
+**Name:** Donadrond<br/>
+**Age:** 47<br/>
+**Race:** Ogrekin / Guardian Ogre<br/>
+**Occupation:** Axe Warrior<br/>
+
+<p>
+<strong>Stats</strong><br/>
+&#160;LV: 49<br/>
+&#160;HP: 991<br/>
+&#160;MP: 436<br/>
+STR: 421<br/>
+VIT: 568<br/>
+AGI: 198<br/>
+INT: 141<br/>
+MAG: 293<br/>
+DEX: 139<br/>
+</p>
+
+**Skills**<br/>
+Intimidation: Lv4, Transport: Lv3, Recovery Rate Up: Lv8, Perfect Barrier: Lv3, Crisis Sense: Lv5, Instruction: Lv4, Presence Sense: Lv3, Fast Regeneration: Lv3, Hard Power: Lv5, Protect: Lv Max, Regeneration: Lv6, Command: Lv2, Defense: Lv Max, Blink Step: Lv3, Earth Magic: Lv2, Throwing: Lv6, Poison Resistance: Lv7, Logging: Lv4, Axe Arts: Lv8, Axe Mastery: Lv Max, Holy Axe Mastery: Lv1, Roar: Lv3, Axe Boost, Revival, Energy Control, Steel Body, Auto-HP Recovery, Strength Boost (Small)
+
+**Unique Skills**<br/>
+Grace of the Ogre God
+
+**Innate Skills**<br/>
+Guardian Ogre, Protective Shimmer
+
+**Titles**<br/>
+Guild Instructor
+
+**Equipment**<br/>
+Blacksteel Battleaxe, Blacksteel Rhino Armor, Saber-Tooth Mantle, Stone Dragon Boots, Bracelet of Hard Power
+
+</div><br/>
+
+『This must be that mutation thing!』
+
+Though ogrekin never evolve, it's said that they sometimes undergo a process known as "mutation". Mad Ogre Form, the skill that triggers Ashwrath's madness, was obtained when he mutated into the "Calamity Ogre" race.
+
+Mutations are apparently caused by factors unrelated to levels... but I never expected to see Donad mutating so soon. Moreover, his mutation doesn't look anywhere near as dangerous as Ashwrath's.
+
+His stats increased dramatically, and a bunch of skills got boosted too, like Regeneration. Donadrond when we first met wouldn't have stood a chance against Charredman.
+
+Yet now he can clash with him head on.
+
+That said, the battle was tilting in Charredman's favor. Judging from his stats and skills, Donadrond's Guardian Ogre seems to be a race which excels at protecting allies.
+
+The boost to his offensive abilities seemed pretty lackluster compared to his defense. Well, his strength is still pretty impressive, he just didn't pack enough of a punch to beat Charredman.
+
+Fran moved closer to a position where Donad could see her, holding me up lightly. That should be sufficient to inform him of our plan to support him.
+
+But then, Donad shook his head lightly.
+
+He doesn't want any backup?
+
+Fran and Donad maintained eye contact for a brief moment, then Fran started going after the surrounding undead rather than Charredman.
+
+『Are you sure about this?』
+
+（Nn. Donad has a plan. We can leave him alone.）
+
+『I see. Then we should at least exterminate the undead to make things easier on him.』
+
+「Nn!」
+
+While we were busy defeating the undead, the clash between Donadrond and Charredman finally reached a tipping point. Charredman's punch sent Donad flying, and he even launched an explosive spell to follow up.
+
+「Ora ora ora! You're done for! Get blown to smithereens!」
+
+Donad attempted to stand back up, but his knees gave way. We all thought he was about to take a fatal blow, then suddenly...
+
+「...Ogre Revolution.」
+
+「GRAAAAAHHH!」
+
+Donad muttered two words, and it was over. Without any warning, countless holes had been drilled into Charredman's body.
+
+「W-What the... D-Damn you...」
+
+Charredman spoke his last words right before his body exploded. There's no way he can regenerate from that. A very anticlimactic end for the most powerful undead in the horde.
+
+But seriously, what happened? Donad clearly did something, right...?
+
+「Donad is amazing!」
+
+『Y-Yeah.』
+
+Anyways, this battle ended much faster than I expected.
+
+
+
