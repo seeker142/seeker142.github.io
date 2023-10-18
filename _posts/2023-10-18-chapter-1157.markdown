@@ -1,0 +1,159 @@
+---
+layout: post
+title:  "TenKen Chapter 1157"
+permalink: Tenken/1157.html
+categories: TenKen
+chapter: 1157
+exclude: true
+translator: Seeker
+editor: 
+---
+<h2>1157: Roza Blutregen</h2>
+
+The Blood Maiden Captain reached out her left hand toward us.
+
+In contrast to the grace of her gesture, her left arm was covered with a huge, unrefined chunk of metal.
+
+This was the blackish-silver gauntlet-shaped magic tool she wore, but it was incredibly misshapen.
+
+Based on the bulges under her sleeve, the gauntlet appeared to cover her entire left arm up to the shoulder. The area around the elbow was especially thick, making it look as if she had replaced her arm with a giant's arm. If she slumped her arms down, the tip would easily reach the ground, even if her fist was closed.
+
+Her gauntlet was also covered in tubes and screws, giving it a very mechanical appearance. I can easily imagine her shouting "rocket punch", and her gauntlet actually flying off.
+
+Despite how heavy it looked, the woman swung it around without any sign of caring.
+
+The five thick fingers of her mechanical arm had slit-like openings at the tip, each spurting out a fine, red mist.
+
+『Fran! Leave the mist to me!』
+
+（Please!）
+
+『Urushi, you take care of the Red Knights!』
+
+（Woof!）
+
+By casting magic from the shadows, Urushi managed to engage without touching the mist. However, such limitations prevented him from utilizing his full strength.
+
+Well, I suppose his ability to move in between shadows alleviated that issue a bit.
+
+Leaving the arrows to Fran, I continued spamming purification magic as fast as possible. Pausing my spells for a single moment would leave our allies sitting ducks to the mist.
+
+Moreover, it seems the captain was very skilled at melee despite having such a lethal area attack. Pretty nasty combo for someone acting like a graceful lady. 
+
+<br>
+
+<div class="appraisal" markdown="1">
+<p style="text-align: center;"><strong>Appraisal Information</strong></p>
+
+**Name:** Roza Blutregen<br/>
+**Age:** 47<br/>
+**Race:** Human<br/>
+**Occupation:** Power Brawler<br/>
+
+<p>
+<strong>Stats</strong><br/>
+&#160;LV: 71/99<br/>
+&#160;HP: 1498<br/>
+&#160;MP: 568<br/>
+STR: 981<br/>
+VIT: 508<br/>
+AGI: 407<br/>
+INT: 258<br/>
+MAG: 211<br/>
+DEX: 277<br/>
+</p>
+
+**Skills**<br/>
+Intimidation: Lv6, Acting: Lv2, Covert: Lv7, Holy Fist Arts: Lv6, Holy Fist Mastery: Lv6, Fist Arts: Lv Max, Fist Mastery: Lv Max, Butchery: Lv5, Crisis Sense: Lv4, Court Etiquette: Lv5, Presence Sense: Lv4, Hardened Qi: Lv6, Hard Power: Lv7, Socializing: Lv3, Kicking Arts: Lv3, Blink: Lv4, Status Resistance: Lv Max, Mental Resistance: Lv5, Elemental Sword: Lv4, Poison Knowledge: Lv4, Soft Qi: Lv3, Physical Barrier: Lv5, Magic Sense: Lv9, Magic Resistance: Lv3, Energy Control, Eagle Eye, Intuition, Dragon Killer, Beast Slayer
+
+**Innate Skills**<br/>
+Power Fist
+
+**Titles**<br/>
+Slaughterer, Ally Slayer, Haunt Liberator, Dungeon Conqueror, Dragon Killer, Beast Killer, Countess
+
+**Equipment**<br/>
+Blood Maiden, Water Dragon Dress Armor, Wind Dragon Footwear, Water Dragon Earring, Ring of Stealth
+
+</div><br/>
+
+She's unquestionably a power fighter on the level of Rank A, and her metallic gauntlet must be her relic.
+
+The full name is "Vampire Eradication Weapon, Blood Maiden".
+
+It had the following skills: *Field Generator, Field Control, Blood Nanite Factory, Blood Nanite Control, Bloodbreak, Evil Energy Absorption, ■■■■*. Of course, this relic also had an obscured skill.
+
+But what's with this "Vampire Eradication" thing?
+
+I've heard of vampires before. In this world, they once ranked among the highest tiers of fiends. However, that was only until they went extinct ages ago.
+
+Long ago, the king of vampires nearly drove an entire continent to ruin, causing the world to view them as a significant threat. As a result, the world's nations banded together to relentlessly seek out and hunt vampires.
+
+No clue about the rest of the details, but documents from the Adventurers Guild described them as ancient fiends who were long gone.
+
+So it seems the original purpose of her relic was to eradicate vampires. I can understand the existence of anti-vampire tools, since vampires were apparently prominent in the past. There are anti-dragon weapons too, after all.
+
+More importantly is the fact that the relic's power also works against non-vampires.
+
+I suppose the red mist must be this "Blood Nanite" thing? Judging by the name, maybe they're some sort of nanomachines that invade the target's body and break down their blood from the inside.
+
+Purification magic seems effective against foreign entities like these nanites that invade the body. Perhaps the spell cleanses them by purging their body of everything unnatural.
+
+「I am Roza Bultregen, captain of the Blood Maiden Knights. May I ask your name?」
+
+「...Fran.」
+
+「Ohohoho! It's a pleasure to make your acquaintance, Fran!」
+
+Roza smiled broadly as she launched her attack.
+
+The huge Blood Maiden came slamming down on us, simultaneously spraying red mist all over the place.
+
+Various slits all over the gauntlet began spreading nanites according to the wielder's will.
+
+Roza was certainly trying to kill Fran, but not aggressively. Her real goal must lie somewhere else.
+
+It seems her priority was on stalling us, and preventing our support from reaching Fort Elent.
+
+「Come now, playtime has only just begun!」
+
+「Haaah!」
+
+「Ohohoho! You're strong! Too strong, even!」
+
+Roza seemed genuinely surprised when Fran dodged her hit and dished out a counter attack. Maybe this is an area the woman lacked experience in.
+
+Simply puffing her opponents with red mist would be enough nab her an easy win in most cases, so I assume she never experienced many hard-fought battles against humans.
+
+I continued nullifying the red mist as Fran clashed again with Roza.
+
+Roza employed invisible barriers as well as the Blood Maiden's regenerative abilities. However, her main fighting style was like a high-ranking ogre, dishing out heavy blows that were hard to dodge.
+
+Fran had trouble dealing damage, since the barriers even managed to block our thunder magic. If she's yet to get serious, then who knows what she's really capable of.
+
+In the middle of our battle with Roza, the sounds of combat within Fort Elent suddenly ceased.
+
+A few figures stepped over the debris of the collapsed walls, revealing the culprits.
+
+The first was Hideman. No wonder our plan got out, the guy's just that troublesome.
+
+The second figure was a wight-like undead wearing black robes, similar to the ones Nameless wore. What's more, this wight was carrying Cysanth over his shoulder.
+
+The elderly adventurer's armor had shattered, with the area around his chest stained red. Seems like some serious damage... but he's still alive based on the tiny movements I saw.
+
+It wasn't only them. A third man appeared from behind the two, holding a small girl in his arms. He was a human radiating an aura of evil.
+
+And the girl in his hands was Persona.
+
+Even at this distance, I could make out her trademark mask.
+
+「Persona! Cysanth!」
+
+As much as I want to go save them right now, we're currently stuck.
+
+「Ohohoho! You won't be going anywhere!」
+
+Roza ramped up the pace of her assault even higher.
+
+
+
