@@ -10,7 +10,7 @@ editor:
 ---
 <h2>729: Side - Martial Arts Tournament, Behind the Scenes</h2>
 
-Side - A Certain Group of Three (4)<br>
+**Side - A Certain Group of Three (4)**
 
 「That was one impressive match. We can't be too careful with these adventurers.」
 
@@ -84,7 +84,7 @@ Side - A Certain Group of Three (4)<br>
 
 「……Thank you very much.」
 
-「Don't mention it. Worst case scenario, I can break the red seal and activate the Red Blade. Then I'll carry you two and him on my back all the way through.」
+「Don't mention it. Worst case scenario, I can break the red seal and activate the Red Sword. Then I'll carry you two and him on my back all the way through.」
 
 「Oh yeah? That sounds like a lot of fun!」
 
@@ -100,8 +100,9 @@ Side - A Certain Group of Three (4)<br>
 
 「……You had better be.」
 
+<br>
 
-<br>Side - ????<br>
+**Side - ????**
 
 「Hee-hee-hee. The festivities in this town are almost over…… How are things going on your side?」
 
