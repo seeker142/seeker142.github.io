@@ -26,7 +26,7 @@ Dealing with drunkards would be annoying even with family members, yet Ferdinand
 
 「Yeah. Later, everyone!」
 
-Myne waved her hands with a smile, entering the door that appeared on the wall with Ferdinand. The door closed and vanished suddenly, leaving nothing but a blank white wall. It felt like all the time we had spent together vanished along with it.
+Myne waved her hands with a smile, entering the door that appeared on the wall with Ferdinand-sama. The door closed and vanished suddenly, leaving nothing but a blank white wall. It felt like all the time we had spent together vanished along with it.
 
 「The door disappeared!」
 
@@ -100,7 +100,9 @@ Tuuli and I arranged the cups on the table, while temporarily snatching Gunther'
 
 「True. Kamil, you see, Myne was frail since birth, to the point where it wouldn't be strange for her to die at any time. She had constant fevers, due to the Devouring...」
 
-We began explaining everything. How the Devouring refers to a child with mana, and Myne had a body that couldn't survive without the magical tools that nobles possess. Her excessive love for books, resulting in her meeting with Benno-san and others while trying to make her own. How she found the library due the baptism and joined the temple just to read books. How she became an apprentice blue-robed priestess to quell the fever caused by the Devouring, which was supposed to save her life. However, that's when she got targeted by nobles from the outside. Having gone against a noble, she was forced to become the adopted daughter of the archduke of Ehrenfest to protect her family. At that time, we were prohibited from treating her as family through contract magic, and her name changed from Myne to Rozemyne upon becoming a noble.
+We began explaining everything. How the Devouring refers to a child with mana, and Myne had a body that couldn't survive without the magical tools that nobles possess. Her excessive love for books, resulting in her meeting with Benno-san and others while trying to make her own. How she found the library during her baptism and joined the temple just to read books. How she became an apprentice blue-robed priestess to quell the fever caused by the Devouring, which was supposed to save her life.
+
+However, that's when she got targeted by nobles from the outside. Having gone against a noble, she was forced to become the adopted daughter of the archduke of Ehrenfest to protect her family. At that time, we were prohibited from treating her as family through contract magic, and her name changed from Myne to Rozemyne upon becoming a noble.
 
 Gunther, Tuuli, and I took turns sharing our memories of Myne.
 
