@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2>1276: Wings of Flame and Divine Sword Imitation</h2>
+<h2>1276: Wings of Flame, Divine Sword Imitation</h2>
 
 「「「 Haaaaaaaah! 」」」
 
@@ -90,9 +90,9 @@ Sibylla and Yuvel's long-range attacks continued flying in, shaving away at Lara
 
 Avenger remained vigilant by Persona's side, realizing that his offensive capabilities would be lacking. When push came to shove, he seemed to have chosen the role of a meat shield. Given his personality, that's a surprisingly astute decision.
 
-However, Forrund was nowhere to be seen. I did a frantic scan, and noticed he was just behind us. It seems he was hiding with the power of a sword for perfectly concealing his presence and magical energy.
+However, Forrund was nowhere to be seen. I did a frantic scan, and noticed he was just behind us. It seems he was hiding with the power of a sword that perfectly concealed his presence and magical energy.
 
-Was he hiding because he was injured or something? No, there was something unusual going on.
+Did he need to hide because he was injured or something? No, there was something unusual going on.
 
 I could tell with just a glance. The deep red magic enveloping his entire body was anything but ordinary.
 
