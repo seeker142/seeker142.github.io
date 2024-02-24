@@ -38,7 +38,7 @@ I scowl and brush off the hand on my shoulder. I have neglected not only in help
 
 「At least see Wilfried off. It won't take much time.」
 
-I look at Wilfried who is talking with Florenzia and Charlotte, then at the servants who are carrying their luggage to the teleportation circle, and at the piles of luggage in the waiting room.
+I look at Wilfried who is talking with Florencia and Charlotte, then at the servants who are carrying their luggage to the teleportation circle, and at the piles of luggage in the waiting room.
 
 「No. It's a waste of time.」
 

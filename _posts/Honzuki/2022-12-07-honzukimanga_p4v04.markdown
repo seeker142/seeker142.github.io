@@ -124,9 +124,9 @@ I truly want Rozemyne-sama to be the next archduke. There is no one in Ehrenfest
 
 *……So why? Why do they not push her for the seat of archduke?*
 
-Cornelius says that Rozemyne-sama does not want to be the next archduke, and the same seems to be true for Karstedt-sama and Elvira-sama. It may be that she is considering the position of Florenzia-sama, the first lady of the archduke, but isn't that just pushing Rozemyne-sama to do what is in someone else's best interests?
+Cornelius says that Rozemyne-sama does not want to be the next archduke, and the same seems to be true for Karstedt-sama and Elvira-sama. It may be that she is considering the position of Florencia-sama, the first lady of the archduke, but isn't that just pushing Rozemyne-sama to do what is in someone else's best interests?
 
-Florenzia-sama, as the first wife of the archduke, and Rozemyne-sama, as a member of the archducal family, should put the improvement of the future Ehrenfest as a top priority. If she never intended to make her adopted child the next archduke, she should not have adopted her from the beginning. Her current position means little but having her mana leeched.
+Florencia-sama, as the first wife of the archduke, and Rozemyne-sama, as a member of the archducal family, should put the improvement of the future Ehrenfest as a top priority. If she never intended to make her adopted child the next archduke, she should not have adopted her from the beginning. Her current position means little but having her mana leeched.
 
 *……If Rozemyne-sama herself desires to be the next archduke, I will do my best to arrange it.*
 

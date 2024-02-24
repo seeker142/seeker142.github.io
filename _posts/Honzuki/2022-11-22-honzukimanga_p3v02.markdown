@@ -18,17 +18,17 @@ With a sense of urgency in my gut, I ride my highbeast through the air. Feeling 
 
 「Karstedt, could you please go home early today? I'm worried about Elvira……」
 
-Florenzia-sama's words repeated over and over in my head as I drove my highbeast. She did not elaborate on what had happened. The first wife of the archduke, had made a proposal to me, the Knight Commander, that required a change of plans. 
+Florencia-sama's words repeated over and over in my head as I drove my highbeast. She did not elaborate on what had happened. The first wife of the archduke, had made a proposal to me, the Knight Commander, that required a change of plans. 
 
 *……What in the world happened to Elvira……*
 
-I had heard about Elvira's plans for today, that she was going to be with Ferdinand and Florenzia-sama, taking medicine to Rihyarda to check on Rozemyne, who was bedridden. If Rozemyne was in good health, they might have some tea. 
+I had heard about Elvira's plans for today, that she was going to be with Ferdinand and Florencia-sama, taking medicine to Rihyarda to check on Rozemyne, who was bedridden. If Rozemyne was in good health, they might have some tea. 
 
-But I had not heard that anything dangerous happened there. There was no call for the Knights, nor was there any report from Florenzia-sama to the archduke. Only, "I'm worried about Elvira."
+But I had not heard that anything dangerous happened there. There was no call for the Knights, nor was there any report from Florencia-sama to the archduke. Only, "I'm worried about Elvira."
 
 「Elvira!」
 
-The servants coming to greet me as I got down from Highbeast and opened the door of the pavilion screamed, "Eh!? Karstedt-sama?!" They looked as if they were not expecting me. It was only then that I realized I had not sent any notification before rushing to confirm Florenzia-sama's words.
+The servants coming to greet me as I got down from Highbeast and opened the door of the pavilion screamed, "Eh!? Karstedt-sama?!" They looked as if they were not expecting me. It was only then that I realized I had not sent any notification before rushing to confirm Florencia-sama's words.
 
 「Where is Elvira? In her room?」
 
@@ -40,7 +40,7 @@ I looked at Elvira's whole body from top to bottom, her jet-black eyes twinkling
 
 「Karstedt-sama, if you have a sudden change of plans, you should send an Ordonnanz.」
 
-I looked at Elvira, who pointed out that I had forgotten to contact her, and I realized the state of affairs Florenzia-sama was worried about.
+I looked at Elvira, who pointed out that I had forgotten to contact her, and I realized the state of affairs Florencia-sama was worried about.
 
 *……Why is she smiling so much when she is complaining at me?*
 
@@ -50,7 +50,7 @@ From the first time I met Elvira, she had always wore her smile like a mask, had
 
 *……What is really going on?*
 
-I can't hide my consternation at this abnormal sight of my wife. I had thought that she was in a good mood when Ferdinand visited the mansion during Rozemyne's stay, but this is beyond the level of a "good mood". It exceeded the realm of strange and was just plain creepy. Florenzia-sama has every right to be worried.
+I can't hide my consternation at this abnormal sight of my wife. I had thought that she was in a good mood when Ferdinand visited the mansion during Rozemyne's stay, but this is beyond the level of a "good mood". It exceeded the realm of strange and was just plain creepy. Florencia-sama has every right to be worried.
 
 「When Cornelius comes back, dinner will be served. Please take a change of clothes.」
 
@@ -60,7 +60,7 @@ Even the words sounded as if they were being sung. I walked to my room with my a
 
 「I don't know. She was in that state when she came back from the castle. Karstedt-sama, perhaps you know something and that's why you came back so unexpectedly?」
 
-「I was told by Florenzia-sama that I should check on her. I have no idea what is going on and I don't know the cause.」
+「I was told by Florencia-sama that I should check on her. I have no idea what is going on and I don't know the cause.」
 
 After a silent exchange of looks with the attendants, I gave up trying to find out the cause of the problem and went to my room.
 
@@ -70,7 +70,7 @@ When I got dressed and went to the dining room, I found Cornelius, my third son,
 
 「I was told to come home early today.」
 
-Saying this, Cornelius turned his eyes to Elvira without moving his face. I could see that Florenzia-sama or Rozemyne must have sent Cornelius home because they were worried about her.
+Saying this, Cornelius turned his eyes to Elvira without moving his face. I could see that Florencia-sama or Rozemyne must have sent Cornelius home because they were worried about her.
 
 I sat down and looked at Elvira, who seemed to be enjoying herself. She was humming a relatively well-known love song and looked as if she had fallen in love.
 
@@ -78,7 +78,7 @@ I sat down and looked at Elvira, who seemed to be enjoying herself. She was humm
 
 She is not the kind of woman who has a flirtatious nature, and our married relationship is much better than it was in the past. I shook my head to shake off the stupid thought and asked Elvira directly.
 
-「Elvira, you seem to be quite happy, but what happened? I was told by Florenzia-sama that I should go home to check on you as soon as possible……」
+「Elvira, you seem to be quite happy, but what happened? I was told by Florencia-sama that I should go home to check on you as soon as possible……」
 
 「Oh my, nothing in particular happened though.」
 
@@ -86,11 +86,11 @@ Her pleasant smile turned into a familiar, noble-like smirk.
 
 「What in the world is going on?  Are you sure you're not about to do something dangerous?」
 
-「It's not dangerous at all. If that were the case, Florenzia-sama would have reported it to Sylvester-sama.」
+「It's not dangerous at all. If that were the case, Florencia-sama would have reported it to Sylvester-sama.」
 
 I know she wanted me to drop the subject because it's not something important to me. That's what I've done so far. I would have left it alone, especially if it was not detrimental to my family. But strangely enough, I felt uncomfortable with the fact that my wife was hiding things from me.
 
-「Hmmm…… If there is no danger, why would Florenzia-sama want me to come home early?」
+「Hmmm…… If there is no danger, why would Florencia-sama want me to come home early?」
 
 As I pressed further, Elvira looked up a little and began to think. She was calculating how much she could tell me.
 

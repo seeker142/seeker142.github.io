@@ -18,7 +18,7 @@ notes: "Sylvester POV"
 
 「Yeah, tell me when Ferdinand gets back.」
 
-Justus had teleported from the Royal Academy dormitory early in the morning for this report, after which I hurriedly departed the meeting room for the archduke's office. Florenzia and Charlotte also left quickly with their entourages. The unscheduled meeting had pushed back my original schedule, not to mention all the events that would require my presence at the Royal Academy happening on a daily basis from now onward. It's not only the archducal family that is busy, but also their entourages.
+Justus had teleported from the Royal Academy dormitory early in the morning for this report, after which I hurriedly departed the meeting room for the archduke's office. Florencia and Charlotte also left quickly with their entourages. The unscheduled meeting had pushed back my original schedule, not to mention all the events that would require my presence at the Royal Academy happening on a daily basis from now onward. It's not only the archducal family that is busy, but also their entourages.
 
 Upon my arrival at the archduke's office, a scholar piled up a stack of reports in front of me.
 
@@ -26,7 +26,7 @@ Upon my arrival at the archduke's office, a scholar piled up a stack of reports 
 
 Today we have the sendoff ceremony for the knights of Haldenzell and Kirnberger. We will be sending them off with words of thanks for their cooperation during the defense of Ehrenfest and for helping interrogate the prisoners of war.
 
-「Is it permissible for Florenzia-sama to be absent from the sendoff ceremony? I would like for her to prioritize preparing for the meeting with the royal family…」
+「Is it permissible for Florencia-sama to be absent from the sendoff ceremony? I would prefer her to prioritize preparing for the meeting with the royal family…」
 
 「No problem. My presence as archduke is necessary to placate the Giebes, and the same goes for Wilfried who fought alongside the Kirnberger knights, but the archducal family does not have to be present as a whole. Allow her to focus on other issues.」
 
@@ -36,7 +36,7 @@ As we were moving toward the sendoff ceremony at the third bell, a scholar prese
 
 「The cooks and ingredients for Rozemyne-sama's group have already been brought in at Rihyarda's request. Asking them to handle a few more people will be sufficient.」
 
-After the sendoff ceremony, I headed to the teleportation room on my way to have lunch with Ferdinand. However, I went by myself and a minimal number of entourage members. Florenzia and Charlotte already stated that they wouldn't make it. Meanwhile, Rihiarda was furious with me because the cooks and foodstuffs transferred to the Royal Academy dormitory were only supposed to be Rozemyne and her entourage. Also, Florenzia told me that "Ferdinand-sama will be forced to maintain a formal attitude if I am present". In other words, the friendly atmosphere between two brothers would supposedly allow me to gain more information out of him and benefit our duchy.
+After the sendoff ceremony, I headed to the teleportation room on my way to have lunch with Ferdinand. However, I went by myself and a minimal number of retainers. Florencia and Charlotte already stated that they wouldn't make it. Meanwhile, Rihiarda was furious with me because the cooks and foodstuffs transferred to the Royal Academy dormitory were only supposed to be for Rozemyne and her entourage. Also, Florencia declined to go saying that "Ferdinand-sama will be forced to maintain a formal attitude if I am present". In other words, the friendly atmosphere between two brothers would supposedly allow me to gain more information out of him and benefit our duchy.
 
 *……Ferdinand isn't going to be that soft, you know.*
 
@@ -50,9 +50,9 @@ Ferdinand had already arrived and was writing something at the corner of the lar
 
 「Ferdinand, so it seems the battle is over.」
 
-「Only the battle. Our discussions with the royal family will be the second critical moment.」
+「But only the battle. Our discussions with the royal family will be the second critical moment.」
 
-Leaving Justus to clean up the paper and ink, Ferdinand moved to the other side of the table, where the attendants readied our meal. Ferdinand's side was prepared by Lasfam, the attendant of his mansion. I saw Justus during the morning meeting, sending a Ordonnanz containing the message "Please bring the things necessary for our master to rest in the dormitory as soon as possible", and it seems that he arrived in time.
+Leaving Justus to clean up the paper and ink, Ferdinand moved to the other side of the table, where the attendants readied our meal. Ferdinand's side was prepared by Lasfam, the attendant of his mansion. I saw Justus during the morning meeting, sending an Ordonnanz containing the message "Please bring the things necessary for our master to rest in the dormitory as soon as possible", and it seems that he arrived in time.
 
 「I heard you disappeared from the top of the altar, but what happened after that? What's all this about a goddess descending upon Rozemyne? And what of Lanzenave's king?」
 
@@ -66,9 +66,9 @@ I mimicked Ferdinand's manner of speaking, and he raised one eyebrow slightly be
 
 「Grgh…」
 
-I don't want that, but getting kept in the dark completely is bad as well. As I continued glaring at Ferdinand, he agreed with telling me the basics of the situation, saying, "You should at least know what will be discussed during our meeting with the royal family."
+I don't want that, but getting kept in the dark completely is irritating as well. As I continued glaring at Ferdinand, he agreed with telling me the basics of the situation, saying, "You should at least know what will be discussed during our meeting with the royal family."
 
-「After the divine statues glowed, we were transferred to a place called the Garden of Beginnings, since both Rozemyne and Gervasio have Grutrissheit. Therefore, they were to compete with each other in the speed of supplying mana to the Country Gates, to prove who is more deserving of Yurgenschmidt's Foundation Magic. I am told that this caused the Country Gates to shine and that inquiries were made to the royal court from other territories.」
+「After the divine statues glowed, we were transferred to a place called the Garden of Beginnings, since both Rozemyne and Gervasio have Grutrissheit. Therefore, they were to compete with each other in the speed of supplying mana to the Country Gates, to prove who is more deserving of Yurgenschmidt's Foundation Magic. I am told that this caused the Country Gates to shine, resulting in inquiries to the royal court from various duchies.」
 
 「Don't you have it as well…?」
 
@@ -88,7 +88,7 @@ Merciless. I truly think that from the bottom of my heart. I doubt any normal pe
 
 「Are you even allowed to interfere when the goddess ordered the two of them to compete?」
 
-「Likely not if it eliminated everyone holding Grutrissheit, but the gods will not be particularly bothered if the number of candidates is reduced to one.」
+「Likely not if it eliminated everyone who possesses Grutrissheit, but the gods will not be particularly bothered if the number of candidates is reduced to one.」
 
 「What are you saying?! Do you fancy yourself the mouthpiece of the gods or something!? Ehrenfest better not receive divine punishment for this!」
 
@@ -116,7 +116,7 @@ Ferdinand explained that the goal was to get things set in stone while everyone 
 
 「This is a race against time. The royal family is currently wallowing in confusion, regret, and remorse. Allowing this moment to pass will let them use their authority to seize Rozemyne again. Now is the only time we are capable of denying them, since no one can approach the goddess's aura. We must end everything before the royal family and the duchies backing them come to their senses.」
 
-It seems he already has the next steps mapped out completely in his mind. I cannot help but be amazed at my too talented, and too independent brother. If the royal family and other duchies can be restrained from interfering, subsequent rebellions and civil wars become less likely as well. Ferdinand's plan is the best solution in that sense, but who will be responsible for the backlash after the nobles realize what happened?
+It seems he already has the next steps completely mapped out in his mind. I cannot help but be amazed at my too talented, and too independent little brother. If the royal family and other duchies can be restrained from interfering, subsequent rebellions and civil wars become less likely as well. Ferdinand's plan is the best solution in that sense, but who will be held responsible for the backlash when the nobles realize they have been played?
 
 「Won't they direct their animosity solely at you, as the one who forced these events through? Is there really no safer way to do this? I feel like you aren't paying enough attention to your surroundings.」
 
@@ -124,7 +124,7 @@ I cautioned him, remembering how Norbert and the others were so upset by the sud
 
 「Unfortunately, I cannot think of any safer way. This is all necessary to make the other duchies accept an underage female Aub at the Archduke Conference. With the achievement of giving Grutrissheit to the new Zent, in addition to taking the Foundation Magic, they have no choice but to recognize Rozemyne as the new Aub despite being a minor.」
 
-Ferdinand's concern was understandable. A minor like Rozemyne could take the Foundation Magic of another territory so easily. There's a strong possibility that someone will suggest an adult archducal family member should take Ahrensbach's Foundation Magic back in the same way, and appoint someone else as Aub. However, the person holding the Foundation Magic is undoubtedly the Aub. Dunkelfelger may be satisfied with this fact, but there will be many arguing that she is underage and has no experience in the office.
+Ferdinand's concern was understandable. A minor like Rozemyne could take the Foundation Magic of another territory so easily. There's a strong possibility that someone will suggest an adult archducal family member should take Ahrensbach's Foundation Magic back in the same way, and appoint someone else as Aub. However, the fact remains that the person holding the Foundation Magic is undoubtedly the Aub. Dunkelfelger may be satisfied with this explanation, but many others will argue that she is underage and has no experience in the office.
 
 *……Especially those of Ahrensbach, the duchy deprived of its Foundation Magic.*
 
@@ -134,7 +134,7 @@ Ferdinand's concern was understandable. A minor like Rozemyne could take the Fou
 
 「Dietlinde was in the same situation, but she got forced on you since there weren't any other single male archduke candidates who could hold the office. Rozemyne won't have anyone else either.」
 
-I've heard the king's order was issued because there was no other husband candidate who could support a greater duchy.
+I've heard the royal decree was issued because there was no other husband candidate who could support a greater duchy.
 
 「The goddess has descended upon this girl, who carries Grutrissheit and is capable of appointing a new Zent. Everyone will be making excuses to steal her away. Of course there will be single men who didn't show up for Dietlinde.」
 
@@ -146,7 +146,7 @@ Dietlinde, who was born and raised in greater duchy, and Rozemyne, who was an ad
 
 I feel a little pathetic as Aub, but that's the reality. We have only just started getting treated as a winning duchy, and although we are now ranked in the upper echelons, our achievements are few. And those few achievements and accomplishments were the brainchild of Rozemyne.
 
-「That's why it's important for Ehrenfest to be involved in a way that other territories can see. Are you dissatisfied?」
+「That's why it's important for Ehrenfest to be involved in a way that other duchies can see. Are you dissatisfied?」
 
 「No, I'm just grateful for the thoughtfulness of my sweet brother.」
 
@@ -154,19 +154,19 @@ If the appointment of a new Zent is already in the books, the position we occupy
 
 「Also, the inauguration of the new Zent will take place before the Archduke Conference. Unless I have the new Zent certify me as Rozemyne's official fiance, I will not be able to attend the Archduke Conference and support her.」
 
-「What? So you just want to visit the Archduke Conference with your lovely bride Rozemyne?」
+「What? So you did this in order to visit the Archduke Conference with your lovely bride Rozemyne?」
 
 Ferdinand had said the day after the victory celebration that he would "not return to Ehrenfest but live with Rozemyne". I gave him a grin intended to tease, but he stared at me with a deep crease between his eyebrows.
 
 「It's because a year and a half of my work is about to go unrewarded. I cannot afford that possibility.」
 
-「Yeah, yeah. The year and a half of hard work under royal decree will all go to waste. I'll let you leave it at that.」
+「Yeah, yeah. Your year and a half of hard work under royal decree will all go to waste. I'll let you leave it at that.」
 
 I know that Ferdinand went to Ahrensbach planning to die, so I really hope that this hardship will lead to his happiness in some way. Though my face remained stuck in a smirk, my wish for my brother's happiness was completely sincere.
 
 「Hoh, if you have enough energy to smile like that, then handling my requests should be a simple matter.」
 
-With a beautiful fake smile on his face, Ferdinand went on and on about the logistical support he needed. My grin instantly vanished, with my face turning incredibly pale.
+With a beautiful fake smile on his face, Ferdinand went on and on about the logistical support he needed. My grin instantly vanished, and my face turned incredibly pale.
 
 「Inform me when Rozemyne wakes up. Also, tell those around Rozemyne to act the same way around her. She is rather sharp when it comes to changes in behavior.」
 
@@ -200,15 +200,15 @@ If they really feel instinctive awe, then it can't be helped. They can only do s
 
 「Has Rozemyne reported anything about when the goddess descended?」
 
-「No, since she had difficulty even eating food along with the medicine… We will have to wait until after she wakes up before hearing her story. Also, Cornelius reported something to me. Apparently, the goddess's power is making the namesworn entourage members behave strangely.」
+「No, since she had difficulty even eating food along with the medicine… We will have to wait until after she wakes up before hearing her story. Also, Cornelius reported something to me. Apparently, the goddess's power is making the namesworn retainers behave strangely.」
 
-My eyes widened upon hearing such a thing for the first time. No such report had come from Ferdinand. He must not have known, since this phenomenon was limited to entourage members who had dedicated their names to Rozemyne.
+My eyes widened upon hearing such a thing for the first time. No such report had come from Ferdinand. He must not have known, since this phenomenon was limited to retainers who had dedicated their names to Rozemyne.
 
 「What do you mean by strangely? Can you give an example?」
 
 「It seems to make them want to praise and pray to the princess similarly to Hartmut.」
 
-I imagined all of Rozemyne's namesworn entourage praising her like Hartmut, and pondered the situation for a while. While creepy and annoying, it doesn't seem to have much of a negative impact on anyone else.
+I imagined all of Rozemyne's namesworn retainers praising her like Hartmut, and pondered the situation for a while. While creepy and annoying, it doesn't seem to have much of a negative impact on anyone else.
 
 「…If they don't burden Rozemyne, just leave them be.」
 
@@ -228,13 +228,13 @@ But even so, Rozemyne was probably the original cause. That's usually the case w
 
 「He was still sending Ordonnanz everywhere after our meeting. According to Justus, he will be spending most of his time with the Ahrensbach knights at the villa. I guess they can't let up on their surveillance yet.」
 
-I explained to Rihyarda that our meeting with the royal family was set for the day after tomorrow, and that Florenzia and Charlotte will come to the dormitory in the afternoon. She was angry with Ferdinand for his lack of care for the attendants and skipping of the arrangements, but she understood the important parts: "Time is of the essence" and "our duchy must handle logistical support".
+I explained to Rihyarda that our meeting with the royal family was set for the day after tomorrow, and that Florencia and Charlotte will come to the dormitory in the afternoon. She was angry with Ferdinand for his lack of care for the attendants and skipping of the arrangements, but she understood the important parts: "Time is of the essence" and "our duchy must handle logistical support".
 
 「Norbert will have his hands full with serving and rearranging the attendants' work schedules for the day, so I will help you with what I can in the Royal Academy dormitory.」
 
 Shaking her head from side to side, Rihyarda said, "Of course, I will need everyone's help as well."
 
-「We can leave the tea room furnishings and menu to Charlotte-himesama, as long as Brunhilde assists with the princess's recipes and cooks. Ferdinand-sama has skipped the arrangements and already set the date, so though it pains me to make her do this, we should let Florenzia-sama handle the correspondence between attendants. She can ensure the guests don't find any ingredients or flavors that are unsuited for their tastes.」
+「We can leave the tea room furnishings and menu to Charlotte-himesama, as long as Brunhilde assists with the princess's recipes and cooks. Ferdinand-sama has skipped the arrangements and already set the date, so though it pains me to make her do this, we should let Florencia-sama handle the correspondence between attendants. She can ensure the guests don't find any ingredients or flavors that are unsuited for their tastes.」
 
 My scholar at my side wrote down Rihyarda's words as she spoke.
 
@@ -242,7 +242,7 @@ My scholar at my side wrote down Rihyarda's words as she spoke.
 
 She nailed me with such a fearsome possibility that I had no choice but to agree. Whenever Rozemyne is involved, things always get bigger and urgent matters pop up out of nowhere. I doubt there's anything more urgent and important than a discussion with the royal family, but we cannot be too careful.
 
-「For the sake of information sharing and to ensure Ferdinand gets a decent meal, I think we will be eating in the dormitory more often until our meeting with the royals. Florenzia and Charlotte will also have dinner in the dormitory. Make the necessary arrangements.」
+「For the sake of information sharing and to ensure Ferdinand gets a decent meal, I think we will be eating in the dormitory more often until our meeting with the royals. Florencia and Charlotte will also have dinner in the dormitory. Make the necessary arrangements.」
 
 「Yes, sir. Brunhilde and I will take care of things.」
 
@@ -250,7 +250,7 @@ I returned to the castle for the afternoon, and there was a pile of work to be d
 
 <br/>
 
-In no time at all, it was time for dinner. I moved again to the dormitory before the sixth bell rang. It seems our food was ready in the conference room. Charlotte and Florenzia were already there, and Ferdinand quickly came in after. Rozemyne was the last to enter.
+In no time at all, it was time for dinner. I moved again to the dormitory before the sixth bell rang. It seems our food was ready in the conference room. Charlotte and Florencia were already there, and Ferdinand quickly came in after. Rozemyne was the last to enter.
 
 *……I see, so this is what they meant by the descent of the goddess. She really is glowing. Looking at Rozemyne now, anyone would be convinced of the goddess's descent.*
 
@@ -278,7 +278,7 @@ It is true that the two said things along the lines of "I will make Ferdinand ha
 
 *……Clear it up immediately, Sylvester.*
 
-I communicated via eye contact with Karstedt. He is an archducal family member who studied some of the archduke candidate course lectures at the Royal Academy, and has seen me complaining about the inconvenience of requiring the Aub to open the teleportation room. That's why he gave me a confused look. The same went for Charlotte and Florenzia.
+I communicated via eye contact with Karstedt. He is an archducal family member who studied some of the archduke candidate course lectures at the Royal Academy, and has seen me complaining about the inconvenience of requiring the Aub to open the teleportation room. That's why he gave me a confused look. The same went for Charlotte and Florencia.
 
 「Ah, ahem. Rozemyne, Ferdinand just said he activated the teleportation circle in the villa.」
 
@@ -315,10 +315,4 @@ But there was no time for that, and I didn't hear any such reports from the ento
 I have absolutely no clue what made their mana so similar, but at least it doesn't seem to be the usual method. I breathed a sigh of relief after realizing that.
 
 *……I'll always believe in you, Ferdinand.*
-
-
-
-
-
-
 

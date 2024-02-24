@@ -44,13 +44,13 @@ Mother seems to be looking forward to the harspiel concert. Cornelius had told m
 
 「Why!? I am Wilfried-sama's guard knight!」
 
-This makes no sense. If Florenzia-sama and Rozemyne's tea party needs security, it is the two guard knights of those two who should be in charge. Not the guard knight of Wilfried-sama, who does not participate.
+This makes no sense. If Florencia-sama and Rozemyne's tea party needs security, it is the two guard knights of those two who should be in charge. Not the guard knight of Wilfried-sama, who does not participate.
 
-「The concert of Ferdinand-sama is a secret to Sylvester-sama. We barely managed to get Ferdinand-sama's support, so I don't want anyone to ruin it. He will find out immediately if we ask Karstedt-sama and Florenzia-sama's guard knights.」
+「The concert of Ferdinand-sama is a secret to Sylvester-sama. We barely managed to get Ferdinand-sama's support, so I don't want anyone to ruin it. He will find out immediately if we ask Karstedt-sama and Florencia-sama's guard knights.」
 
 Mother is determined to make the concert a success. She is willing to remove the archduke for that purpose, probably due to the influence of the picture that Rozemyne had shown her.
 
-「Even if we cannot use Florenzia-sama's guard knights, we have Rozemyne's guard knights. There is little likelihood that they will have anything to do with Sylvester-sama.」
+「Even if we cannot use Florencia-sama's guard knights, we have Rozemyne's guard knights. There is little likelihood that they will have anything to do with Sylvester-sama.」
 
 Since their master Rozemyne is rarely in the castle, adult guard knights often go to the temple. The underage apprentice guard knights, who cannot go to the temple on duty, are basically in training and are unlikely to see the archduke.
 
