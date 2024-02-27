@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2>1291: King of Red Knight</h2>
+<h2>1291: King of Red Knights</h2>
 
 「To me! Warmount Chariot!」
 
