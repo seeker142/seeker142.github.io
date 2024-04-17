@@ -299,8 +299,3 @@ I asked "How many times have you said that today?" as I lightly tapped my cup wi
 
 
 
-
-
-
-
-

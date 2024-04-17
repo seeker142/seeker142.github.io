@@ -50,7 +50,7 @@ Upon hearing my words, Florencia gently placed her hand on her cheek and turned 
 
 「I understand how you feel, but I don't think it makes sense for you to rush out when we don't know who is where and doing what. It would be more useful to contact the knights at the dormitory and order them to gather information, or to preemptively prepare for any communication from Rozemyne and be flexible in our response.」
 
-「It is exactly as Florencia-sama says. We will receive immediate notification if something happens to the princess. We must finish changing clothes and having breakfast first, otherwise we won't be able to act in case of an emergency.」
+「It is exactly as Florencia-sama says. We will receive immediate notification if something happens to Rozemyne-himesama. We must finish changing clothes and having breakfast first, otherwise we won't be able to act in case of an emergency.」
 
 The two of them rejected my idea of visiting the Royal Academy, urging me to change and have breakfast quickly. Florencia smiled and returned to her room with Maxine, saying, "See you at the breakfast table."
 
@@ -152,7 +152,7 @@ After waiting for the attendant to finish preparing tea, I asked Justus about wh
 
 「Did they involve Rozemyne?」
 
-「No. There was a rebellion at the royal palace, which required Dunkelfelger's forces as reinforcements, causing them to abandon the front lines without consulting us. Prince Hildebrand was manipulated into opening the innermost chamber by the Central Knight Commander, allowing Lanzenave's forces to obtain Schtappes. Also, Lanzenave's king acquired Grutrissheit. The princess was not involved in any of these events.」
+「No. There was a rebellion at the royal palace, which required Dunkelfelger's forces as reinforcements, causing them to abandon the front lines without consulting us. Prince Hildebrand was manipulated into opening the innermost chamber by the Central Knight Commander, allowing Lanzenave's forces to obtain Schtappes. Also, Lanzenave's king acquired Grutrissheit. Rozemyne-himesama was not involved in any of these events.」
 
 Justus calmly listed off the unexpected events, causing myself and Florencia to widen our eyes and Charlotte to cover her mouth. Meanwhile, Karstedt let out a sigh of relief.
 
@@ -182,13 +182,13 @@ I didn't expect it to be Ferdinand instead of Rozemyne causing trouble with the 
 
 Charlotte, who was overwhelmed by the barrage of information during the defense of Ehrenfest, exclaimed in admiration. It's certainly impressive, but am I the only one with the deeply felt wish to never have him as an enemy?
 
-「The interior of the auditorium was transformed as during the graduation ceremony, filled with the knights led by the treacherous Central Knight Commander. Many of them were believed to be controlled by trug. The altar statues moved during the battle, revealing the king of Lanzenave wielding Grutrissheit. He was capable of stacking blessings like the princess, as well as appearing to easily defend himself against Ferdinand-sama's attacks.」
+「The interior of the auditorium was transformed as during the graduation ceremony, filled with the knights led by the treacherous Central Knight Commander. Many of them were believed to be controlled by trug. The altar statues moved during the battle, revealing the king of Lanzenave wielding Grutrissheit. He was capable of stacking blessings like Rozemyne-himesama, as well as appearing to easily defend himself against Ferdinand-sama's attacks.」
 
 「Defending against Ferdinand's attacks!? Isn't that quite a formidable enemy?」
 
 As I widened my eyes, Justus agreed saying, "He was stronger than expected". Ferdinand has a ton of mana. Even if he only launched attacks relying on sheer mana amount alone, defending would be no easy feat. I gritted my teeth at Justus's words.
 
-「On top of that, he had instant-death poison too. The moment our enemy touched the silver tube, the princess used an auxiliary magic circle for wide-area magic and cleansed the inside of the auditorium. I must say that was quite a surprise.」
+「On top of that, he had instant-death poison too. The moment our enemy touched the silver tube, Rozemyne-himesama used an auxiliary magic circle for wide-area magic and cleansed the inside of the auditorium. I must say that was quite a surprise.」
 
 「Cleansed?!」
 
@@ -206,7 +206,7 @@ Justus seemed intrigued, but we don't have time for such side discussions.
 
 *……If so, there isn't much of a problem.*
 
-「No, afterwards is when the situation got serious. Following the Waschen, the princess went atop the altar. A pillar of light emerged from the divine statues, seemingly reacting to the mana of the three present, then all of them vanished.」
+「No, afterwards is when the situation got serious. Following the Waschen, Rozemyne-himesama went atop the altar. A pillar of light emerged from the divine statues, seemingly reacting to the mana of the three present, then all of them vanished.」
 
 「...What?」
 
@@ -214,7 +214,7 @@ Justus seemed intrigued, but we don't have time for such side discussions.
 
 「We've received reports about the same symptoms appearing in her entourage members remaining in the castle.」
 
-「Then Hartmut caused a commotion, shouting that a goddess descended on the princess. He was then restrained and thrown to the ground by Leonore.」
+「Then Hartmut caused a commotion, shouting that a goddess descended on Rozemyne-himesama. He was then restrained and thrown to the ground by Leonore.」
 
 「A goddess descended? Another of his dramatic exaggerations...」
 
@@ -228,7 +228,7 @@ Justus seemed intrigued, but we don't have time for such side discussions.
 
 「When we see her?」
 
-「The princess hasn't returned yet, so I can say nothing for sure. I do look forward to seeing her shining though.」
+「Rozemyne-himesama hasn't returned yet, so I can say nothing for sure. I do look forward to seeing her shining though.」
 
 「Shining...?」
 
@@ -258,7 +258,7 @@ In response to Florencia's words, Justus revealed the information obtained from 
 
 「Not surprising... but definitely troublesome.」
 
-「Yes, and thus we cannot fully trust the other nobles. That's why I would like you to prepare rooms for the princess and her guard knights. I would also like to prepare a room for Ferdinand-sama if possible, though I'm not certain if we can leave the Ahrensbach nobles unattended.」
+「Yes, and thus we cannot fully trust the other nobles. That's why I would like you to prepare rooms for Rozemyne-himesama and her guard knights. I would also like to prepare a room for Ferdinand-sama if possible, though I'm not certain if we can leave the Ahrensbach nobles unattended.」
 
 「He should still have an attendant left in that mansion, right? Prepare the usual room for him. Might as well give him a place to take a little break.」
 
@@ -266,7 +266,7 @@ In response to Florencia's words, Justus revealed the information obtained from 
 
 「By the way, when is the planned meeting with the royal family? How many are attending? And will Ehrenfest as the organizer decide the invited guests?」
 
-「I am only relaying the order to prepare the tea room, so I don't have the details. Especially since the battle itself isn't completely over yet. That said, Ferdinand-sama mentioned that this support would show the other territories that Ehrenfest was involved in the Battle for the Sovereignty. It will be a great advantage in the future. After all, the one who decides on the new Zent is the princess, having become the avatar of the goddess.」
+「I am only relaying the order to prepare the tea room, so I don't have the details. Especially since the battle itself isn't completely over yet. That said, Ferdinand-sama mentioned that this support would show the other territories that Ehrenfest was involved in the Battle for the Sovereignty. It will be a great advantage in the future. After all, the one who decides on the new Zent is Rozemyne-himesama, having become the avatar of the goddess.」
 
 「Surely you mean Ferdinand, since he's the one ordering Rozemyne around.」
 
@@ -276,7 +276,7 @@ In response to Florencia's words, Justus revealed the information obtained from 
 
 「We don't have much to spare after defending our own duchy, but I guess this is no time to be whining.」
 
-「Especially irritating is how all of Ferdinand and the princess's achievements may end up credited to Ahrensbach.」
+「Especially irritating is how all of Ferdinand-sama and Rozemyne-himesama's achievements may end up credited to Ahrensbach.」
 
 Justus gave a cold smile. That smile alone made it clear how uncomfortable Ferdinand was in Ahrensbach.
 
@@ -288,7 +288,7 @@ After telling Justus what to do, Ferdinand apparently gave detailed instructions
 
 「So when will Rozemyne and Ferdinand be back?」
 
-「Though I can't say for sure, it probably won't take too long. This is only a guess based on the instructions given to the princess's guard knights, but I think they will be back by noon at the latest.」
+「Though I can't say for sure, it probably won't take too long. This is only a guess based on the instructions given to Rozemyne-himesama's guard knights, but I think they will be back by noon at the latest.」
 
 「I see. I would love to hear the detailed circumstances from Ferdinand himself...」
 

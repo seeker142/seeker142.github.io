@@ -54,7 +54,7 @@ Ferdinand had already arrived and was writing something at the corner of the lar
 
 Leaving Justus to clean up the paper and ink, Ferdinand moved to the other side of the table, where the attendants readied our meal. Ferdinand's side was prepared by Lasfam, the attendant of his mansion. I saw Justus during the morning meeting, sending an Ordonnanz containing the message "Please bring the things necessary for our master to rest in the dormitory as soon as possible", and it seems that he arrived in time.
 
-「I heard you disappeared from the top of the altar, but what happened after that? What's all this about a goddess descending upon Rozemyne? And what of Lanzenave's king?」
+「I heard you disappeared from the top of the altar, but what happened after that? What's all this about a goddess descending upon Rozemyne? And what happened to Lanzenave's king?」
 
 I voiced all my questions during the meal, but Ferdinand simply made an irritated face without answering. He must be concerned about the presence of the guard knights and attendants serving us. There wasn't much else to be done, so I finished my meal quickly and cleared the room.
 
@@ -72,9 +72,9 @@ I don't want that, but getting kept in the dark completely is irritating as well
 
 「Don't you have it as well…?」
 
-If the gods called all those with Grutrissheit, then Ferdinand should have it too. In fact, I heard that those who witnessed the moment of his disappearance had similar suspicions, but Ferdinand raised his eyebrows lightly, calling my question "ridiculous".
+If the gods called all those carrying Grutrissheit, then Ferdinand should have it too. In fact, I heard that those who witnessed the moment of his disappearance had similar suspicions, but Ferdinand raised his eyebrows lightly, calling my question "ridiculous".
 
-「I believe I was taken with them because I was also on the altar with those two, or perhaps because I was protected by Rozemyne's wind shield. In truth, they told me I was simply getting in the way. If I truly held Grutrissheit, do you think I could come back early like this without taking part in such an important competition?」
+「I believe I was taken with them because I was also on the altar with those two, or perhaps because I was protected by Rozemyne's wind shield. In truth, everyone else told me I was simply "getting in their way". If I truly held Grutrissheit, do you think I could come back early like this without taking part in such an important competition?」
 
 「True…」
 
@@ -138,7 +138,7 @@ I've heard the royal decree was issued because there was no other husband candid
 
 「The goddess has descended upon this girl, who carries Grutrissheit and is capable of appointing a new Zent. Everyone will be making excuses to steal her away. Of course there will be single men who didn't show up for Dietlinde.」
 
-Dietlinde, who was born and raised in greater duchy, and Rozemyne, who was an adopted daughter in a medium sized duchy and rumored to be discriminated against. The psychological burden of proposing as the husband is very different. Moreover, Ferdinand expects that candidates will come up with excuses, such as how they were underage at the time of Dietlinde's engagement, or recently divorced, or have more office experience than before, etc.
+Dietlinde, who was born and raised in greater duchy, and Rozemyne, who was an adopted daughter in a medium sized duchy and rumored to be discriminated against. The psychological burden of proposing as the husband is very different between the two. Moreover, Ferdinand expects that candidates will come up with excuses, such as how they were underage at the time of Dietlinde's engagement, or recently divorced, or have more office experience than before, etc.
 
 「They can find any number of complaints about me, I'm sure. Our best choice is to crush them with all our might before they get the chance.」
 
@@ -154,9 +154,9 @@ If the appointment of a new Zent is already in the books, the position we occupy
 
 「Also, the inauguration of the new Zent will take place before the Archduke Conference. Unless I have the new Zent certify me as Rozemyne's official fiance, I will not be able to attend the Archduke Conference and support her.」
 
-「What? So you did this in order to visit the Archduke Conference with your lovely bride Rozemyne?」
+「What? So you did all this in order to visit the Archduke Conference with your lovely bride Rozemyne?」
 
-Ferdinand had said the day after the victory celebration that he would "not return to Ehrenfest but live with Rozemyne". I gave him a grin intended to tease, but he stared at me with a deep crease between his eyebrows.
+Ferdinand had said the day after the victory celebration that he would "live with Rozemyne rather than return to Ehrenfest". I gave him a grin intended to tease, but he stared at me with a deep crease between his eyebrows.
 
 「It's because a year and a half of my work is about to go unrewarded. I cannot afford that possibility.」
 
@@ -202,11 +202,11 @@ If they really feel instinctive awe, then it can't be helped. They can only do s
 
 「No, since she had difficulty even eating food along with the medicine… We will have to wait until after she wakes up before hearing her story. Also, Cornelius reported something to me. Apparently, the goddess's power is making the namesworn retainers behave strangely.」
 
-My eyes widened upon hearing such a thing for the first time. No such report had come from Ferdinand. He must not have known, since this phenomenon was limited to retainers who had dedicated their names to Rozemyne.
+My eyes widened upon hearing such a thing for the first time. No such report had come from Ferdinand. He must not have known, since this phenomenon was limited to the retainers who had dedicated their names to Rozemyne.
 
 「What do you mean by strangely? Can you give an example?」
 
-「It seems to make them want to praise and pray to the princess similarly to Hartmut.」
+「It seems to make them want to praise and pray to Rozemyne-himesama, similarly to Hartmut.」
 
 I imagined all of Rozemyne's namesworn retainers praising her like Hartmut, and pondered the situation for a while. While creepy and annoying, it doesn't seem to have much of a negative impact on anyone else.
 
@@ -216,7 +216,7 @@ I imagined all of Rozemyne's namesworn retainers praising her like Hartmut, and 
 
 This reminded me of Rozemyne's concern about what people thought of her after her sudden growth. She would be worried if her entourage suddenly changed their behavior like that.
 
-「By the way, it seems that Ferdinand-sama hasn't explained the situation even to the princess. When Leonore asked her about her future plans over dinner, she looked back with a blank stare.」
+「By the way, it seems that Ferdinand-sama hasn't explained the situation even to Rozemyne-himesama. When Leonore asked her about her future plans over dinner, she only looked back with a blank stare.」
 
 「So Ferdinand alone is responsible, while Rozemyne is not even an accomplice?」
 
@@ -234,7 +234,7 @@ I explained to Rihyarda that our meeting with the royal family was set for the d
 
 Shaking her head from side to side, Rihyarda said, "Of course, I will need everyone's help as well."
 
-「We can leave the tea room furnishings and menu to Charlotte-himesama, as long as Brunhilde assists with the princess's recipes and cooks. Ferdinand-sama has skipped the arrangements and already set the date, so though it pains me to make her do this, we should let Florencia-sama handle the correspondence between attendants. She can ensure the guests don't find any ingredients or flavors that are unsuited for their tastes.」
+「We can leave the tea room furnishings and menu to Charlotte-himesama, as long as Brunhilde assists with Rozemyne-himesama's recipes and cooks. Ferdinand-sama has skipped the arrangements and already set the date, so though it pains me to make her do this, we should let Florencia-sama handle the correspondence between attendants. She can ensure the guests don't find any ingredients or flavors that are unsuited for their tastes.」
 
 My scholar at my side wrote down Rihyarda's words as she spoke.
 
@@ -278,7 +278,7 @@ It is true that the two said things along the lines of "I will make Ferdinand ha
 
 *……Clear it up immediately, Sylvester.*
 
-I communicated via eye contact with Karstedt. He is an archducal family member who studied some of the archduke candidate course lectures at the Royal Academy, and has seen me complaining about the inconvenience of requiring the Aub to open the teleportation room. That's why he gave me a confused look. The same went for Charlotte and Florencia.
+I communicated via eye contact with Karstedt. He was a former archducal family member who studied some of the archduke candidate course lectures at the Royal Academy, and has seen me complaining about the inconvenience of requiring the Aub to open the teleportation room. That's why he gave me a confused look. The same went for Charlotte and Florencia.
 
 「Ah, ahem. Rozemyne, Ferdinand just said he activated the teleportation circle in the villa.」
 
@@ -294,7 +294,7 @@ Rozemyne did not seem to understand our confusion and suspicions in the slightes
 
 「What are you even talking about?」
 
-It was a natural question for me, her adoptive father, with her biological father Karstedt standing behind me, but Ferdinand replied while giving me a cold stare. Rozemyne also looked at me as if what I said was incomprehensible. I wanted to shout out loud that you two were the incomprehensible ones.
+It was a natural question for me, her adoptive father, as well as her biological father Karstedt standing behind me, but Ferdinand replied while giving me a cold stare. Rozemyne also looked at me as if what I said was incomprehensible. I wanted to shout out loud that you two were the incomprehensible ones.
 
 「I'm completely lost!」
 
