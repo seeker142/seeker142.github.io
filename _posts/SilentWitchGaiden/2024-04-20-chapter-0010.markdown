@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 1: Autumn of Rising Peas"
 ---
-<h2>[4] Giant Peas vs. White Hurricane No. 1</h2>
+<h2>[V1C4] Giant Peas vs. White Hurricane No. 1</h2>
 
 Under the pleasant autumn sky, an atmosphere colder than the north wind permeated the entire area.
 

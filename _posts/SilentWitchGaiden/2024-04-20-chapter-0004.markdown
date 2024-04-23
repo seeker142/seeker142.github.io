@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Various Side Stories"
 ---
-<h2>Studying for the Exam and Meat Pies</h2>
+<h2>[SS4] Studying for the Exam and Meat Pies</h2>
 
 His mother was skilled in making pies, turning any fruit, meat, or fish into delicious masterpieces.
 

@@ -11,7 +11,7 @@ draft: true
 comments: true
 notes: "Various Side Stories"
 ---
-<h2>Finger Snap</h2>
+<h2>[SS1] Finger Snap</h2>
 
 *These events take place after the <a href="https://papersurgery.wordpress.com/novel/silent-witch/">main story of Silent Witch</a>, so make sure you have read the entire main story before continuing. Keep in mind that some events may differ between the WN and LN.*
 

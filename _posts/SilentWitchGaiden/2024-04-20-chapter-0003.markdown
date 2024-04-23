@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Various Side Stories"
 ---
-<h2>Hilda Everett's Three-Minute (To Ruin Everything) Cooking</h2>
+<h2>[SS3] Hilda Everett's Three-Minute (To Ruin Everything) Cooking</h2>
 
 Dressed in her lab coat, Hilda Everett voiced a question to her recently adopted daughter, Monica.
 

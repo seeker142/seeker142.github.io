@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---
-<h2>[5] Technique from Doris at Madam Cassandra's Manor</h2>
+<h2>[V2C5] Technique from Doris at Madam Cassandra's Manor</h2>
 
 Jeffery, who was polishing glasses at the counter of Kirk's Tavern, placed a small plate of snacks in front of his childhood friend, Greg, who was slumped over the counter with a gloomy face.
 

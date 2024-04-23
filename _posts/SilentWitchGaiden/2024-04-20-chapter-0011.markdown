@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 1: Autumn of Rising Peas"
 ---
-<h2>[5] The Silent Witch's Dream</h2>
+<h2>[V1C5] The Silent Witch's Dream</h2>
 
 Monica had a dream.
 

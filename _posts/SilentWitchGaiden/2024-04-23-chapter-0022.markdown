@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---
-<h2>[8] Norman's Situation</h2>
+<h2>[V2C8] Norman's Situation</h2>
 
 Isaac and Agatha silently bound the unconscious Hubert. Monica sighed in relief as Isabelle ran over to hug her neck.
 

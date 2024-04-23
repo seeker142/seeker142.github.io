@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---
-<h2>[6] Line of a Retired Hero</h2>
+<h2>[V2C6] Line of a Retired Hero</h2>
 
 With his head in his hands, Norman trembled and suppressed his sobs, wondering how things had come to this.
 

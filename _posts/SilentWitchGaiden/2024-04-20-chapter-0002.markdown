@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Various Side Stories"
 ---
-<h2>Discussion on Titles</h2>
+<h2>[SS2] Discussion on Titles</h2>
 
 Monica had recently been frequently visiting Cyril's residence, the home of Marquis Highown.
 

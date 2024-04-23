@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 1: Autumn of Rising Peas"
 ---
-<h2>[1] A Witch Devoured by Peas</h2>
+<h2>[V1C1] A Witch Devoured by Peas</h2>
 
 Cyril Ashley, the heir of House Highown, along with the Silent Witch Monica Everett and the Thorn Witch Raul Roseberg, stood before a towering mass of pea pods.
 

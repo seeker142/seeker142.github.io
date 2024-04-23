@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---
-<h2>[4] Imminent Threat</h2>
+<h2>[V2C4] Imminent Threat</h2>
 
 When Monica and her friends arrived at the inn, a seductive beauty wearing a navy robe welcomed them.
 

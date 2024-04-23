@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---
-<h2>[7] Confrontation of the Mad Dog, Hunting Dog, and Faithful Dog</h2>
+<h2>[V2C7] Confrontation of the Mad Dog, Hunting Dog, and Faithful Dog</h2>
 
 Agatha closed the distance with Hubert, extending the mop in her palm as if it was a part of her arm.
 

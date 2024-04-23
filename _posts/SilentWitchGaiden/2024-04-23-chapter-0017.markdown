@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---
-<h2>[3] Shake Hands with Me in the Village of the Silent Witch!</h2>
+<h2>[V2C3] Shake Hands with Me in the Village of the Silent Witch!</h2>
 
 "Eehehehe! I'm the Silent Witch! Now, if you want stamps, eat our village's famous Silent Witch cookies! If you like them, buy plenty and share them with your friends and family."
 

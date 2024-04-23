@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 1: Autumn of Rising Peas"
 ---
-<h2>[2] The Sparkling Prince and the Witch's Love Potion</h2>
+<h2>[V1C2] The Sparkling Prince and the Witch's Love Potion</h2>
 
 Isaac Walker, the (self-proclaimed) disciple of the Silent Witch Monica Everett, basically occupied Monica's house for more than half of the month. However, due to his agreement with Monica, he returned to the Erin Territory for the rest of the month to attend his duties.
 
