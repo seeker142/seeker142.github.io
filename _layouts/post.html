@@ -71,7 +71,11 @@ comments: true
     {% if prev_post.url %}
       <a style="float:left;" class="prev" href="{{prev_post.url}}">Prev Chapter</a>
     {% endif %}
-    {% if pcategory != "TenKen" %}
+    {% if pcategory == "TenKen" %}
+      <a class="list" href="/Tenken/">List</a>
+    {% elsif pcategory == "SilentWitchGaiden" %}
+      <a class="list" href="/SilentWitchGaiden/">List</a>
+    {% else %}
       <a class="list" href="{{ listpost.url }}">List</a>
     {% endif %}
     {% if next_post.url %}

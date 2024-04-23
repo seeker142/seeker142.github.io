@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Chapter List
+title: TenKen
 permalink: /Tenken/
 ---
+
+<h2>TenKen Chapter List</h2>
 
 <table>
 {% for post in site.categories.TenKen reversed %}

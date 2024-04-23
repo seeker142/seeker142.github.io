@@ -6,9 +6,9 @@ layout: home
 permalink: /
 ---
 
-<h2><a href="Tenken/0704.html">First Chapter (Ch704)</a></h2>
+<h2><a href="Tenken/">Tenken Chapter List</a></h2>
 
-<h2><a href="Tenken/">Chapter List</a></h2>
+<h2><a href="SilentWitchGaiden/">Silent Witch Gaiden Chapter List</a></h2>
 
 <br>
 <h2>Latest:</h2>
