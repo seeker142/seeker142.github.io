@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Silent Witch"
-permalink: SilentWitchGaiden
+title: "Silent Witch"
+permalink: /SilentWitchGaiden/
 ---
 
 <h2>Silent Witch Gaiden Chapter List</h2>
