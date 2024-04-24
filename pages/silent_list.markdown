@@ -8,8 +8,6 @@ permalink: /SilentWitchGaiden/
 
 *These events take place after the <a href="https://papersurgery.wordpress.com/novel/silent-witch/">main story of Silent Witch</a>, so make sure you have read the entire main story before continuing. Keep in mind that some events may differ between the WN and LN.*
 
-Raw: https://ncode.syosetu.com/n5194gp/
-
 ---
 
 **Various Side Stories**
@@ -152,3 +150,4 @@ Raw: https://ncode.syosetu.com/n5194gp/
 
 ---
 
+Raw: https://ncode.syosetu.com/n5194gp/
