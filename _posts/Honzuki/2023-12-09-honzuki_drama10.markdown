@@ -154,7 +154,7 @@ Reflecting on it, Myne had done something truly incredible. I thought she was on
 
 「Even I know the price of the products I handle. "A sister's love" must be really scary.」
 
-Once Kamil started working as an apprentice at the Plantin Company, he changed his treatment of those gifts once he learned of their high value. As a mother, I would also appreciate it if he changes how he interacts with Myne.
+Once Kamil started working as an apprentice at the Plantin Company, he learned of their high value and changed his treatment of those gifts. As his mother, I would also appreciate it if he changes how he interacts with Myne.
 
 「...I've always wondered why our family adored Rozemyne-sama so much, despite me finding it hard to feel the same way. It all makes sense now.」
 
@@ -174,7 +174,7 @@ I lightly tapped Kamil's back to wake him up and led him to his room. After push
 
 *……I hope Myne and Kamil can get closer to each other.*
 
-Tuuli, Myne, and Kamil are all my adorable children, but I realize it's difficult for two people who have never lived together to be as close as commoner siblings. Myne is currently fixated on being a big sister, and Kamil can't erase his recognition of Rozemyne-sama, but I hope they can settle into a distance similar to that of relatives that meet occasionally.
+Tuuli, Myne, and Kamil are all my adorable children, but I realize it's difficult for two people who have never lived together to be as close as commoner siblings. Myne is currently fixated on being a big sister, and Kamil can't erase his recognition of Rozemyne-sama, but I hope they can settle into a distance similar to that of relatives who meet occasionally.
 
 「I should go downstairs too. Good night.」
 
@@ -258,7 +258,7 @@ Ferdinand-sama said he wanted to be "true family instead of a political marriage
 
 「I bet Myne wouldn't have ever come back if any other nobleman was her fiance.」
 
-Ferdinand-sama helped Myne from the time she was a commoner, and knew how important her connection to her family was. I believe that's why he brought Myne back to us.
+Ferdinand-sama supported Myne from the time she was a commoner. He knew how important her connection to her family was. I believe that's why he brought Myne back to us.
 
 「He helped Myne survive as a noble and brought her back safely... I guess I can acknowledge his efforts there.」
 
@@ -268,7 +268,7 @@ It seems Myne had faced numerous life-threatening situations, and he saved her e
 
 「I never thought Myne would live to see adulthood. So, to see her growing up into a normal adult, coming back with a lively smile, and being able to celebrate Lutz's coming-of-age ceremony today made me so incredibly happy...」
 
-Myne used to be so weak, with a delicate appetite and a small build. After becoming a noble, she spent two years soaking in medicine and sleeping without any signs of growth. Yet, now my daughter has grown into an adult woman, at least in appearance. I couldn't believe my own eyes.
+Myne used to be so weak, with her delicate appetite and small build. After becoming a noble, she spent two years soaking in medicine and sleeping without any signs of growth. Yet, now my daughter has grown into an adult woman, at least in appearance. I couldn't believe my own eyes.
 
 「Just like I said she would.」
 
@@ -290,7 +290,7 @@ It's only once a season. Spoiling her that rarely shouldn't be a problem.
 
 「I'm already looking forward to Myne's next visit.」
 
-Feeling a bit tipsy, or perhaps a little dizzy, I lightly clinked my cup against Gunther's, who poured more alcohol into the dwindling cup and handed it to me.
+Perhaps the drink was getting to me, as everything felt so unreal. Meanwhile, Gunther refilled my dwindling cup and handed it back to me.
 
 「Cheers, Effa. A toast to Myne's return and our gratitude to Vantole.」
 
