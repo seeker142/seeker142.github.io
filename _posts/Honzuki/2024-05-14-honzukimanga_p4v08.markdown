@@ -12,7 +12,7 @@ noheader: true
 comments: false
 notes: "Eglantine POV"
 ---
-## Candid Words
+<h2>Candid Words</h2>
 
 「Welcome back, Eglantine-sama.」
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-## Side Story: Fran and Kune 02
+<h2>Side Story: Fran and Kune 02</h2>
 
 The Adventurers Guild looked rather deserted, but the building itself was quite large. Despite repurposing an old building, it seemed well-maintained.
 

@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-## Side Story: Fran and Kune 01
+<h2>Side Story: Fran and Kune 01</h2>
 
 Two months had passed since our battle with the Evil God Fragments.
 
