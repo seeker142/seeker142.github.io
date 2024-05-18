@@ -56,7 +56,7 @@ Due to Ehrenfest's low duchy rank, they likely have little information regarding
 
 「But without Rozemyne-sama's advice, the progress we made today would never have happened.」
 
-「That's sound like a cause for celebration.」
+「That sounds like a cause for celebration.」
 
 I had always been aware of Prince Anastasius's fixation with me. However, I thought his obsession was directed toward the throne. This is because the two princes only started sending me gifts and wooing me when the king said the one I choose will be the next king.
 
@@ -70,7 +70,7 @@ Having lost my family in the civil war, I am averse to conflict, particularly wh
 
 Since the royal family takes the same lectures as archduke candidates, I encountered Prince Anastasius in all my classes. While lectures could be finished early by passing exams, the number of lectures I could skip quickly diminished as I advanced in grade. Prince Anastasius constantly tried to approach me during breaks, butted into my conversations with friends, and pressured hosts to include him in any tea parties I attended.
 
-Although his assertiveness was troublesome, I couldn't bring myself to hate him. He never resorted to violence or royal decrees to get me alone. The most he had done was asking questions such as, "Have you chosen your escort partner yet?"
+Although his assertiveness was troublesome, I couldn't bring myself to hate him. He never resorted to forceful methods to get me alone, such as royal decrees. The most he had done was asking questions such as, "Have you chosen your escort partner yet?"
 
 「…If Prince Anastasius hadn't conveyed his true feelings, maybe I would have always thought of him as a "troublesome prince".」
 
@@ -84,7 +84,7 @@ Gardenia voiced her surprise, and I nodded as I recalled Prince Anastasius's wor
 
 When Prince Anastasius said this to me, I unconsciously gripped the anti-eavesdropping magical device in my hand. Resisting the force that felt like it was constricting my heart, I somehow managed a smile. Anti-eavesdropping tools are used for discussing matters you don't want others to know. Revealing such topics to the person in question is a bit indecorous. I never imagined Rozemyne would tell Prince Anastasius directly.
 
-My feelings of "I don't want to choose" and "I don't want to return to the royal family" could be interpreted as me denying the king's words entrusting the choice to me, as well as the actions of the princes who seek the throne. At the very least, she should not have conveyed my words so straightforwardly, to avoid offending the royal family. If it were known that I would rather enter the temple than marry either prince, the aftermath could affect the entire duchy of Klassenberg.
+My feelings of "I don't want to choose" and "I don't want to return to the royal family" could be interpreted as me denying the king's words entrusting the choice to me, as well as the actions of the princes who seek the throne. At the very least, she should not have conveyed my words so straightforwardly, to avoid offending the royal family. If it was made known that I would rather enter the temple than marry either prince, the aftermath could affect the entire duchy of Klassenberg.
 
 *...Just how much did Rozemyne-sama tell him?*
 
@@ -114,7 +114,7 @@ His straightforward words were devoid of any pretense or noble phrasing, and his
 
 He had given gifts, invited me to the gazebos where lovers meet, and asked if I had chosen an escort, but this is the first time he had spoken so candidly about love. My face felt very hot, and I could feel the shock quickening my breathing.
 
-「…I am quite surprised so you speak so candidly.」
+「…I am quite surprised you are speaking so candidly.」
 
 This was the best reply I could manage.
 
@@ -150,7 +150,7 @@ Gardenia stared intently at me as if probing my true intentions. I met her gaze 
 
 「Following Prince Anastasius's example, I plan to write a letter to Grandfather, expressing my straightforward wishes and feelings. Once I persuade Grandfather and Uncle, I plan to take Prince Anastasius's hand.」
 
-My uncle, Aub Klassenberg, would surely prefer me to be the next king's first wife. However, I stand a chance if I can persuade Grandfather. And once I gain his support, Uncle will likely concede.
+My uncle, Aub Klassenberg, would surely prefer me to be the next king's first wife. However, I stand a chance if I can persuade Grandfather first. And once I gain his support, Uncle will likely concede.
 
 「Very well. I will also write a letter to your grandfather.」
 
@@ -166,7 +166,7 @@ When Prince Anastasius told me about her words of advice, the sheer precariousne
 
 「Shall we send a thank you gift to Rozemyne-sama for her assistance, Eglantine-himesama?」
 
-At Gardenia's question, I pondered for a moment. Our conversations with Rozemyne-sama were conducted under the anti-eavesdropping magic tool. In addition, turning this interaction into a success story would not be beneficial for her future in social events. It would be best to avoid making any public gestures of thanks.
+At Gardenia's question, I pondered for a moment. Our conversations with Rozemyne-sama were conducted under the anti-eavesdropping magic tool. In addition, turning this interaction into a success story would not be beneficial for her future social events. It would be best to avoid making any public gestures of thanks.
 
 「...I have told Prince Anastasius to send his regards to Ehrenfest, which I will consider as a sufficient display of gratitude.」
 
