@@ -12,7 +12,7 @@ noheader: true
 comments: true
 notes: "Gaiden 1: Autumn of Rising Peas"
 ---
-<h2>[Extra] Exciting Sleepover</h2>
+<h2>[V1EX] Exciting Sleepover</h2>
 
 That evening, upon returning home, Marquis Highown received a report from his butler in the entrance hall.
 
