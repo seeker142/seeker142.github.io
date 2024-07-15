@@ -109,7 +109,8 @@ function init() {
 	}
 
 	// Replace all placeholders with their final replacements.
-	for (const [placeholder, finalReplacement] of Object.entries(replacements)) {
+	for (const [placeholder, finalReplacement] of Object.entries(replacements)) 
+	{
 		element.innerHTML = element.innerHTML.replace(new RegExp(placeholder, 'g'), finalReplacement);
 	}
 }
