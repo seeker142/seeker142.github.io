@@ -30,13 +30,13 @@ let nameTable = [
 	["Kranzel", "Granzell"],
 	["Ladur", "Radule"],
 	["Lady Blue", "Ladyblue"],
-	["Weena Rhyn", "Winalene"],  // Not alphabetical to give it priority over Rhyn.
 	["Rhyn", "Lene"],
 	["Rigdis", "Rigdith"],
 	["Satia", "Satya"],
 	["Seedran", "Seedrun"],
 	["Sword God Transformation", "Sword God Form"],
 	["Weena", "Wina"],
+	["Weena Rhyn", "Winalene"],
 	["Zefmate", "Zehmet"],
 	["Zelos Reed", "Theraclede"],
 ];
@@ -76,7 +76,18 @@ function init() {
 
 	var element = document.getElementsByClassName("post-content e-content")[0];
 
-	for (const [choiceId, nameList] of nameTable.entries())
+	// The terms Weena and Rhyn are substrings of the longer term Weena Rhyn,
+	// this causes the shorter terms to be nested inside the longer one
+	// when the changer spans are added. To avoid this, we need to temporarily
+	// replace the longer term with a placeholder, to prevent it from matching
+	// the shorter ones later on, meaning we need to sort them by length before processing.
+
+	var replacements = {};
+
+	// Sort nameTable by the length of the original name.
+	nameTable.sort((a, b) => b[0].length - a[0].length);
+
+	for (const [choiceId, nameList] of nameTable.entries()) 
 	{
 		if (choiceId >= choiceList.length) {
 			continue;
@@ -85,10 +96,21 @@ function init() {
 		if (choiceList[choiceId] >= nameList.length) {
 			continue;
 		}
-		
-		var re = new RegExp(nameList[0] + "\\b", "g");
-		element.innerHTML = element.innerHTML.replace(re, '<span onclick="changeName(' + choiceId + ')">' + nameList[0] + '</span>');
-		element.innerHTML = element.innerHTML.replace(re, nameList[choiceList[choiceId]]);
+
+		var originalName = nameList[0];
+		var replacementName = nameList[choiceList[choiceId]];
+
+		var placeholder = `%%PLACEHOLDER_${choiceId}%%`;
+		replacements[placeholder] = `<span onclick="changeName(${choiceId})">${replacementName}</span>`;
+
+		var re = new RegExp(`\\b${originalName}\\b`, "g");
+
+		element.innerHTML = element.innerHTML.replace(re, placeholder);	
+	}
+
+	// Replace all placeholders with their final replacements.
+	for (const [placeholder, finalReplacement] of Object.entries(replacements)) {
+		element.innerHTML = element.innerHTML.replace(new RegExp(placeholder, 'g'), finalReplacement);
 	}
 }
 
