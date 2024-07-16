@@ -11,7 +11,8 @@ function padQuotes() {
 		["(」」+)", "&nbsp;&nbsp;$1"],
 	]
 
-	for (const [quotePattern, replacement] of quotePatterns) {
+	for (const [quotePattern, replacement] of quotePatterns) 
+	{
 		var re = new RegExp(quotePattern, "g");
 		element.innerHTML = element.innerHTML.replace(re, replacement);
 	}
