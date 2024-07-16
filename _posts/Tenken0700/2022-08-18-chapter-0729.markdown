@@ -14,31 +14,31 @@ editor:
 
 「That was one impressive match. We can't be too careful with these adventurers.」
 
-「Totally true, Sis. That old man is insane, I couldn't see him at all……」
+「Totally true, Sis. That old man is insane, I couldn't see him at all...」
 
-「Yeah. If he was sent as an assassin, how many people in our country could actually stop him? Assuming, obviously, that he wouldn't fight face to face… What do you think, Klikka?」
+「Yeah. If he was sent as an assassin, how many people in our country could actually stop him? Assuming, obviously, that he wouldn't fight face to face... What do you think, Klikka?」
 
 「Even if I manage to see through his stealth, I wouldn't be able to win. The truly great thing about that old man is that he's still not weak in a head-on fight, despite his prowess in covert operations.」
 
-「Sigh. There's plenty of other adventurers that would give us a run for our money too…… Do we have no choice but to try to shut up the South and the East?」
+「Sigh. There's plenty of other adventurers that would give us a run for our money too... Do we have no choice but to try to shut up the South and the East?」
 
 「I agree with that sentiment. If relations continue to deteriorate between our countries and a large-scale war breaks out, the damage to our country would be staggering.」
 
-「But will the Dukes give up that easily? If things don't work out, it could turn into a civil war……」
+「But will the Dukes give up that easily? If things don't work out, it could turn into a civil war...」
 
 「I'd rather that than an invasion. I think it's about time for our country to change.」
 
-「But……」
+「But...」
 
-「Biscot… I know how much you care about our country. The previous knight captain raised you well. But Raydoss has its light and its darkness. You know that well, don't you?」
+「Biscot... I know how much you care about our country. The previous knight captain raised you well. But Raydoss has its light and its darkness. You know that well, don't you?」
 
-「Well yeah…… since I was born in a lab like you. But Dad destroyed it, didn't he? He went around and crushed a lot of other facilities too……」
+「Well yeah... since I was born in a lab like you. But Dad destroyed it, didn't he? He went around and crushed a lot of other facilities too...」
 
 「The ones near Central that is. But there could be similar ones in the East and South, maybe even the West or North in the worst case. If we turn a blind eye to that possibility, we may never be able to recover from that mistake.」
 
-「……Got it.」
+「...Got it.」
 
-「I'd like to get back home soon, but…… how's the surveillance?」
+「I'd like to get back home soon, but... how's the surveillance?」
 
 「Still there, but they're watching from a distance. Since we're using wind magic, they can never hear our conversation.」
 
@@ -60,7 +60,7 @@ editor:
 
 「From *him*. And since there's no reason for him to betray us at this point, I believe there is no mistake.」
 
-「I see, so the information came from him. Then we can trust it…… But depending on his movements, the timing of our escape may change.」
+「I see, so the information came from him. Then we can trust it... But depending on his movements, the timing of our escape may change.」
 
 「Yes. In the worst case, we may have to head north and pass through the border instead of taking the boat from Bulbola.」
 
@@ -76,13 +76,13 @@ editor:
 
 「Yeah, yeah. You're lucky to have proper parents unlike the rest of us lab rats. You better take good care of them.」
 
-「Says the idiot……」
+「Says the idiot...」
 
 「Kuku. But Biscot's right this time.」
 
 「What do you mean, "this time"!?」
 
-「……Thank you very much.」
+「...Thank you very much.」
 
 「Don't mention it. Worst case scenario, I can break the red seal and activate the Red Sword. Then I'll carry you two and him on my back all the way through.」
 
@@ -90,23 +90,23 @@ editor:
 
 「Right?」
 
-「……That's really a last resort. I'm begging you, please don't be too hasty.」
+「...That's really a last resort. I'm begging you, please don't be too hasty.」
 
 「I know, I know.」
 
-「How many times have I been fooled by those words……」
+「How many times have I been fooled by those words...」
 
 「Ahaha. I'm serious this time.」
 
-「……You had better be.」
+「...You had better be.」
 
 <br>
 
 **Side - ????**
 
-「Hee-hee-hee. The festivities in this town are almost over…… How are things going on your side?」
+「Hee-hee-hee. The festivities in this town are almost over... How are things going on your side?」
 
-「Mmm. The four potential targets were Diaz, the guildmaster, Wijat Aurel, the leader of the beastman, Felmus, a former Rank A adventurer, and finally Dimitris, a Rank S adventurer……」
+「Mmm. The four potential targets were Diaz, the guildmaster, Wijat Aurel, the leader of the beastman, Felmus, a former Rank A adventurer, and finally Dimitris, a Rank S adventurer...」
 
 「Were you able to narrow it down?」
 
@@ -114,11 +114,11 @@ editor:
 
 「Oh dear! You intend to mess with a Rank S adventurer!」
 
-「Indeed… They both have grandchildren you see.」
+「Indeed... They both have grandchildren you see.」
 
 「In other words, it would be easy to take a hostage?」
 
-「Aurel is not only a good fighter, but his knowledge will come in handy too. As for Dimitris… if we can him on our side, he would be worth as much as taking over an entire country.」
+「Aurel is not only a good fighter, but his knowledge will come in handy too. As for Dimitris... if we can him on our side, he would be worth as much as taking over an entire country.」
 
 「I can see that. But both of them have formidable escorts, you know? Especially for Dimitris' grandchildren, I'm sure their guards will be quite talented.」
 
@@ -132,7 +132,7 @@ editor:
 
 「One is the adventurers we kidnapped and transformed into our undead soldiers, using the potion you provided us.」
 
-「Ah, that potion? I was wondering why you would ask for something as unusual as a necro potion…… You can really turn people into undead while they're still alive?」
+「Ah, that potion? I was wondering why you would ask for something as unusual as a necro potion... You can really turn people into undead while they're still alive?」
 
 「Indeed, though it was a makeshift ritual, so their performance will be much lower compared to when they were alive.」
 
@@ -148,7 +148,7 @@ editor:
 
 「The day after tomorrow, we'll go to the closing ceremony where Aurel and Dimitris are present. That is the moment to strike.」
 
-「Yes, sir. Then I'll go adjust the dosage for our friends from Shallus……」
+「Yes, sir. Then I'll go adjust the dosage for our friends from Shallus...」
 
 「I am sure you are aware of this already, but the Shallus Kingdom still has its uses. This time, we just need them to make some noise, understood?」
 
@@ -168,7 +168,7 @@ editor:
 
 「And don't forget to create a diversion using Shallus's men.」
 
-「I have not forgotten. Oh boy, this is going to be so fun…… Hee hee hee!」
+「I have not forgotten. Oh boy, this is going to be so fun... Hee hee hee!」
 
 
 
