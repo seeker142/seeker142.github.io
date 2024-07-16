@@ -10,45 +10,45 @@ editor:
 ---
 <h2>872: Filuria's Words</h2>
 
- After instantly quelling the commotion, Filuria confronted the holy knight.
+After instantly quelling the commotion, Filuria confronted the holy knight.
 
 「Are you the envoys from the Holy Nation?」
 
 「That's right! What is wrong with your people! How dare you treat us with such disrespect!」
 
- The holy knight's face turned red with anger, and he seemed ready to draw his blade at any moment. On the other hand, Filuria remained calm and composed.
+The holy knight's face turned red with anger, and he seemed ready to draw his blade at any moment. On the other hand, Filuria remained calm and composed.
 
 「But according to the letter we received the other day, Yaresfeim-dono was supposed to be sent as the envoy.」
 
 「"Yaresfeim-dono"? That's "Yaresfeim-sama" to you! Do you truly think some nobody healer from who knows where is on the same level as the Divine Sword Knight of Silard, the greatest nation in existence?! Know your place!」
 
- After hearing Filuria's words, the holy knight's temper got even worse.
+After hearing Filuria's words, the holy knight's temper got even worse.
 
- This "Divine Sword Knight" must be the owner of the Blade of Origin, Alpha. I guess his name is Yaresfeim then?
+This "Divine Sword Knight" must be the owner of the Blade of Origin, Alpha. I guess his name is Yaresfeim then?
 
- The holy knight's shouts were accompanied by a tremendous aura of intimidation, which frightened most of the people nearby. Now that they had calmed down, they could no longer ignore the pressure he was emitting.
+The holy knight's shouts were accompanied by a tremendous aura of intimidation, which frightened most of the people nearby. Now that they had calmed down, they could no longer ignore the pressure he was emitting.
 
- However, Filuria continued her archaic smile. Even though she's our enemy, I have to say she had a pretty impressive mentality.
+However, Filuria continued her archaic smile. Even though she's our enemy, I have to say she had a pretty impressive mentality.
 
- Other than Filuria, the only ones not cowering were Fran, who was ready to move at any moment, and Sophie, who was leering intensely at the holy knight.
+Other than Filuria, the only ones not cowering were Fran, who was ready to move at any moment, and Sophie, who was leering intensely at the holy knight.
 
- Wait, Fran is pretty tense right now too. It feels like she's about to cut off a head if someone makes the wrong move.
+Wait, Fran is pretty tense right now too. It feels like she's about to cut off a head if someone makes the wrong move.
 
 『Fran… You know how bad killing her would be, right?』
 
 （I know.）
 
- Though she said that, her eyes remained completely fixed on Filuria. She viewed this lady as more dangerous than the knights, continuing to sharpen her senses in order to react at a moment's notice.
+Though she said that, her eyes remained completely fixed on Filuria. She viewed this lady as more dangerous than the knights, continuing to sharpen her senses in order to react at a moment's notice.
 
 「So you say the Holy Nation will not follow the terms of the agreement?」
 
 「Agreement!? Such things are only protected among equals! You should be elated that us holy knights even took the time to come here!」
 
- Now that he's been completely unmasked, every word coming out of his mouth just gets worse and worse. The two parties made an agreement in writing, then this so-called official envoy just flat out said that he wouldn't protect his word.
+Now that he's been completely unmasked, every word coming out of his mouth just gets worse and worse. The two parties made an agreement in writing, then this so-called official envoy just flat out said that he wouldn't protect his word.
 
- This should be a political nightmare. After all, it is proclaiming to the entire world that Silard will not honor formal agreements.
+This should be a political nightmare. After all, it is proclaiming to the entire world that Silard will not honor formal agreements.
 
- Or maybe this kind of farce is already recognized as a quality of the Holy Nation? In that case, we should be hearing a lot more about the country's notoriety……
+Or maybe this kind of farce is already recognized as a quality of the Holy Nation? In that case, we should be hearing a lot more about the country's notoriety……
 
 「So? What is the meaning of this? We were told that the Holy Nation would send a messenger of friendship to our tower's saintess. Besides, wasn't the date supposed to be the day after tomorrow?」
 
@@ -58,23 +58,23 @@ editor:
 
 「Kidnapping? It appears you have the completely wrong idea! I was just telling her the proper place for a saintess out of the kindness of my heart.」
 
- I thought the holy knight was just some dumbass, but it seems he at least had a way with words. He continued the debate with Filuria with eloquent sophistries.
+I thought the holy knight was just some dumbass, but it seems he at least had a way with words. He continued the debate with Filuria with eloquent sophistries.
 
- He may be narrow-minded and self-righteous, but I guess he had a brain.
+He may be narrow-minded and self-righteous, but I guess he had a brain.
 
 「If you want what's best for the saintess, shouldn't you be the one to persuade her to go? Ah yes, of course. I can allow you to serve Silard as well. I am sure the saintess will be uncomfortable all by herself, so you may tag along as her personal attendant.」
 
 「You dare to treat me like some sort of maidservant?!」
 
- Filuria's smile broke for the first time. She quickly put her smile back on, but the corners of her mouth remained slightly distorted.
+Filuria's smile broke for the first time. She quickly put her smile back on, but the corners of her mouth remained slightly distorted.
 
- Her inner emotions must have leaked out after the hit to her pride.
+Her inner emotions must have leaked out after the hit to her pride.
 
- However, she soon regained her composure and gave the holy knight her ultimatum. Her words sounded a little colder than before, and I don't think that's my imagination.
+However, she soon regained her composure and gave the holy knight her ultimatum. Her words sounded a little colder than before, and I don't think that's my imagination.
 
 「Either way, I have no further interest in you. Bring Yaresfeim-dono first, as promised.」
 
- Filuria put heavy emphasis on the "-dono", appealing her lack of respect for Silard. This lady has quite the personality despite her innocent looking appearance.
+Filuria put heavy emphasis on the "-dono", appealing her lack of respect for Silard. This lady has quite the personality despite her innocent looking appearance.
 
 「The Divine Sword Knight is the pillar of our nation, loved and respected by all citizens! How could he ever visit a place like this! That's why we have come in his place!」
 
@@ -84,7 +84,7 @@ editor:
 
 「At least not to you. Of course, if Saintess Sophilia wishes to leave, I cannot stop her.」
 
- Filuria turned to Sophie.
+Filuria turned to Sophie.
 
 「Saintess-sama. This city is indebted to you, and needs you. We will protect you at all times. But if you wish to go to the Holy Nation, we will see you off with tears in our eyes.」
 
@@ -92,23 +92,23 @@ editor:
 
 「I see. I know that your impression of the Holy Nation has been tarnished by these buffoons, but it is not truly this terrible. We should be able to trust Yaresfeim-dono, at least more than them.」
 
- The holy knight's face became flush with anger again, but Filuria's continued her words.
+The holy knight's face became flush with anger again, but Filuria's continued her words.
 
 「Besides, it is an undeniable fact that this city is tiny compared to the Holy Nation. I, too, am concerned that it might be too small for you. I really appreciate you, I respect you, and I want you to stay with us forever. But at the same time, I don't want to be the chain that binds you.」
 
- Filuria's heartrending expression seemed to show her concern for Sophie from the bottom of her heart. Some of the patients around us were red-eyed and sniffling.
+Filuria's heartrending expression seemed to show her concern for Sophie from the bottom of her heart. Some of the patients around us were red-eyed and sniffling.
 
- Simply amazing. What's amazing is that almost every word coming out of her mouth was a lie. Her concern for Sophie, that the Holy Nation was not a terrible place, and her feelings of gratitude towards Sophie were all lies.
+Simply amazing. What's amazing is that almost every word coming out of her mouth was a lie. Her concern for Sophie, that the Holy Nation was not a terrible place, and her feelings of gratitude towards Sophie were all lies.
 
- The only part with any truth was her saying that this city was tiny.
+The only part with any truth was her saying that this city was tiny.
 
- Being able to stack so many lies on top of each other is pretty impressive in its own right.
+Being able to stack so many lies on top of each other is pretty impressive in its own right.
 
- It seems Filuria had zero positive emotions towards Sophie. Moreover, she even wanted Sophie to leave.
+It seems Filuria had zero positive emotions towards Sophie. Moreover, she even wanted Sophie to leave.
 
- I don't want to say it like this, but Sophie should be pretty useful. Wouldn't the Medical Director want to make use of her powers……?
+I don't want to say it like this, but Sophie should be pretty useful. Wouldn't the Medical Director want to make use of her powers……?
 
- Considering she's also the one inciting the internal war, I couldn't understand her intentions at all.
+Considering she's also the one inciting the internal war, I couldn't understand her intentions at all.
 
 
 

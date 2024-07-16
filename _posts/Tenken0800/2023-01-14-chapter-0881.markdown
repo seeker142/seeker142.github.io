@@ -10,37 +10,37 @@ editor:
 ---
 <h2>881: Underground Facility</h2>
 
- The door wouldn't open no matter how hard we tried. Fran gave it a kick, but it still didn't budge.
+The door wouldn't open no matter how hard we tried. Fran gave it a kick, but it still didn't budge.
 
- The actual door wasn't particularly sturdy, but the powerful ward covering it blocked all damage. Urushi probably avoided any issues because he could just teleport in with his Shadow Shift.
+The actual door wasn't particularly sturdy, but the powerful ward covering it blocked all damage. Urushi probably avoided any issues because he could just teleport in with his Shadow Shift.
 
- Bryne and Miranleil tried a few hits of their own, but the door didn't seem to be opening any time soon.
+Bryne and Miranleil tried a few hits of their own, but the door didn't seem to be opening any time soon.
 
- I'm scared of the earth collapsing on us if we use too much force underground……
+I'm scared of the earth collapsing on us if we use too much force underground……
 
- Maybe we can teleport in and open it from the other side? I guess there are other options to try first.
+Maybe we can teleport in and open it from the other side? I guess there are other options to try first.
 
 『Fran. This seems like a good opportunity, so give Magic Disruption a shot.』
 
 「Nn.」
 
- Fran stepped forward, so Bryne and Miranleil gave her some room, watching Fran's attempt with interest.
+Fran stepped forward, so Bryne and Miranleil gave her some room, watching Fran's attempt with interest.
 
 『Don't go full power all at once. Take it slow, okay?』
 
 「Nn.」
 
- Fran concentrated, then activated her Magic Disruption. It's kinda like using your own mana to grab the target's mana, then forcibly shaking it.
+Fran concentrated, then activated her Magic Disruption. It's kinda like using your own mana to grab the target's mana, then forcibly shaking it.
 
- The ward blocked her mana at first. But eventually, the ward itself gradually started distorting, falling under the effect of her Magic Disruption.
+The ward blocked her mana at first. But eventually, the ward itself gradually started distorting, falling under the effect of her Magic Disruption.
 
- After a few minutes, the ward covering the door had completely disappeared. Actually, we'd managed to drill a hole in the ward pretty easily, so that would have been enough. We only decided to finish the job for the sake of practice.
+After a few minutes, the ward covering the door had completely disappeared. Actually, we'd managed to drill a hole in the ward pretty easily, so that would have been enough. We only decided to finish the job for the sake of practice.
 
- I had thought the wards would automatically repair themselves even if someone punched a hole in them, but I guess that isn't the case.
+I had thought the wards would automatically repair themselves even if someone punched a hole in them, but I guess that isn't the case.
 
- Once our Magic Disruption collapsed the shape of the ward, it never returned to its original form, even after we deactivated our skills.
+Once our Magic Disruption collapsed the shape of the ward, it never returned to its original form, even after we deactivated our skills.
 
- There's still plenty we don't know. Maybe that's how all wards work, or maybe Magic Disruption has an additional effect for blocking repair. Perhaps there are even special wards that can repair themselves. All we can say for sure is that Magic Disruption was very effective on this ward in particular.
+There's still plenty we don't know. Maybe that's how all wards work, or maybe Magic Disruption has an additional effect for blocking repair. Perhaps there are even special wards that can repair themselves. All we can say for sure is that Magic Disruption was very effective on this ward in particular.
 
 「Hmm.」
 
@@ -48,13 +48,13 @@ editor:
 
 「Great job.」
 
- The door was also locked, but that was no hindrance to Fran. She simply pushed the door open with all her might, and the huge padlock flew off on its own.
+The door was also locked, but that was no hindrance to Fran. She simply pushed the door open with all her might, and the huge padlock flew off on its own.
 
- Inside was a small stone room, without a trace of dust or a speck of dirt. This level of cleanliness felt like overkill to me.
+Inside was a small stone room, without a trace of dust or a speck of dirt. This level of cleanliness felt like overkill to me.
 
- A number of cages were lined up against the walls of the room.
+A number of cages were lined up against the walls of the room.
 
- And we found the person we were looking for in one of those cages.
+And we found the person we were looking for in one of those cages.
 
 「It's Gazzol!」
 
@@ -62,17 +62,17 @@ editor:
 
 「What are you mumbling about? Did they hurt you so bad that you're imagining things?」
 
- Miranleil nearly screamed when she saw Gazzol's condition. Gazzol was supposed to have high regenerative abilities, but his whole body was still covered with wounds. That proved just how harshly he had been tortured.
+Miranleil nearly screamed when she saw Gazzol's condition. Gazzol was supposed to have high regenerative abilities, but his whole body was still covered with wounds. That proved just how harshly he had been tortured.
 
- She quickly tried to break open the cage, but not even a dragonkin's arm strength could destroy it.
+She quickly tried to break open the cage, but not even a dragonkin's arm strength could destroy it.
 
- They must have prepared a durable cage to prevent captured dragonkin or beastmen from easily escaping.
+They must have prepared a durable cage to prevent captured dragonkin or beastmen from easily escaping.
 
- We could break the cage ourselves, but we decided instead to call on some scout and thief-class adventurers for assistance.
+We could break the cage ourselves, but we decided instead to call on some scout and thief-class adventurers for assistance.
 
- That way more people will know about this place. Let's just make sure Gazzol's wounds are healed first.
+That way more people will know about this place. Let's just make sure Gazzol's wounds are healed first.
 
- Fran used Greater Heal through the cage. That's when Gazzol finally noticed her.
+Fran used Greater Heal through the cage. That's when Gazzol finally noticed her.
 
 「Y-You're……!」
 
@@ -84,13 +84,13 @@ editor:
 
 「I-I guess you could say that.」
 
- Gazzol tried to assault her, and ended up defeated. Not that he could manage to say that out loud.
+Gazzol tried to assault her, and ended up defeated. Not that he could manage to say that out loud.
 
 「So? Who the hell locked you up in here?」
 
 「Try not to be surprised, but……」
 
- Miranleil's face scrunched up as she saw Gazzol stammering. She must have realized from the way Gazzol acted that the culprit was someone with influence.
+Miranleil's face scrunched up as she saw Gazzol stammering. She must have realized from the way Gazzol acted that the culprit was someone with influence.
 
 「This is a facility in the basement of the Sanatorium and the one who captured me is Filuria, the Medical Director.」
 
@@ -98,27 +98,27 @@ editor:
 
 「It is completely true. They tortured me this badly in their attempt to enslave me.」
 
- Everyone except Fran was shaken to the bone by Gazzol's words. They had a hard time believing him even after seeing his condition in person.
+Everyone except Fran was shaken to the bone by Gazzol's words. They had a hard time believing him even after seeing his condition in person.
 
- But Miranleil was Gazzol's friend, and Bryne apparently had his suspicions for the organization in the first place. It seems these two readily believed his story.
+But Miranleil was Gazzol's friend, and Bryne apparently had his suspicions for the organization in the first place. It seems these two readily believed his story.
 
 「Her, eh……? She wears a nice girl face all the time, but she must be a real bitch on the inside!」
 
 「I guess any organization can turn corrupt if they continue long enough.」
 
- After nodding in agreement with the two, Fran pointed to a door in the back.
+After nodding in agreement with the two, Fran pointed to a door in the back.
 
 「I'm gonna check up ahead. There might be other people trapped.」
 
- The stunned adventurers managed to regain their footing after hearing Fran's words. They wanted to find out for themselves if this was really the Sanatorium by continuing onward.
+The stunned adventurers managed to regain their footing after hearing Fran's words. They wanted to find out for themselves if this was really the Sanatorium by continuing onward.
 
- After waiting for the others to arrive, Fran busted open the door leading ahead.
+After waiting for the others to arrive, Fran busted open the door leading ahead.
 
- However, they soon came to a halt.
+However, they soon came to a halt.
 
- All of them had their eyes transfixed on the strange scene inside the room.
+All of them had their eyes transfixed on the strange scene inside the room.
 
- Fran was no exception. She looked around the room with her eyes widened.
+Fran was no exception. She looked around the room with her eyes widened.
 
 「Mrgh………」
 
@@ -126,15 +126,15 @@ editor:
 
 「These are…… people?」
 
- The room contained five huge glass cylinders filled with a reddish liquid. Each cylinder had a number of glass tubes extending from the sides onto a shelf.
+The room contained five huge glass cylinders filled with a reddish liquid. Each cylinder had a number of glass tubes extending from the sides onto a shelf.
 
- On those shelves were lines of potion bottles. The contents of which were infused into the glass cylinder through the tubes, like an intravenous drip.
+On those shelves were lines of potion bottles. The contents of which were infused into the glass cylinder through the tubes, like an intravenous drip.
 
- The most bizarre thing, however, were the lifeforms inside the glass case. To our surprise, all but two of them contained human beings. They were grown men with their heads slightly tilted forward, as if drooping down.
+The most bizarre thing, however, were the lifeforms inside the glass case. To our surprise, all but two of them contained human beings. They were grown men with their heads slightly tilted forward, as if drooping down.
 
- Three men floated in the liquid filled glass cases. That was strange enough, but it was even creepier how their faces were exactly the same.
+Three men floated in the liquid filled glass cases. That was strange enough, but it was even creepier how their faces were exactly the same.
 
- And we had seen that face before.
+And we had seen that face before.
 
 「Numerae……?」
 
@@ -142,21 +142,21 @@ editor:
 
 「Nn. He works for Filuria. But he should be dead.」
 
- He got vaporized right in front of us. There's no way he could have survived that.
+He got vaporized right in front of us. There's no way he could have survived that.
 
 『I can sense life-aspected mana……』
 
 「Nn……」
 
- I appraised the men, but their names were displayed as "None" and no race was shown. The description said that they were human-shaped lifeforms created from life-aspected mana and alchemy.
+I appraised the men, but their names were displayed as "None" and no race was shown. The description said that they were human-shaped lifeforms created from life-aspected mana and alchemy.
 
- So it's like a homunculus? Was the Numerae that died also a homunculus?
+So it's like a homunculus? Was the Numerae that died also a homunculus?
 
- The sight was so bizarre that we failed to keep an eye on our surroundings. The usual Fran would have realized the presence of a warding stone in the room, and I should have considered the possibility as well.
+The sight was so bizarre that we failed to keep an eye on our surroundings. The usual Fran would have realized the presence of a warding stone in the room, and I should have considered the possibility as well.
 
- *Thud*.
+*Thud*.
 
- With a dull thud, the door on the opposite side of the room opened.
+With a dull thud, the door on the opposite side of the room opened.
 
 
 

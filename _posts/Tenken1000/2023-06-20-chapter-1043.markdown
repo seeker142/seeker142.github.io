@@ -10,15 +10,15 @@ editor:
 ---
 <h2>1043: Silard's Blunder</h2>
 
- When we returned to our inn, we were greeted by a bunch of holy knights who looked somewhat desperate. We also saw a magician and appraiser in their ranks, both wearing disgusting smiles on their faces.
+When we returned to our inn, we were greeted by a bunch of holy knights who looked somewhat desperate. We also saw a magician and appraiser in their ranks, both wearing disgusting smiles on their faces.
 
 「Oh! You have returned!」
 
 「We've been waiting for you!」
 
- Despite my prayers for them to leave us alone, they called out to Fran, much to my dismay. Fran was completely on guard, since their eyes were not smiling.
+Despite my prayers for them to leave us alone, they called out to Fran, much to my dismay. Fran was completely on guard, since their eyes were not smiling.
 
- Well, not like the Holy Nation of Silard has ever been worthy of trust.
+Well, not like the Holy Nation of Silard has ever been worthy of trust.
 
 「……What do you want?」
 
@@ -26,23 +26,23 @@ editor:
 
 「Becoming an honorary knight means getting whatever rewards and honors you desire! Congratulations!」
 
- Fran tilted her head. She had absolutely no clue what they were talking about.
+Fran tilted her head. She had absolutely no clue what they were talking about.
 
 「Please accept this certificate!」
 
 「As well as this letter from His Majesty!」
 
- The magician and the appraiser each presented Fran with a rolled up piece of parchment. Both of them were slightly enchanted.
+The magician and the appraiser each presented Fran with a rolled up piece of parchment. Both of them were slightly enchanted.
 
- Just a hunch, but I think Fran taking the parchment would be counted as accepting a contract. This was the same strategy that Eiworth's Mage Guild tried before.
+Just a hunch, but I think Fran taking the parchment would be counted as accepting a contract. This was the same strategy that Eiworth's Mage Guild tried before.
 
- Must be one of this world's stereotypical tricks or something.
+Must be one of this world's stereotypical tricks or something.
 
 『Fran, don't take it.』
 
 （I know. I can tell they're up to something.）
 
- Even Fran found their scheme obvious. How pitiful.
+Even Fran found their scheme obvious. How pitiful.
 
 「Don't care.」
 
@@ -52,19 +52,19 @@ editor:
 
 「Don't care. Bye.」
 
- Fran tried to pass by the holy knights, but they moved to block her path. It seems they'll stop at nothing to force Fran into becoming an honorary knight.
+Fran tried to pass by the holy knights, but they moved to block her path. It seems they'll stop at nothing to force Fran into becoming an honorary knight.
 
- But wait, weren't these guys present at the battle with the giant antidemon? Shouldn't they know what Fran was capable of by now?
+But wait, weren't these guys present at the battle with the giant antidemon? Shouldn't they know what Fran was capable of by now?
 
- Oh I see, about half of them were clearly reluctant. There was a hint of fear in the eyes peering through their helmets.
+Oh I see, about half of them were clearly reluctant. There was a hint of fear in the eyes peering through their helmets.
 
- I guess these guys had no choice but to obey their orders. Seeing this only made me realize how awful the honorary knight role really was. They're supposedly on the level of these holy knights? That just makes them lower in rank than the bastards trying to hand out the trapped parchment. Despite the fancy job title, they're nothing more than Silard's manservants.
+I guess these guys had no choice but to obey their orders. Seeing this only made me realize how awful the honorary knight role really was. They're supposedly on the level of these holy knights? That just makes them lower in rank than the bastards trying to hand out the trapped parchment. Despite the fancy job title, they're nothing more than Silard's manservants.
 
- All Fran had to do was lightly release her intimidation and glare at them. That's all that was required to make the holy knights open a path for her to walk through.
+All Fran had to do was lightly release her intimidation and glare at them. That's all that was required to make the holy knights open a path for her to walk through.
 
- Fran grew even stronger during the fierce battles, and these guys were nothing compared to the enemies she's fought off. Besides, the knights here seemed like their lowest ranking members.
+Fran grew even stronger during the fierce battles, and these guys were nothing compared to the enemies she's fought off. Besides, the knights here seemed like their lowest ranking members.
 
- But the magician refused to give up, trying to run after Fran. Meanwhile, a new figure prevented him from following.
+But the magician refused to give up, trying to run after Fran. Meanwhile, a new figure prevented him from following.
 
 「Wait! Please――」
 
@@ -74,7 +74,7 @@ editor:
 
 「Sophie!」
 
- It was the (attempted) dine and dish girl Sophie…… Or rather, Sophilia the saintess. She's saved our lives so many times, so I should really stop with the insulting nicknames.
+It was the (attempted) dine and dish girl Sophie…… Or rather, Sophilia the saintess. She's saved our lives so many times, so I should really stop with the insulting nicknames.
 
 「You failed to get me and Mea, so you move on to Fran?」
 
@@ -90,13 +90,13 @@ editor:
 
 「No retort?」
 
- Sophie's being really aggressive! The Holy Nation must have done something while we were away to really piss her off. The guys from Silard were pretty furious, but they paled in comparison to Sophie.
+Sophie's being really aggressive! The Holy Nation must have done something while we were away to really piss her off. The guys from Silard were pretty furious, but they paled in comparison to Sophie.
 
- What could they have done to anger her this much?
+What could they have done to anger her this much?
 
- And what should we do now? I thought Sophie was going to help us get out of here, not fan the flames. If things keep up, we might have a real fight on our hands. Things were getting out of control.
+And what should we do now? I thought Sophie was going to help us get out of here, not fan the flames. If things keep up, we might have a real fight on our hands. Things were getting out of control.
 
- But then, a third party showed up.
+But then, a third party showed up.
 
 「What's all this fuss? You're disturbing the rest of the inn guests.」
 
@@ -110,17 +110,17 @@ editor:
 
 「Grr……」
 
- It's Yagilale. Seems like he and his men returned safely to Nocta too.
+It's Yagilale. Seems like he and his men returned safely to Nocta too.
 
 「It has been a while――Well, not quite that long. It feels as if we have not met for ages.」
 
 「Nn.」
 
- Our friends from the Holy Nation fell silent in front of Yagilale's calm expression. Knight Nation of Segilusel? Maybe he was from a bigger country than I thought?
+Our friends from the Holy Nation fell silent in front of Yagilale's calm expression. Knight Nation of Segilusel? Maybe he was from a bigger country than I thought?
 
 「That parchment is rather nasty, wouldn't you agree? These sorts of fraud are forbidden by law back in my home country. Are such dated tricks still allowed in the Holy Nation?」
 
- At Yagilale's words, the guys from Silard seemed ready to run. Or rather, they ran away almost immediately.
+At Yagilale's words, the guys from Silard seemed ready to run. Or rather, they ran away almost immediately.
 
 「I-I have no clue what you are talking about. This place has become much too noisy now, so we shall be taking our leave today.」
 
@@ -128,15 +128,15 @@ editor:
 
 「Refrain from going out until we come back.」
 
- Who the hell do they think they are? Despite wording it like a favor, they were basically ordering Fran around. No wonder she got sick of them.
+Who the hell do they think they are? Despite wording it like a favor, they were basically ordering Fran around. No wonder she got sick of them.
 
 「No, I'm never talking to you again.」
 
 「Kuh……!」
 
- The magician seemed unaccustomed to having his orders refused, and he almost shouted in anger again. However, he noticed Sophie and Yagilale's stares, as well as Mea walking in from behind.
+The magician seemed unaccustomed to having his orders refused, and he almost shouted in anger again. However, he noticed Sophie and Yagilale's stares, as well as Mea walking in from behind.
 
- Then they quickly fled.
+Then they quickly fled.
 
 「Thanks. You saved me.」
 
@@ -146,13 +146,13 @@ editor:
 
 「Fuhahaha! You too? I got a similar offer! About how grateful I should be for the Holy Nation accepting beastmen into their country as slaves!」
 
- They still haven't realized Mea's identity? Silard may have just made enemies with the Beast Kingdom.
+They still haven't realized Mea's identity? Silard may have just made enemies with the Beast Kingdom.
 
 「Well, not as if they can help it. All of them are panicked after losing the Divine Sword Knight.」
 
 「!」
 
- Mea-san! Don't drop such a bombshell out of nowhere!
+Mea-san! Don't drop such a bombshell out of nowhere!
 
 
 

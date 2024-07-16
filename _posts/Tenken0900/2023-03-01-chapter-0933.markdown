@@ -10,11 +10,11 @@ editor:
 ---
 <h2>933: Request from Mea</h2>
 
- Today marked the fifth day since Fran woke up.
+Today marked the fifth day since Fran woke up.
 
- I wanted her to relax until her muscle soreness healed completely, but I guess everyone else couldn't leave her alone.
+I wanted her to relax until her muscle soreness healed completely, but I guess everyone else couldn't leave her alone.
 
- Mea visited this morning, bringing up the subject. They had been meeting every day, but today's Mea looked serious.
+Mea visited this morning, bringing up the subject. They had been meeting every day, but today's Mea looked serious.
 
 「Fran, I have a favor to ask you.」
 
@@ -26,7 +26,7 @@ editor:
 
 「Fuahaha! That's my friend! Worry not, it is a simple matter. I am not always so reckless!」
 
- Mea laughed and turned to Urushi, who was standing next to Fran.
+Mea laughed and turned to Urushi, who was standing next to Fran.
 
 「To be honest, this is more of a request for Urushi than you. I need a message sent to Nocta.」
 
@@ -36,9 +36,9 @@ editor:
 
 「The communication tools in the Adventures Guild, Dragon King Syndicate, and Sanatorium were all destroyed during the incident. Part of the Dragon King's scheme, I'm sure. The only way to contact the outside is to send a messenger.」
 
- It seems that Mea, Sophie, and Velmeria held a meeting with other influential people in the town, such as the trading company presidents and the women's association chairwomen. They decided to spread word of the Dragon King's misdeeds.
+It seems that Mea, Sophie, and Velmeria held a meeting with other influential people in the town, such as the trading company presidents and the women's association chairwomen. They decided to spread word of the Dragon King's misdeeds.
 
- As a result, they dispatched a number of trustworthy and speedy messengers to get the word out to the other cities.
+As a result, they dispatched a number of trustworthy and speedy messengers to get the word out to the other cities.
 
 「Now that Lind is finally back in action, he's going out as a messenger to the distant cities.」
 
@@ -50,21 +50,21 @@ editor:
 
 「It's actually gotten worse now that Lind is back.」
 
- The news spread about Mea's sword being a divine sword. As one might expect, like a hundred people have already tried stealing it from her.
+The news spread about Mea's sword being a divine sword. As one might expect, like a hundred people have already tried stealing it from her.
 
- However, it was the dragonkin who reacted even more intensely. To them, Lindwurm was not just a weapon, but a godly entity.
+However, it was the dragonkin who reacted even more intensely. To them, Lindwurm was not just a weapon, but a godly entity.
 
- Many dragonkin constantly crowded around Mea, asking to see her blade. At first, Mea and Quina took advantage of this trend to increase the reputation of the Beastmen Union, but they quickly got fed up with the overly persistent dragonkin.
+Many dragonkin constantly crowded around Mea, asking to see her blade. At first, Mea and Quina took advantage of this trend to increase the reputation of the Beastmen Union, but they quickly got fed up with the overly persistent dragonkin.
 
- The ones simply worshiping it were fine, but some of them demanded the blade be handed over to the dragonkin race.
+The ones simply worshiping it were fine, but some of them demanded the blade be handed over to the dragonkin race.
 
 「Although Quina got rid of them quickly enough.」
 
 『Ah.』
 
- Royal status was pretty worthless on this continent, but Mea was still technically a princess. Demanding a divine sword from royalty wasn't something they could let slide.
+Royal status was pretty worthless on this continent, but Mea was still technically a princess. Demanding a divine sword from royalty wasn't something they could let slide.
 
- Wait, don't tell me…… That story about a rowdy dragonkin gang finding a severed head on their doorstep…… Was it just a rumor, or did Quina actually go that far!? Shit!?
+Wait, don't tell me…… That story about a rowdy dragonkin gang finding a severed head on their doorstep…… Was it just a rumor, or did Quina actually go that far!? Shit!?
 
 「What's wrong, Master?」
 
@@ -72,7 +72,7 @@ editor:
 
 「Wow, you've finally reached that level! Indeed, you'd best not go against her. You never know what kind of punishment she might give you!」
 
- Mea glanced around the room after saying that. Quina has you completely trained, huh?
+Mea glanced around the room after saying that. Quina has you completely trained, huh?
 
 「Enough about her. Let's get back to the main topic, shall we? I would like you to head to Nocta, making use of Urushi's immense speed. How about it?」
 
@@ -82,7 +82,7 @@ editor:
 
 「Woof woof!」
 
- Urushi barked, his chest puffed out as if to say, "I'll take care of it." I guess he was getting tired of lounging around in the Sanatorium.
+Urushi barked, his chest puffed out as if to say, "I'll take care of it." I guess he was getting tired of lounging around in the Sanatorium.
 
 「Then I'll bring over the letters for you to carry soon. Depart as quickly as possible.」
 
@@ -98,11 +98,11 @@ editor:
 
 「Nn! I'm on it!」
 
- From there, it was pretty quick.
+From there, it was pretty quick.
 
- Within an hour, Mea returned with a bruise on her forehead from what appeared to be an iron claw, and handed us several letters. Apparently, she had made a mistake and gotten punished by Quina.
+Within an hour, Mea returned with a bruise on her forehead from what appeared to be an iron claw, and handed us several letters. Apparently, she had made a mistake and gotten punished by Quina.
 
- I bet Mea made a slight remark about me agreeing with how terrifying Quina was. S-She won't be mad at me too, right? Let's not come back to Sendia until things cool down.
+I bet Mea made a slight remark about me agreeing with how terrifying Quina was. S-She won't be mad at me too, right? Let's not come back to Sendia until things cool down.
 
 「Okay, I'm heading out.」
 
@@ -114,9 +114,9 @@ editor:
 
 <br>
 
- And then, one full day passed.
+And then, one full day passed.
 
- We headed for Nocta riding on Urushi's back, and that familiar huge wall came into view.
+We headed for Nocta riding on Urushi's back, and that familiar huge wall came into view.
 
 「I see Nocta!」
 
@@ -124,39 +124,39 @@ editor:
 
 『It's the same as before.』
 
- Such a huge horde struck at Sendia, so I was worried about Nocta…… But there it was, exactly the same as it looked before.
+Such a huge horde struck at Sendia, so I was worried about Nocta…… But there it was, exactly the same as it looked before.
 
- It seems Nocta successfully repelled the antidemons. The city had way over ten times as many adventurers and soldiers than Sendia, so that's not surprising.
+It seems Nocta successfully repelled the antidemons. The city had way over ten times as many adventurers and soldiers than Sendia, so that's not surprising.
 
- Once inside, we found the place bustling as usual. No, actually, there were even more people than before.
+Once inside, we found the place bustling as usual. No, actually, there were even more people than before.
 
- We could clearly tell by walking through the crowded streets. There must have been a large influx of refugees from illegal villages similar to Castel, or adventurers who intended to operate with Nocta as their base of operations.
+We could clearly tell by walking through the crowded streets. There must have been a large influx of refugees from illegal villages similar to Castel, or adventurers who intended to operate with Nocta as their base of operations.
 
- There were also a few dwarves and demonkin here and there. Maybe they came after hearing that their queens were in the city.
+There were also a few dwarves and demonkin here and there. Maybe they came after hearing that their queens were in the city.
 
- Actually, no one seemed to be celebrating any victories. Did Nocta even get attacked in the first place?
+Actually, no one seemed to be celebrating any victories. Did Nocta even get attacked in the first place?
 
- We headed for the Adventurers Guild while observing the surroundings. There, we met a familiar face.
+We headed for the Adventurers Guild while observing the surroundings. There, we met a familiar face.
 
 「Sis!」
 
 「Diggins!」
 
- The happy bearkin running towards us was the Rank B adventurer, Diggins. He was one of the guys who fought with us at Castel.
+The happy bearkin running towards us was the Rank B adventurer, Diggins. He was one of the guys who fought with us at Castel.
 
- I could easily tell Fran was happy to see Diggins again. I guess she now thought of him as a comrade-in-arms.
+I could easily tell Fran was happy to see Diggins again. I guess she now thought of him as a comrade-in-arms.
 
 「You stayed in Nocta?」
 
 「I was asked to take care of Nadia-san, so there's no way I could leave her now!」
 
- Whoa, it seems he actually stayed in Nocta to protect Nadia.
+Whoa, it seems he actually stayed in Nocta to protect Nadia.
 
 「Was Nocta okay with the antidemons?」
 
 「There was one attack, but we all made it through! It's just, this season seems to have a really strange distribution of antidemons. The number at Nocta was really low for some reason……」
 
- I guess the Dragon King's men dragged even the antidemons near Nocta to Sendia. No wonder there were so many of them.
+I guess the Dragon King's men dragged even the antidemons near Nocta to Sendia. No wonder there were so many of them.
 
 「What about Auntie?」
 

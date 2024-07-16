@@ -10,33 +10,33 @@ editor:
 ---
 <h2>846: Gathering Info at the Guild</h2>
 
- The day after we got the information from Gazzol.
+The day after we got the information from Gazzol.
 
- We headed to the Adventurers Guild early in the morning to gather more information.
+We headed to the Adventurers Guild early in the morning to gather more information.
 
- In any normal town, we would be getting random stuff to eat on the way there, but this town had practically zero food stalls. Food was already precious, and they seemed to be stockpiling it because of the antidemon season.
+In any normal town, we would be getting random stuff to eat on the way there, but this town had practically zero food stalls. Food was already precious, and they seemed to be stockpiling it because of the antidemon season.
 
- That's why Fran was walking around with nothing in her hands. As one would expect, she read the mood and didn't just plop out a bunch of meat skewers from her dimensional storage.
+That's why Fran was walking around with nothing in her hands. As one would expect, she read the mood and didn't just plop out a bunch of meat skewers from her dimensional storage.
 
- Okay, I lied. I had to stop her from doing that.
+Okay, I lied. I had to stop her from doing that.
 
 「No blue cats here.」
 
 『It is the main street after all.』
 
- After spending a few days in this city, we realized that the territory of ordinary citizens and outlaws seemed to be clearly separated.
+After spending a few days in this city, we realized that the territory of ordinary citizens and outlaws seemed to be clearly separated.
 
- Outlaws stayed out of the main streets or residential areas, or only entered quietly. They also tended to distance themselves from areas where the Adventurers Guild had a strong influence.
+Outlaws stayed out of the main streets or residential areas, or only entered quietly. They also tended to distance themselves from areas where the Adventurers Guild had a strong influence.
 
- The inn Fran stayed at was mainly for adventurers, so it should be mostly safe.
+The inn Fran stayed at was mainly for adventurers, so it should be mostly safe.
 
- If the security situation ever got too bad, people would start avoiding the city, stopping the flow of goods coming in. The outlaws were well aware of that, so they didn't overstep their bounds.
+If the security situation ever got too bad, people would start avoiding the city, stopping the flow of goods coming in. The outlaws were well aware of that, so they didn't overstep their bounds.
 
- We passed through the safe main street and arrived at the Adventurers Guild. Inside, the atmosphere was as dingy as ever.
+We passed through the safe main street and arrived at the Adventurers Guild. Inside, the atmosphere was as dingy as ever.
 
- Fran went to the counter and sat down in front of Prear. Does this guildmaster really play the bartender every day?
+Fran went to the counter and sat down in front of Prear. Does this guildmaster really play the bartender every day?
 
- I'm sure he's there to keep an eye on the riffraff, but what about his actual job?
+I'm sure he's there to keep an eye on the riffraff, but what about his actual job?
 
 「Juice.」
 
@@ -44,7 +44,7 @@ editor:
 
 「Nn.」
 
- Fran got the same juice she drank last night at the bar, sipping it a sour look on her face. After that, they began their conversation.
+Fran got the same juice she drank last night at the bar, sipping it a sour look on her face. After that, they began their conversation.
 
 「I want to ask you something.」
 
@@ -56,7 +56,7 @@ editor:
 
 「I was just talking to people.」
 
- While it's true that Fran never picked any fights, I think she really thought she did nothing unusual.
+While it's true that Fran never picked any fights, I think she really thought she did nothing unusual.
 
 「So how many people did you beat up?」
 
@@ -72,7 +72,7 @@ editor:
 
 「Just so you know, the guild can't protect you if you cause a big commotion in the middle of town.」
 
- So in other words, he's saying that he will cover for Fran to some extent?
+So in other words, he's saying that he will cover for Fran to some extent?
 
 「You seem confused, but it's the antidemon season, yeah? We seriously appreciate the presence of adventurers of your caliber. I'm willing to at least take the brunt of it, but I can't cover for you if any ordinary citizens get hurt.」
 
@@ -88,13 +88,13 @@ editor:
 
 「……For the record, I'm not a good guy, but I don't do bad things all the time.」
 
- So he doesn't deny being a bad guy. Well, I guess the guildmaster of this city would have to get their hands a bit dirty no matter what.
+So he doesn't deny being a bad guy. Well, I guess the guildmaster of this city would have to get their hands a bit dirty no matter what.
 
 「I need info about the blue cats.」
 
 「There are some among the adventurers, but I can't just leak their identities out. Unless you have proof they are connected to the slavers, that is.」
 
- Even though Fran was Rank B with an alias, Prear couldn't just release personal data on other adventurers willy-nilly. It would be a matter of the guild's credibility.
+Even though Fran was Rank B with an alias, Prear couldn't just release personal data on other adventurers willy-nilly. It would be a matter of the guild's credibility.
 
 「Mrgh. Then, how about info on the strong helpers of the Beastmen Union?」
 
@@ -104,7 +104,7 @@ editor:
 
 「I've heard that too. They say the girl wears a cloaking robe at all times, so no one can tell her race.」
 
- It seems Prear also heard the rumors about the Beastmen Union's helpers, but that was unfortunately the extent of the guild's knowledge.
+It seems Prear also heard the rumors about the Beastmen Union's helpers, but that was unfortunately the extent of the guild's knowledge.
 
 「And I think that girl is avoiding contact with the adventurers on purpose.」
 
@@ -112,7 +112,7 @@ editor:
 
 「She's either a famous adventurer or has a bounty on her head. Has to be one or the other.」
 
- Since the girl was obviously hiding her identity, Prear reasoned that she must be avoiding adventurers to prevent them from identifying her.
+Since the girl was obviously hiding her identity, Prear reasoned that she must be avoiding adventurers to prevent them from identifying her.
 
 『That makes them all the more suspicious.』
 
@@ -124,15 +124,15 @@ editor:
 
 「I can't even imagine how much trouble you might cause if you move on your own…… Even those hotheads from the Beastmen Union are a necessary force for this town's defenses.」
 
- Seems like his main concern was the number of casualties if Fran got into a conflict with the Beastmen Union.
+Seems like his main concern was the number of casualties if Fran got into a conflict with the Beastmen Union.
 
- This town must be built on a delicate balance between organizations, and he didn't want to upset that balance. It was already tipping over slightly due to the Dragon King Syndicate getting out of hand recently.
+This town must be built on a delicate balance between organizations, and he didn't want to upset that balance. It was already tipping over slightly due to the Dragon King Syndicate getting out of hand recently.
 
 （What do you think?）
 
 『If he'll let us make use of the guild's information network, it'd be best to leave it to them.』
 
- They might be able to get stuff that we can't.
+They might be able to get stuff that we can't.
 
 「Nn. I'll leave it to you.」
 
@@ -140,7 +140,7 @@ editor:
 
 「……Okay.」
 
- The more Fran walks around, the more likely she is to cause a scene. He wanted her to be as inconspicuous as possible.
+The more Fran walks around, the more likely she is to cause a scene. He wanted her to be as inconspicuous as possible.
 
 「Then I'll do some sightseeing for now.」
 

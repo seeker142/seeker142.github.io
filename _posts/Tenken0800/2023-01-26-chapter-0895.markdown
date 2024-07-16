@@ -10,47 +10,47 @@ editor:
 ---
 <h2>895: Fire Fighting</h2>
 
- We first went to the guildmaster's office. Our plan was to search for the note Prear mentioned, which contained information on the black market slavers.
+We first went to the guildmaster's office. Our plan was to search for the note Prear mentioned, which contained information on the black market slavers.
 
- However, the office had a ridiculous amount of drawers and cabinets, and many were locked. There's no way we would be able to determine which one contained what we were looking for any time soon.
+However, the office had a ridiculous amount of drawers and cabinets, and many were locked. There's no way we would be able to determine which one contained what we were looking for any time soon.
 
- And we didn't have the time to check right now.
+And we didn't have the time to check right now.
 
- Besides, if any other adventurers saw us, they would probably find it suspicious to see Fran rummaging through the office. We needed to be careful to avoid getting ourselves accused of a crime.
+Besides, if any other adventurers saw us, they would probably find it suspicious to see Fran rummaging through the office. We needed to be careful to avoid getting ourselves accused of a crime.
 
- Well, I guess ransacking a burning building is basically a crime.
+Well, I guess ransacking a burning building is basically a crime.
 
- That's why we decided to shove all the desks and cabinets into our dimensional storage. The room felt a lot more spacious now, but no time to worry about that.
+That's why we decided to shove all the desks and cabinets into our dimensional storage. The room felt a lot more spacious now, but no time to worry about that.
 
 『Okay, now let's put out the fire!』
 
- That's easier said than done, however. Those flames burned even solid stone, and had already spread to the neighboring buildings. We had to put out all the flames while also preventing any further spread.
+That's easier said than done, however. Those flames burned even solid stone, and had already spread to the neighboring buildings. We had to put out all the flames while also preventing any further spread.
 
- Fortunately, the residents had already started evacuating, but there seemed to be a considerable number of people who didn't manage to escape.
+Fortunately, the residents had already started evacuating, but there seemed to be a considerable number of people who didn't manage to escape.
 
- The easiest way I could think of is to surround the entire area with earthern walls. Then we could either fill it up with water or suck out all the oxygen.
+The easiest way I could think of is to surround the entire area with earthern walls. Then we could either fill it up with water or suck out all the oxygen.
 
- Well, in the case of magical flames, there's also the possibility that it could burn without air or resist water.
+Well, in the case of magical flames, there's also the possibility that it could burn without air or resist water.
 
- In any case, we couldn't use either method if people were still in there.
+In any case, we couldn't use either method if people were still in there.
 
- First, I need to prevent the spread of fire.
+First, I need to prevent the spread of fire.
 
 『Flame Barrier!』
 
 「Wow Master, that's great!」
 
- This spell was intended to protect a small zone from fire magic, but I covered the entire block with it instead. Rather than guarding against external magic, I used it to prevent the flames from escaping outside.
+This spell was intended to protect a small zone from fire magic, but I covered the entire block with it instead. Rather than guarding against external magic, I used it to prevent the flames from escaping outside.
 
- But there was a problem.
+But there was a problem.
 
 『Gnrgh…… It's really difficult… to maintain.』
 
- Since I used it at a scale incomparable to the original form, it made a huge cylindrical barrier.
+Since I used it at a scale incomparable to the original form, it made a huge cylindrical barrier.
 
- Simply maintaining this required tremendous concentration and mana.
+Simply maintaining this required tremendous concentration and mana.
 
- I couldn't keep maintaining it for very long, especially since I had not fully recovered from my exhaustion at Castel.
+I couldn't keep maintaining it for very long, especially since I had not fully recovered from my exhaustion at Castel.
 
 『Find and save any survivors while I'm holding up the barrier. I've got my hands full with maintenance, so do it without me.』
 
@@ -58,85 +58,85 @@ editor:
 
 「Woof!」
 
- Fran and Urushi split up and began searching for anyone left behind.
+Fran and Urushi split up and began searching for anyone left behind.
 
- Since I couldn't help, Fran was unable to use teleportation. She instead activated her Life Detection and punched through walls to reach the survivors as quickly as possible.
+Since I couldn't help, Fran was unable to use teleportation. She instead activated her Life Detection and punched through walls to reach the survivors as quickly as possible.
 
- Then she cast a heal and dragged them out through the walls, before going back in to rescue more people.
+Then she cast a heal and dragged them out through the walls, before going back in to rescue more people.
 
- In the meantime, some adventurers sensed something wrong at the guild and began gathering. Sophie also brought in more adventurers to support us.
+In the meantime, some adventurers sensed something wrong at the guild and began gathering. Sophie also brought in more adventurers to support us.
 
- After seeing the current state of the guild, all of them knew it was an emergency.
+After seeing the current state of the guild, all of them knew it was an emergency.
 
- The adventurers took the initiative in rescuing everyone and handling the onlookers. Many of them looked like they wanted to ask Fran what happened, but they knew we didn't have the time for a chat.
+The adventurers took the initiative in rescuing everyone and handling the onlookers. Many of them looked like they wanted to ask Fran what happened, but they knew we didn't have the time for a chat.
 
 <br>
 
- Half an hour after the rescue began.
+Half an hour after the rescue began.
 
- We had succeeded in rescuing all the residents. Everyone carried out by Urushi was scared out of their minds, however.
+We had succeeded in rescuing all the residents. Everyone carried out by Urushi was scared out of their minds, however.
 
- A jet black wolf approaching you as you were trembling in a burning building. Anyone would say their prayers at that moment. Even after being saved, the fear would not go away easily.
+A jet black wolf approaching you as you were trembling in a burning building. Anyone would say their prayers at that moment. Even after being saved, the fear would not go away easily.
 
- Still, they should consider themselves lucky to be spared.
+Still, they should consider themselves lucky to be spared.
 
- I used up a lot of my mana too, but I'm glad we made it in time.
+I used up a lot of my mana too, but I'm glad we made it in time.
 
 『Now we just have to put out the fire.』
 
 「Nn!」
 
- Fran asked Sophie for her opinion on how to put out the fire. She told us to prioritize avoiding any further spread, even if we have to be a little forceful.
+Fran asked Sophie for her opinion on how to put out the fire. She told us to prioritize avoiding any further spread, even if we have to be a little forceful.
 
- Fires were apparently very rare here, since wood hardly ever gets used as building material. Since this was a disaster none had experience with, it felt all the more terrifying.
+Fires were apparently very rare here, since wood hardly ever gets used as building material. Since this was a disaster none had experience with, it felt all the more terrifying.
 
- That's why Sophie, as well as other adventurers and residents, accepted the destruction of houses as long as it would prevent the spread of fire.
+That's why Sophie, as well as other adventurers and residents, accepted the destruction of houses as long as it would prevent the spread of fire.
 
- That makes it easy.
+That makes it easy.
 
 『Fran, we'll cut it all down!』
 
 「Nn!」
 
- Fran raised me upwards as she boosted her inner mana. Then, she activated the Lv6 Holy Sword Art, Sword Sonic.
+Fran raised me upwards as she boosted her inner mana. Then, she activated the Lv6 Holy Sword Art, Sword Sonic.
 
- Well, to put it simply, it's a flying slash.
+Well, to put it simply, it's a flying slash.
 
- With a single blow from Fran, the building was sliced open horizontally. The slash was so sharp and clean that the ordinary residents had no idea what just happened.
+With a single blow from Fran, the building was sliced open horizontally. The slash was so sharp and clean that the ordinary residents had no idea what just happened.
 
- They only saw Fran swing her sword to the side really quickly. But at that very instant, the house was no longer connected to the ground.
+They only saw Fran swing her sword to the side really quickly. But at that very instant, the house was no longer connected to the ground.
 
- So the entire building was treated as one large object.
+So the entire building was treated as one large object.
 
- Then, all we needed to do was store it.
+Then, all we needed to do was store it.
 
- The building vanished, leaving only the ground of the first floor as well as 10 cm worth of walls and pillars.
+The building vanished, leaving only the ground of the first floor as well as 10 cm worth of walls and pillars.
 
 『About ten more buildings, I think?』
 
 「Let's do it.」
 
- Fran nodded, and one by one, the buildings were stowed away.
+Fran nodded, and one by one, the buildings were stowed away.
 
- After we placed all the buildings into our storage, the flames were gone. We could return their belongings and such later.
+After we placed all the buildings into our storage, the flames were gone. We could return their belongings and such later.
 
- Honestly, I wanted to find out what information Prear left us about the slavers immediately.
+Honestly, I wanted to find out what information Prear left us about the slavers immediately.
 
- But things just kept moving outside our control.
+But things just kept moving outside our control.
 
 「Sophie, you say the adventurers went complaining to the Dragon King Syndicate?」
 
 「I'd call it a protest rather than a complaint…… When they heard about the dragonkin striking at the guild, they suspected it was the work of the Dragon King Syndicate.」
 
- It seems some of the adventurers had headed off to the Dragon King Syndicate.
+It seems some of the adventurers had headed off to the Dragon King Syndicate.
 
- A protest, huh? I don't think a mob of enraged adventurers marching on a gang is gonna end peacefully.
+A protest, huh? I don't think a mob of enraged adventurers marching on a gang is gonna end peacefully.
 
 「I failed to stop them……」
 
- Sophie muttered hopelessly.
+Sophie muttered hopelessly.
 
- All she wanted was an end to the chaos, but it only kept spreading. This turn of events left her even more anxious.
+All she wanted was an end to the chaos, but it only kept spreading. This turn of events left her even more anxious.
 
 
 

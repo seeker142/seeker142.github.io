@@ -10,21 +10,21 @@ editor:
 ---
 <h2>964: Location of the Holy Knights</h2>
 
- Fran and Izario traveled through the night and arrived at Nocta. Well, Fran slept on me most of the way, so Izario was the only one pulling an all-nighter.
+Fran and Izario traveled through the night and arrived at Nocta. Well, Fran slept on me most of the way, so Izario was the only one pulling an all-nighter.
 
- Urushi tried to run at first, but he quickly collapsed again. He must have really overexerted himself on the way back to Bultori. That's when I picked up Fran with my Telekinetic Air Ride and kept on flying.
+Urushi tried to run at first, but he quickly collapsed again. He must have really overexerted himself on the way back to Bultori. That's when I picked up Fran with my Telekinetic Air Ride and kept on flying.
 
- I had to support Fran while she slept standing up, but I got the hang of it about halfway through. Now I'm pretty confident in my ability to carry her sleeping in a futon while maintaining balance. Guess I'm improving too!
+I had to support Fran while she slept standing up, but I got the hang of it about halfway through. Now I'm pretty confident in my ability to carry her sleeping in a futon while maintaining balance. Guess I'm improving too!
 
- Still, it was a bit rough keeping up with Izario. We just barely managed to make it to Nocta without falling behind.
+Still, it was a bit rough keeping up with Izario. We just barely managed to make it to Nocta without falling behind.
 
- Outside of the town, we saw the remnants of an intense battle. The ground was covered with giant craters in one area, and blackened with ash in others. I also saw plenty of reddish-black blood stains splattered around.
+Outside of the town, we saw the remnants of an intense battle. The ground was covered with giant craters in one area, and blackened with ash in others. I also saw plenty of reddish-black blood stains splattered around.
 
- Many adventurers were lined up on the city walls, making for a tense atmosphere. Like we expected, they must have fought off a giant antidemon here as well.
+Many adventurers were lined up on the city walls, making for a tense atmosphere. Like we expected, they must have fought off a giant antidemon here as well.
 
- We noticed the adventurers moving around as we got closer to the gate. They must have the job of checking damage to the walls and watching out for antidemons.
+We noticed the adventurers moving around as we got closer to the gate. They must have the job of checking damage to the walls and watching out for antidemons.
 
- There I saw a familiar face.
+There I saw a familiar face.
 
 「Zehard!」
 
@@ -34,13 +34,13 @@ editor:
 
 「Sure is, thanks to the dwarves and the demonkin. Nadia-san is safe and sound too. The mana draining phenomenon never reached that area.」
 
- Fran's shoulders relaxed when she heard the news from Zehard, Mulsani's adventurer escort.
+Fran's shoulders relaxed when she heard the news from Zehard, Mulsani's adventurer escort.
 
- Even if Nadia was stuck in a coma, she was a high-ranking adventurer. Although Fran knew that a little mana drain wouldn't kill her, she still felt anxious until we actually checked for ourselves.
+Even if Nadia was stuck in a coma, she was a high-ranking adventurer. Although Fran knew that a little mana drain wouldn't kill her, she still felt anxious until we actually checked for ourselves.
 
 「Izario! Fran! You're safe!」
 
- After parting ways with Zehard, Fran and Izario got approached by someone else. It was Replare, the guildmaster, who was apparently ordering the adventurers here directly.
+After parting ways with Zehard, Fran and Izario got approached by someone else. It was Replare, the guildmaster, who was apparently ordering the adventurers here directly.
 
 「Did Nocta get one of those giants too?」
 
@@ -50,25 +50,25 @@ editor:
 
 「I see…… We took many casualties here too……」
 
- It seems demonkin queen Jayne and dwarf queen Orfalve took the lead in destroying the antidemons at Nocta.
+It seems demonkin queen Jayne and dwarf queen Orfalve took the lead in destroying the antidemons at Nocta.
 
- The dwarves countered the spring of antidemons with their iron-clad formation, while the demonkin sorcerers whittled away at the giant antidemon using powerful ritual magic. In the end, the two queens struck the giant head on and destroyed it.
+The dwarves countered the spring of antidemons with their iron-clad formation, while the demonkin sorcerers whittled away at the giant antidemon using powerful ritual magic. In the end, the two queens struck the giant head on and destroyed it.
 
- It seems the giant antidemon appeared much closer to the city than in Bultori, assaulting the city with powerful tremors. Many of the buildings collapsed too, which contributed to the casualty count.
+It seems the giant antidemon appeared much closer to the city than in Bultori, assaulting the city with powerful tremors. Many of the buildings collapsed too, which contributed to the casualty count.
 
 「We're getting damage reports from all over the continent now, but it seems that Sendia got away almost completely unharmed.」
 
 「Really?」
 
- Replare told us the news Fran wanted to hear the most. That grabbed our full attention.
+Replare told us the news Fran wanted to hear the most. That grabbed our full attention.
 
 「Indeed. I hear the residents of the town cooperated with the holy knights of Silard. The Divine Sword Knight Adol took down the giant antidemon alongside the Beast King's daughter.」
 
- Wait, I just remembered. Those guys from Silard's headed straight for Sendia! Of course they would, since they had that promise between Filuria and Adol about delivering the saintess.
+Wait, I just remembered. Those guys from Silard's headed straight for Sendia! Of course they would, since they had that promise between Filuria and Adol about delivering the saintess.
 
- The news about Sophie being a divine sword wielder has probably spread all over by now, so there's a high chance that Adol knows about it. If so, wouldn't they try to take Sophie by any means possible?
+The news about Sophie being a divine sword wielder has probably spread all over by now, so there's a high chance that Adol knows about it. If so, wouldn't they try to take Sophie by any means possible?
 
- Although it seems they ended up protecting Sendia somehow……? Are Sophie and the others safe? There's also Mea who has a different divine sword and Velmeria who has Divine Dragon Form. If Silard realizes their value, they might be targets for kidnapping too.
+Although it seems they ended up protecting Sendia somehow……? Are Sophie and the others safe? There's also Mea who has a different divine sword and Velmeria who has Divine Dragon Form. If Silard realizes their value, they might be targets for kidnapping too.
 
 「……I'm going to Sendia!」
 
@@ -78,11 +78,11 @@ editor:
 
 「Oh, that story.」
 
- Of course, we informed the Adventurers Guild about Filuria's schemes. However, the Ward Dealer Seliadot had already neutralized her. That's why the guild probably no longer thought of her as a threat.
+Of course, we informed the Adventurers Guild about Filuria's schemes. However, the Ward Dealer Seliadot had already neutralized her. That's why the guild probably no longer thought of her as a threat.
 
- Since we skimped out on some of the details regarding the divine swords in our report, the guild didn't seem to have a good grasp on Sophie's importance.
+Since we skimped out on some of the details regarding the divine swords in our report, the guild didn't seem to have a good grasp on Sophie's importance.
 
- I guess that's why they didn't show much interest in Silard's army heading to Sendia.
+I guess that's why they didn't show much interest in Silard's army heading to Sendia.
 
 「Maybe this is good timing then.」
 
@@ -94,11 +94,11 @@ editor:
 
 「Yes. You see, Gordicia's administrative council has decided to make a contribution request to all adventurers and nations. The allied forces will be divided into several units to hunt down the remaining giant antidemons――aka, the titan-types.」
 
- Although the council doesn't have the authority to order the nations around, they do have the power to make requests for maintaining the existence of Gordicia's barrier. That said, the nations and guild were not obligated to comply.
+Although the council doesn't have the authority to order the nations around, they do have the power to make requests for maintaining the existence of Gordicia's barrier. That said, the nations and guild were not obligated to comply.
 
- It's only a "request" after all. However, anyone attempting to refuse will be bashed by other countries and accused of abandoning their Gordician duty.
+It's only a "request" after all. However, anyone attempting to refuse will be bashed by other countries and accused of abandoning their Gordician duty.
 
- Therefore, the council's requests essentially had forced compliance.
+Therefore, the council's requests essentially had forced compliance.
 
 「Naturally, the Adventurers Guild will issue this as an urgent request to all adventurers. You will have to obey.」
 
@@ -106,11 +106,11 @@ editor:
 
 「Nn.」
 
- The adventurers weren't allowed to refuse either. It's an emergency, so that's only natural.
+The adventurers weren't allowed to refuse either. It's an emergency, so that's only natural.
 
 「The administrative council wants to ensure the participation of the Holy Nation of Silard, the Militant Nation of Hagane, the Dwarf Kingdom of Snorabbit, and the Demonkin Kingdom of Dume.」
 
- Two nations owning divine swords, as well as two nations led by a member of the Seven Sages. They would of course ask for the most powerful forces currently stationed in Gordicia.
+Two nations owning divine swords, as well as two nations led by a member of the Seven Sages. They would of course ask for the most powerful forces currently stationed in Gordicia.
 
 「The two queens have already given their full approval. A separate branch will be sending a messenger to Hagane. That's why we'd like you two talking with Silard.」
 
@@ -118,13 +118,13 @@ editor:
 
 「Allow me be frank for a moment, but those guys are idiots. They only care about themselves, right? We need a "proper negotiation" to avoid them making some stupid excuse and running away, wouldn't you agree?」
 
- So in other words, she needed Izario and Fran to pressure Silard into participating in the allied forces.
+So in other words, she needed Izario and Fran to pressure Silard into participating in the allied forces.
 
- Izario alone was essentially equal to Adol. Maybe Adol could claim an advantage due to the holy knights accompanying him, but the scales tip back in our favor with Fran in the picture. They could no longer resort to any forceful methods.
+Izario alone was essentially equal to Adol. Maybe Adol could claim an advantage due to the holy knights accompanying him, but the scales tip back in our favor with Fran in the picture. They could no longer resort to any forceful methods.
 
- Any reasonable country wouldn't refuse in the first place, but Replare seemed to suspect otherwise. Sending both Izario and Fran for this mission certainly showed how well she appreciated Silard.
+Any reasonable country wouldn't refuse in the first place, but Replare seemed to suspect otherwise. Sending both Izario and Fran for this mission certainly showed how well she appreciated Silard.
 
- If we manage to drag Silard onto the battlefield, they will no longer be able to plot anything in Sendia. We'll have the watchful eyes of the other nations on them.
+If we manage to drag Silard onto the battlefield, they will no longer be able to plot anything in Sendia. We'll have the watchful eyes of the other nations on them.
 
 『Then let's go grab Silard by the collar!』
 

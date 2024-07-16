@@ -10,17 +10,17 @@ editor:
 ---
 <h2>897: Conflict Diffused</h2>
 
- We headed for the nearest branch of the Dragon King Syndicate, and on the way we realized the extent of the panic.
+We headed for the nearest branch of the Dragon King Syndicate, and on the way we realized the extent of the panic.
 
- The people in this town were generally indifferent to each other. Many of them had complicated histories, and the unspoken rule of not caring about the past was probably at the root of this indifference.
+The people in this town were generally indifferent to each other. Many of them had complicated histories, and the unspoken rule of not caring about the past was probably at the root of this indifference.
 
- Still, it was impossible stay unbothered after witnessing a huge pillar of fire in the middle of town, as well as all the adventurers running around.
+Still, it was impossible stay unbothered after witnessing a huge pillar of fire in the middle of town, as well as all the adventurers running around.
 
- Many residents were out in the streets, whispering to each other with anxious looks on their faces.
+Many residents were out in the streets, whispering to each other with anxious looks on their faces.
 
- Looking down from above, we could see the streets jammed with residents.
+Looking down from above, we could see the streets jammed with residents.
 
- Even when the antidemon advance party attacked the city, there had not been this much chaos.
+Even when the antidemon advance party attacked the city, there had not been this much chaos.
 
 『Just who were those dragonkin……?』
 
@@ -28,17 +28,17 @@ editor:
 
 『If so, I don't see why they would attack the guild.』
 
- The Dragon King Syndicate was engaged in a conflict with the Beastmen Union. Also, the red-scaled guy said it was some kind of job, right?
+The Dragon King Syndicate was engaged in a conflict with the Beastmen Union. Also, the red-scaled guy said it was some kind of job, right?
 
- The dragonkin didn't show any signs of hatred toward the guild, so it wasn't like we were caught up in a gang war or anything.
+The dragonkin didn't show any signs of hatred toward the guild, so it wasn't like we were caught up in a gang war or anything.
 
 「Maybe they're working for Filuria.」
 
 『That's a possibility.』
 
- Filuria was on the side inciting the war.
+Filuria was on the side inciting the war.
 
- But it's also possible that the Dragon King Syndicate really did order their warriors to attack us. In the end, we could only learn the truth by tracking down the culprits.
+But it's also possible that the Dragon King Syndicate really did order their warriors to attack us. In the end, we could only learn the truth by tracking down the culprits.
 
 「There's a fight.」
 
@@ -46,11 +46,11 @@ editor:
 
 「Woof!」
 
- We flew through the skies of Sendia, approaching the building of the Dragon King Syndicate. The sounds of angry shouts and clashing swords started entering our ears.
+We flew through the skies of Sendia, approaching the building of the Dragon King Syndicate. The sounds of angry shouts and clashing swords started entering our ears.
 
- It seems that many people were already engaged in battle.
+It seems that many people were already engaged in battle.
 
- We found quite a fierce brawl in the streets surrounding the Dragon King Syndicate building. However, something was off.
+We found quite a fierce brawl in the streets surrounding the Dragon King Syndicate building. However, something was off.
 
 「There's many beastmen.」
 
@@ -58,11 +58,11 @@ editor:
 
 「Why?」
 
- Just like Fran muttered, we had no clue why the Beastmen Union was here. Were they teaming up with the adventurers or something? No, after closer inspection, we could see places where the adventurers clashed with beastmen as well.
+Just like Fran muttered, we had no clue why the Beastmen Union was here. Were they teaming up with the adventurers or something? No, after closer inspection, we could see places where the adventurers clashed with beastmen as well.
 
- Before us seemed to be a three-way battle.
+Before us seemed to be a three-way battle.
 
- Isn't this really bad? But how can we stop a conflict that has grown this out of control……?
+Isn't this really bad? But how can we stop a conflict that has grown this out of control……?
 
 「I'll stop them.」
 
@@ -74,11 +74,11 @@ editor:
 
 「Nn!」
 
- Fran nodded her head then activated the wind magic, Sound Spread, a spell to amplify sound and deliver it over wide areas.
+Fran nodded her head then activated the wind magic, Sound Spread, a spell to amplify sound and deliver it over wide areas.
 
- She activated it with a massive amount of mana and took a deep breath. Then, she screamed the loudest she's ever screamed.
+She activated it with a massive amount of mana and took a deep breath. Then, she screamed the loudest she's ever screamed.
 
- Amplified by the spell, her voice shook the entire area.
+Amplified by the spell, her voice shook the entire area.
 
 「**STOP FIGHTING! NOW!**」
 
@@ -86,7 +86,7 @@ editor:
 
 「Gwan!」
 
- The sound was immense, causing my entire blade to tremble. Meanwhile, Urushi let loose a scream and Fran herself stared in disbelief.
+The sound was immense, causing my entire blade to tremble. Meanwhile, Urushi let loose a scream and Fran herself stared in disbelief.
 
 『Heal. Urushi, you okay?』
 
@@ -96,13 +96,13 @@ editor:
 
 「Arf.」
 
- Even the tough Urushi took damage from the unexpected explosion of noise next to his ear.
+Even the tough Urushi took damage from the unexpected explosion of noise next to his ear.
 
- None of the people really listened to Fran's words. Many were simply surprised by the sudden noise, pausing their movements as they looked around cautiously.
+None of the people really listened to Fran's words. Many were simply surprised by the sudden noise, pausing their movements as they looked around cautiously.
 
- However, the others were too enraged to even care. Fran shouted again, but to no avail.
+However, the others were too enraged to even care. Fran shouted again, but to no avail.
 
- Oh, and this time, I blocked out the sound so that me, Fran, and Urushi were all safe.
+Oh, and this time, I blocked out the sound so that me, Fran, and Urushi were all safe.
 
 「Mrgh. They won't stop.」
 
@@ -110,41 +110,41 @@ editor:
 
 「I'm gonna make them stop.」
 
- After her declaration, Fran pulled me out and gave one last warning.
+After her declaration, Fran pulled me out and gave one last warning.
 
 「**IF YOU DON'T STOP FIGHTING, I'LL USE FORCE!**」
 
- If they're still going now, I don't think anything we say can stop them.
+If they're still going now, I don't think anything we say can stop them.
 
- About 30% of them stopped fighting altogether, and another 30% continued glaring at each other while remaining cautious of Fran. The remaining 40% ignored her completely.
+About 30% of them stopped fighting altogether, and another 30% continued glaring at each other while remaining cautious of Fran. The remaining 40% ignored her completely.
 
- After confirming that, Fran nodded once before diving into action.
+After confirming that, Fran nodded once before diving into action.
 
 「Stun Bolt!」
 
 『Oh boy, it always comes down to this!』
 
- But it's still better than the alternative. If all three organizations suffer a bunch of casualties, the war will only intensify. They wouldn't be able to back down at that point.
+But it's still better than the alternative. If all three organizations suffer a bunch of casualties, the war will only intensify. They wouldn't be able to back down at that point.
 
- Leaving Fran and Urushi to handle the combat portion, I focused on the healing.
+Leaving Fran and Urushi to handle the combat portion, I focused on the healing.
 
- With life detection and appraisal, I could cast wide area recovery spells on the areas with more injured people. Previously, I could only use Area Heal centered on myself, but now I can cast it at a distance.
+With life detection and appraisal, I could cast wide area recovery spells on the areas with more injured people. Previously, I could only use Area Heal centered on myself, but now I can cast it at a distance.
 
- This also healed people I wasn't trying to target, but that's better than missing the people who needed it.
+This also healed people I wasn't trying to target, but that's better than missing the people who needed it.
 
- Meanwhile, Fran kept blasting out thunder spells from the air, but a few were capable of resisting thunder. She would have to stop them physically.
+Meanwhile, Fran kept blasting out thunder spells from the air, but a few were capable of resisting thunder. She would have to stop them physically.
 
- Fran dived down and silenced them with her fists and blunt edge strikes.
+Fran dived down and silenced them with her fists and blunt edge strikes.
 
- Fortunately, none of the people against us had much ability. The ones who did already stopped by Fran's first warning.
+Fortunately, none of the people against us had much ability. The ones who did already stopped by Fran's first warning.
 
- In less than five minutes, the fight had calmed down for the moment. Half of them were just standing there wordlessly, and the other half was unconscious.
+In less than five minutes, the fight had calmed down for the moment. Half of them were just standing there wordlessly, and the other half was unconscious.
 
- Fran landed in front of the Dragon King Syndicate branch and shouted with her wind magic again.
+Fran landed in front of the Dragon King Syndicate branch and shouted with her wind magic again.
 
 「Everyone gather here! If you don't come, I'll beat you up! Drag the ones who can't move!」
 
- All of them noticed the anger in her voice. The adventurers and outlaws hurriedly began moving.
+All of them noticed the anger in her voice. The adventurers and outlaws hurriedly began moving.
 
 
 

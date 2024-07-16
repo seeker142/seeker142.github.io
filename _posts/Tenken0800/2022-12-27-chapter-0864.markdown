@@ -10,15 +10,15 @@ editor:
 ---
 <h2>864: Reunion with the Musician</h2>
 
- After stopping the war between the Dragon King Syndicate and the Beastmen Union, we headed to the Sanatorium.
+After stopping the war between the Dragon King Syndicate and the Beastmen Union, we headed to the Sanatorium.
 
- The headquarters of the Sanatorium was the white tower that stood out among the buildings in the city. Several facilities were also built around it.
+The headquarters of the Sanatorium was the white tower that stood out among the buildings in the city. Several facilities were also built around it.
 
- Most buildings adjacent to the Sanatorium were two-story high, which was unusual since the majority of the city had many high-rise buildings packed together. Moreover, the tidy path and vegetation gave the impression of a well-maintained park.
+Most buildings adjacent to the Sanatorium were two-story high, which was unusual since the majority of the city had many high-rise buildings packed together. Moreover, the tidy path and vegetation gave the impression of a well-maintained park.
 
- This lavish use of land and money was probably intended to show off the Sanatorium's influence and power.
+This lavish use of land and money was probably intended to show off the Sanatorium's influence and power.
 
- We've seen the tower in the distance since it's in the center of the city, but this is our first time coming this close.
+We've seen the tower in the distance since it's in the center of the city, but this is our first time coming this close.
 
 （What now?）
 
@@ -26,17 +26,17 @@ editor:
 
 （Woof!）
 
- I'd much rather go inside, but I have no clue how the mastermind will respond……
+I'd much rather go inside, but I have no clue how the mastermind will respond……
 
- There were quite a few people on the Sanatorium grounds. Most of them were ordinary citizens, but some of them gave off the aura of outlaws.
+There were quite a few people on the Sanatorium grounds. Most of them were ordinary citizens, but some of them gave off the aura of outlaws.
 
- However, all of them were quiet, probably because they were on the Sanatorium's territory. That alone showed how influential the organization was.
+However, all of them were quiet, probably because they were on the Sanatorium's territory. That alone showed how influential the organization was.
 
 『I'm finding some areas with more people, but they might just be important facilities.』
 
- It only makes sense to place additional security guards next to your potion storage or an executive's residence. I thought I might be able to sense some suspicious areas for holding slaves underground or something, but I couldn't find anything.
+It only makes sense to place additional security guards next to your potion storage or an executive's residence. I thought I might be able to sense some suspicious areas for holding slaves underground or something, but I couldn't find anything.
 
- But after walking around for a long time, Fran stopped at a certain point.
+But after walking around for a long time, Fran stopped at a certain point.
 
 『What's wrong?』
 
@@ -46,7 +46,7 @@ editor:
 
 （Nn. Maybe it's buried under here?）
 
- So it seems there's a warding stone under the ground here.
+So it seems there's a warding stone under the ground here.
 
 『Can you tell how deep it is?』
 
@@ -54,27 +54,27 @@ editor:
 
 『That's pretty dang deep.』
 
- I first thought they had embedded a surveillance ward in the ground to keep an eye on the surface, but I guess not.
+I first thought they had embedded a surveillance ward in the ground to keep an eye on the surface, but I guess not.
 
- Maybe there's an underground passage or something, and the ward is monitoring that?
+Maybe there's an underground passage or something, and the ward is monitoring that?
 
 『Fran, there might be an underground passage. Can you tell?』
 
 （Nn……?）
 
- She stomped the ground a few times to check the vibrations, but it was too deep to find any hollow portions.
+She stomped the ground a few times to check the vibrations, but it was too deep to find any hollow portions.
 
 「Dunno.」
 
 『Then I'll give it a shot.』
 
- I'll use earth magic, a spell called "Earth Zone", used for creating a ward to detect enemy intrusion.
+I'll use earth magic, a spell called "Earth Zone", used for creating a ward to detect enemy intrusion.
 
- However, I wanted to avoid being detected by our enemies as much as possible. That's why I used it with a limited scope, only around Fran's feet. Instead, I extended it deep into the earth to increase my range of detection.
+However, I wanted to avoid being detected by our enemies as much as possible. That's why I used it with a limited scope, only around Fran's feet. Instead, I extended it deep into the earth to increase my range of detection.
 
- I focused my abilities on concealing the flow of magic. This might be the first time I've concentrated so much on elementary-level magic.
+I focused my abilities on concealing the flow of magic. This might be the first time I've concentrated so much on elementary-level magic.
 
- Narrowly, deeply, and silently, I activated the earth magic. I'm confident that not even a magician standing next to me would have noticed. They would have to be on the level of a Rank A adventurer to even sense a slight disturbance.
+Narrowly, deeply, and silently, I activated the earth magic. I'm confident that not even a magician standing next to me would have noticed. They would have to be on the level of a Rank A adventurer to even sense a slight disturbance.
 
 『……Hmmm…』
 
@@ -84,15 +84,15 @@ editor:
 
 （Woah. Nice one, Master.）
 
- Underneath Fran's feet, there was indeed an underground space large enough for a person to pass through. Further investigation revealed that it extended from the direction of the Sanatorium straight toward the residential area.
+Underneath Fran's feet, there was indeed an underground space large enough for a person to pass through. Further investigation revealed that it extended from the direction of the Sanatorium straight toward the residential area.
 
- There's a chance that it's just a sewerage system, but I couldn't sense any running water. All signs point to this being an underground passage.
+There's a chance that it's just a sewerage system, but I couldn't sense any running water. All signs point to this being an underground passage.
 
 『Urushi, can you use Shadow Shift to get into the passage under us?』
 
 （Woof!）
 
- Since Urushi can teleport from shadow to shadow, he should be able to enter the underground passage.
+Since Urushi can teleport from shadow to shadow, he should be able to enter the underground passage.
 
 『Go and find out where the passage leads. You can abandon the search if you think you'll get caught. Can you do it?』
 
@@ -104,9 +104,9 @@ editor:
 
 （Woooof!）
 
- Now we can leave the search for the underground passage to Urushi.
+Now we can leave the search for the underground passage to Urushi.
 
- But in exchange for the little progress we've made, it seems we've gotten ourselves into a bit of trouble.
+But in exchange for the little progress we've made, it seems we've gotten ourselves into a bit of trouble.
 
 「You there, girl! Freeze!」
 
@@ -114,7 +114,7 @@ editor:
 
 「Just taking a break.」
 
- Security guards appeared to surround us. Fran tried to show that she had no hostile intentions, but the guards wouldn't listen to her.
+Security guards appeared to surround us. Fran tried to show that she had no hostile intentions, but the guards wouldn't listen to her.
 
 「You lie, thief! Don't you dare question the intelligence network of our security team!」
 
@@ -126,25 +126,25 @@ editor:
 
 「Anyway, we're taking you into custody.」
 
- I expected this to be a routine questioning, but something was clearly off. The guards may have been planning to take Fran away from the very beginning.
+I expected this to be a routine questioning, but something was clearly off. The guards may have been planning to take Fran away from the very beginning.
 
- Someone probably gave them false info claiming that Fran was a thief or something. It must be the work of the mastermind.
+Someone probably gave them false info claiming that Fran was a thief or something. It must be the work of the mastermind.
 
- In other words, they would have to be someone important enough to order the guards easily.
+In other words, they would have to be someone important enough to order the guards easily.
 
 （Should we run?）
 
 『We'll be viewed as 100% guilty if we run, so we'll never be able to walk freely here again.』
 
- As far as I'm concerned, that's fine. But unless Fran wants to give up on her goal of eliminating the slavers, we should avoid getting banned from the city.
+As far as I'm concerned, that's fine. But unless Fran wants to give up on her goal of eliminating the slavers, we should avoid getting banned from the city.
 
- The bigger problem is the high chance that we will be falsely accused and captured even if we cooperate with them…… Seems better to make a run for it?
+The bigger problem is the high chance that we will be falsely accused and captured even if we cooperate with them…… Seems better to make a run for it?
 
- But before we could make our move, we saw someone running toward us.
+But before we could make our move, we saw someone running toward us.
 
 「Wait! Hah…… Hah……」
 
- The girl was breathing heavily. She must have dashed here in a hurry.
+The girl was breathing heavily. She must have dashed here in a hurry.
 
 「Stop… this. Put the… spear down.」
 
@@ -154,13 +154,13 @@ editor:
 
 「Of course! My deepest apologies!」
 
- The soldiers lowered their spears and straightened their postures.
+The soldiers lowered their spears and straightened their postures.
 
 「Sophie?」
 
 「Yeah. It's been a while.」
 
- The girl was Sophilia, the musician who had fought with us at Castel, and the attempted dine and dash girl.
+The girl was Sophilia, the musician who had fought with us at Castel, and the attempted dine and dash girl.
 
 
 

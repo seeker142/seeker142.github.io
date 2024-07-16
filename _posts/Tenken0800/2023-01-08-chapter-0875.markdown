@@ -10,19 +10,19 @@ editor:
 ---
 <h2>875: Looming Antidemon Horde</h2>
 
- After arriving at the Adventurers Guild, we found many people busily scurrying about. It seems the guild assigned the adventurers to various different jobs.
+After arriving at the Adventurers Guild, we found many people busily scurrying about. It seems the guild assigned the adventurers to various different jobs.
 
- Many adventurers were asking for their jobs at the reception desk, others were pacing around in confusion. Some transported large armfuls of supplies.
+Many adventurers were asking for their jobs at the reception desk, others were pacing around in confusion. Some transported large armfuls of supplies.
 
- Handling the desk today was a young woman instead of Prear. They had made an emergency extension to the reception desk, with a few receptionist women handling it.
+Handling the desk today was a young woman instead of Prear. They had made an emergency extension to the reception desk, with a few receptionist women handling it.
 
- Fran also approached the temporary reception desk and presented her adventurer's card.
+Fran also approached the temporary reception desk and presented her adventurer's card.
 
 「Oh! Fran-san! We've been waiting for you!」
 
- It seems the receptionist already recognized Fran and began handling her case immediately. She must have been instructed by Prear in advance.
+It seems the receptionist already recognized Fran and began handling her case immediately. She must have been instructed by Prear in advance.
 
- But Prear himself is nowhere to be seen……
+But Prear himself is nowhere to be seen……
 
 「Where is Prear?」
 
@@ -30,9 +30,9 @@ editor:
 
 「I see……」
 
- There's no way we'll get the chance to question him given the current situation. Maybe when he gets back.
+There's no way we'll get the chance to question him given the current situation. Maybe when he gets back.
 
- After that, Fran asked the woman about her role in the battle.
+After that, Fran asked the woman about her role in the battle.
 
 「I heard the antidemons were coming.」
 
@@ -42,7 +42,7 @@ editor:
 
 「We have instructed many adventurers to guard specific areas. However, those of Rank B and above are free to move about as they please.」
 
- Rather than taking care of other adventurers and slowing herself down, they wanted Fran to fight by herself. Makes sense considering Rank B and higher adventurers tended to be individualistic, and some may have skills they don't want revealed to the public.
+Rather than taking care of other adventurers and slowing herself down, they wanted Fran to fight by herself. Makes sense considering Rank B and higher adventurers tended to be individualistic, and some may have skills they don't want revealed to the public.
 
 「But please do not interfere with the adventurers on the city walls.」
 
@@ -54,7 +54,7 @@ editor:
 
 「There will be other groups participating in the battle alongside the adventurers, so try to avoid causing any trouble with them.」
 
- Outlaws, the Sanatorium, the town guard, etc, will also be deploying their troops. It seems the higher-ups are still discussing the details, so I can only imagine how confusing things will be on the actual battlefield.
+Outlaws, the Sanatorium, the town guard, etc, will also be deploying their troops. It seems the higher-ups are still discussing the details, so I can only imagine how confusing things will be on the actual battlefield.
 
 「That should be all you have to worry about.」
 
@@ -62,11 +62,11 @@ editor:
 
 「Thank you very much for your cooperation.」
 
- The woman at the reception desk bowed deeply to Fran. She seems to be from this town, so she must have strong feelings regarding the high ranking adventurers defending her home.
+The woman at the reception desk bowed deeply to Fran. She seems to be from this town, so she must have strong feelings regarding the high ranking adventurers defending her home.
 
 「Nn.」
 
- Fran nodded emphatically and headed for the main gate.
+Fran nodded emphatically and headed for the main gate.
 
 『Fran, you'll be fine against the small fry, but higher level antidemons are going to be tough in this state.』
 
@@ -76,11 +76,11 @@ editor:
 
 「Nn.」
 
- As we ran along while discussing our plan, we arrived at the gate. There, hundreds of adventurers were lined up in a row.
+As we ran along while discussing our plan, we arrived at the gate. There, hundreds of adventurers were lined up in a row.
 
- They grabbed their bows and arrows, climbing up the multiple staircases to the top of the wall. These guys probably have the role of supporting from the rear by raining down arrows.
+They grabbed their bows and arrows, climbing up the multiple staircases to the top of the wall. These guys probably have the role of supporting from the rear by raining down arrows.
 
- We ignored the line and hurried to the gate. It's already closed, but can we get out here?
+We ignored the line and hurried to the gate. It's already closed, but can we get out here?
 
 「Hey.」
 
@@ -94,7 +94,7 @@ editor:
 
 「There's no way anyone is going out!」
 
- The men on duty at the gate seemed annoyed after Fran suddenly came up and asked them to let her through. However, Fran simply pulled out the adventurer's card from her pocket and held it up.
+The men on duty at the gate seemed annoyed after Fran suddenly came up and asked them to let her through. However, Fran simply pulled out the adventurer's card from her pocket and held it up.
 
 「Here.」
 
@@ -106,15 +106,15 @@ editor:
 
 「What! No way!」
 
- These men guarding the gate were just normal soldiers, so they had no idea who Fran was.
+These men guarding the gate were just normal soldiers, so they had no idea who Fran was.
 
- After realizing that the adventurer's card was no fake, they immediately told us the gist of the situation.
+After realizing that the adventurer's card was no fake, they immediately told us the gist of the situation.
 
 「Sorry, but we can't open the west gate anymore because the antidemons are already closing in on us.」
 
 「If you want to go outside, use the east gate on the other side of town.」
 
- I guess all the gates on the antidemon-infested side are closed. But that won't be a problem for us.
+I guess all the gates on the antidemon-infested side are closed. But that won't be a problem for us.
 
 『Fran, we'll use teleportation to pass through the gate.』
 
@@ -122,21 +122,21 @@ editor:
 
 「What, that's not――」
 
- As soon as I activated the short-range teleport, the gatekeeper's voice was cut off and replaced by the roars of antidemons. A high-pitched, unpleasant shrieking threatening the citizens of the city.
+As soon as I activated the short-range teleport, the gatekeeper's voice was cut off and replaced by the roars of antidemons. A high-pitched, unpleasant shrieking threatening the citizens of the city.
 
- At the same time, our field of vision changed completely.
+At the same time, our field of vision changed completely.
 
- All we saw now was a plain completely covered by antidemons, the entire horde rushing towards us.
+All we saw now was a plain completely covered by antidemons, the entire horde rushing towards us.
 
- The sight of antidemons as far as the eye can see was like hell itself.
+The sight of antidemons as far as the eye can see was like hell itself.
 
- Still, Fran didn't even flinch.
+Still, Fran didn't even flinch.
 
 『They're all low level antidemons, so I guess it'll be easier than Castel.』
 
 「Nn!」
 
- Fran smiled confidently as she pulled me out. Then, a lot of shouts came pouring in.
+Fran smiled confidently as she pulled me out. Then, a lot of shouts came pouring in.
 
 「Oiiiii! What are you doing over there?!」
 
@@ -144,11 +144,11 @@ editor:
 
 「The antidemons are coming! Run to the wall!」
 
- The adventurers stationed on the wall had noticed Fran.
+The adventurers stationed on the wall had noticed Fran.
 
- They were all concerned about her safety.
+They were all concerned about her safety.
 
- Fran simply gave them a light wave and turned her back. We heard some screams like "No!" or "Why are you going that way!?" but Fran didn't look back.
+Fran simply gave them a light wave and turned her back. We heard some screams like "No!" or "Why are you going that way!?" but Fran didn't look back.
 
 『Alright, let's make quick work of them!』
 
@@ -156,21 +156,21 @@ editor:
 
 『Yeah!』
 
- Fran soared across the plain on my Telekinetic Air Ride. In no time at all, we were in the skies above the horde.
+Fran soared across the plain on my Telekinetic Air Ride. In no time at all, we were in the skies above the horde.
 
- Then she leapt off of me and dived right into the middle of it. Of course, with me back in her hands.
+Then she leapt off of me and dived right into the middle of it. Of course, with me back in her hands.
 
 『There are no other adventurers around us. You can go all out.』
 
 「Haaaaah!」
 
- Fran swung her blade with a look that almost seemed like joy. No wait, she's definitely happy, cutting down dozens of antidemons with a big grin on her face.
+Fran swung her blade with a look that almost seemed like joy. No wait, she's definitely happy, cutting down dozens of antidemons with a big grin on her face.
 
- I bet she was unloading all the stress she had built up in the city on the antidemons. It must have been very frustrating for her to not know who was actually friend or foe.
+I bet she was unloading all the stress she had built up in the city on the antidemons. It must have been very frustrating for her to not know who was actually friend or foe.
 
 「Teyaaaaah!」
 
- Getting sieged by an antidemon horde may be bad for the town, but this seems like pretty good timing for Fran. We won't be able to annihilate all 30,000 of them, but Fran will get the chance to rampage to her heart's content.
+Getting sieged by an antidemon horde may be bad for the town, but this seems like pretty good timing for Fran. We won't be able to annihilate all 30,000 of them, but Fran will get the chance to rampage to her heart's content.
 
 
 
