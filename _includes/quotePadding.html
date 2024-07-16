@@ -1,0 +1,21 @@
+<script>
+
+function padQuotes() {
+	// Multi-quotation marks surrounding a bit of dialog get non-breaking spaces to
+	// pad the inner text away from the quotation marks, making the symbols more
+	// evenly spaced.
+	var element = document.getElementsByClassName("post-content e-content")[0];
+
+	let quotePatterns = [
+		["(「「+)", "$1&nbsp;&nbsp;"],
+		["(」」+)", "&nbsp;&nbsp;$1"],
+	]
+
+	for (const [quotePattern, replacement] of quotePatterns) {
+		var re = new RegExp(quotePattern, "g");
+		element.innerHTML = element.innerHTML.replace(re, replacement);
+	}
+}
+</script>
+
+<script> padQuotes(); </script>
