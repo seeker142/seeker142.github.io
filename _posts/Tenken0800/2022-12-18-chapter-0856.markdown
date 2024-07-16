@@ -34,7 +34,7 @@ editor:
 
  So they live at the headquarters and never leave except when on duty. That's info we could have easily gotten ourselves.
 
- It seems he also learned that the two were well respected after listening to members of the Beastmen Union, but not much else. 
+ It seems he also learned that the two were well respected after listening to members of the Beastmen Union, but not much else.
 
 「I-I'm really sorry about this. I'll send them back in to gather more info, so don't get too hasty! Please, I'm begging you!」
 
@@ -145,6 +145,6 @@ editor:
  This might be pretty hard to stop.
 
  I'd prefer as little bloodshed as possible, but……
- 
+
 
 

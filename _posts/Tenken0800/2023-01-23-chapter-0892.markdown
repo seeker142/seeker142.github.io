@@ -16,7 +16,7 @@ editor:
 
  The red-scaled dragonkin and Fran collided within the bar of the Adventurers Guild. Considering the location, Fran was placed at a disadvantage.
 
- Wide area attacks would get the surrounding adventurers caught up, so Fran needed to hold back while the dragonkin didn't have to care. 
+ Wide area attacks would get the surrounding adventurers caught up, so Fran needed to hold back while the dragonkin didn't have to care.
 
  In addition, his movements were terrifyingly fast. I fired off several spells at him, but he avoided them with a combination of evasions and parries.
 
@@ -42,7 +42,7 @@ editor:
 
  In that case, Fran decided to close the distance instantly, delivering a powerful slash. However, this had an unexpected result.
 
- Flames suddenly erupted from the wound on the red-scale dragonkin's arm. They looked a bit stronger than a firecracker, so the flames weren't particularly intense. 
+ Flames suddenly erupted from the wound on the red-scale dragonkin's arm. They looked a bit stronger than a firecracker, so the flames weren't particularly intense.
 
  But the issue was the mana contained in the flames. Unlike a normal fire, these couldn't be extinguished easily.
 
@@ -69,7 +69,7 @@ editor:
 「Mrgh!」
 
  The red-scaled dragonkin began aiming his attacks at the surrounding adventurers.
- 
+
  Even if he simply took a step towards the adventurers, Fran would have to move to prevent him.
 
  This opponent was powerful enough that we couldn't allow him to get any closer.
@@ -81,7 +81,7 @@ editor:
  Still, Fran kept up with the dragonkin, repelling his blade repeatedly.
 
  It seemed like he couldn't believe that Fran held her own in such a disadvantageous situation. His widened eyes quickly turned into a nasty smile.
- 
+
 「You really are pretty good!」
 
  He looked genuinely happy to meet such a strong opponent. That he had enough composure to laugh must mean he didn't think he could lose.
@@ -128,7 +128,7 @@ editor:
 
  Despite the deafening blast, the only damage to the room was a few broken chairs and tables.
 
- The eyes of all the adventurers turned to the blast zone in unison. There, they found a hole big enough for a person to pass through. 
+ The eyes of all the adventurers turned to the blast zone in unison. There, they found a hole big enough for a person to pass through.
 
  If this were any other town, they could escape through there. But in this densely packed city, we could only see the walls of the neighboring buildings.
 

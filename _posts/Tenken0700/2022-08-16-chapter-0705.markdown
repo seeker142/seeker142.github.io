@@ -10,7 +10,7 @@ editor: PinkR
 ---
 <h2>705: Mordred Match Begins</h2>
 
-<p>『Well, here we are! The second round of the tournament with a hot card ready from the first match! Our fighter is the B rank adventurer, 
+<p>『Well, here we are! The second round of the tournament with a hot card ready from the first match! Our fighter is the B rank adventurer,
   Mordred! A seasoned fighter who is skilled in the use of spears and molten magic!』</p>
 
 The cheers of the crowds erupted as per usual when Fran walked upon the stage.
@@ -23,7 +23,7 @@ The cheers of the crowds erupted as per usual when Fran walked upon the stage.
 
 The tournament is a test for Fran. Just like last year, I'm going to leave it all to Fran until the last minute.
 
-<p>『Against him is the strongest 13 year old who won the first round in a blink of an eye! What kind of fight will she 
+<p>『Against him is the strongest 13 year old who won the first round in a blink of an eye! What kind of fight will she
   show us in this match? You can't take your eyes off her! Here comes Fran, the hero of the Black Cats!』</p>
 
 Fran and Mordred face each other in the centre, smiling confidently.
@@ -157,7 +157,7 @@ Mordred grunts and backed up a few meters. He must have sensed that he was going
 
 He had not let go of his spear, but he was off his balance and then, Fran came in. It was a change of attack and defense.
 
-<p>Fran shakes off her left fist, which was still covered with blood, with a gesture as if she was stroking air causing a large amount of blood to splatter 
+<p>Fran shakes off her left fist, which was still covered with blood, with a gesture as if she was stroking air causing a large amount of blood to splatter
   onto Mordred's face.</p>
 
 She used the blood to blind Mordred but he calmly brushes it off with his cloak and backs away further.
@@ -180,15 +180,15 @@ Fran's idea of a surprise attack was not so unusual for Mordred.
 
 Mordred pulls something out of the bag at his waist. It's a familiar potion. It must be Mordred's trump card, used when we were together on a previous mission. A molten magic super-enhancement potion.
 
-<p>At this tournament, recovery potions are forbidden, but magic potions are not. I didn't quite understand what the difference was, 
+<p>At this tournament, recovery potions are forbidden, but magic potions are not. I didn't quite understand what the difference was,
   but I heard that only the various types of recovery potions were forbidden in this tournament.</p>
 
 That is to say, enhancement drugs and poisons are allowed. This may be because many contestants use them as a part of their combat.
 
-<p>This tournament isn't a honorable practice duel to decide who is the strongest. This is a competition for adventurers 
+<p>This tournament isn't a honorable practice duel to decide who is the strongest. This is a competition for adventurers
   to show who comes out on top with no holds barred.</p>
 
-<p>Fran tries to stop him with magic but it gets blocked when it reaches him. It was the effect of the warding stone, an item used to create a 
+<p>Fran tries to stop him with magic but it gets blocked when it reaches him. It was the effect of the warding stone, an item used to create a
   disposable barrier. He must have brought it for this occasion.</p>
 
 The well-prepared Mordred downed the potion and immediately afterwards, I could tell that his magic power increased several times over.

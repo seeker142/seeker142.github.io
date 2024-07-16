@@ -18,11 +18,11 @@ With a sense of urgency in my gut, I ride my highbeast through the air. Feeling 
 
 「Karstedt, could you please go home early today? I'm worried about Elvira……」
 
-Florencia-sama's words repeated over and over in my head as I drove my highbeast. She did not elaborate on what had happened. The first wife of the archduke, had made a proposal to me, the Knight Commander, that required a change of plans. 
+Florencia-sama's words repeated over and over in my head as I drove my highbeast. She did not elaborate on what had happened. The first wife of the archduke, had made a proposal to me, the Knight Commander, that required a change of plans.
 
 *……What in the world happened to Elvira……*
 
-I had heard about Elvira's plans for today, that she was going to be with Ferdinand and Florencia-sama, taking medicine to Rihyarda to check on Rozemyne, who was bedridden. If Rozemyne was in good health, they might have some tea. 
+I had heard about Elvira's plans for today, that she was going to be with Ferdinand and Florencia-sama, taking medicine to Rihyarda to check on Rozemyne, who was bedridden. If Rozemyne was in good health, they might have some tea.
 
 But I had not heard that anything dangerous happened there. There was no call for the Knights, nor was there any report from Florencia-sama to the archduke. Only, "I'm worried about Elvira."
 
