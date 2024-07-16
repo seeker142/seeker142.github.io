@@ -84,7 +84,7 @@ She is not the kind of woman who has a flirtatious nature, and our married relat
 
 Her pleasant smile turned into a familiar, noble-like smirk.
 
-「What in the world is going on?  Are you sure you're not about to do something dangerous?」
+「What in the world is going on? Are you sure you're not about to do something dangerous?」
 
 「It's not dangerous at all. If that were the case, Florencia-sama would have reported it to Sylvester-sama.」
 
