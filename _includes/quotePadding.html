@@ -7,8 +7,8 @@ function padQuotes() {
 	var element = document.getElementsByClassName("post-content e-content")[0];
 
 	let quotePatterns = [
-		["(「「+)", "$1&nbsp;&nbsp;"],
-		["(」」+)", "&nbsp;&nbsp;$1"],
+		["(「「+) *", "$1&nbsp;&nbsp;"],
+		[" *(」」+)", "&nbsp;&nbsp;$1"],
 	]
 
 	for (const [quotePattern, replacement] of quotePatterns) 
