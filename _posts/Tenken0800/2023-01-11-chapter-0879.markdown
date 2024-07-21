@@ -10,9 +10,9 @@ editor:
 ---
 <h2>879: Underground Passage</h2>
 
- Fran hurried down the eastern wall on her way to the south gate, but we reunited with Urushi before passing the east gate.
+Fran hurried down the eastern wall on her way to the south gate, but we reunited with Urushi before passing the east gate.
 
- It seems the town guard did their job well, and the battle became an easy win after Urushi and the other adventurers joined in.
+It seems the town guard did their job well, and the battle became an easy win after Urushi and the other adventurers joined in.
 
 『You did good!』
 
@@ -20,7 +20,7 @@ editor:
 
 「Woof!」
 
- Urushi raised his head proudly as we praised him, but that's not the only thing we had to discuss. Urushi then pointed his nose away from the town.
+Urushi raised his head proudly as we praised him, but that's not the only thing we had to discuss. Urushi then pointed his nose away from the town.
 
 『You're saying that's the entrance to the underground passage we found?』
 
@@ -32,43 +32,43 @@ editor:
 
 「Arf!」
 
-『So it's pretty close? ……Do you think they'd see us entering from the top of the city walls?』
+『So it's pretty close? ...Do you think they'd see us entering from the top of the city walls?』
 
 「Woof!」
 
 『Hmm, I guess that's not possible then.』
 
- There were still many adventurers and outlaws on top of the walls, on the lookout for the second wave of antidemons. If we tried to do anything, we would stand out.
+There were still many adventurers and outlaws on top of the walls, on the lookout for the second wave of antidemons. If we tried to do anything, we would stand out.
 
- If possible, we didn't want anyone to know that we found the hidden underground passage. We didn't know who else could be working with Filuria, after all.
+If possible, we didn't want anyone to know that we found the hidden underground passage. We didn't know who else could be working with Filuria, after all.
 
- And if Fran went into the passage without a word, people would ask where she had been and spread rumors.
+And if Fran went into the passage without a word, people would ask where she had been and spread rumors.
 
- Even if we wanted to stealthily make our way in, it would be difficult to conceal ourselves. There were no trees or anything to block us from view, so it's impossible to cross the plains without being spotted by hundreds of adventurers.
+Even if we wanted to stealthily make our way in, it would be difficult to conceal ourselves. There were no trees or anything to block us from view, so it's impossible to cross the plains without being spotted by hundreds of adventurers.
 
- Illusion magic had a spell to turn yourself invisible, but I couldn't use that with my current skill level.
+Illusion magic had a spell to turn yourself invisible, but I couldn't use that with my current skill level.
 
- Should I put some points in illusion magic then? No wait, there was a better way to hide ourselves.
+Should I put some points in illusion magic then? No wait, there was a better way to hide ourselves.
 
 『Maybe we can use light magic.』
 
 「I see.」
 
- It's the same type of optical camouflage used by Invisible Death, the magic beast we fought in the Demon Wolf Plains. However, I couldn't manage to use this optical camouflage at a level that blends in perfectly with the surrounding scenery.
+It's the same type of optical camouflage used by Invisible Death, the magic beast we fought in the Demon Wolf Plains. However, I couldn't manage to use this optical camouflage at a level that blends in perfectly with the surrounding scenery.
 
- Still, it should be possible to distort our surroundings to the point where no one can distinguish our identities. I tested it out on a random stone, and it seemed to work.
+Still, it should be possible to distort our surroundings to the point where no one can distinguish our identities. I tested it out on a random stone, and it seemed to work.
 
- We became transparent, but there's still a visible distortion. They still won't be able to recognize Fran though.
+We became transparent, but there's still a visible distortion. They still won't be able to recognize Fran though.
 
-「……But they can tell something is there.」
+「...But they can tell something is there.」
 
 「Woof.」
 
 『True.』
 
- Maybe this isn't such a good idea? Right after the antidemons attacked town, some weird distortion is spotted leaving the scene.
+Maybe this isn't such a good idea? Right after the antidemons attacked town, some weird distortion is spotted leaving the scene.
 
- That might cause unnecessary confusion to the people of Sendia.
+That might cause unnecessary confusion to the people of Sendia.
 
 『I guess we can go back to town for now and sneak out at night?』
 
@@ -78,21 +78,21 @@ editor:
 
 「Woof!」
 
- It seems Urushi wanted us to go to the underground passage right now.
+It seems Urushi wanted us to go to the underground passage right now.
 
- Then, Urushi used the dark spell, Brain Trick. This spell affects the target's mind and makes them hallucinate.
+Then, Urushi used the dark spell, Brain Trick. This spell affects the target's mind and makes them hallucinate.
 
- But we had Darkness Nullification, so the spell didn't work. Urushi barked again, telling us to disable the skill.
+But we had Darkness Nullification, so the spell didn't work. Urushi barked again, telling us to disable the skill.
 
- After following his instructions, Urushi repeated the same spell once more.
+After following his instructions, Urushi repeated the same spell once more.
 
- The hallucination we saw was a reproduction of what Urushi had seen.
+The hallucination we saw was a reproduction of what Urushi had seen.
 
 「Mrgh. Gazzol.」
 
 『Yeah, and he's in a cage!』
 
- Much to our surprise, Urushi had met with Gazzol in the underground passage. The scene began with Urushi entering the room via Shadow Shift, and we saw his exchange with Gazzol.
+Much to our surprise, Urushi had met with Gazzol in the underground passage. The scene began with Urushi entering the room via Shadow Shift, and we saw his exchange with Gazzol.
 
 <br>
 
@@ -100,7 +100,7 @@ editor:
 
 「Woof.」
 
- It seems the tiny Urushi cloaked himself in darkness to disguise his appearance. That's probably his countermeasure to the surveillance wards.
+It seems the tiny Urushi cloaked himself in darkness to disguise his appearance. That's probably his countermeasure to the surveillance wards.
 
 「Are you someone's servant beast? Or some kind of spirit?」
 
@@ -122,9 +122,9 @@ editor:
 
 <br>
 
- Then the hallucination ended.
+Then the hallucination ended.
 
-『So by leaving himself in the Sanatorium's custody, he planned to use his own body as proof of the Sanatorium's wrongdoings……』
+『So by leaving himself in the Sanatorium's custody, he planned to use his own body as proof of the Sanatorium's wrongdoings...』
 
 「Smart.」
 
@@ -132,33 +132,33 @@ editor:
 
 「Come on, let's go get some help.」
 
- This could be a very good play for us.
+This could be a very good play for us.
 
- It'd be hard to sneak out on our own, but what if we get a bunch of other people involved? Currently we have the excuse of chasing after or scouting antidemons, so we can get a large number of followers.
+It'd be hard to sneak out on our own, but what if we get a bunch of other people involved? Currently we have the excuse of chasing after or scouting antidemons, so we can get a large number of followers.
 
- Now the question is how to guide them into entering the underground passage…… I can figure something out.
+Now the question is how to guide them into entering the underground passage... I can figure something out.
 
 『Let's grab the outlaws and the adventurers, then suggest a reconnaissance mission.』
 
 「Nn!」
 
- So, we decided to talk to the men around the north gate. Many of them agreed to go with us.
+So, we decided to talk to the men around the north gate. Many of them agreed to go with us.
 
- Too many people shouted their desire to come, so for the time being, we decided to take one scout as a representative from each organization.
+Too many people shouted their desire to come, so for the time being, we decided to take one scout as a representative from each organization.
 
- Our scouting party ended up with 23 people. Kinda hard to say if that was too many or too few. Naturally, Bryne and Miranleil were also present.
+Our scouting party ended up with 23 people. Kinda hard to say if that was too many or too few. Naturally, Bryne and Miranleil were also present.
 
- We decided to call out to the adventurers as well. The more witnesses, the more believable the evidence.
+We decided to call out to the adventurers as well. The more witnesses, the more believable the evidence.
 
- But Fran ended up being so popular among the adventurers that the numbers just kept rising. We were probably close to 50 people now.
+But Fran ended up being so popular among the adventurers that the numbers just kept rising. We were probably close to 50 people now.
 
- Fran guided the scouting party in the direction Urushi pointed out.
+Fran guided the scouting party in the direction Urushi pointed out.
 
- Soon after, Urushi gave the signal. The underground passage must be directly under us.
+Soon after, Urushi gave the signal. The underground passage must be directly under us.
 
- I tried searching it out with land magic, and indeed found a narrow passageway in the ground.
+I tried searching it out with land magic, and indeed found a narrow passageway in the ground.
 
-「Hmm…」
+「Hmm...」
 
 「Black Lightning Princess? What is it?」
 
@@ -168,17 +168,17 @@ editor:
 
 「The ground.」
 
-「What? I don't feel anything…… Wait a minute.」
+「What? I don't feel anything... Wait a minute.」
 
- The plan was to say that we sensed something suspicious under the ground, and then to suggest that we search for any antidemons lurking there.
+The plan was to say that we sensed something suspicious under the ground, and then to suggest that we search for any antidemons lurking there.
 
- However, Fran's god awful acting was bound to arouse suspicion. That's why I told her to only say that she felt something strange underground, and leave the adventurers and outlaws to check it out on their own accord.
+However, Fran's god awful acting was bound to arouse suspicion. That's why I told her to only say that she felt something strange underground, and leave the adventurers and outlaws to check it out on their own accord.
 
- If they don't find anything, then we can dig it up with our land magic.
+If they don't find anything, then we can dig it up with our land magic.
 
- Within a minute, Bryne spoke up. Apparently, this guy had excellent detection skills.
+Within a minute, Bryne spoke up. Apparently, this guy had excellent detection skills.
 
- To think he was as good at detection as he was at direct combat…… I can see why he earned the first seat of the Bloodfang Brigade!
+To think he was as good at detection as he was at direct combat... I can see why he earned the first seat of the Bloodfang Brigade!
 
 「There's definitely some weird space under us!」
 
@@ -188,9 +188,9 @@ editor:
 
 「Guess so.」
 
- We had fifty people. Some boasted power, like Miranleil, and some were casters of earth magic. It was only a matter of time until we dug out the passage.
+We had fifty people. Some boasted power, like Miranleil, and some were casters of earth magic. It was only a matter of time until we dug out the passage.
 
- It seems we'll be able to reach the underground passage much faster than expected.
+It seems we'll be able to reach the underground passage much faster than expected.
 
 
 

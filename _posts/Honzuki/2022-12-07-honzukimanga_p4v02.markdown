@@ -142,7 +142,7 @@ Hirschur being a dorm supervisor who was very helpful to me during my time at th
 
 Elvira blinked her eyes in admiration, but of course not only for Rozemyne. The Blue Priests do not have that much mana, so it would be difficult for me to perform the dedication ceremony alone.
 
-「Considering Ehrenfest's ranking, we don't need to be particularly socially active to avoid attracting attention. There is also Wilfried-sama, so we will be able to  operate in Rozemyne's absence.」
+「Considering Ehrenfest's ranking, we don't need to be particularly socially active to avoid attracting attention. There is also Wilfried-sama, so we will be able to operate in Rozemyne's absence.」
 
 Eckhart said as he nodded several times. Sylvester wanted to promote Wilfried as the next archduke, and that's why he needed to spread the latest fashions at the Royal Academy. If so, it would be better for Wilfried if Rozemyne is not there.
 

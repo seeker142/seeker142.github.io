@@ -18,43 +18,43 @@ editor:
 
 『It's no use! She can't hear us!』
 
-「Kuh……!」
+「Kuh...!」
 
- Fran called out to Velmeria, but she showed no response. Her mind must be completely taken over.
+Fran called out to Velmeria, but she showed no response. Her mind must be completely taken over.
 
- We were trying to incapacitate her without taking her life, but that might be very difficult. Just killing her would probably make things much simpler.
+We were trying to incapacitate her without taking her life, but that might be very difficult. Just killing her would probably make things much simpler.
 
- However, I doubt Fran would ever choose to abandon Velmeria.
+However, I doubt Fran would ever choose to abandon Velmeria.
 
-『……Fran, she's not sane and will come at us full throttle. It'll only get worse if we prolong the fight.』
+『...Fran, she's not sane and will come at us full throttle. It'll only get worse if we prolong the fight.』
 
 （Nn.）
 
- Velmeria and the others were really going all out, completely willing to sacrifice themselves. It's as if they were in a state of Potential Release, and I could see their life force beginning to deplete even before we started fighting.
+Velmeria and the others were really going all out, completely willing to sacrifice themselves. It's as if they were in a state of Potential Release, and I could see their life force beginning to deplete even before we started fighting.
 
- They would eventually fall over and die without us doing anything. Our only options were knocking them unconscious as soon as possible, or dishing out enough damage to incapacitate them before tying them up.
+They would eventually fall over and die without us doing anything. Our only options were knocking them unconscious as soon as possible, or dishing out enough damage to incapacitate them before tying them up.
 
- I watched the robed guy's movements carefully, but he hardly even looked our way. His actions suggested that he was concentrating on something else.
+I watched the robed guy's movements carefully, but he hardly even looked our way. His actions suggested that he was concentrating on something else.
 
- Was he attempting something with that sword? Interfering with the core in some way? Whatever it is, it can't be good.
+Was he attempting something with that sword? Interfering with the core in some way? Whatever it is, it can't be good.
 
- But as long as his attention was focused elsewhere, he shouldn't be able to interfere in our fight.
+But as long as his attention was focused elsewhere, he shouldn't be able to interfere in our fight.
 
 「Haaah!」
 
 「URRRAAAAH!」
 
- Fran quickly activated Brilliant Lightning Rush to enter her serious mode, but Velmeria also stepped up a gear.
+Fran quickly activated Brilliant Lightning Rush to enter her serious mode, but Velmeria also stepped up a gear.
 
- Our speed was equal, but Velmeria had the advantage in power. Fran had greater reach since she swung a sword, but the evil energy cloaking Velmeria's body kept getting in our way.
+Our speed was equal, but Velmeria had the advantage in power. Fran had greater reach since she swung a sword, but the evil energy cloaking Velmeria's body kept getting in our way.
 
- The dense evil energy she was radiating made me think she turned into an evil dragonkin for a second. It disrupted my telekinesis and dissipated my spells. I could put in more mana to overcome the effects, but that would make us run out of steam very quickly.
+The dense evil energy she was radiating made me think she turned into an evil dragonkin for a second. It disrupted my telekinesis and dissipated my spells. I could put in more mana to overcome the effects, but that would make us run out of steam very quickly.
 
- With this kind of mental manipulation and evil energy, she was exactly the same as the dragonkin attacking us on the way to the castle. Can we actually restrain her? Wouldn't she just keep rampaging until her own death?
+With this kind of mental manipulation and evil energy, she was exactly the same as the dragonkin attacking us on the way to the castle. Can we actually restrain her? Wouldn't she just keep rampaging until her own death?
 
- Fran flew around at high speed while emitting black lightning, but Velmeria began to overtake us after cloaking herself in blue mana.
+Fran flew around at high speed while emitting black lightning, but Velmeria began to overtake us after cloaking herself in blue mana.
 
- So it seems she had yet to get serious until now. No, she must be pushing herself even further beyond her limits. Velmeria's life force started draining even faster.
+So it seems she had yet to get serious until now. No, she must be pushing herself even further beyond her limits. Velmeria's life force started draining even faster.
 
 「UGAAAAH!」
 
@@ -62,19 +62,19 @@ editor:
 
 『Just blocking one of those hits takes a ton of my durability!』
 
- I couldn't teleport because of the mana radiating from the Abyss Eater's core. That gives us fewer options for emergency evasion.
+I couldn't teleport because of the mana radiating from the Abyss Eater's core. That gives us fewer options for emergency evasion.
 
- Urushi also lost the ability to hide in the shadows, so he had trouble breaking into Fran's high-speed battle.
+Urushi also lost the ability to hide in the shadows, so he had trouble breaking into Fran's high-speed battle.
 
- Little by little, Fran was forced on the defensive. Just like I had worried, this was not an opponent that we could defeat while holding back to avoid mortal blows.
+Little by little, Fran was forced on the defensive. Just like I had worried, this was not an opponent that we could defeat while holding back to avoid mortal blows.
 
- Though Velmeria's physical abilities were enhanced so much, her skill levels weren't raised to match. Fran's Swordking Mastery was the only reason she managed to keep up. But as the battle continues wearing Fran down, this balance will fall apart.
+Though Velmeria's physical abilities were enhanced so much, her skill levels weren't raised to match. Fran's Swordking Mastery was the only reason she managed to keep up. But as the battle continues wearing Fran down, this balance will fall apart.
 
- I attempted using Appraisal several times to look for a solution, but it hasn't been working. Her superior power as well as the evil energy cloak was blocking me.
+I attempted using Appraisal several times to look for a solution, but it hasn't been working. Her superior power as well as the evil energy cloak was blocking me.
 
- Still, I managed to appraise Velmeria for a split second after infusing even more of the divine attribute.
+Still, I managed to appraise Velmeria for a split second after infusing even more of the divine attribute.
 
- My repeated appraisal attempts exhausted a lot of mana by itself, but it proved to be worth the effort.
+My repeated appraisal attempts exhausted a lot of mana by itself, but it proved to be worth the effort.
 
 <div class="appraisal" markdown="1">
 <p style="text-align: center;"><strong>Appraisal Information</strong></p>
@@ -106,29 +106,29 @@ Blue Dragon God――
 
 </div><br/>
 
- To be honest, I barely managed to see half of it. However, I was able to confirm the most important part.
+To be honest, I barely managed to see half of it. However, I was able to confirm the most important part.
 
 『Fran. Velmeria is definitely using Divine Dragon Form, and with the power of her skill!』
 
-（……! Skilltaker!）
+（...! Skilltaker!）
 
 『Exactly!』
 
- We already knew that losing a skill will revert their transformation from the time we stole Ashwrath's Mad Ogre Form. There were several other concerning issues, such as Domination and Evil Erosion. However, I can say for sure that the loss of the Divine Dragon Form will drastically reduce her combat ability.
+We already knew that losing a skill will revert their transformation from the time we stole Ashwrath's Mad Ogre Form. There were several other concerning issues, such as Domination and Evil Erosion. However, I can say for sure that the loss of the Divine Dragon Form will drastically reduce her combat ability.
 
 『We've been saving this skill for a moment like this! It's time to use it!』
 
 （Nn!）
 
- I activated Skilltaker targeting Velmeria. As the invisible arm of the skill tapped Velmeria's soul, I felt the distinct sensation of grabbing something.
+I activated Skilltaker targeting Velmeria. As the invisible arm of the skill tapped Velmeria's soul, I felt the distinct sensation of grabbing something.
 
 『Whooooa? D-Does this work on me too?!』
 
- Immediately after stealing Divine Dragon Form, a tremendous power surged up from inside me. Is this all divine energy? Oh, there's also evil energy mixed in with it.
+Immediately after stealing Divine Dragon Form, a tremendous power surged up from inside me. Is this all divine energy? Oh, there's also evil energy mixed in with it.
 
- It seems the enhancement from her skill affected me as well, despite me not being a dragonkin.
+It seems the enhancement from her skill affected me as well, despite me not being a dragonkin.
 
- Just like in the case of Mad Ogre Form, stealing an active skill gave it to me in the active state.
+Just like in the case of Mad Ogre Form, stealing an active skill gave it to me in the active state.
 
 『Fran, Urushi! Now's our chance!』
 
@@ -136,9 +136,9 @@ Blue Dragon God――
 
 「GAH!」
 
- Fran's kick blew Velmeria away. After losing Divine Dragon Form, she was no longer a match for Fran.
+Fran's kick blew Velmeria away. After losing Divine Dragon Form, she was no longer a match for Fran.
 
- Urushi's paw smacked Velmeria as she was trying to get up, and my land magic bashed Velmeria as she got blasted away again. I further restrained her movements by holding her down with my telekinesis. She'll be able to move soon enough, but this should be good for now.
+Urushi's paw smacked Velmeria as she was trying to get up, and my land magic bashed Velmeria as she got blasted away again. I further restrained her movements by holding her down with my telekinesis. She'll be able to move soon enough, but this should be good for now.
 
 『Let's back up Izario and Frederick while my Divine Dragon Form is still working!』
 

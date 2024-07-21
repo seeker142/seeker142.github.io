@@ -10,9 +10,9 @@ editor:
 ---
 <h2>850: Dragonkin</h2>
 
- We obtained an arrow said to be used by a dragonkin named Miranleil the Dogsinger. However, there was a strong possibility that someone was setting her up.
+We obtained an arrow said to be used by a dragonkin named Miranleil the Dogsinger. However, there was a strong possibility that someone was setting her up.
 
-『Supposed to sound like a dog barking……?』
+『Supposed to sound like a dog barking...?』
 
 （Did you hear it?）
 
@@ -20,23 +20,23 @@ editor:
 
 （Me neither.）
 
- I guess it's possible we didn't catch it because she was too far away……
+I guess it's possible we didn't catch it because she was too far away...
 
 「Where was this Dogsinger hiding?」
 
 「About 100 meters from the crossroads where the battle took place.」
 
- Surprisingly close. Considering that distance, it's strange that we didn't hear any sounds. I guess it's possible the sound was muffled by wind magic or some other means, but apparently, that wasn't it.
+Surprisingly close. Considering that distance, it's strange that we didn't hear any sounds. I guess it's possible the sound was muffled by wind magic or some other means, but apparently, that wasn't it.
 
- Frederick shook his head when Fran mentioned that.
+Frederick shook his head when Fran mentioned that.
 
 「Dogsinger always loves to show off and is not suited for stealth. She would never try to hide the sound of her arrows.」
 
- In that case, our culprit must be someone else for sure. They would need to be a specialist in stealth to prevent me and Fran from detecting their presence at a distance of 100 meters.
+In that case, our culprit must be someone else for sure. They would need to be a specialist in stealth to prevent me and Fran from detecting their presence at a distance of 100 meters.
 
 「I didn't hear or sense anything.」
 
-「So they must be at a level where even the Black Lightning Princess cannot sense them? ……Miranleil is not the stealthy type and she is a fire dragonkin. Since she can only use fire magic, she wouldn't be capable of muffling her sounds.」
+「So they must be at a level where even the Black Lightning Princess cannot sense them? ...Miranleil is not the stealthy type and she is a fire dragonkin. Since she can only use fire magic, she wouldn't be capable of muffling her sounds.」
 
 「Fire dragonkin can only use fire magic?」
 
@@ -44,95 +44,95 @@ editor:
 
 「Nn.」
 
- Velmeria and Frederick explained how the dragonkin functioned to us.
+Velmeria and Frederick explained how the dragonkin functioned to us.
 
- When they are children, dragonkin are said to have no elemental affinity and can use magic of all attributes. However, they gain an elemental affinity such as water or wind when they grow to adulthood and evolve. Afterwards, they become specialized in their element and can no longer use magic of other attributes.
+When they are children, dragonkin are said to have no elemental affinity and can use magic of all attributes. However, they gain an elemental affinity such as water or wind when they grow to adulthood and evolve. Afterwards, they become specialized in their element and can no longer use magic of other attributes.
 
- Half-dragonkin don't have such a strong restriction, but they also can't use as powerful elemental magic as the specialized full-blooded dragonkin.
+Half-dragonkin don't have such a strong restriction, but they also can't use as powerful elemental magic as the specialized full-blooded dragonkin.
 
 「Your evolution depends on which element you use the most often, the elemental affinity of your living environment, and by absorbing the mana of defeated enemies.」
 
- Simply put, if you use water magic all the time, live near water, and keep defeating water-based enemies, you will become a water dragonkin.
+Simply put, if you use water magic all the time, live near water, and keep defeating water-based enemies, you will become a water dragonkin.
 
 「What's the most common type of dragonkin?」
 
 「Many have their personal preferences, but no one attribute is more prominent than the others.」
 
- The fire attribute is suited for wide area annihilation. The earth attribute is good for defense and construction of encampments. The wind attribute for detection and mobility. The water attribute for producing water and supporting allies.
+The fire attribute is suited for wide area annihilation. The earth attribute is good for defense and construction of encampments. The wind attribute for detection and mobility. The water attribute for producing water and supporting allies.
 
- No one element is definitively better than the others. All of them have their own uses.
+No one element is definitively better than the others. All of them have their own uses.
 
- The dragonkin apparently thought so too, so they adjusted their evolutions to ensure approximately equal numbers for each elemental dragonkin. Then, among the evolved dragonkin, those who trained even further acquire the Dragon Form skill, becoming the leaders of their race.
+The dragonkin apparently thought so too, so they adjusted their evolutions to ensure approximately equal numbers for each elemental dragonkin. Then, among the evolved dragonkin, those who trained even further acquire the Dragon Form skill, becoming the leaders of their race.
 
- The dragon warriors under Chelsea were all able to use Dragon Form skills, but that was probably because all of them were elites.
+The dragon warriors under Chelsea were all able to use Dragon Form skills, but that was probably because all of them were elites.
 
- So it seems not just any wind dragonkin would be able to use the Wind Dragon Form skill.
+So it seems not just any wind dragonkin would be able to use the Wind Dragon Form skill.
 
 「What about other attributes? Frederick is an evil dragonkin.」
 
 「Evil dragonkin is a known evolution, but there's not much certainty about the other special attributes. They say there used to be thunder dragonkin and ice dragonkin, but their evolutions were apparently accidental.」
 
- If the evolution conditions are similar to the conditions for learning magic, then thunder dragonkin probably need to have high affinities for wind and fire, as well as keeping them balanced at about the same level.
+If the evolution conditions are similar to the conditions for learning magic, then thunder dragonkin probably need to have high affinities for wind and fire, as well as keeping them balanced at about the same level.
 
 「Evil dragonkin is known?」
 
 「Yeah, since it's not particularly hard to become one.」
 
- In order for a dragonkin to evolve, they need to absorb the required attribute. For a fire dragonkin, they absorb the attribute of fire. So if you want to become an evil dragonkin, you only need to absorb a lot of evil energy.
+In order for a dragonkin to evolve, they need to absorb the required attribute. For a fire dragonkin, they absorb the attribute of fire. So if you want to become an evil dragonkin, you only need to absorb a lot of evil energy.
 
- Since this continent was filled with evil energy packed antidemons, you could easily become an evil dragonkin if you wanted to.
+Since this continent was filled with evil energy packed antidemons, you could easily become an evil dragonkin if you wanted to.
 
- But apparently, no one ever tries to become an evil dragonkin.
+But apparently, no one ever tries to become an evil dragonkin.
 
- Becoming an evil dragonkin turns you very violent. Some of them even lose their mind and go crazy. That's why the dragonkin are careful not to accumulate too much evil energy. Young individuals that have not yet evolved are told not fight too many battles at once, and the amount of time they spend within the barrier is limited.
+Becoming an evil dragonkin turns you very violent. Some of them even lose their mind and go crazy. That's why the dragonkin are careful not to accumulate too much evil energy. Young individuals that have not yet evolved are told not fight too many battles at once, and the amount of time they spend within the barrier is limited.
 
- Even so, some turned into evil dragonkin. There were two main reasons for this.
+Even so, some turned into evil dragonkin. There were two main reasons for this.
 
- One was when the rebellious youngsters refuse to listen to their elders, and stay within the barrier chasing after levels or points.
+One was when the rebellious youngsters refuse to listen to their elders, and stay within the barrier chasing after levels or points.
 
- The other was when antidemons spring up in large numbers during the antidemon season, and the young dragonkin have no choice but to keep fighting them.
+The other was when antidemons spring up in large numbers during the antidemon season, and the young dragonkin have no choice but to keep fighting them.
 
- In either case, those who have turned into evil dragonkin are often killed by their own kind. They would rather hunt them with their own hands than wait for them to go berserk.
+In either case, those who have turned into evil dragonkin are often killed by their own kind. They would rather hunt them with their own hands than wait for them to go berserk.
 
- That said, Frederick was a half-dragonkin, so they did not go as far as to take his life. Half-evil dragonkin were affected by some stat penalties, but they did not lose their sanity to the point of rampaging mindlessly.
+That said, Frederick was a half-dragonkin, so they did not go as far as to take his life. Half-evil dragonkin were affected by some stat penalties, but they did not lose their sanity to the point of rampaging mindlessly.
 
 「However, I was not allowed to stay in Gordicia. They exiled me from the continent, placing me as the guardian of the young lady.」
 
-「……Are you okay to be here now?」
+「...Are you okay to be here now?」
 
 「As long as they don't find me.」
 
- So I take it you'd be in trouble if they saw you. I can understand why you need to act behind the scenes then.
+So I take it you'd be in trouble if they saw you. I can understand why you need to act behind the scenes then.
 
 「What about divine dragonkin?」
 
- Divine Dragon Form was the skill given to Velmeria by Fanatics. It contained so much power that Velmeria became evenly matched with Ashwrath, even after he released his divine sword.
+Divine Dragon Form was the skill given to Velmeria by Fanatics. It contained so much power that Velmeria became evenly matched with Ashwrath, even after he released his divine sword.
 
- I'm pretty curious about how you're supposed to obtain Divine Dragon Form.
+I'm pretty curious about how you're supposed to obtain Divine Dragon Form.
 
 「That one is somewhat special. At least, no one has ever achieved it on their own.」
 
-「…? Then how do you learn it?」
+「...? Then how do you learn it?」
 
 「The six divine dragons are said to be the ancestors of the dragonkin. That skill is passed down to their descendants, the dragon priestesses, from generation to generation. However, two of the bloodlines have died out over the years, so now there are only four dragon priestesses left.」
 
- When the dragon priestesses perform the ritual to inherit their role, the Divine Dragon Form skill is given to them. However, the priestesses apparently never use the skill themselves.
+When the dragon priestesses perform the ritual to inherit their role, the Divine Dragon Form skill is given to them. However, the priestesses apparently never use the skill themselves.
 
 「To be more precise, they are unable to use it. Skills and classes that contain "God" or "Divine" in their name require long training to truly master.」
 
- So even if they obtain the skill, they will never be able to utilize it fully. You might be able to say the same thing for some of our skills.
+So even if they obtain the skill, they will never be able to utilize it fully. You might be able to say the same thing for some of our skills.
 
- Sword God Transformation met that description perfectly. I also knew of other skills, for example, Garrus' "Divine Eye" skill.
+Sword God Transformation met that description perfectly. I also knew of other skills, for example, Garrus' "Divine Eye" skill.
 
- That was the skill he used to identify me, but thinking back, he was nowhere close to being able to see everything. In all likelihood, he wasn't utilizing it to its full potential.
+That was the skill he used to identify me, but thinking back, he was nowhere close to being able to see everything. In all likelihood, he wasn't utilizing it to its full potential.
 
- Maybe the same thing could be said for Amanda's "Divine Whipmaster" class. It seems highly likely that she had not mastered its power after her recent class change. If she had really been able to make full use of its power, we should have lost much more easily.
+Maybe the same thing could be said for Amanda's "Divine Whipmaster" class. It seems highly likely that she had not mastered its power after her recent class change. If she had really been able to make full use of its power, we should have lost much more easily.
 
 「But if they can't use it, why did they inherit it?」
 
 「According to the legends, if someone capable of mastering that power ever appears, the skill will be transferred from the priestess to that person.」
 
- When a king is born with the blood of a divine dragon, he shall inherit their power as well. Or at least that's what their legends say.
+When a king is born with the blood of a divine dragon, he shall inherit their power as well. Or at least that's what their legends say.
 
 
 

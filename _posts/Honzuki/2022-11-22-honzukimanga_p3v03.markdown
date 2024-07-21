@@ -100,7 +100,7 @@ I remembered what Lutz said in the back of my mind.
 
 「The method that Myne sold to the store a year ago is now being used by skilled craftsmen in Corinna-sama's workshop. Keep the new method that Myne has been teaching you through letters as secret as possible.」
 
-Myne already sold the method of making hair ornaments to the Gilberta Company, so I wondered why we had to keep it a secret. Lutz's voice was quiet as if he didn't want to be heard. 
+Myne already sold the method of making hair ornaments to the Gilberta Company, so I wondered why we had to keep it a secret. Lutz's voice was quiet as if he didn't want to be heard.
 
 「People don't know about the relationship between you and Myne, so they would think it strange if the Gilberta Company hired a craftsman from downtown who could only make the same hair ornaments that Corinna-sama could make in her workshop. If there is one thing we can do that others can't, we can be proud of our work in the store. Since we're born and raised differently, it's important to have one thing that other people can't beat us at.」
 
