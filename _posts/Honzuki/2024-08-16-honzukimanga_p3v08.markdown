@@ -12,7 +12,7 @@ noheader: true
 comments: false
 notes: "Damuel POV"
 ---
-<h2>Ruel Gathering</h2>
+<h2>Ruelle Gathering</h2>
 
 「Damuel! Even if they are weak feybeasts, make sure to get their feystones! If we let them eat any feystones, they will keep growing stronger and stronger.」
 
@@ -24,7 +24,7 @@ We're already surrounded by the feybeasts, and what's more, we are forced to fin
 
 「Krgh!」
 
-Compared to the archknight Eckhart-sama and the medknight Brigitte, I have much less mana. This means I am unable to rely on mana attacks, instead beating down the feybeasts with sheer physical strength, which results in a rapid drain on my stamina. I know we are only buying time until Rozemyne-sama gathers the Ruel fruit, but the uncertainty of when it will end made my movements grow sluggish.
+Compared to the archknight Eckhart-sama and the medknight Brigitte, I have much less mana. This means I am unable to rely on mana attacks, instead beating down the feybeasts with sheer physical strength, which results in a rapid drain on my stamina. I know we are only buying time until Rozemyne-sama gathers the Ruelle fruit, but the uncertainty of when it will end made my movements grow sluggish.
 
 「Hah, hah...」
 
@@ -42,7 +42,7 @@ I shuddered at the fear of death, but Rozemyne-sama came to my rescue.
 
 「May Leidenschaft, God of Fire, bless them with the protection of Angriff, God of War.」
 
-The blue light of blessing rained down upon us as we fought to defend the Ruel tree. In the next instant, my body suddenly felt lighter, and my arms no longer hurt. In addition, I managed to slay a feybeast in a single swing, as if the sharpness of my spear had been magnified.
+The blue light of blessing rained down upon us as we fought to defend the Ruelle tree. In the next instant, my body suddenly felt lighter, and my arms no longer hurt. In addition, I managed to slay a feybeast in a single swing, as if the sharpness of my spear had been magnified.
 
 *...A single blessing makes this much difference?*
 
@@ -52,9 +52,9 @@ My eyes went wide with surprise. I had seen Rozemyne-sama give the blue light of
 
 Brigitte's voice rang out in excitement. I understood her feelings well, since the blessing resonated even more deeply because of the extreme situation we had been placed in. We managed to turn the tables and push back the feybeasts with increased momentum.
 
-「Rozemyne-himesama, please grasp the Ruel fruit and infuse your mana into it.」
+「Rozemyne-himesama, please grasp the Ruelle fruit and infuse your mana into it.」
 
-Finally, Justus-sama gave the go ahead for Rozemyne-sama to touch the Ruel fruit. By that time, we had managed to drive the feybeasts slightly further back.
+Finally, Justus-sama gave the go ahead for Rozemyne-sama to touch the Ruelle fruit. By that time, we had managed to drive the feybeasts slightly further back.
 
 「Damuel, take this time to recover while you still can.」
 
@@ -66,7 +66,7 @@ Although Eckhart-sama and Brigitte still seemed to have some energy left, they c
 
 「I'm going back in!」
 
-I readjusted my grip on my spear and rushed forward, so Eckhart-sama shifted his position slightly to make room for me. The three of us would protect the Ruel tree. I steeled myself, determined not to let the feybeasts get any closer. The satisfaction of being able to perform the duties of a guard knight filled me with exhilaration.
+I readjusted my grip on my spear and rushed forward, so Eckhart-sama shifted his position slightly to make room for me. The three of us would protect the Ruelle tree. I steeled myself, determined not to let the feybeasts get any closer. The satisfaction of being able to perform the duties of a guard knight filled me with exhilaration.
 
 「I've got it!」
 
@@ -76,19 +76,19 @@ Rozemyne-sama's elated voice signaled that the long battle was nearing its end. 
 
 A feybeast had leaped down from the trees above. I turned around with the blood drained from my face to see a Zantze flying in an arc, knocked away by Justus-sama.
 
-「My Ruel!」
+「My Ruelle!」
 
 「Rozemyne-himesama, no! Fall back, Eckhart!」
 
-It took me a split second to understand what had just happened. The Ruel fruit gathered by Rozemyne-sama had been stolen, and Eckhart-sama had dashed off in pursuit of the Zantze. But with so much information coming in at once, my mind went blank, and I had no clue what to do.
+It took me a split second to understand what had just happened. The Ruelle fruit gathered by Rozemyne-sama had been stolen, and Eckhart-sama had dashed off in pursuit of the Zantze. But with so much information coming in at once, my mind went blank, and I had no clue what to do.
 
 「Highbeast!」
 
 I only snapped to attention when I heard a sharp order from Brigitte, instinctively summoning my Highbeast and jumping on.
 
-Zantze were a type of feybeast known for their agility, and this one spun in the air to make a perfect landing. But before it even touched the ground, it suddenly underwent an explosive growth, evolving from a Zantze into a Goltze using the mana that Rozemyne-sama had imbued into the Ruel fruit. The change was so abrupt that my mind refused to accept it, even though I saw it with my own eyes.
+Zantze were a type of feybeast known for their agility, and this one spun in the air to make a perfect landing. But before it even touched the ground, it suddenly underwent an explosive growth, evolving from a Zantze into a Goltze using the mana that Rozemyne-sama had imbued into the Ruelle fruit. The change was so abrupt that my mind refused to accept it, even though I saw it with my own eyes.
 
-「Ferdinand-sama, a Zantze has eaten the Ruel fruit infused with Rozemyne-sama's mana and transformed into a Goltze. Immediate extermination is necessary.」
+「Ferdinand-sama, a Zantze has eaten the Ruelle fruit infused with Rozemyne-sama's mana and transformed into a Goltze. Immediate extermination is necessary.」
 
 Unlike me, who was still staring at the Goltze in complete shock, Justus-sama immediately sent an Ordonnanz to Ferdinand-sama. Meanwhile, Eckhart-sama had transformed his Schtappe into a large two-handed sword and began infusing it with mana. I hoped that Eckhart-sama, being an archknight, could take down the Goltze on his own, but his efforts only inflicted a few minor wounds.
 
@@ -96,13 +96,13 @@ Unlike me, who was still staring at the Goltze in complete shock, Justus-sama im
 
 「Yes, sir!」
 
-So we could do nothing but retreat and take refuge, merely watching from afar as the Goltze went on a rampage. Rozemyne-sama turned pale, realizing the severity of the situation caused by losing the Ruel fruit.
+So we could do nothing but retreat and take refuge, merely watching from afar as the Goltze went on a rampage. Rozemyne-sama turned pale, realizing the severity of the situation caused by losing the Ruelle fruit.
 
 「...I didn't realize my mana could create such a monster. This is all my fault.」
 
 「No, Rozemyne-sama. The responsibility lies with us for failing to protect you.」
 
-Brigitte was completely right. We should never have allowed a feybeast to reach Rozemyne-sama. We had failed to notice its approach from the trees, failed to retrieve the stolen Ruel fruit, and failed to defeat the Goltze——a complete and utter failure as guard knights.
+Brigitte was completely right. We should never have allowed a feybeast to reach Rozemyne-sama. We had failed to notice its approach from the trees, failed to retrieve the stolen Ruelle fruit, and failed to defeat the Goltze——a complete and utter failure as guard knights.
 
 *...It is fortunate that Rozemyne-sama suffered no injuries, but who knows how much damage that rampaging Goltze might cause...*
 
@@ -122,7 +122,7 @@ That said, Ferdinand-sama had said that only someone with as much mana as Rozemy
 
 Led by Eckhart-sama, we headed back into the depths of the forest to subdue the Goltze.
 
-The Goltze continued to target Rozemyne-sama for her abundant mana, but Eckhart-sama struck it back with a powerful blow. Meanwhile, Brigitte had Rozemyne-sama ride with her on her Highbeast, holding her protectively to ensure she didn't suffer even a scratch. Justus-sama and I kept watch on the Goltze while being on the lookout for smaller feybeasts targeting the Ruel fruit. And eventually, Rozemyne-sama recited a prayer to create a shield of wind, trapping the Goltze within it.
+The Goltze continued to target Rozemyne-sama for her abundant mana, but Eckhart-sama struck it back with a powerful blow. Meanwhile, Brigitte had Rozemyne-sama ride with her on her Highbeast, holding her protectively to ensure she didn't suffer even a scratch. Justus-sama and I kept watch on the Goltze while being on the lookout for smaller feybeasts targeting the Ruelle fruit. And eventually, Rozemyne-sama recited a prayer to create a shield of wind, trapping the Goltze within it.
 
 「Rozemyne, you look rather pale. Are you okay on mana?」
 
@@ -140,11 +140,11 @@ And indeed, the Goltze was quickly subdued by the combined efforts of Ferdinand-
 
 Unlike me, who felt a sense of relief after the battle, Rozemyne-sama was staring down at her empty hands.
 
-「...I failed to gather the Ruel.」
+「...I failed to gather the Ruelle.」
 
 A single tear fell, staining the ground, as Rozemyne-sama voiced her disappointment in a small, childlike whimper. It was only then that I noticed how much the failure had affected her.
 
-The goal of this mission wasn't to defeat feybeasts but to gather the Ruel fruit. While we managed to avoid further complications, we had failed to achieve our original objective.
+The goal of this mission wasn't to defeat feybeasts but to gather the Ruelle fruit. While we managed to avoid further complications, we had failed to achieve our original objective.
 
 「It's because we didn't know enough about the Night of Schutzaria. Next year, we'll be better prepared... Stop crying.」
 
@@ -172,7 +172,7 @@ That may be correct, but we all know that my share of the blame was the greatest
 
 「I agree that it could not be foreseen, but my capabilities... my mana is far too insufficient. As a layknight, the role of a guard knight serving the archducal family is too much for me to bear.」
 
-Mana was not the sole issue. I also lacked the knowledge and experience required to be a guard knight. I should have retrieved the Ruel fruit when it was stolen. I should have acted once I noticed the feybeast darting between the trees, instead of just standing there on the ground. While Eckhart-sama and Brigitte took action, I alone was unsure of what to do.
+Mana was not the sole issue. I also lacked the knowledge and experience required to be a guard knight. I should have retrieved the Ruelle fruit when it was stolen. I should have acted once I noticed the feybeast darting between the trees, instead of just standing there on the ground. While Eckhart-sama and Brigitte took action, I alone was unsure of what to do.
 
 「True. If you were a regular guard knight for the archducal family, you would likely be dismissed immediately.」
 
@@ -184,7 +184,7 @@ There are few who know Rozemyne-sama from when she was "Myne," and even fewer wh
 
 I engraved in my heart the role I must fulfill as her guard knight.
 
-「Of course, the same failure will not be tolerated. You should improve your skills as much as possible in preparation for next year's Ruel gathering. I will instruct Karstedt and Eckhart to give you special training.」
+「Of course, the same failure will not be tolerated. You should improve your skills as much as possible in preparation for next year's Ruelle gathering. I will instruct Karstedt and Eckhart to give you special training.」
 
 「...Thank you.」
 
