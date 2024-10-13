@@ -75,7 +75,7 @@ Now she brings a violin with her whenever she goes into town. If she sees Elliot
 
 <br/>
 
-**Carla Maxwell (32) [Scenes from age 22]**
+**Carla Maxwell (32)** [Scenes from age 22]
 
 The Starspear Witch, a former member of the Seven Sages. A natural genius who can cast seven different spells at the same time.
 
@@ -83,7 +83,7 @@ A traveler at heart, she never stays in one place for long.
 
 <br/>
 
-**Louis Miller (29) [Scenes from age 19]**
+**Louis Miller (29)** [Scenes from age 19]
 
 The Barrier Mage. Has a bad habit of poking his nose into the affairs of those in power, which was exploited by the King in the main story. He is very grateful to Carla, his senior disciple, for stopping Professor Rutherford's disciplinary actions.
 
@@ -125,21 +125,14 @@ A: Rubelmeria could become a beautiful woman who makes strange sounds, Wildianu 
 
 Q: I want to know the alcohol tolerance of the characters.
 
-**Alcohol is Water:** Louis, Frieda, Henrik
-
-**Rarely Gets Drunk:** Isaac, Neil, Casey, Mary, Black Lion Emperor, Cecilia
-
-**Moderately Strong:** Elliott, Melissa, Bradford, Einhard
-
-**Decently Strong:** Claudia, Isabelle, Raul, Benjamin, Hubert
-
-**Average**: Lana, Bridget, Lionel
-
-**Weak**: Glenn, Rosalie
-
-**Very Weak**: Ray, Robert, Clifford
-
-**Keep Away From Alcohol**: Monica, Cyril
+- **Alcohol is Water:** Louis, Frieda, Henrik
+- **Rarely Gets Drunk:** Isaac, Neil, Casey, Mary, Black Lion Emperor, Cecilia
+- **Moderately Strong:** Elliott, Melissa, Bradford, Einhard
+- **Decently Strong:** Claudia, Isabelle, Raul, Benjamin, Hubert
+- **Average**: Lana, Bridget, Lionel
+- **Weak**: Glenn, Rosalie
+- **Very Weak**: Ray, Robert, Clifford
+- **Keep Away From Alcohol**: Monica, Cyril
 
 This is a general guideline. It does not include non-human characters.
 
