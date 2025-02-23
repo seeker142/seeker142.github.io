@@ -150,4 +150,4 @@ permalink: /SilentWitchGaiden/
 
 ---
 
-Raw: https://ncode.syosetu.com/n5194gp/
+
