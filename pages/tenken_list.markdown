@@ -2,6 +2,7 @@
 layout: page
 title: TenKen
 permalink: /Tenken/
+navigation_menu: true
 ---
 
 <h2>TenKen Chapter List</h2>

@@ -2,7 +2,6 @@
 layout: page
 title: Chapter List
 permalink: /Tenken/list
-exclude: true
 ---
 
 {% for post in site.categories.TenKen reversed %}

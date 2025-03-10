@@ -2,7 +2,6 @@
 layout: null
 title: Test
 permalink: /hc2
-exclude: true
 ---
 
 <p id="top">Your debuff is: <span class="debuff"></span> and <span class="stackdebuff"></span></p>

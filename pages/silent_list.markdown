@@ -2,6 +2,7 @@
 layout: page
 title: "Silent Witch"
 permalink: /SilentWitchGaiden/
+navigation_menu: true
 ---
 
 <h2>Silent Witch Gaiden Chapter List</h2>

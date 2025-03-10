@@ -2,7 +2,6 @@
 layout: null
 title: Test
 permalink: /hc1
-exclude: true
 ---
 
 <p id="top">Your debuff is: <span class="debuff"></span></p>

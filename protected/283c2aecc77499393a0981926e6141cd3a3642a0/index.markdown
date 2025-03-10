@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Protected
-exclude: true
 ---
 
 Click to enable access to password protected pages: <button onclick="accessToggle()">Access Toggle</button>

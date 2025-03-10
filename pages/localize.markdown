@@ -2,7 +2,6 @@
 layout: page
 title: Localize Toggle
 permalink: /localize/
-exclude: true
 noheader: true
 ---
 

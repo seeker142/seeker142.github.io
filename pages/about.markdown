@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+navigation_menu: true
 ---
 
 A website for translating the web novels of the following series:<br>
