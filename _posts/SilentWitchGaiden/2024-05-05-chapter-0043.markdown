@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 43"
 permalink: SilentWitchGaiden/0043
 categories: SilentWitchGaiden Gaiden4
 chapter: 43
-exclude: true
 translator: Seeker
 editor: 
 draft: true

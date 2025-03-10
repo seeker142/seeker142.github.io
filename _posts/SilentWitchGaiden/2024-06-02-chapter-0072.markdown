@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 72"
 permalink: SilentWitchGaiden/0072
 categories: SilentWitchGaiden Gaiden5
 chapter: 72
-exclude: true
 translator: Seeker
 editor: 
 draft: true

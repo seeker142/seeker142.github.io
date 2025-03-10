@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 224"
 permalink: SilentWitchGaiden/0224
 categories: SilentWitchGaiden Gaiden11
 chapter: 224
-exclude: true
 translator: Seeker
 editor: 
 draft: true

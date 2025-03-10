@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 273"
 permalink: SilentWitchGaiden/0273
 categories: SilentWitchGaiden Gaiden12
 chapter: 273
-exclude: true
 translator: Seeker
 editor: 
 draft: true

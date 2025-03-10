@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 19"
 permalink: SilentWitchGaiden/0019
 categories: SilentWitchGaiden Gaiden2
 chapter: 19
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---

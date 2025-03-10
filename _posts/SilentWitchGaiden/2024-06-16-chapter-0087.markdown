@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 87"
 permalink: SilentWitchGaiden/0087
 categories: SilentWitchGaiden Gaiden6
 chapter: 87
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 198"
 permalink: SilentWitchGaiden/0198
 categories: SilentWitchGaiden Gaiden10
 chapter: 198
-exclude: true
 translator: Seeker
 editor: 
 draft: true

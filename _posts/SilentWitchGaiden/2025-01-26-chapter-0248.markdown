@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 248"
 permalink: SilentWitchGaiden/0248
 categories: SilentWitchGaiden Gaiden11
 chapter: 248
-exclude: true
 translator: Seeker
 editor: 
 draft: true

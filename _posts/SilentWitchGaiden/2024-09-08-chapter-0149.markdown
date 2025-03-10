@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 149"
 permalink: SilentWitchGaiden/0149
 categories: SilentWitchGaiden Gaiden8
 chapter: 149
-exclude: true
 translator: Seeker
 editor: 
 draft: true

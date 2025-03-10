@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 85"
 permalink: SilentWitchGaiden/0085
 categories: SilentWitchGaiden Gaiden6
 chapter: 85
-exclude: true
 translator: Seeker
 editor: 
 draft: true

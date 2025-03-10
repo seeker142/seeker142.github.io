@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 147"
 permalink: SilentWitchGaiden/0147
 categories: SilentWitchGaiden Gaiden8
 chapter: 147
-exclude: true
 translator: Seeker
 editor: 
 draft: true

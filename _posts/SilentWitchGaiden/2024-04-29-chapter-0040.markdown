@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 40"
 permalink: SilentWitchGaiden/0040
 categories: SilentWitchGaiden Gaiden3
 chapter: 40
-exclude: true
 translator: Seeker
 editor: 
 draft: true

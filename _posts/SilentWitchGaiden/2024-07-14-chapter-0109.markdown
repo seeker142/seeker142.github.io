@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 109"
 permalink: SilentWitchGaiden/0109
 categories: SilentWitchGaiden Gaiden7
 chapter: 109
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 62"
 permalink: SilentWitchGaiden/0062
 categories: SilentWitchGaiden Gaiden5
 chapter: 62
-exclude: true
 translator: Seeker
 editor: 
 draft: true

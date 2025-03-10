@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 170"
 permalink: SilentWitchGaiden/0170
 categories: SilentWitchGaiden Gaiden9
 chapter: 170
-exclude: true
 translator: Seeker
 editor: 
 draft: true

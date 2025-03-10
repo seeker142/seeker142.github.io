@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 247"
 permalink: SilentWitchGaiden/0247
 categories: SilentWitchGaiden Gaiden11
 chapter: 247
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 164"
 permalink: SilentWitchGaiden/0164
 categories: SilentWitchGaiden Gaiden9
 chapter: 164
-exclude: true
 translator: Seeker
 editor: 
 draft: true

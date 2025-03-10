@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 158"
 permalink: SilentWitchGaiden/0158
 categories: SilentWitchGaiden Gaiden9
 chapter: 158
-exclude: true
 translator: Seeker
 editor: 
 draft: true

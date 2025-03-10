@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 128"
 permalink: SilentWitchGaiden/0128
 categories: SilentWitchGaiden Gaiden7
 chapter: 128
-exclude: true
 translator: Seeker
 editor: 
 draft: true

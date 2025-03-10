@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 237"
 permalink: SilentWitchGaiden/0237
 categories: SilentWitchGaiden Gaiden11
 chapter: 237
-exclude: true
 translator: Seeker
 editor: 
 draft: true

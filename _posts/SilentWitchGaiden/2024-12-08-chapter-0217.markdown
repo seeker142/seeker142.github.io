@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 217"
 permalink: SilentWitchGaiden/0217
 categories: SilentWitchGaiden Gaiden10
 chapter: 217
-exclude: true
 translator: Seeker
 editor: 
 draft: true

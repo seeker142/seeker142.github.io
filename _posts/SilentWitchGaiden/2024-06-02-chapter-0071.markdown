@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 71"
 permalink: SilentWitchGaiden/0071
 categories: SilentWitchGaiden Gaiden5
 chapter: 71
-exclude: true
 translator: Seeker
 editor: 
 draft: true

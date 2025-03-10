@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 55"
 permalink: SilentWitchGaiden/0055
 categories: SilentWitchGaiden Gaiden4
 chapter: 55
-exclude: true
 translator: Seeker
 editor: 
 draft: true

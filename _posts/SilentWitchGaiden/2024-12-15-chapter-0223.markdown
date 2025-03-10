@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 223"
 permalink: SilentWitchGaiden/0223
 categories: SilentWitchGaiden Gaiden11
 chapter: 223
-exclude: true
 translator: Seeker
 editor: 
 draft: true

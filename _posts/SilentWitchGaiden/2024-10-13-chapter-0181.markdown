@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 181"
 permalink: SilentWitchGaiden/0181
 categories: SilentWitchGaiden Gaiden9
 chapter: 181
-exclude: true
 translator: Seeker
 editor: 
 draft: true

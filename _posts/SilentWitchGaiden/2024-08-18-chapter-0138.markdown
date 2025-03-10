@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 138"
 permalink: SilentWitchGaiden/0138
 categories: SilentWitchGaiden Gaiden8
 chapter: 138
-exclude: true
 translator: Seeker
 editor: 
 draft: true

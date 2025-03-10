@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 172"
 permalink: SilentWitchGaiden/0172
 categories: SilentWitchGaiden Gaiden9
 chapter: 172
-exclude: true
 translator: Seeker
 editor: 
 draft: true

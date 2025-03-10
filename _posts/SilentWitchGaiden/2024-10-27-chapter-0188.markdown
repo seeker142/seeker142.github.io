@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 188"
 permalink: SilentWitchGaiden/0188
 categories: SilentWitchGaiden Gaiden10
 chapter: 188
-exclude: true
 translator: Seeker
 editor: 
 draft: true

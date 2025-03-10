@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 21"
 permalink: SilentWitchGaiden/0021
 categories: SilentWitchGaiden Gaiden2
 chapter: 21
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---

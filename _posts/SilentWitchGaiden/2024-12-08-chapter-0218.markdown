@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 218"
 permalink: SilentWitchGaiden/0218
 categories: SilentWitchGaiden Gaiden10
 chapter: 218
-exclude: true
 translator: Seeker
 editor: 
 draft: true

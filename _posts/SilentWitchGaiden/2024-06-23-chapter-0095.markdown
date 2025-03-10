@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 95"
 permalink: SilentWitchGaiden/0095
 categories: SilentWitchGaiden Gaiden6
 chapter: 95
-exclude: true
 translator: Seeker
 editor: 
 draft: true

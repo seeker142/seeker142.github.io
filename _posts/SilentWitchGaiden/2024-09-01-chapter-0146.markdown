@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 146"
 permalink: SilentWitchGaiden/0146
 categories: SilentWitchGaiden Gaiden8
 chapter: 146
-exclude: true
 translator: Seeker
 editor: 
 draft: true

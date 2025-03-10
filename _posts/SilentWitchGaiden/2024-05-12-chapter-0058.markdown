@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 58"
 permalink: SilentWitchGaiden/0058
 categories: SilentWitchGaiden Gaiden4
 chapter: 58
-exclude: true
 translator: Seeker
 editor: 
 draft: true

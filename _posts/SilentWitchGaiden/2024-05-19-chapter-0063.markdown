@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 63"
 permalink: SilentWitchGaiden/0063
 categories: SilentWitchGaiden Gaiden5
 chapter: 63
-exclude: true
 translator: Seeker
 editor: 
 draft: true

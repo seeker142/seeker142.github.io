@@ -5,8 +5,6 @@
     {%- assign page_paths = included_pages | map: "path" -%}
     {%- assign page_titles = included_pages | map: 'title' | compact %}
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
-	
-	<!-- {{ page_paths }} -->
 
 	{%- unless page.noheader -%}
     {%- unless page_titles == empty %}

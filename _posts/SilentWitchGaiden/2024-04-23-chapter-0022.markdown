@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 22"
 permalink: SilentWitchGaiden/0022
 categories: SilentWitchGaiden Gaiden2
 chapter: 22
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---

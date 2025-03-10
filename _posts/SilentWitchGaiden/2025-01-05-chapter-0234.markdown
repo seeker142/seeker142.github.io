@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 234"
 permalink: SilentWitchGaiden/0234
 categories: SilentWitchGaiden Gaiden11
 chapter: 234
-exclude: true
 translator: Seeker
 editor: 
 draft: true

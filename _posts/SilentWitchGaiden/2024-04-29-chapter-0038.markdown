@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 38"
 permalink: SilentWitchGaiden/0038
 categories: SilentWitchGaiden Gaiden3
 chapter: 38
-exclude: true
 translator: Seeker
 editor: 
 draft: true

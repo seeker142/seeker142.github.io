@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 168"
 permalink: SilentWitchGaiden/0168
 categories: SilentWitchGaiden Gaiden9
 chapter: 168
-exclude: true
 translator: Seeker
 editor: 
 draft: true

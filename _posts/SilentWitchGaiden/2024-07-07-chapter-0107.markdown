@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 107"
 permalink: SilentWitchGaiden/0107
 categories: SilentWitchGaiden Gaiden7
 chapter: 107
-exclude: true
 translator: Seeker
 editor: 
 draft: true

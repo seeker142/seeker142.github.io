@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 49"
 permalink: SilentWitchGaiden/0049
 categories: SilentWitchGaiden Gaiden4
 chapter: 49
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 61"
 permalink: SilentWitchGaiden/0061
 categories: SilentWitchGaiden Gaiden5
 chapter: 61
-exclude: true
 translator: Seeker
 editor: 
 draft: true

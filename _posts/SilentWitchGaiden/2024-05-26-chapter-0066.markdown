@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 66"
 permalink: SilentWitchGaiden/0066
 categories: SilentWitchGaiden Gaiden5
 chapter: 66
-exclude: true
 translator: Seeker
 editor: 
 draft: true

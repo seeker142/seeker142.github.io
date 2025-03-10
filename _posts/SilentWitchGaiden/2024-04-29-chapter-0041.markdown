@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 41"
 permalink: SilentWitchGaiden/0041
 categories: SilentWitchGaiden Gaiden3
 chapter: 41
-exclude: true
 translator: Seeker
 editor: 
 draft: true

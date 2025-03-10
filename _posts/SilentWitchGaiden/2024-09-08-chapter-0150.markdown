@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 150"
 permalink: SilentWitchGaiden/0150
 categories: SilentWitchGaiden Gaiden8
 chapter: 150
-exclude: true
 translator: Seeker
 editor: 
 draft: true

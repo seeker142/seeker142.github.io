@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 83"
 permalink: SilentWitchGaiden/0083
 categories: SilentWitchGaiden Gaiden6
 chapter: 83
-exclude: true
 translator: Seeker
 editor: 
 draft: true

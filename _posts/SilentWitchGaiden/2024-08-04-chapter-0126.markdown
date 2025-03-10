@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 126"
 permalink: SilentWitchGaiden/0126
 categories: SilentWitchGaiden Gaiden7
 chapter: 126
-exclude: true
 translator: Seeker
 editor: 
 draft: true

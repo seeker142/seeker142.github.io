@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 131"
 permalink: SilentWitchGaiden/0131
 categories: SilentWitchGaiden Gaiden8
 chapter: 131
-exclude: true
 translator: Seeker
 editor: 
 draft: true

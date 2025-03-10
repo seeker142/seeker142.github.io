@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 141"
 permalink: SilentWitchGaiden/0141
 categories: SilentWitchGaiden Gaiden8
 chapter: 141
-exclude: true
 translator: Seeker
 editor: 
 draft: true

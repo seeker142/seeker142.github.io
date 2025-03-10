@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 102"
 permalink: SilentWitchGaiden/0102
 categories: SilentWitchGaiden Gaiden7
 chapter: 102
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 53"
 permalink: SilentWitchGaiden/0053
 categories: SilentWitchGaiden Gaiden4
 chapter: 53
-exclude: true
 translator: Seeker
 editor: 
 draft: true

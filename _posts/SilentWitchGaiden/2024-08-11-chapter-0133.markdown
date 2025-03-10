@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 133"
 permalink: SilentWitchGaiden/0133
 categories: SilentWitchGaiden Gaiden8
 chapter: 133
-exclude: true
 translator: Seeker
 editor: 
 draft: true

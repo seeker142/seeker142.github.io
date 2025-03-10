@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 57"
 permalink: SilentWitchGaiden/0057
 categories: SilentWitchGaiden Gaiden4
 chapter: 57
-exclude: true
 translator: Seeker
 editor: 
 draft: true

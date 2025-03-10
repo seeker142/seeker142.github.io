@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 199"
 permalink: SilentWitchGaiden/0199
 categories: SilentWitchGaiden Gaiden10
 chapter: 199
-exclude: true
 translator: Seeker
 editor: 
 draft: true

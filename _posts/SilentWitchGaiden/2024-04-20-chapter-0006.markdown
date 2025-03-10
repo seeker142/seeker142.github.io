@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 6"
 permalink: SilentWitchGaiden/0006
 categories: SilentWitchGaiden Gaiden0
 chapter: 6
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Various Side Stories"
 ---

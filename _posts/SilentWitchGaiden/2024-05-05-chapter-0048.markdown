@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 48"
 permalink: SilentWitchGaiden/0048
 categories: SilentWitchGaiden Gaiden4
 chapter: 48
-exclude: true
 translator: Seeker
 editor: 
 draft: true

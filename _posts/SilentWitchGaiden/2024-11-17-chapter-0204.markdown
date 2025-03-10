@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 204"
 permalink: SilentWitchGaiden/0204
 categories: SilentWitchGaiden Gaiden10
 chapter: 204
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 195"
 permalink: SilentWitchGaiden/0195
 categories: SilentWitchGaiden Gaiden10
 chapter: 195
-exclude: true
 translator: Seeker
 editor: 
 draft: true

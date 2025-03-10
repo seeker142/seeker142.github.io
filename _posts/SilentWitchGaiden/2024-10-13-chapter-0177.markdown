@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 177"
 permalink: SilentWitchGaiden/0177
 categories: SilentWitchGaiden Gaiden9
 chapter: 177
-exclude: true
 translator: Seeker
 editor: 
 draft: true

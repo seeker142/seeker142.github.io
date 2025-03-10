@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 228"
 permalink: SilentWitchGaiden/0228
 categories: SilentWitchGaiden Gaiden11
 chapter: 228
-exclude: true
 translator: Seeker
 editor: 
 draft: true

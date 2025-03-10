@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 159"
 permalink: SilentWitchGaiden/0159
 categories: SilentWitchGaiden Gaiden9
 chapter: 159
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 32"
 permalink: SilentWitchGaiden/0032
 categories: SilentWitchGaiden Gaiden3
 chapter: 32
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 182"
 permalink: SilentWitchGaiden/0182
 categories: SilentWitchGaiden Gaiden9
 chapter: 182
-exclude: true
 translator: Seeker
 editor: 
 draft: true

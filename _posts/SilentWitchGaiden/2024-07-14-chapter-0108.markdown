@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 108"
 permalink: SilentWitchGaiden/0108
 categories: SilentWitchGaiden Gaiden7
 chapter: 108
-exclude: true
 translator: Seeker
 editor: 
 draft: true

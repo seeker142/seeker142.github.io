@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 219"
 permalink: SilentWitchGaiden/0219
 categories: SilentWitchGaiden Gaiden10
 chapter: 219
-exclude: true
 translator: Seeker
 editor: 
 draft: true

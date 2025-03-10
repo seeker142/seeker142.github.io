@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 192"
 permalink: SilentWitchGaiden/0192
 categories: SilentWitchGaiden Gaiden10
 chapter: 192
-exclude: true
 translator: Seeker
 editor: 
 draft: true

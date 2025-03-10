@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 256"
 permalink: SilentWitchGaiden/0256
 categories: SilentWitchGaiden Gaiden11
 chapter: 256
-exclude: true
 translator: Seeker
 editor: 
 draft: true

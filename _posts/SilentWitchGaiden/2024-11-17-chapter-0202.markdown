@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 202"
 permalink: SilentWitchGaiden/0202
 categories: SilentWitchGaiden Gaiden10
 chapter: 202
-exclude: true
 translator: Seeker
 editor: 
 draft: true

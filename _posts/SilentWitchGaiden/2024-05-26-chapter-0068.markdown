@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 68"
 permalink: SilentWitchGaiden/0068
 categories: SilentWitchGaiden Gaiden5
 chapter: 68
-exclude: true
 translator: Seeker
 editor: 
 draft: true

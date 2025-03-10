@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 154"
 permalink: SilentWitchGaiden/0154
 categories: SilentWitchGaiden Gaiden8
 chapter: 154
-exclude: true
 translator: Seeker
 editor: 
 draft: true

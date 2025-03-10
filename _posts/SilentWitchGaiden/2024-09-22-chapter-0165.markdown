@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 165"
 permalink: SilentWitchGaiden/0165
 categories: SilentWitchGaiden Gaiden9
 chapter: 165
-exclude: true
 translator: Seeker
 editor: 
 draft: true

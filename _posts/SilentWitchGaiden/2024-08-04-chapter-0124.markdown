@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 124"
 permalink: SilentWitchGaiden/0124
 categories: SilentWitchGaiden Gaiden7
 chapter: 124
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 136"
 permalink: SilentWitchGaiden/0136
 categories: SilentWitchGaiden Gaiden8
 chapter: 136
-exclude: true
 translator: Seeker
 editor: 
 draft: true

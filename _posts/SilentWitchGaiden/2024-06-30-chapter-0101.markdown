@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 101"
 permalink: SilentWitchGaiden/0101
 categories: SilentWitchGaiden Gaiden7
 chapter: 101
-exclude: true
 translator: Seeker
 editor: 
 draft: true

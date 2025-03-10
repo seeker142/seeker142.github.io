@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 65"
 permalink: SilentWitchGaiden/0065
 categories: SilentWitchGaiden Gaiden5
 chapter: 65
-exclude: true
 translator: Seeker
 editor: 
 draft: true

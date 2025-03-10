@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 29"
 permalink: SilentWitchGaiden/0029
 categories: SilentWitchGaiden Gaiden3
 chapter: 29
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 113"
 permalink: SilentWitchGaiden/0113
 categories: SilentWitchGaiden Gaiden7
 chapter: 113
-exclude: true
 translator: Seeker
 editor: 
 draft: true

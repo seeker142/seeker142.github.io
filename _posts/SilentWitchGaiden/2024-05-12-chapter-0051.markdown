@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 51"
 permalink: SilentWitchGaiden/0051
 categories: SilentWitchGaiden Gaiden4
 chapter: 51
-exclude: true
 translator: Seeker
 editor: 
 draft: true

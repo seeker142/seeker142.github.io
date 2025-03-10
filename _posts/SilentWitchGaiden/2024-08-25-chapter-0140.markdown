@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 140"
 permalink: SilentWitchGaiden/0140
 categories: SilentWitchGaiden Gaiden8
 chapter: 140
-exclude: true
 translator: Seeker
 editor: 
 draft: true

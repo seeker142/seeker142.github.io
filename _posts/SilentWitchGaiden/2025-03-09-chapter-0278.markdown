@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 278"
 permalink: SilentWitchGaiden/0278
 categories: SilentWitchGaiden Gaiden12
 chapter: 278
-exclude: true
 translator: Seeker
 editor: 
 draft: true

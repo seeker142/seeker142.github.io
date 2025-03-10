@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 35"
 permalink: SilentWitchGaiden/0035
 categories: SilentWitchGaiden Gaiden3
 chapter: 35
-exclude: true
 translator: Seeker
 editor: 
 draft: true

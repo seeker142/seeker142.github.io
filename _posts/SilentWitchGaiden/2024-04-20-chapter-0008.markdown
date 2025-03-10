@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 8"
 permalink: SilentWitchGaiden/0008
 categories: SilentWitchGaiden Gaiden1
 chapter: 8
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Gaiden 1: Autumn of Rising Peas"
 ---

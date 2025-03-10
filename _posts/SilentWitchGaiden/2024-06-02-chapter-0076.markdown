@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 76"
 permalink: SilentWitchGaiden/0076
 categories: SilentWitchGaiden Gaiden5
 chapter: 76
-exclude: true
 translator: Seeker
 editor: 
 draft: true

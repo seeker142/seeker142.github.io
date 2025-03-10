@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 115"
 permalink: SilentWitchGaiden/0115
 categories: SilentWitchGaiden Gaiden7
 chapter: 115
-exclude: true
 translator: Seeker
 editor: 
 draft: true

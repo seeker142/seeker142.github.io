@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 178"
 permalink: SilentWitchGaiden/0178
 categories: SilentWitchGaiden Gaiden9
 chapter: 178
-exclude: true
 translator: Seeker
 editor: 
 draft: true

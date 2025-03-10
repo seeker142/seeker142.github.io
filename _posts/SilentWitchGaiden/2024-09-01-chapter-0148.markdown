@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 148"
 permalink: SilentWitchGaiden/0148
 categories: SilentWitchGaiden Gaiden8
 chapter: 148
-exclude: true
 translator: Seeker
 editor: 
 draft: true

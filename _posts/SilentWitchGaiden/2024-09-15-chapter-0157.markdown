@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 157"
 permalink: SilentWitchGaiden/0157
 categories: SilentWitchGaiden Gaiden9
 chapter: 157
-exclude: true
 translator: Seeker
 editor: 
 draft: true

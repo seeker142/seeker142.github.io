@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 64"
 permalink: SilentWitchGaiden/0064
 categories: SilentWitchGaiden Gaiden5
 chapter: 64
-exclude: true
 translator: Seeker
 editor: 
 draft: true

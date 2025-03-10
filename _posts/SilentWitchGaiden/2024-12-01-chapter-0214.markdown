@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 214"
 permalink: SilentWitchGaiden/0214
 categories: SilentWitchGaiden Gaiden10
 chapter: 214
-exclude: true
 translator: Seeker
 editor: 
 draft: true

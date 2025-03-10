@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 145"
 permalink: SilentWitchGaiden/0145
 categories: SilentWitchGaiden Gaiden8
 chapter: 145
-exclude: true
 translator: Seeker
 editor: 
 draft: true

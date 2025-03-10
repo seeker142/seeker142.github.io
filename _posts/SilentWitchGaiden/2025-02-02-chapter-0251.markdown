@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 251"
 permalink: SilentWitchGaiden/0251
 categories: SilentWitchGaiden Gaiden11
 chapter: 251
-exclude: true
 translator: Seeker
 editor: 
 draft: true

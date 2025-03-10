@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 122"
 permalink: SilentWitchGaiden/0122
 categories: SilentWitchGaiden Gaiden7
 chapter: 122
-exclude: true
 translator: Seeker
 editor: 
 draft: true

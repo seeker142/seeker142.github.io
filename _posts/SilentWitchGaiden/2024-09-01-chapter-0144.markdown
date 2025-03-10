@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 144"
 permalink: SilentWitchGaiden/0144
 categories: SilentWitchGaiden Gaiden8
 chapter: 144
-exclude: true
 translator: Seeker
 editor: 
 draft: true

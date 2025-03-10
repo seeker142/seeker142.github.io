@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 37"
 permalink: SilentWitchGaiden/0037
 categories: SilentWitchGaiden Gaiden3
 chapter: 37
-exclude: true
 translator: Seeker
 editor: 
 draft: true

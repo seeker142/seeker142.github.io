@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 235"
 permalink: SilentWitchGaiden/0235
 categories: SilentWitchGaiden Gaiden11
 chapter: 235
-exclude: true
 translator: Seeker
 editor: 
 draft: true

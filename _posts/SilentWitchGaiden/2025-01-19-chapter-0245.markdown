@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 245"
 permalink: SilentWitchGaiden/0245
 categories: SilentWitchGaiden Gaiden11
 chapter: 245
-exclude: true
 translator: Seeker
 editor: 
 draft: true

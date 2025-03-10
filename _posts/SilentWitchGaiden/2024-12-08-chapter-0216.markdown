@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 216"
 permalink: SilentWitchGaiden/0216
 categories: SilentWitchGaiden Gaiden10
 chapter: 216
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 50"
 permalink: SilentWitchGaiden/0050
 categories: SilentWitchGaiden Gaiden4
 chapter: 50
-exclude: true
 translator: Seeker
 editor: 
 draft: true

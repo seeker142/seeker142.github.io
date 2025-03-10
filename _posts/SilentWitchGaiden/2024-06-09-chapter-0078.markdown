@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 78"
 permalink: SilentWitchGaiden/0078
 categories: SilentWitchGaiden Gaiden6
 chapter: 78
-exclude: true
 translator: Seeker
 editor: 
 draft: true

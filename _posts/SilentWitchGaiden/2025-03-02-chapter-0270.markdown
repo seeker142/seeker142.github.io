@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 270"
 permalink: SilentWitchGaiden/0270
 categories: SilentWitchGaiden Gaiden12
 chapter: 270
-exclude: true
 translator: Seeker
 editor: 
 draft: true

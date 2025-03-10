@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 236"
 permalink: SilentWitchGaiden/0236
 categories: SilentWitchGaiden Gaiden11
 chapter: 236
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 155"
 permalink: SilentWitchGaiden/0155
 categories: SilentWitchGaiden Gaiden8
 chapter: 155
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 130"
 permalink: SilentWitchGaiden/0130
 categories: SilentWitchGaiden Gaiden8
 chapter: 130
-exclude: true
 translator: Seeker
 editor: 
 draft: true

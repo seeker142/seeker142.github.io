@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 67"
 permalink: SilentWitchGaiden/0067
 categories: SilentWitchGaiden Gaiden5
 chapter: 67
-exclude: true
 translator: Seeker
 editor: 
 draft: true

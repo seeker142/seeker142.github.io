@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 1"
 permalink: SilentWitchGaiden/0001
 categories: SilentWitchGaiden Gaiden0
 chapter: 1
-exclude: true
 translator: Seeker
 editor: 
 draft: true

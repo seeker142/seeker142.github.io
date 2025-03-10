@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 94"
 permalink: SilentWitchGaiden/0094
 categories: SilentWitchGaiden Gaiden6
 chapter: 94
-exclude: true
 translator: Seeker
 editor: 
 draft: true

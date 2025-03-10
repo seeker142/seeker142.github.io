@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 110"
 permalink: SilentWitchGaiden/0110
 categories: SilentWitchGaiden Gaiden7
 chapter: 110
-exclude: true
 translator: Seeker
 editor: 
 draft: true

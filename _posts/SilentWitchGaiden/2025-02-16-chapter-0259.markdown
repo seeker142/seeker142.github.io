@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 259"
 permalink: SilentWitchGaiden/0259
 categories: SilentWitchGaiden Gaiden12
 chapter: 259
-exclude: true
 translator: Seeker
 editor: 
 draft: true

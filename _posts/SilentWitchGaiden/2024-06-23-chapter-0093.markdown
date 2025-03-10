@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 93"
 permalink: SilentWitchGaiden/0093
 categories: SilentWitchGaiden Gaiden6
 chapter: 93
-exclude: true
 translator: Seeker
 editor: 
 draft: true

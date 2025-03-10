@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 255"
 permalink: SilentWitchGaiden/0255
 categories: SilentWitchGaiden Gaiden11
 chapter: 255
-exclude: true
 translator: Seeker
 editor: 
 draft: true

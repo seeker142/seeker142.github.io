@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 175"
 permalink: SilentWitchGaiden/0175
 categories: SilentWitchGaiden Gaiden9
 chapter: 175
-exclude: true
 translator: Seeker
 editor: 
 draft: true

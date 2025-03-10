@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 274"
 permalink: SilentWitchGaiden/0274
 categories: SilentWitchGaiden Gaiden12
 chapter: 274
-exclude: true
 translator: Seeker
 editor: 
 draft: true

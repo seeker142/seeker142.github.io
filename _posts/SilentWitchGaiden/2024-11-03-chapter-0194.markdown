@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 194"
 permalink: SilentWitchGaiden/0194
 categories: SilentWitchGaiden Gaiden10
 chapter: 194
-exclude: true
 translator: Seeker
 editor: 
 draft: true

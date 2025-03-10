@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 39"
 permalink: SilentWitchGaiden/0039
 categories: SilentWitchGaiden Gaiden3
 chapter: 39
-exclude: true
 translator: Seeker
 editor: 
 draft: true

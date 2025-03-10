@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 271"
 permalink: SilentWitchGaiden/0271
 categories: SilentWitchGaiden Gaiden12
 chapter: 271
-exclude: true
 translator: Seeker
 editor: 
 draft: true

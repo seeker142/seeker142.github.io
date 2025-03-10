@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 121"
 permalink: SilentWitchGaiden/0121
 categories: SilentWitchGaiden Gaiden7
 chapter: 121
-exclude: true
 translator: Seeker
 editor: 
 draft: true

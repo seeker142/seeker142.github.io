@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 186"
 permalink: SilentWitchGaiden/0186
 categories: SilentWitchGaiden Gaiden9
 chapter: 186
-exclude: true
 translator: Seeker
 editor: 
 draft: true

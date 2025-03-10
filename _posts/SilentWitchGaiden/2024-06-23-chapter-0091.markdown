@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 91"
 permalink: SilentWitchGaiden/0091
 categories: SilentWitchGaiden Gaiden6
 chapter: 91
-exclude: true
 translator: Seeker
 editor: 
 draft: true

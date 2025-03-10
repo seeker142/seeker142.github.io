@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 137"
 permalink: SilentWitchGaiden/0137
 categories: SilentWitchGaiden Gaiden8
 chapter: 137
-exclude: true
 translator: Seeker
 editor: 
 draft: true

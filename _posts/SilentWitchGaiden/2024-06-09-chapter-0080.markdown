@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 80"
 permalink: SilentWitchGaiden/0080
 categories: SilentWitchGaiden Gaiden6
 chapter: 80
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 28"
 permalink: SilentWitchGaiden/0028
 categories: SilentWitchGaiden Gaiden3
 chapter: 28
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 203"
 permalink: SilentWitchGaiden/0203
 categories: SilentWitchGaiden Gaiden10
 chapter: 203
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 167"
 permalink: SilentWitchGaiden/0167
 categories: SilentWitchGaiden Gaiden9
 chapter: 167
-exclude: true
 translator: Seeker
 editor: 
 draft: true

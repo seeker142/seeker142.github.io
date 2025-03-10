@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 125"
 permalink: SilentWitchGaiden/0125
 categories: SilentWitchGaiden Gaiden7
 chapter: 125
-exclude: true
 translator: Seeker
 editor: 
 draft: true

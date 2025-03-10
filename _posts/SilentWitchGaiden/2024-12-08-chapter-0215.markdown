@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 215"
 permalink: SilentWitchGaiden/0215
 categories: SilentWitchGaiden Gaiden10
 chapter: 215
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 240"
 permalink: SilentWitchGaiden/0240
 categories: SilentWitchGaiden Gaiden11
 chapter: 240
-exclude: true
 translator: Seeker
 editor: 
 draft: true

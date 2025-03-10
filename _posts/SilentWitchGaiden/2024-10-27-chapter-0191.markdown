@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 191"
 permalink: SilentWitchGaiden/0191
 categories: SilentWitchGaiden Gaiden10
 chapter: 191
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 189"
 permalink: SilentWitchGaiden/0189
 categories: SilentWitchGaiden Gaiden10
 chapter: 189
-exclude: true
 translator: Seeker
 editor: 
 draft: true

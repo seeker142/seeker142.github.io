@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 205"
 permalink: SilentWitchGaiden/0205
 categories: SilentWitchGaiden Gaiden10
 chapter: 205
-exclude: true
 translator: Seeker
 editor: 
 draft: true

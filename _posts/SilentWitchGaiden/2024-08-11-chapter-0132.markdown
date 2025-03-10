@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 132"
 permalink: SilentWitchGaiden/0132
 categories: SilentWitchGaiden Gaiden8
 chapter: 132
-exclude: true
 translator: Seeker
 editor: 
 draft: true

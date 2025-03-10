@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 77"
 permalink: SilentWitchGaiden/0077
 categories: SilentWitchGaiden Gaiden5
 chapter: 77
-exclude: true
 translator: Seeker
 editor: 
 draft: true

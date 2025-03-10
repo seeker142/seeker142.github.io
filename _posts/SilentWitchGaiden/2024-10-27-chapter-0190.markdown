@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 190"
 permalink: SilentWitchGaiden/0190
 categories: SilentWitchGaiden Gaiden10
 chapter: 190
-exclude: true
 translator: Seeker
 editor: 
 draft: true

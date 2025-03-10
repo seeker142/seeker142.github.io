@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 75"
 permalink: SilentWitchGaiden/0075
 categories: SilentWitchGaiden Gaiden5
 chapter: 75
-exclude: true
 translator: Seeker
 editor: 
 draft: true

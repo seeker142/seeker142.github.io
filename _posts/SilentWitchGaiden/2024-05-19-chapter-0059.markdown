@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 59"
 permalink: SilentWitchGaiden/0059
 categories: SilentWitchGaiden Gaiden5
 chapter: 59
-exclude: true
 translator: Seeker
 editor: 
 draft: true

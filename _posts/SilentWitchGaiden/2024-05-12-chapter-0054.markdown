@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 54"
 permalink: SilentWitchGaiden/0054
 categories: SilentWitchGaiden Gaiden4
 chapter: 54
-exclude: true
 translator: Seeker
 editor: 
 draft: true

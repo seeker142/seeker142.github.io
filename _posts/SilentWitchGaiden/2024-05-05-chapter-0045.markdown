@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 45"
 permalink: SilentWitchGaiden/0045
 categories: SilentWitchGaiden Gaiden4
 chapter: 45
-exclude: true
 translator: Seeker
 editor: 
 draft: true

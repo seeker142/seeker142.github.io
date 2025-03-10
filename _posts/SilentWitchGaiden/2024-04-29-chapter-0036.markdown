@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 36"
 permalink: SilentWitchGaiden/0036
 categories: SilentWitchGaiden Gaiden3
 chapter: 36
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 106"
 permalink: SilentWitchGaiden/0106
 categories: SilentWitchGaiden Gaiden7
 chapter: 106
-exclude: true
 translator: Seeker
 editor: 
 draft: true

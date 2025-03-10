@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 135"
 permalink: SilentWitchGaiden/0135
 categories: SilentWitchGaiden Gaiden8
 chapter: 135
-exclude: true
 translator: Seeker
 editor: 
 draft: true

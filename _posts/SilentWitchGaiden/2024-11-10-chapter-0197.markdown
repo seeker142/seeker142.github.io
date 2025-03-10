@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 197"
 permalink: SilentWitchGaiden/0197
 categories: SilentWitchGaiden Gaiden10
 chapter: 197
-exclude: true
 translator: Seeker
 editor: 
 draft: true

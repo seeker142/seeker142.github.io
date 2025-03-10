@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 25"
 permalink: SilentWitchGaiden/0025
 categories: SilentWitchGaiden Gaiden3
 chapter: 25
-exclude: true
 translator: Seeker
 editor: 
 draft: true

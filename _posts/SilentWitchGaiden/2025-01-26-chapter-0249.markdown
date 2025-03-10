@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 249"
 permalink: SilentWitchGaiden/0249
 categories: SilentWitchGaiden Gaiden11
 chapter: 249
-exclude: true
 translator: Seeker
 editor: 
 draft: true

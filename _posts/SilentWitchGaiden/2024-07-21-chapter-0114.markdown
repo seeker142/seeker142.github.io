@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 114"
 permalink: SilentWitchGaiden/0114
 categories: SilentWitchGaiden Gaiden7
 chapter: 114
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 208"
 permalink: SilentWitchGaiden/0208
 categories: SilentWitchGaiden Gaiden10
 chapter: 208
-exclude: true
 translator: Seeker
 editor: 
 draft: true

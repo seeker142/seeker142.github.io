@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 232"
 permalink: SilentWitchGaiden/0232
 categories: SilentWitchGaiden Gaiden11
 chapter: 232
-exclude: true
 translator: Seeker
 editor: 
 draft: true

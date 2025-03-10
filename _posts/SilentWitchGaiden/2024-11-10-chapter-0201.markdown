@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 201"
 permalink: SilentWitchGaiden/0201
 categories: SilentWitchGaiden Gaiden10
 chapter: 201
-exclude: true
 translator: Seeker
 editor: 
 draft: true

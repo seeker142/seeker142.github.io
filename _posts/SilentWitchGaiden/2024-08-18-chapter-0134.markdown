@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 134"
 permalink: SilentWitchGaiden/0134
 categories: SilentWitchGaiden Gaiden8
 chapter: 134
-exclude: true
 translator: Seeker
 editor: 
 draft: true

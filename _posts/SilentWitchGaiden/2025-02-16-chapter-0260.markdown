@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 260"
 permalink: SilentWitchGaiden/0260
 categories: SilentWitchGaiden Gaiden12
 chapter: 260
-exclude: true
 translator: Seeker
 editor: 
 draft: true

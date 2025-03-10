@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 252"
 permalink: SilentWitchGaiden/0252
 categories: SilentWitchGaiden Gaiden11
 chapter: 252
-exclude: true
 translator: Seeker
 editor: 
 draft: true

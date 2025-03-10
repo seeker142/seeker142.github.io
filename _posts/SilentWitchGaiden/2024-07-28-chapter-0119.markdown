@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 119"
 permalink: SilentWitchGaiden/0119
 categories: SilentWitchGaiden Gaiden7
 chapter: 119
-exclude: true
 translator: Seeker
 editor: 
 draft: true

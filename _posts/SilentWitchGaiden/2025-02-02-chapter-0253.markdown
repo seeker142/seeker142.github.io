@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 253"
 permalink: SilentWitchGaiden/0253
 categories: SilentWitchGaiden Gaiden11
 chapter: 253
-exclude: true
 translator: Seeker
 editor: 
 draft: true

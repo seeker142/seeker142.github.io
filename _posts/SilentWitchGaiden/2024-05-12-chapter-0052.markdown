@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 52"
 permalink: SilentWitchGaiden/0052
 categories: SilentWitchGaiden Gaiden4
 chapter: 52
-exclude: true
 translator: Seeker
 editor: 
 draft: true

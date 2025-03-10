@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 242"
 permalink: SilentWitchGaiden/0242
 categories: SilentWitchGaiden Gaiden11
 chapter: 242
-exclude: true
 translator: Seeker
 editor: 
 draft: true

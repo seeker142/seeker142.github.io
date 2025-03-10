@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 116"
 permalink: SilentWitchGaiden/0116
 categories: SilentWitchGaiden Gaiden7
 chapter: 116
-exclude: true
 translator: Seeker
 editor: 
 draft: true

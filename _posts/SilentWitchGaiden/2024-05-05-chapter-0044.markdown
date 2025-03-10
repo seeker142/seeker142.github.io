@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 44"
 permalink: SilentWitchGaiden/0044
 categories: SilentWitchGaiden Gaiden4
 chapter: 44
-exclude: true
 translator: Seeker
 editor: 
 draft: true

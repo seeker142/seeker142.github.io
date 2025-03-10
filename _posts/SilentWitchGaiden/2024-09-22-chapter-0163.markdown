@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 163"
 permalink: SilentWitchGaiden/0163
 categories: SilentWitchGaiden Gaiden9
 chapter: 163
-exclude: true
 translator: Seeker
 editor: 
 draft: true

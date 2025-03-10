@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 230"
 permalink: SilentWitchGaiden/0230
 categories: SilentWitchGaiden Gaiden11
 chapter: 230
-exclude: true
 translator: Seeker
 editor: 
 draft: true

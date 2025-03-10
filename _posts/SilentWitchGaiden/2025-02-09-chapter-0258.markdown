@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 258"
 permalink: SilentWitchGaiden/0258
 categories: SilentWitchGaiden Gaiden11
 chapter: 258
-exclude: true
 translator: Seeker
 editor: 
 draft: true

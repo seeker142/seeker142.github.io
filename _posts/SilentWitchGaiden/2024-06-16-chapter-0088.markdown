@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 88"
 permalink: SilentWitchGaiden/0088
 categories: SilentWitchGaiden Gaiden6
 chapter: 88
-exclude: true
 translator: Seeker
 editor: 
 draft: true

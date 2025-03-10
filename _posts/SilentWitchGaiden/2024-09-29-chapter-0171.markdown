@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 171"
 permalink: SilentWitchGaiden/0171
 categories: SilentWitchGaiden Gaiden9
 chapter: 171
-exclude: true
 translator: Seeker
 editor: 
 draft: true

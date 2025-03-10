@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 97"
 permalink: SilentWitchGaiden/0097
 categories: SilentWitchGaiden Gaiden6
 chapter: 97
-exclude: true
 translator: Seeker
 editor: 
 draft: true

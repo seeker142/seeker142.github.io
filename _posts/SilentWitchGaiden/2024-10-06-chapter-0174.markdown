@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 174"
 permalink: SilentWitchGaiden/0174
 categories: SilentWitchGaiden Gaiden9
 chapter: 174
-exclude: true
 translator: Seeker
 editor: 
 draft: true

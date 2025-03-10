@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 31"
 permalink: SilentWitchGaiden/0031
 categories: SilentWitchGaiden Gaiden3
 chapter: 31
-exclude: true
 translator: Seeker
 editor: 
 draft: true

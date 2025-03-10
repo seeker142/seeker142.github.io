@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 151"
 permalink: SilentWitchGaiden/0151
 categories: SilentWitchGaiden Gaiden8
 chapter: 151
-exclude: true
 translator: Seeker
 editor: 
 draft: true

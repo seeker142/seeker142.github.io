@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 17"
 permalink: SilentWitchGaiden/0017
 categories: SilentWitchGaiden Gaiden2
 chapter: 17
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---

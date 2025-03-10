@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 123"
 permalink: SilentWitchGaiden/0123
 categories: SilentWitchGaiden Gaiden7
 chapter: 123
-exclude: true
 translator: Seeker
 editor: 
 draft: true

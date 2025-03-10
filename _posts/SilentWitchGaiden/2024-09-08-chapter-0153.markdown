@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 153"
 permalink: SilentWitchGaiden/0153
 categories: SilentWitchGaiden Gaiden8
 chapter: 153
-exclude: true
 translator: Seeker
 editor: 
 draft: true

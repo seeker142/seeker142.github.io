@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 26"
 permalink: SilentWitchGaiden/0026
 categories: SilentWitchGaiden Gaiden3
 chapter: 26
-exclude: true
 translator: Seeker
 editor: 
 draft: true

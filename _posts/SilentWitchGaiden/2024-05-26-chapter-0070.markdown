@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 70"
 permalink: SilentWitchGaiden/0070
 categories: SilentWitchGaiden Gaiden5
 chapter: 70
-exclude: true
 translator: Seeker
 editor: 
 draft: true

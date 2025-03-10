@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 196"
 permalink: SilentWitchGaiden/0196
 categories: SilentWitchGaiden Gaiden10
 chapter: 196
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 243"
 permalink: SilentWitchGaiden/0243
 categories: SilentWitchGaiden Gaiden11
 chapter: 243
-exclude: true
 translator: Seeker
 editor: 
 draft: true

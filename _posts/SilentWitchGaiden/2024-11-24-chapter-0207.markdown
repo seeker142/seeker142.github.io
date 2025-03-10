@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 207"
 permalink: SilentWitchGaiden/0207
 categories: SilentWitchGaiden Gaiden10
 chapter: 207
-exclude: true
 translator: Seeker
 editor: 
 draft: true

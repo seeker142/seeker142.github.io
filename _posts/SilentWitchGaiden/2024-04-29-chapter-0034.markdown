@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 34"
 permalink: SilentWitchGaiden/0034
 categories: SilentWitchGaiden Gaiden3
 chapter: 34
-exclude: true
 translator: Seeker
 editor: 
 draft: true

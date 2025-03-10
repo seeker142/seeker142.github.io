@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 265"
 permalink: SilentWitchGaiden/0265
 categories: SilentWitchGaiden Gaiden12
 chapter: 265
-exclude: true
 translator: Seeker
 editor: 
 draft: true

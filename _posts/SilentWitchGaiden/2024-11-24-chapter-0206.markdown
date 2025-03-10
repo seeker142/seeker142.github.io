@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 206"
 permalink: SilentWitchGaiden/0206
 categories: SilentWitchGaiden Gaiden10
 chapter: 206
-exclude: true
 translator: Seeker
 editor: 
 draft: true

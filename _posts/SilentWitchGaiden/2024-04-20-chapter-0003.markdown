@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 3"
 permalink: SilentWitchGaiden/0003
 categories: SilentWitchGaiden Gaiden0
 chapter: 3
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Various Side Stories"
 ---

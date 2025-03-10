@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 118"
 permalink: SilentWitchGaiden/0118
 categories: SilentWitchGaiden Gaiden7
 chapter: 118
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 7"
 permalink: SilentWitchGaiden/0007
 categories: SilentWitchGaiden Gaiden1
 chapter: 7
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Gaiden 1: Autumn of Rising Peas"
 ---

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 193"
 permalink: SilentWitchGaiden/0193
 categories: SilentWitchGaiden Gaiden10
 chapter: 193
-exclude: true
 translator: Seeker
 editor: 
 draft: true

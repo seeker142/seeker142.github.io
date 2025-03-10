@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 184"
 permalink: SilentWitchGaiden/0184
 categories: SilentWitchGaiden Gaiden9
 chapter: 184
-exclude: true
 translator: Seeker
 editor: 
 draft: true

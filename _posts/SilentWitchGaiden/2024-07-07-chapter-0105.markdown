@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 105"
 permalink: SilentWitchGaiden/0105
 categories: SilentWitchGaiden Gaiden7
 chapter: 105
-exclude: true
 translator: Seeker
 editor: 
 draft: true

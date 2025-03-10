@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 30"
 permalink: SilentWitchGaiden/0030
 categories: SilentWitchGaiden Gaiden3
 chapter: 30
-exclude: true
 translator: Seeker
 editor: 
 draft: true

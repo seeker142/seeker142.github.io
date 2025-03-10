@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 213"
 permalink: SilentWitchGaiden/0213
 categories: SilentWitchGaiden Gaiden10
 chapter: 213
-exclude: true
 translator: Seeker
 editor: 
 draft: true

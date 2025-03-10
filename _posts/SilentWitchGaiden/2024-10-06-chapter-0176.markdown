@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 176"
 permalink: SilentWitchGaiden/0176
 categories: SilentWitchGaiden Gaiden9
 chapter: 176
-exclude: true
 translator: Seeker
 editor: 
 draft: true

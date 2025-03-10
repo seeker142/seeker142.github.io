@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 33"
 permalink: SilentWitchGaiden/0033
 categories: SilentWitchGaiden Gaiden3
 chapter: 33
-exclude: true
 translator: Seeker
 editor: 
 draft: true

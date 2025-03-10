@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 250"
 permalink: SilentWitchGaiden/0250
 categories: SilentWitchGaiden Gaiden11
 chapter: 250
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 226"
 permalink: SilentWitchGaiden/0226
 categories: SilentWitchGaiden Gaiden11
 chapter: 226
-exclude: true
 translator: Seeker
 editor: 
 draft: true

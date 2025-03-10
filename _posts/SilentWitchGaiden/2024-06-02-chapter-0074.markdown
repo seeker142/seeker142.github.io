@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 74"
 permalink: SilentWitchGaiden/0074
 categories: SilentWitchGaiden Gaiden5
 chapter: 74
-exclude: true
 translator: Seeker
 editor: 
 draft: true

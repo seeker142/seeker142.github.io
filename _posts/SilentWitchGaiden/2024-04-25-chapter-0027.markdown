@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 27"
 permalink: SilentWitchGaiden/0027
 categories: SilentWitchGaiden Gaiden3
 chapter: 27
-exclude: true
 translator: Seeker
 editor: 
 draft: true

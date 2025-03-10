@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 20"
 permalink: SilentWitchGaiden/0020
 categories: SilentWitchGaiden Gaiden2
 chapter: 20
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Gaiden 2: Village of the Witches"
 ---

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 79"
 permalink: SilentWitchGaiden/0079
 categories: SilentWitchGaiden Gaiden6
 chapter: 79
-exclude: true
 translator: Seeker
 editor: 
 draft: true

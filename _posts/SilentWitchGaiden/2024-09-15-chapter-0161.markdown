@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 161"
 permalink: SilentWitchGaiden/0161
 categories: SilentWitchGaiden Gaiden9
 chapter: 161
-exclude: true
 translator: Seeker
 editor: 
 draft: true

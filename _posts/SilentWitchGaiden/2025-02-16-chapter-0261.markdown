@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 261"
 permalink: SilentWitchGaiden/0261
 categories: SilentWitchGaiden Gaiden12
 chapter: 261
-exclude: true
 translator: Seeker
 editor: 
 draft: true

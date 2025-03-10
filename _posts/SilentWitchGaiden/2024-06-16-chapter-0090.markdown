@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 90"
 permalink: SilentWitchGaiden/0090
 categories: SilentWitchGaiden Gaiden6
 chapter: 90
-exclude: true
 translator: Seeker
 editor: 
 draft: true

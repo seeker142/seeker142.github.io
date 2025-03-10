@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 180"
 permalink: SilentWitchGaiden/0180
 categories: SilentWitchGaiden Gaiden9
 chapter: 180
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 210"
 permalink: SilentWitchGaiden/0210
 categories: SilentWitchGaiden Gaiden10
 chapter: 210
-exclude: true
 translator: Seeker
 editor: 
 draft: true

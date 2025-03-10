@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 169"
 permalink: SilentWitchGaiden/0169
 categories: SilentWitchGaiden Gaiden9
 chapter: 169
-exclude: true
 translator: Seeker
 editor: 
 draft: true

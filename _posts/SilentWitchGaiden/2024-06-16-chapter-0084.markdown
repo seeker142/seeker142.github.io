@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 84"
 permalink: SilentWitchGaiden/0084
 categories: SilentWitchGaiden Gaiden6
 chapter: 84
-exclude: true
 translator: Seeker
 editor: 
 draft: true

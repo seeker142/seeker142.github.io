@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 268"
 permalink: SilentWitchGaiden/0268
 categories: SilentWitchGaiden Gaiden12
 chapter: 268
-exclude: true
 translator: Seeker
 editor: 
 draft: true

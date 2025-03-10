@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 56"
 permalink: SilentWitchGaiden/0056
 categories: SilentWitchGaiden Gaiden4
 chapter: 56
-exclude: true
 translator: Seeker
 editor: 
 draft: true

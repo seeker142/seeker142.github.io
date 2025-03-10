@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 275"
 permalink: SilentWitchGaiden/0275
 categories: SilentWitchGaiden Gaiden12
 chapter: 275
-exclude: true
 translator: Seeker
 editor: 
 draft: true

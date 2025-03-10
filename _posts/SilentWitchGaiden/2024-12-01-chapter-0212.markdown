@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 212"
 permalink: SilentWitchGaiden/0212
 categories: SilentWitchGaiden Gaiden10
 chapter: 212
-exclude: true
 translator: Seeker
 editor: 
 draft: true

@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 42"
 permalink: SilentWitchGaiden/0042
 categories: SilentWitchGaiden Gaiden3
 chapter: 42
-exclude: true
 translator: Seeker
 editor: 
 draft: true

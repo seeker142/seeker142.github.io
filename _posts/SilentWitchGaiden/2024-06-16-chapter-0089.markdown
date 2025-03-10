@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 89"
 permalink: SilentWitchGaiden/0089
 categories: SilentWitchGaiden Gaiden6
 chapter: 89
-exclude: true
 translator: Seeker
 editor: 
 draft: true

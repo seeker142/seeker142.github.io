@@ -4,11 +4,9 @@ title:  "Silent Witch Gaiden Chapter 4"
 permalink: SilentWitchGaiden/0004
 categories: SilentWitchGaiden Gaiden0
 chapter: 4
-exclude: true
 translator: Seeker
 editor: 
 draft: true
-noheader: true
 comments: true
 notes: "Various Side Stories"
 ---

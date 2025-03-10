@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 229"
 permalink: SilentWitchGaiden/0229
 categories: SilentWitchGaiden Gaiden11
 chapter: 229
-exclude: true
 translator: Seeker
 editor: 
 draft: true

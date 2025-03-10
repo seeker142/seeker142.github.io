@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 152"
 permalink: SilentWitchGaiden/0152
 categories: SilentWitchGaiden Gaiden8
 chapter: 152
-exclude: true
 translator: Seeker
 editor: 
 draft: true

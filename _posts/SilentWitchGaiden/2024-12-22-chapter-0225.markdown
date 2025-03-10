@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 225"
 permalink: SilentWitchGaiden/0225
 categories: SilentWitchGaiden Gaiden11
 chapter: 225
-exclude: true
 translator: Seeker
 editor: 
 draft: true

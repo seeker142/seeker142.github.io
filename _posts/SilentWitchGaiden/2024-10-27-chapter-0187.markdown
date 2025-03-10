@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 187"
 permalink: SilentWitchGaiden/0187
 categories: SilentWitchGaiden Gaiden10
 chapter: 187
-exclude: true
 translator: Seeker
 editor: 
 draft: true

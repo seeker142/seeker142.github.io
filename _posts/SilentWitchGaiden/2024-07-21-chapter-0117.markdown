@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 117"
 permalink: SilentWitchGaiden/0117
 categories: SilentWitchGaiden Gaiden7
 chapter: 117
-exclude: true
 translator: Seeker
 editor: 
 draft: true

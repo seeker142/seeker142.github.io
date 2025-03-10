@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 221"
 permalink: SilentWitchGaiden/0221
 categories: SilentWitchGaiden Gaiden11
 chapter: 221
-exclude: true
 translator: Seeker
 editor: 
 draft: true

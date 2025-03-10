@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 267"
 permalink: SilentWitchGaiden/0267
 categories: SilentWitchGaiden Gaiden12
 chapter: 267
-exclude: true
 translator: Seeker
 editor: 
 draft: true

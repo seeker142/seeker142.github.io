@@ -4,7 +4,6 @@ title:  "Silent Witch Gaiden Chapter 211"
 permalink: SilentWitchGaiden/0211
 categories: SilentWitchGaiden Gaiden10
 chapter: 211
-exclude: true
 translator: Seeker
 editor: 
 draft: true
