@@ -30,6 +30,10 @@ comments: true
     {%- endif -%}
 {%- endfor -%}
 
+{%- if pcategory == "News" %}
+	{%- assign prev_post = nil -%}
+	{%- assign next_post = nil -%}
+{%- endif -%}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -75,6 +79,8 @@ comments: true
       <a class="list" href="/Tenken/">List</a>
     {% elsif pcategory == "SilentWitchGaiden" %}
       <a class="list" href="/SilentWitchGaiden/">List</a>
+    {% elsif pcategory == "News" %}
+      <a class="list" href="/News/">List</a>
     {% else %}
       <a class="list" href="{{ listpost.url }}">List</a>
     {% endif %}
@@ -96,6 +102,8 @@ comments: true
       <a class="list" href="/Tenken/">List</a>
     {% elsif pcategory == "SilentWitchGaiden" %}
       <a class="list" href="/SilentWitchGaiden/">List</a>
+    {% elsif pcategory == "News" %}
+      <a class="list" href="/News/">List</a>
     {% else %}
       <a class="list" href="{{ listpost.url }}">List</a>
     {% endif %}
@@ -104,21 +112,7 @@ comments: true
     {% endif %}
   </div>
 
-  <script src="https://giscus.app/client.js"
-    data-repo="seeker142/seeker142.github.io"
-    data-repo-id="R_kgDOHwg3gA"
-    data-category="Announcements"
-    data-category-id="DIC_kwDOHwg3gM4CoDko"
-    data-mapping="pathname"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="bottom"
-    data-theme="preferred_color_scheme"
-    data-lang="en"
-    crossorigin="anonymous"
-    async>
-  </script>
+  {%- include giscus_comments.html -%}
 
   {%- include localize.html -%}
 
