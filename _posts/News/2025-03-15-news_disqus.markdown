@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disqus Removal"
-permalink: disqus_removal.html
+permalink: disqus_removal
 categories: News
 draft: true
 comments: true
