@@ -18,9 +18,14 @@ Currently, I have swapped the comment system to use Giscus as a replacement. One
 
 The biggest reason I started translating was because I wanted to see more people talking about stories I enjoyed, so the loss of Disqus is an unfortunate setback. I know many are uninterested in making an account, and that is perfectly understandable. Hopefully, you can find another medium to express yourselves, such as Reddit or Discord. I will do my best to read all of the comments posted there as well.
 
-- [Silent Witch Discord](https://discord.gg/sWwAXYpVP7) (Still rather new, so only a few members)
+Related Discord Servers:
 
+- [Silent Witch Discord](https://discord.gg/sWwAXYpVP7) (Still rather new, so only a few members)
 - [TenKen Discord](https://discord.com/invite/VQ32Ywm)
+
+(I am not affiliated with these servers, but I look at what people are saying there.)
+
+<br/>
 
 Either way, I must apologize to all my readers for this inconvenience. I plan to keep translating for as long as I can, and I hope you will continue reading.
 
