@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "TenKen Chapter 1321"
-permalink: Tenken/1321.html
+title:  "TenKen Chapter 1322"
+permalink: Tenken/1322.html
 categories: TenKen
-chapter: 1321
+chapter: 1322
 exclude: true
 translator: Seeker
 editor: 
