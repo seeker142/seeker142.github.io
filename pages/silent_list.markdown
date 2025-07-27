@@ -151,4 +151,34 @@ navigation_menu: true
 
 ---
 
+**Gaiden After 1: A Flower For You**
+
+{% for post in site.categories.Gaiden14 reversed %}
+{% unless post.url == page.url %}
+  <a href="{{ post.url }}">{{ post.excerpt | remove: '<h2>' | remove: '</h2>' }}
+{% endunless %}
+{% endfor %}
+
+---
+
+**Gaiden After 2: Forbidden Archives Cleanup Operation**
+
+{% for post in site.categories.Gaiden15 reversed %}
+{% unless post.url == page.url %}
+  <a href="{{ post.url }}">{{ post.excerpt | remove: '<h2>' | remove: '</h2>' }}
+{% endunless %}
+{% endfor %}
+
+---
+
+**Gaiden After 3: Battle of the Sage Disciples**
+
+{% for post in site.categories.Gaiden16 reversed %}
+{% unless post.url == page.url %}
+  <a href="{{ post.url }}">{{ post.excerpt | remove: '<h2>' | remove: '</h2>' }}
+{% endunless %}
+{% endfor %}
+
+---
+
 
