@@ -14,7 +14,7 @@ notes: "Gaiden 3: Engagement for the Seeker of Love"
 
 The Margrave of Valmbelk governed a region at the Schwalgard Empire's western border. He was renowned for his bravery, gallantry, and martial prowess, said to be a skilled swordsman who excelled in feats of arms.
 
-During the past war with the neighboring Ridill Kingdom, Margrave Valmbelk took the forefront, staunchly holding the enemy's invasion at the border. His efforts played no small part in contributing to the imperial army's victory.
+During the past war with the neighboring Kingdom of Ridill, Margrave Valmbelk took the forefront, staunchly holding the enemy's invasion at the border. His efforts played no small part in contributing to the imperial army's victory.
 
 His fierce and relentless style was likened to a beast slipping through enemy lines to tear out the throats of his enemies, earning him the nicknames "Western Wolf" and "War Wolf of Valmbelk."
 
@@ -26,7 +26,7 @@ The Emperor held the Margrave in high esteem, bestowing him with the rare title 
 
 The era in which the "War Wolf of Valmbelk" shined brightest was one of warfare. Martial achievements could be rewarded in times of frequent conflict, but in the relatively peaceful current era, such rewards were hard to come by.
 
-While skirmishes occurred sporadically in the empire's southern and eastern regions with various ethnic groups, the western border had seen no significant battles for decades. The last one was the war with the neighboring Ridill Kingdom.
+While skirmishes occurred sporadically in the empire's southern and eastern regions with various ethnic groups, the western border had seen no significant battles for decades. The last one was the war with the neighboring Ridill.
 
 Furthermore, Valmbelk's land was far from fertile and suffered from common dragon attacks. Over the span of fifty years and two successions, the once celebrated Margrave of Valmbelk was now treated as a noble from the boonies.
 
@@ -118,11 +118,11 @@ Frieda asked, hoping for a relatively wealthy family, and Henrik grew even more 
 
 With his gaze shifting right, then left, and finally downward, Henrik hesitated before uttering the name of the fourth suitor.
 
-"The fourth one is... the head of House Albright in the Ridill Kingdom."
+"The fourth one is... the head of House Albright from the Kingdom of Ridill."
 
 House Albright. Frieda tilted her head at the unfamiliar name.
 
-The Ridill Kingdom, in the first place, was the neighboring country of the Schwalgard Empire and their opponent in the war fifty years ago.
+The Kingdom of Ridill, in the first place, was the neighboring country of the Schwalgard Empire and their opponent in the war fifty years ago.
 
 Since Valmbelk was at the westernmost edge of the empire, they were technically closer to Ridill than the imperial capital, allowing for trade interaction through the border.
 

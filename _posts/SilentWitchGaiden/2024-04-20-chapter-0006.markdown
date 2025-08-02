@@ -12,13 +12,13 @@ notes: "Various Side Stories"
 ---
 <h2>[Setting/Region Info]</h2>
 
-**[Regarding the regional characteristics of the Ridill Kingdom]**
+**[Regarding the regional characteristics of Ridill]**
 
 ※ Names in parentheses indicate individuals from that region.
 
 ★ Central (Monica, Cyril, Elliott, Claudia, Neil, Glenn, Benjamin, Raul, Ray, Mary)
 
-Region containing the capital, Ridill Kingdom Castle, Serendia Academy, and Minerva.
+Region containing the capital, Ridill Royal Palace, Serendia Academy, and Minerva.
 
 Also included in this area are the Roseberg residence of the Thorn Witch, and the Albright mansion of the Abyss Shaman.
 
@@ -56,7 +56,7 @@ They tend to encourage their children to go on journeys, and there is a lot of s
 
 ★ South (Elianne ← somewhat towards the east, Hubert, Bradford)
 
-The most agriculturally active region in Ridill Kingdom. Due to the warm climate, people are said to be generous and relaxed.
+The most agriculturally active region in Ridill. Due to the warm climate, people are said to be generous and relaxed.
 
 Trade with Falfolia is particularly active.
 
@@ -80,8 +80,8 @@ West = Bright, cheerful, and sociable merchants → Clifford Anderson's hometown
 
 As can be understood from the above, regional characteristics do not necessarily apply to all individuals from that region.
 
-Sazandol, where Monica lives, is in the west. The Erin Territory, ruled by Isaac, is located further south from there.
+Sazandol, where Monica lives, is in the west. The domain of Erin, ruled by Isaac, is located further south from there.
 
-While the Erin Territory may not have as large a port as Sazandol, it has small, beautiful towns with great views of the sea.
+While Erin may not have as large a port as Sazandol, it has small, beautiful towns with great views of the sea.
 
 
