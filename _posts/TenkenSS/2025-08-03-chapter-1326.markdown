@@ -8,7 +8,7 @@ exclude: true
 translator: Seeker
 editor: 
 ---
-<h2>Side Story 2 – Undersea Dungeon 06</h2>
+<h2>Side Story 2: Undersea Dungeon 06</h2>
 
 The dungeon was exactly as Silent Sea had described—extremely cramped. The paths were barely two meters wide, and the ceiling was only a little over two meters tall. Even for humans, the taller adventurers would have a hard time navigating this place.
 
