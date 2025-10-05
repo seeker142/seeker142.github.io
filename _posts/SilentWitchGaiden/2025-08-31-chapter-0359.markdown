@@ -113,7 +113,7 @@ In that case, the toughest one might be General Strauss.
 
 Likely due to being busy with security duties, Strauss had touched neither food nor drink since the banquet started.
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 Konitz was a man of average build and around the same height as Birendahl, but his hunched posture made him seem a bit shorter.
 
@@ -167,7 +167,7 @@ Birendahl only grew even more infuriated when he recalled that pathetic young ma
 
 "How can a man as spineless as him run a castle? The Sword Saint must be ashamed... The grandson of the War Wolf? Hah! That is the cowardice of a defanged mutt."
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 "Ah, um, I'm terribly sorry... Lord Birendahl was incredibly rude to you..."
 

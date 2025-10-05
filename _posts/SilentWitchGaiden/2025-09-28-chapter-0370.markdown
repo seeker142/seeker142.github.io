@@ -105,7 +105,7 @@ Bridget placed her hand on her chest.
 
 This was all she could say right now.
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 Bridget departed Richard's room and walked down the corridors of Valmbelk Castle by herself.
 
@@ -245,7 +245,7 @@ Bridget gently took the flower and pinned it to the buttonhole of her uniform. T
 
 They looked at each other's faces and laughed again.
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 When Bridget returned to her room, Albert and Patrick were having tea. Both stared at her—or rather, the flower pinned to her uniform—with looks of surprise.
 

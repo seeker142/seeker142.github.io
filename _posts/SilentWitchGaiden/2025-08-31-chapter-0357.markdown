@@ -69,7 +69,7 @@ She would travel with her own feet and remember what she saw, heard, and felt. T
 
 Such was the wish of the young Bridget.
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 A few sparse crop fields were scattered across the bleak landscape outside the carriage window, with Valmbelk Castle visible in the distance.
 
@@ -117,7 +117,7 @@ Her battle would begin the moment she stepped out of this carriage.
 
 (Now then, it's time for diplomacy.)
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 Henrik Blanquet clung to the window of his office. He was drenched in cold sweat and as pale as a sheet, clutching his head with both hands.
 
@@ -139,7 +139,7 @@ Because he knew people who had eyes like that.
 
 "Augh...! Now we have to deal with a princess...!"
 
-The previous emperor had over ten daughters, who were sisters to the Black Lion Emperor.
+The previous emperor had over ten daughters, making them sisters to the Black Lion Emperor.
 
 Henrik had met a few of those princesses. Most were strong-willed, assertive, and exuded that kind of overwhelming presence.
 
