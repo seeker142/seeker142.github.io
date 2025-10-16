@@ -45,7 +45,7 @@ Monica let out an emotionless mutter and resumed walking. She displayed a comple
 
 To her, the man in front of her was far scarier than a bunch of creatures sealed long ago.
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 The morning after the tea party with Princess Cecilia, Monica put on the proper attire of a Sage, staff included, and visited the Ascard Grand Library.
 
@@ -131,7 +131,7 @@ This was a new discovery to Monica.
 
 It seems even the ever meticulous Cyril found some things too annoying to do.
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 Three people walked down the hallway of the Great Ascard Library.
 
@@ -153,7 +153,7 @@ Behind him, the Silent Witch nodded repeatedly with a duster in hand. Meanwhile,
 
 And so, the three heroes stepped into the restricted section with everyone in the library staring at them.
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 They walked down a hallway restricted to authorized personnel and descended the staircase at the very end of it.
 

@@ -63,7 +63,7 @@ Cyril opened the drawer on the bookstand and placed his essay inside.
 
 Monica almost blurted out "I wish I could get one too," but quickly gulped the words down.
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 After leaving the Deepest Forbidden Section, the three headed to the Fifth Forbidden Section.
 
@@ -163,7 +163,7 @@ As Monica stared at Cyril's scary face in surprise, he suddenly turned around an
 
 Monica watched his back and thought to herself with quiet fondness... *It's the usual Cyril-sama.*
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 The Fifth Forbidden Section was a small room, not much bigger than the Deepest Forbidden Section.
 
@@ -297,7 +297,7 @@ In the pitch-black world, Monica heard only the voice of a young boy.
 
 "Welcome back, Great Witch."
 
-＊　＊　＊
+<p style="text-align: center;">＊　＊　＊</p>
 
 Monica found herself in a world made entirely of black.
 
