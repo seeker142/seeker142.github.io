@@ -20,7 +20,7 @@ The biggest reason I started translating was because I wanted to see more people
 
 Related Discord Servers:
 
-- [Silent Witch Discord](https://discord.gg/sWwAXYpVP7) (Still rather new, so only a few members)
+- [Silent Witch Discord](https://discord.gg/ckKpK2ddbq)
 - [TenKen Discord](https://discord.com/invite/VQ32Ywm)
 
 (I am not affiliated with these servers, but I look at what people are saying there.)
