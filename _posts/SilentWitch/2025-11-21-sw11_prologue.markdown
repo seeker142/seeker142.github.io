@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Silent Witch LN11 Prologue"
-permalink: silentwitch11/0001.html
+permalink: silentwitch11/0001
 categories: SilentWitch11
 chapter: 1
 exclude: true
