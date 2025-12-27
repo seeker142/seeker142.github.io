@@ -11,7 +11,7 @@ draft: true
 noheader: true
 comments: false
 ---
-<h2>Prologue</h2>
+<h2>Prologue: He Who Rings the Bell of Revenge</h2>
 
 *Contains spoilers if you have not read the spinoff, <a href="https://yenpress.com/titles/9798855412505-secrets-of-the-silent-witch-another-part-2">Silent Witch Another Part 2</a>.*
 
