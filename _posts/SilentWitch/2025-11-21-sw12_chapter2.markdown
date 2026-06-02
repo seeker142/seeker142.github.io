@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Silent Witch LN12 Chapter 2"
-permalink: silentwitch12/0001
+permalink: silentwitch12/0003
 categories: SilentWitch12
 chapter: 3
 exclude: true
@@ -13,7 +13,7 @@ comments: false
 ---
 <h2>Chapter 2: Village of the Silent Witch</h2>
 
-The day after arriving in Count Kerbecky, Monica visited the home of a Koran Shell craftsman with her apprentice Isaac, guided by Isabelle.
+The day after arriving in Kerbeck, Monica visited the home of a Koran Shell craftsman with her apprentice Isaac, guided by Isabelle.
 
 When Monica heard "craftsman's house," she had imagined something like a workshop, but in reality it was the living room of an elderly woman's mansion. Several tables were arranged there, and the elderly women were enjoying making Koran Shells together with their grandchildren.
 
